@@ -1,0 +1,21 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+G16,U10,Female,GotSport Rankings,0,NYE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+G16 Red,U10,Female,GotSport Rankings,0,NYE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+B2016 Elite Red,U10,Male,GotSport Rankings,0,NYE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+United FC 2016,U10,Male,GotSport Rankings,0,NYE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+G15 Red,U11,Female,GotSport Rankings,0,NYE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+12G Aspire,U14,Female,GotSport Rankings,0,NYE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+Commack Crossfire G12,U14,Female,GotSport Rankings,0,NYE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+Dix Hills EST Angel City G2012,U14,Female,GotSport Rankings,0,NYE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+SB4U VENLO LIME,U14,Male,GotSport Rankings,0,NYE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1,GotSport
+Blast 2012,U14,Male,GotSport Rankings,0,NYE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1,GotSport
+LI Slammers B2010 MLS Next,U16,Male,GotSport Rankings,0,NYE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+UST FC Elite B2010,U16,Male,GotSport Rankings,0,NYE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+2010 NAL,U16,Male,GotSport Rankings,0,NYE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+Shamrocks,U17,Female,GotSport Rankings,0,NYE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+G2009,U17,Female,GotSport Rankings,0,NYE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+LISC Boys 2009 Academy,U17,Male,GotSport Rankings,0,NYE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1,GotSport
+RVC Red Storm,U18,Female,GotSport Rankings,0,NYE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+2008 Blue,U18,Male,GotSport Rankings,0,NYE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1,GotSport
+New York Elite Alleycats FC 2008/07 MLS NEXT AD,U18,Male,GotSport Rankings,0,NYE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1,GotSport
+B2008 ECNLRL,U18,Male,GotSport Rankings,0,NYE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1,GotSport

@@ -1,0 +1,779 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+2016 Girls Pre-Academy,U10,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=51,GotSport
+SDA 2016 Girls,U10,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=10,GotSport
+Flash Binghamton 16/17G Premier,U10,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=98,GotSport
+WNY Flash Rochester 2016G Premier,U10,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=97,GotSport
+Syracuse 16G,U10,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=58,GotSport
+Amherst 2016B Red - Wood,U10,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=50,GotSport
+Lakefront SC G2015 Blue,U11,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=146,GotSport
+WNY Flash 15G Pre ECNL,U11,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=99,GotSport
+WNY Flash Rochester 2015G Premier,U11,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=72,GotSport
+AFCR Pittsford Girls 2015 GU10,U11,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=94,GotSport
+Gu11 White (2015),U11,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=108,GotSport
+Syracuse 15G Blue,U11,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=90,GotSport
+Flash Binghamton 15G Pre-ECNL,U11,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=58,GotSport
+Scottsville Wildcats,U11,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=198,GotSport
+GUFC 2015G Rogalski,U11,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=188,GotSport
+Hilton Heat - Bowling,U11,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=172,GotSport
+Gu11 White (2015),U11,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109,GotSport
+Churchville Renegades,U11,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=190,GotSport
+GU11 Blue (2015),U11,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=131,GotSport
+IYSA 2015 Gold Select (U11),U11,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=171,GotSport
+Amherst 2015G Red - Doherty,U11,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=131,GotSport
+Penfield Strikers - Dunne,U11,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203,GotSport
+2015 Girls Pre-DPL,U11,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=75,GotSport
+Buffalo Stallions 2015 Girls,U11,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=72,GotSport
+Canandaigua Attack GU10-White,U11,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=184,GotSport
+Hilton Heat - Stagnitta,U11,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=101,GotSport
+Corning United U10 Eclipse,U11,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=69,GotSport
+Amherst 2015G Silver - Kelly,U11,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=189,GotSport
+SDA 2015 Girls Pre-GA,U11,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=181,GotSport
+NY Rush Binghamton 2015/16G,U11,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=187,GotSport
+GU10 Fairport Fireballs Kingston,U11,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=98,GotSport
+Syracuse 15G,U11,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=116,GotSport
+Clarence Inferno 2015G Red,U11,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=236,GotSport
+G2015-Lightner,U11,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=172,GotSport
+2015 Girls Pre-Academy,U11,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=87,GotSport
+WNY Flash 15G Premier,U11,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=198,GotSport
+AFCR Brighton Girls 2015 GU10,U11,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=207,GotSport
+Livonia Lady Bulldogs,U11,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=130,GotSport
+OPSC 2015G Gems,U11,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=171,GotSport
+WNY Flash Rochester Pre-ECNL 15G,U11,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=30,GotSport
+Cobras FC G15 Potter,U11,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=210,GotSport
+Spencerport G2015 Gold,U11,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=172,GotSport
+WNY Flash 15G Pre ECNL,U11,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=98,GotSport
+FM Queen Bees 2015,U11,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=178,GotSport
+Lakefront SC G2015 Colling,U11,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=184,GotSport
+AFCR Brighton Boys 2015 BU10 Blue,U11,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=299,GotSport
+IYSA 2015 Select (U11),U11,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=281,GotSport
+Syracuse Rush 2015B,U11,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=264,GotSport
+BU11(2015),U11,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=314,GotSport
+Rangers U10 Blue,U11,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=261,GotSport
+Hilton Heat - Meyer,U11,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=275,GotSport
+GISC Vikings Blue,U11,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=362,GotSport
+Holley United,U11,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235,GotSport
+Victor Spartans,U11,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=242,GotSport
+BU10 Fairport Crew Mathis,U11,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=300,GotSport
+DSC 2015 U10 Boys (GREEN),U11,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=417,GotSport
+FC Dynamo ROC B2015,U11,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=274,GotSport
+Soaring Capital Fuego 2015B,U11,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=167,GotSport
+Spencerport B2015 Gold,U11,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=213,GotSport
+Spencerport B2015 Blue,U11,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=400,GotSport
+Amherst 2015B Red - Vollmer,U11,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=295,GotSport
+B2015 Gallant,U11,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336,GotSport
+CSA B2015 Bolts,U11,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=313,GotSport
+Churchville Lightning,U11,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=372,GotSport
+Kenmore Bandits 2015 Boys,U11,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=307,GotSport
+RHSC Falcons Rivera,U11,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=340,GotSport
+Rochester Rush 2015 Boys,U11,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=143,GotSport
+Amherst 2015B Silver - Yoerg,U11,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=191,GotSport
+SDA 2015 Boys Pre-MLS White,U11,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=37,GotSport
+Amherst 2015B White - Longo,U11,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=316,GotSport
+Corning Warriors U10,U11,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=418,GotSport
+Flash Binghamton 15B Premier,U11,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=216,GotSport
+2015 Boys Pre-MLS Next,U11,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=24,GotSport
+Hamburg 2015 Boys Blue,U11,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=389,GotSport
+Hilton Heat - Miner,U11,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=148,GotSport
+OPSC 2015B Olympic,U11,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=227,GotSport
+Typhoons,U11,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=405,GotSport
+Buffalo Stallions 2015 Boys Blue,U11,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=172,GotSport
+NY Rush Binghamton 2015B,U11,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=418,GotSport
+Pittsford Mustangs Boys 2015 Gold,U11,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=317,GotSport
+NY Rush Select 15B Pre-MLS Next,U11,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=127,GotSport
+WNY Flash Rochester 2015B Premier II,U11,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=143,GotSport
+CSA B2015 Force,U11,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=267,GotSport
+GUFC 2015B Sica,U11,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=199,GotSport
+Kenmore Surf 2015 Boys,U11,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398,GotSport
+WNY Flash Rochester 2015B Premier I,U11,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=170,GotSport
+2015 Boys Pre-MLS Next II,U11,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=152,GotSport
+Cobras FC B15 Michelsen,U11,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=98,GotSport
+Syracuse United 2015B,U11,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=214,GotSport
+BU10 Fairport Thunder FC Chamorro,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=262,GotSport
+Cobras FC B15 Davis,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=123,GotSport
+FC Dynamo ROC B2015 United,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=283,GotSport
+Hamburg 2015 Boys Black,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=342,GotSport
+INVICTUS FC 2015 BOYS,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=279,GotSport
+Livonia Blue Zombies,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=280,GotSport
+Royal Rebels,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=281,GotSport
+WNY Flash North 15B Premier,U11,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=417,GotSport
+Albion SC,U12,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=220,GotSport
+CSA G2014 Blue Diamonds,U12,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=231,GotSport
+Cobras FC G14 Liberti,U12,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181,GotSport
+Spencerport G2014 Blue,U12,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=212,GotSport
+WNY Flash Rochester Pre-ECNL 14G,U12,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=17,GotSport
+Buffalo Stallions 2014 Girls,U12,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=65,GotSport
+Flash Binghamton 14G Pre-ECNL,U12,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=52,GotSport
+GU12 (2014),U12,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=198,GotSport
+GUFC 2014G Manetta,U12,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=157,GotSport
+Pittsford Mustangs Girls 2014 Blue,U12,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=193,GotSport
+Hilton Heat - Zecher,U12,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=138,GotSport
+"25 G U11- Summer Travel (Rudgers, Hamler and Sardina)",U12,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=213,GotSport
+G2014-Rodriguez,U12,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=205,GotSport
+GU11 Fairport Fusion Rudnicki,U12,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=222,GotSport
+Girls 2014,U12,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=172,GotSport
+WNY Flash 14G Pre ECNL,U12,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=59,GotSport
+WNY Flash 14G Premier,U12,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=138,GotSport
+Amherst 2014G Red - Vujcic,U12,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=210,GotSport
+Syracuse United Hurricanes,U12,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=26,GotSport
+Hamburg 2014 Girls Black,U12,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=205,GotSport
+Penfield Strikers - Bruns,U12,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=207,GotSport
+WNY Flash Rochester 2014G Premier,U12,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160,GotSport
+14G GA,U12,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=26,GotSport
+Churchville Tigers,U12,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=219,GotSport
+Holley United,U12,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181,GotSport
+Kenmore Spurs 2014 Girls,U12,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=113,GotSport
+2014 Girls Pre-DPL,U12,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=64,GotSport
+Amherst 2014G Silver - Cooley,U12,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=246,GotSport
+CSA Elite G2014 Dynamite,U12,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=103,GotSport
+Clarence Inferno 2014G Red,U12,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=129,GotSport
+OPSC 2014G Pride,U12,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160,GotSport
+WNY Flash 14G Premier Campbell,U12,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=143,GotSport
+14G GA,U12,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=216,GotSport
+G2014-Preall,U12,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=130,GotSport
+Lakefront SC G2014 Blue,U12,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=144,GotSport
+Lakefront SC G2014 Green,U12,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=256,GotSport
+Victor Vortex,U12,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=177,GotSport
+West Seneca Attackers 2014G Mack,U12,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=218,GotSport
+Canandaigua Attack GU11,U12,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181,GotSport
+Syracuse United Tornadoes,U12,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=164,GotSport
+Binghamton Flash 2014,U12,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=221,GotSport
+Niagara Pioneer 2014 G Lightning Bolts,U12,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=254,GotSport
+14G GA2,U12,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=114,GotSport
+Churchville Tigers,U12,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181,GotSport
+Pittsford Mustangs Girls 2014 Gold,U12,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=211,GotSport
+Hilton Heat - Colavecchia,U12,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=110,GotSport
+Penfield Strikers U11 - Wilson,U12,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=165,GotSport
+Clarence Inferno 2014G Black,U12,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=63,GotSport
+LSC Lightning 2014G Wood,U12,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=71,GotSport
+Spencerport G2014 Gold,U12,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=73,GotSport
+Syracuse 14G,U12,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=159,GotSport
+DSC 2014 U11 Boys (WOLVES),U12,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=256,GotSport
+Niagara Pioneer 2014 B Mavericks,U12,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=397,GotSport
+14B North PreECNL,U12,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=36,GotSport
+B2014 - Klein (U11),U12,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=382,GotSport
+Clarence Inferno 2014B Red,U12,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=364,GotSport
+Kenmore United 2014 Boys Blue,U12,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=356,GotSport
+Pittsford Mustangs Boys 2014 Gold,U12,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=376,GotSport
+Spencerport B2014 Blue,U12,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=343,GotSport
+2014 Boys Pre-MLS Next,U12,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=66,GotSport
+B2014 Ramos,U12,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=172,GotSport
+BU12 (2014),U12,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=378,GotSport
+Boys 2014,U12,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=333,GotSport
+CNY Coliseum 2014 Boys,U12,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=255,GotSport
+Lakefront SC B2014 Green,U12,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=291,GotSport
+AFCR Brighton Boys 2014 BU11 Blue,U12,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=233,GotSport
+GUFC 2014B Nicholson,U12,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=261,GotSport
+NY Rush Binghamton 2014B Black,U12,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=221,GotSport
+Penfield Rangers U11 White,U12,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=434,GotSport
+FSA Binghamton U12B,U12,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=18,GotSport
+Kenmore Surf 2014 Boys,U12,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=171,GotSport
+Syracuse 14B,U12,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=124,GotSport
+CSA B2014 Royals,U12,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=104,GotSport
+Elmont-Ramos Blaugrana,U12,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=125,GotSport
+SCSC Pythons Red 2014B,U12,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=52,GotSport
+BU11 Fairport Mayhem,U12,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=369,GotSport
+BU11 Fairport Thunder Lind,U12,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=406,GotSport
+NY Rush Binghamton 2014B Red,U12,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=236,GotSport
+OPSC 2014 Chaos,U12,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=343,GotSport
+RHSC Falcons 2014 Boys (Green),U12,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245,GotSport
+2014 Pre-MLS Next II,U12,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=96,GotSport
+Amherst Bulls,U12,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=188,GotSport
+SDA 2014 Boys Orange,U12,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=342,GotSport
+Soaring Capital Pythons White 2014B,U12,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278,GotSport
+WNY Flash 14B Premier Incho,U12,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=355,GotSport
+WNY Flash Rochester 2014B Premier II,U12,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=207,GotSport
+FC Dynamo B2014,U12,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=101,GotSport
+Rochester Rush 2014 Boys,U12,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=265,GotSport
+Buffalo Stallions 2014 Boys,U12,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=414,GotSport
+Cobras FC B14 Wallace,U12,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=310,GotSport
+Hilton Heat - Borcyk,U12,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=365,GotSport
+INVICTUS FC 2014 BOYS,U12,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=102,GotSport
+WNY Flash 14B Pre ECNL,U12,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=115,GotSport
+WSC Boys 2014,U12,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=442,GotSport
+B2014 Raptors,U12,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=82,GotSport
+2014 Boys Black,U12,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=127,GotSport
+Boys U11,U12,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447,GotSport
+Amherst 2014B Red - Johnson,U12,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=229,GotSport
+Roos,U12,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245,GotSport
+SDA 2014 Boys Pre MLS Next,U12,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=80,GotSport
+Tri-Town 2014B Hawks,U12,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=446,GotSport
+Spencerport B2014 Gold,U12,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=151,GotSport
+Upstate Elite 2014,U12,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=325,GotSport
+Victor S.C. DiDia,U12,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=290,GotSport
+WNY Flash Rochester 2014B Premier I,U12,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=158,GotSport
+Clarence Inferno 2014B White,U12,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=448,GotSport
+Cobras FC B14 Comenale,U12,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=253,GotSport
+Lakefront SC B2014 Suffoletto,U12,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=170,GotSport
+Canandaigua Attack BU11,U12,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=376,GotSport
+Hilton Heat - Sotile,U12,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=353,GotSport
+Lakefront SC B2014 White,U12,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=340,GotSport
+Amherst 2014B Silver - Lemley,U12,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=188,GotSport
+WNY Flash 14B Premier Curtis,U12,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=166,GotSport
+AFCR Brighton Boys 2014 BU11 White,U12,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=244,GotSport
+Flash Binghamton 14B Premier,U12,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=322,GotSport
+NY Rush Select 14B Pre-MLS Next,U12,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=38,GotSport
+FC Dynamo ROC B2014 United,U12,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=287,GotSport
+Niagara United FC Greyhounds 2014 Boys,U12,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=315,GotSport
+2013 Girls GA,U13,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62,GotSport
+NY Rush Select 13G DPL,U13,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=82,GotSport
+Penfield Strikers United - Stocker,U13,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225,GotSport
+AFCR Avon Girls 2013 GU12,U13,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=230,GotSport
+Lakefront SC G2013 Gilbertson,U13,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=100,GotSport
+Buffalo Pro Soccer USL Academy U13G,U13,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=82,GotSport
+Cobras FC G13 Swanson,U13,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=110,GotSport
+Penfield Strikers - Williams,U13,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=112,GotSport
+WNY Flash Rochester 2013G Premier,U13,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=66,GotSport
+AFCR Pittsford Girls 2013 GU12,U13,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=106,GotSport
+Amherst 2013G Silver - Massung,U13,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=213,GotSport
+FM Emeralds 2013,U13,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=142,GotSport
+Flash Binghamton 13G ECNL RL,U13,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=4,GotSport
+SDA 2013G GA2,U13,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197,GotSport
+DSC 2013/2014 U12 Girls (DASH),U13,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255,GotSport
+GUFC 2013G Sample,U13,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=261,GotSport
+Hilton Heat - Montagliano,U13,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=138,GotSport
+Scottsville Wildcats,U13,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=181,GotSport
+Girls 2013,U13,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=253,GotSport
+RNYFC 2013 Girls Green,U13,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=57,GotSport
+Amherst 2013G Red - May,U13,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=139,GotSport
+Clarence Inferno 2013G Red,U13,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226,GotSport
+GU12 Fairport Flames Rehberg,U13,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255,GotSport
+Pittsford Mustangs Girls 2013 Blue,U13,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=168,GotSport
+Pittsford Mustangs Girls United FC,U13,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=126,GotSport
+RHSC Falcons 2013 Girls,U13,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=111,GotSport
+WNY Flash 13G ECNL,U13,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=20,GotSport
+Flash Binghamton 13G Premier DPL,U13,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=84,GotSport
+GU12 Fairport Thunder Ahern,U13,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=227,GotSport
+13G GA,U13,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=71,GotSport
+AFCR Brighton Girls 2013 GU12,U13,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=216,GotSport
+FC Dynamo ROC G2013,U13,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=61,GotSport
+Hilton Heat - DiGiacco-Speer,U13,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=132,GotSport
+Syracuse United 2013 Typhoons,U13,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=204,GotSport
+DSC 2013 U12 Girls (FREEDOM),U13,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=138,GotSport
+G2013-Ireland,U13,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=185,GotSport
+G2013/2014 Valentino,U13,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=214,GotSport
+RNYFC 13G DPL,U13,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=28,GotSport
+Spencerport G2013 Blue,U13,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=98,GotSport
+13G Premier Araujo,U13,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=93,GotSport
+Canandaigua Attack GU12,U13,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=221,GotSport
+G2013 Maio,U13,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=116,GotSport
+Buffalo Stallions 2013 Girls,U13,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=53,GotSport
+GU13 (2013),U13,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200,GotSport
+INVICTUS FC 2013 GIRLS,U13,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=72,GotSport
+WNY Flash 13G Premier Loweecey,U13,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=105,GotSport
+G2013-Annesi,U13,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225,GotSport
+Spencerport G2013 Gold,U13,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=119,GotSport
+Syracuse 13G,U13,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=212,GotSport
+Clarence Inferno 2013G Black,U13,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=105,GotSport
+IYSA 2013 Gold Select,U13,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=94,GotSport
+Lakefront SC G2013 Blue,U13,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=256,GotSport
+Niagara Pioneer 2013G Tornados,U13,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=167,GotSport
+Soaring Capital HEAT 2013G,U13,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=145,GotSport
+WNY Flash Rochester ECNL RL G13,U13,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=78,GotSport
+BU12 Fairport United,U13,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=407,GotSport
+GUFC 2013B LaRosa,U13,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=352,GotSport
+Kenmore Niagara Surf 2013 Boys Blue,U13,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=22,GotSport
+Metros FC B13U,U13,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=381,GotSport
+OPSC 2013B Stallions,U13,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=391,GotSport
+AFCR Brighton Bandits,U13,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=176,GotSport
+Boys 2013 - Blue,U13,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=310,GotSport
+NWAA Wolves 2013B - Hanes,U13,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364,GotSport
+Pittsford Mustangs Boys 2013 White,U13,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=290,GotSport
+13B MLS Next II,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=117,GotSport
+2013 Boys Black,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=96,GotSport
+B2013 Sklenar,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=192,GotSport
+BU12 Fairport Fire Phelps,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=368,GotSport
+Kenmore Surf 2013 Boys,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=221,GotSport
+Lakefront SC B2013 Blue,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=359,GotSport
+Lakefront SC B2013 Green,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=372,GotSport
+RNYFC 2013 Boys Green,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277,GotSport
+Tillie's Touch 2013 Boys,U13,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=123,GotSport
+Kenmore Gladiators 2013 Boys,U13,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=381,GotSport
+WNY Flash Rochester ECNL RL B13,U13,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=75,GotSport
+FC Dynamo ROC B2013 United,U13,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=349,GotSport
+Niagara Pioneer 2013B Raptors,U13,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=285,GotSport
+SDA 2013 Boys Pre NAL -Orange,U13,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=290,GotSport
+Buffalo Pro Soccer USL Academy U13B,U13,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=99,GotSport
+Clarence Inferno 2013B Silver,U13,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=438,GotSport
+Hilton Heat - Pollock,U13,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351,GotSport
+Spencerport B2013 Blue,U13,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=280,GotSport
+Spencerport B2013 Gold,U13,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=183,GotSport
+Upstate Elite 2013,U13,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=124,GotSport
+Canandaigua Attack BU12,U13,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415,GotSport
+Clarence Inferno 2013B White,U13,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=302,GotSport
+Geneva,U13,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=421,GotSport
+Penfield Rangers U12 Stock,U13,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=294,GotSport
+RHSC Falcons 2013 Boys,U13,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=362,GotSport
+Rangers U12 White,U13,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=373,GotSport
+Syracuse 13B,U13,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=150,GotSport
+Flash Binghamton 13B EA,U13,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=123,GotSport
+Aurora Arsenal Soccer Club U12 Boys,U13,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=255,GotSport
+NY Rush Select 13B MLS Next AD,U13,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=28,GotSport
+WNY Flash 13B ECNL,U13,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=174,GotSport
+Cobras FC B13 Davis,U13,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=236,GotSport
+AFCR Brighton Boys U12 Blue,U13,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=190,GotSport
+Clarence Inferno 2013B Red,U13,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=143,GotSport
+Corning Warriors U13,U13,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=368,GotSport
+Pittsford Mustangs 2013 Gold,U13,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=274,GotSport
+Soaring Capital Pythons 2013B Red,U13,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=272,GotSport
+Victor SC (Statt),U13,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=275,GotSport
+BRVSA U-12 Boys,U13,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=374,GotSport
+FC Dynamo ROC B2013,U13,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=159,GotSport
+GISC 2013B Vikings,U13,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371,GotSport
+IYSA 2013 Select,U13,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=107,GotSport
+OPSC 2013B FC Appolonia,U13,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=380,GotSport
+Aden United Boys 2013,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371,GotSport
+Boys U12 - Gold,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=363,GotSport
+Buffalo Stallions 2013 Boys,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=141,GotSport
+CSA Elite B2013 Thunder,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=135,GotSport
+Hilton Heat - Garcia,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=330,GotSport
+VYSA Hurricanes,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=61,GotSport
+WNY Flash Rochester 2013B Premier,U13,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=284,GotSport
+Amherst 2013B Silver - Cunliffe,U13,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=209,GotSport
+DSC 2013 U12 Boys (RANGERS),U13,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=356,GotSport
+Northeast Rush Select B2013,U13,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=197,GotSport
+Soaring Capital Pythons 2013B White,U13,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=368,GotSport
+BU13 (2013),U13,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=176,GotSport
+SDA 2013 Boys Orange,U13,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=284,GotSport
+Cobras FC B13 Coffta,U13,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=164,GotSport
+Kenmore Surf 2013 Boys,U13,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=220,GotSport
+Pittsford Mustangs Boys 2013 Blue,U13,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=106,GotSport
+Rochester Rush 2013 Boys,U13,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=298,GotSport
+WNY Flash 13B Premier,U13,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=180,GotSport
+Lakefront SC B2013 Leonard,U13,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=233,GotSport
+Legends,U13,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=367,GotSport
+SDA 2013 MLS Next AD,U13,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=60,GotSport
+Cobras Rogerson,U14,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=125,GotSport
+Hamburg 2012 Girls Black,U14,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=180,GotSport
+Hilton Heat - DiMartino,U14,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=149,GotSport
+Lakefront SC G2012 Blue,U14,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=221,GotSport
+OPSC 2012G Gems Elite,U14,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=21,GotSport
+Clarence Inferno 2012G Red,U14,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=80,GotSport
+Girls 2012,U14,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=183,GotSport
+Girls U13,U14,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=222,GotSport
+RNYFC 12G DPL,U14,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=10,GotSport
+CSA Elite G2012/G2013 Lightning,U14,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=68,GotSport
+NWAA Wolves 2012G,U14,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=225,GotSport
+Pittsford Mustangs Girls 2012 Blue,U14,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=222,GotSport
+Rochester Rush 2012 Girls,U14,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=176,GotSport
+FM Stingers 2012,U14,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=100,GotSport
+G2012-Preall,U14,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=183,GotSport
+GU14 (2012),U14,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=168,GotSport
+Spencerport G2012 Gold,U14,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=103,GotSport
+Kenmore Bluebombers 2012 Girls,U14,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=87,GotSport
+Cobras FC G12 Rogerson,U14,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=96,GotSport
+GU13 Fairport Fighters Ahern,U14,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194,GotSport
+NY Rush Select 12G DPL,U14,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=5,GotSport
+Soaring Capital Fusion 2012G,U14,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=192,GotSport
+GUFC 2012G Kron,U14,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=139,GotSport
+12G PreECNL,U14,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=95,GotSport
+Amherst 2012G Red - Maczka/Williamson,U14,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=163,GotSport
+Cobras FC G12 Doell,U14,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=182,GotSport
+Flash Binghamton 12G ECNL RL,U14,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=106,GotSport
+Barracudas U13G,U14,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=119,GotSport
+G2012 Ruta,U14,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=80,GotSport
+Northeast Rush Select G2012,U14,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=33,GotSport
+WNY Flash Rochester ECNL RL G12,U14,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=31,GotSport
+CSA G2012 Express,U14,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=162,GotSport
+Lakefront SC G2012 DeSario,U14,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=179,GotSport
+Soaring Capital Fusion Red 2012G,U14,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=185,GotSport
+Syracuse 12G,U14,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=90,GotSport
+WNY Flash 12G ECNL RL,U14,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=69,GotSport
+Penfield Strikers - Pulcini,U14,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=161,GotSport
+WNY Flash 12/13G Premier,U14,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=63,GotSport
+GISC 2012G Vikings,U14,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=88,GotSport
+12G GA,U14,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=32,GotSport
+WNY Flash Rochester 2012G Premier,U14,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=10,GotSport
+2012 Girls Black,U14,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=62,GotSport
+CSA Elite G2012 Fire,U14,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=28,GotSport
+AFCR Brighton Boys 2012 BU13,U14,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=317,GotSport
+B2012 - Blue Devils,U14,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=209,GotSport
+B2012 Richardson,U14,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=183,GotSport
+Churchville Riptides,U14,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=353,GotSport
+RNYFC 2012 MLS Next,U14,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=12,GotSport
+Kenmore Wolfpac 2012 Boys,U14,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=209,GotSport
+LDSC 2013B Rockets,U14,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=274,GotSport
+Lakefront SC B2012 Green,U14,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=288,GotSport
+Pittsford Mustangs Boys 2012 Gold,U14,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=202,GotSport
+Pittsford Mustangs Boys 2012 White,U14,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=315,GotSport
+CSA B2012 Inferno,U14,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=138,GotSport
+NY Rush Select 12B MLS Next AD,U14,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=27,GotSport
+OPSC 2012B Gunners,U14,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=230,GotSport
+WNY Flash Rochester ECNL RL B12,U14,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=64,GotSport
+Aurora Arsenal Soccer Club U13 Boys,U14,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245,GotSport
+BU13 Fairport United Guadalupe,U14,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=203,GotSport
+Cobras FC B12 Armstrong,U14,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=210,GotSport
+INVICTUS FC 2012 BOYS,U14,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=286,GotSport
+WNY Flash 12B ECNL,U14,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=289,GotSport
+Rochester Rush 2012 Boys,U14,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=171,GotSport
+Upstate Elite 2012,U14,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=5,GotSport
+12B MLS Next II,U14,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=142,GotSport
+BU13 Fairport FC Weidman,U14,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=347,GotSport
+CNY Coliseum 2012 Boys,U14,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=236,GotSport
+FC Dynamo ROC B2012,U14,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=104,GotSport
+Lakefront SC B2012 Blue,U14,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=288,GotSport
+Lakefront SC B2012 Sullivan,U14,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=78,GotSport
+Pittsford Mustangs Boys 2012 Blue,U14,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=8,GotSport
+Syracuse 12B,U14,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=212,GotSport
+Clarence Inferno 2012B Red,U14,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=50,GotSport
+OPSC 2012B United,U14,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=318,GotSport
+AFCR Jets 2012 (BU13),U14,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=316,GotSport
+Northeast Rush Select B2012,U14,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=99,GotSport
+Kenmore Bulldogs 2012 Boys,U14,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=119,GotSport
+Rochester Rush 2012 Boys Grey,U14,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320,GotSport
+NY Rush Binghamton 2012B,U14,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=147,GotSport
+Amherst 2012B Red - Williamson,U14,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299,GotSport
+Soaring Capital Cobras 2012B,U14,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=132,GotSport
+Buffalo Stallions Boys 2012 Blue,U14,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=94,GotSport
+Canandaigua Attack BU13,U14,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=301,GotSport
+LSC Thunder 2012B Molinaro,U14,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=247,GotSport
+LDSC 2012B Red Dragons,U14,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=326,GotSport
+OP GUNNERS,U14,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320,GotSport
+Boys 2012,U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=291,GotSport
+DSC 2012 U13 Boys (UNION),U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=322,GotSport
+Flash Binghamton 12B EA,U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=57,GotSport
+IYSA 2012 Select (U13),U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=347,GotSport
+Niagara Pioneer 2012 B Lightning,U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=293,GotSport
+Niagara United FC Panthers 2012 Boys,U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=200,GotSport
+Panthers,U14,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=163,GotSport
+GUFC 2012B Talone,U14,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=179,GotSport
+WNY Flash 12B ECNL RL,U14,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=162,GotSport
+B2012 Richardson,U14,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=182,GotSport
+Hilton Heat - Guzzetta,U14,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=186,GotSport
+SDA 2012 MLS Next AD,U14,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=67,GotSport
+NWAA Wolves 2012B - Hanes,U14,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=295,GotSport
+Spencerport B2012 Gold,U14,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=256,GotSport
+WNY Flash 12B Premier,U14,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=214,GotSport
+Flash Binghamton 11G ECNL RL,U15,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=41,GotSport
+Penfield Strikers Tigers - Walsh,U15,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=59,GotSport
+Syracuse 11G,U15,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=107,GotSport
+Spencerport G2011 Gold,U15,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=31,GotSport
+WNYFC 11/12G,U15,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=13,GotSport
+Watertown FC U14G,U15,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=175,GotSport
+Coliseum 2011G DPL,U15,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=55,GotSport
+WNY Flash 11G ECNL,U15,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=25,GotSport
+Cobras FC G11 Starchok,U15,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=162,GotSport
+Soaring Capital Phoenix 2011G,U15,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=40,GotSport
+Amherst 2011G Red - Frymire,U15,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=168,GotSport
+Churchville Chill,U15,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=125,GotSport
+Clarence Inferno 2011G Red,U15,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=190,GotSport
+Kendall Crossfires-Williams,U15,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=208,GotSport
+Rochester Rush 2011 Girls Grey,U15,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=77,GotSport
+Buffalo Stallions Girls 2011,U15,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=49,GotSport
+DSC 2011 U14 Girls (COURAGE),U15,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=181,GotSport
+Pittsford Mustangs Girls 2011 Blue,U15,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=27,GotSport
+WNY Flash 11G Premier,U15,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=73,GotSport
+Flash Binghamton 11G Premier DPL,U15,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=46,GotSport
+Honeoye Lake United SC,U15,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=195,GotSport
+Northeast Rush Select G2011,U15,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=104,GotSport
+Lakefront SC G2011 Blue,U15,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=152,GotSport
+SDA 2011/12G,U15,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=185,GotSport
+GUFC 2011G LaRosa,U15,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=54,GotSport
+WNY Flash 11G ECNL RL,U15,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=108,GotSport
+DSC 2011 U14 Girls (REIGN),U15,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=185,GotSport
+Hilton Heat - Pollock,U15,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=148,GotSport
+Lightning,U15,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=210,GotSport
+NY Rush Binghamton 2011/12G,U15,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=17,GotSport
+Niagara Pioneer 2011 G Hurricanes,U15,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=180,GotSport
+CSA Elite G2011 Clash,U15,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34,GotSport
+Hamburg 2011 Girls Black,U15,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=192,GotSport
+RNYFC 11G DPL,U15,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=78,GotSport
+WNY Flash Rochester 2011G Premier,U15,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=46,GotSport
+Akron Strikers FC,U15,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=205,GotSport
+Girls 2011,U15,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=185,GotSport
+Lancaster-Depew SC Lightning,U15,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=120,GotSport
+Rochester Rush 2011 Girls Blue,U15,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=28,GotSport
+Pittsford Mustangs Girls 2011 Gold,U15,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=177,GotSport
+WNY Flash Rochester ECNL RL G11,U15,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=40,GotSport
+CSA G2011 Rage,U15,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=111,GotSport
+Cobras U14 Starchok,U15,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=180,GotSport
+AFCR Brighton Girls 2011 GU14,U15,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=185,GotSport
+CNY Coliseum 2011 Girls,U15,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=12,GotSport
+G2011 Zaleski,U15,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=176,GotSport
+Lioness FC (U14),U15,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=205,GotSport
+Buffalo Stallions Boys 2011,U15,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=281,GotSport
+CSA B2011 Vortex,U15,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=114,GotSport
+FC Dynamo ROC B2011,U15,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=24,GotSport
+Orchard Park Blizzard,U15,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=242,GotSport
+Pittsford Mustangs Boys 2011 Blue,U15,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=70,GotSport
+Binghamton Rush 2011B,U15,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=206,GotSport
+Soaring Capital Explosion Thruway 2011B,U15,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=30,GotSport
+WNY Flash 11B ECNL,U15,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=120,GotSport
+Corning United 2011-2012 Boys Fire,U15,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=297,GotSport
+Kenmore Elite 2011 Boys,U15,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=93,GotSport
+Penfield Rangers U14 Blue,U15,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197,GotSport
+Boys 2011,U15,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=284,GotSport
+CSA B2011 Venom,U15,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=112,GotSport
+Syracuse 11B,U15,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=136,GotSport
+WNY Flash Rochester ECNL RL B11,U15,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=62,GotSport
+Kenmore United,U15,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=265,GotSport
+Lackawanna 2011 Boys,U15,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=144,GotSport
+Upstate Elite 2011,U15,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=5,GotSport
+WNY Flash 11B ECNL RL,U15,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=137,GotSport
+RNYFC 2011 MLS Next,U15,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=80,GotSport
+11B MLS Next II,U15,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=91,GotSport
+Amherst Rebels,U15,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=307,GotSport
+B2011 Weber,U15,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=116,GotSport
+AFCR Brighton Boys 2011 BU14,U15,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=319,GotSport
+Hilton Heat - Flaitz,U15,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=174,GotSport
+Kenmore Surf 2011 Boys,U15,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197,GotSport
+Spencerport B2011 Gold,U15,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=73,GotSport
+Flash Binghamton 11B Premier,U15,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=98,GotSport
+BU15 (2011),U15,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=258,GotSport
+Flash Binghamton 11B EA,U15,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=4,GotSport
+Northeast Rush Select B2011,U15,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=146,GotSport
+Pittsford Mustangs Boys 2011 Gold,U15,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=275,GotSport
+WNY Flash RL B11,U15,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=289,GotSport
+Amherst 2011B Red - Bosch,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=283,GotSport
+Canandaigua Attack BU14-Red,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=285,GotSport
+Clarence Inferno 2011B White,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=307,GotSport
+Corning United 2011-12 Dynamo Boys,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192,GotSport
+GUFC 2011B Green Stirrup,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=273,GotSport
+INVICTUS FC 2011 BOYS WHITE,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=231,GotSport
+Kenmore Invaders 2011 Boys,U15,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=254,GotSport
+BU14 Fairport White Lightning Kurz,U15,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=272,GotSport
+Clarence Inferno 2011B Red,U15,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=307,GotSport
+FC Dynamo ROC B2011 United,U15,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=168,GotSport
+INVICTUS FC 2011 BOYS,U15,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=126,GotSport
+LSC Lightning 2011B Frazer,U15,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=159,GotSport
+AFCR Select Boys 2011 BU14,U15,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=199,GotSport
+Buffalo Pro Soccer USL Academy U15B,U15,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=83,GotSport
+DSC 2011 U14 Boys (BLIZZARD),U15,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=202,GotSport
+Lakefront SC B2011 Blue,U15,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=171,GotSport
+Cobras FC B11 Mandell,U15,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=281,GotSport
+GUFC 2011B Blue Tawaf,U15,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=150,GotSport
+Rush,U15,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=30,GotSport
+NWAA Wolves 2011B - Hanes,U15,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=283,GotSport
+LDSC 2011B Liverpool,U15,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=295,GotSport
+SDA 2011B NAL,U15,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=4,GotSport
+WNY Flash Rochester 2011B Premier,U15,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=112,GotSport
+B2011 - Jacobs (U14),U15,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=258,GotSport
+Hilton Heat - Dambrosio,U15,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245,GotSport
+Holley - Oye F.C.,U16,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=140,GotSport
+Spencerport G2010 Gold,U16,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=13,GotSport
+Cobras FC G10 Bournazakis,U16,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=59,GotSport
+Cobras FC GU15 Bournazakis,U16,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=70,GotSport
+GU16 (2010),U16,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=65,GotSport
+Lakefront SC G2010 Gilbertson,U16,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=39,GotSport
+WNY Flash Rochester ECNL RL G10,U16,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=56,GotSport
+Flash Binghamton 10G ECNL RL,U16,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=3,GotSport
+Cobras FC GU15 Bournazakis,U16,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=152,GotSport
+GU15 Fairport Fuego Gillett,U16,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=95,GotSport
+G2010 Valentino,U16,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=75,GotSport
+Kenmore Boltz 2010 Girls,U16,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=96,GotSport
+Lakefront SC G2010 Blue,U16,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=143,GotSport
+RHSC Falcons 2010 Girls,U16,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=108,GotSport
+10G GA,U16,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=105,GotSport
+GUFC 2010G Winston,U16,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=156,GotSport
+WNY Flash 10G ECNL,U16,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=127,GotSport
+CSA Elite G2010 Storm,U16,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=34,GotSport
+OPSC 2010G Rubies,U16,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=99,GotSport
+Spencerport G2010 Blue,U16,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=113,GotSport
+DSC 2010 U15 Girls (DYNAMITE),U16,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=14,GotSport
+Penfield Strikers - Tydings,U16,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=159,GotSport
+Hilton Heat - Niedzwiecki,U16,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=131,GotSport
+WNY Flash Rochester 2010G Premier,U16,Female,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=41,GotSport
+NY Rush Select 10G DPL,U16,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=16,GotSport
+Syracuse 10G,U16,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=146,GotSport
+Akron Royals FC,U16,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=123,GotSport
+U15 Girls 2025-Correct,U16,Female,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=170,GotSport
+Amherst 2010 Kausner,U16,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=172,GotSport
+IYSA 2010 Gold Select,U16,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=101,GotSport
+Rochester Rush 2010 Girls Blue,U16,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=62,GotSport
+Soaring Capital Valkyries 2010G,U16,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=52,GotSport
+WNY Flash RL G10,U16,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=105,GotSport
+CNY Coliseum 2010 Girls,U16,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+Northeast Rush Select G2010,U16,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=88,GotSport
+WNY Flash 10/11G Premier,U16,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=161,GotSport
+Clarence Inferno 2010G Black,U16,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=29,GotSport
+Penfield Strikers Fire,U16,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=127,GotSport
+WNY Flash Academy WNY Flash 10G Pre-ECNL,U16,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=8,GotSport
+FC Dynamo ROC G2010,U16,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=86,GotSport
+GSC U15 Girls,U16,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=132,GotSport
+RNYFC 10G DPL,U16,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=13,GotSport
+10G GA,U16,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=8,GotSport
+2010 Girls Black,U16,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=84,GotSport
+NY Rush Binghamton 2010/11 Girls,U16,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=46,GotSport
+Buffalo Pro Soccer USL Academy U16G,U16,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=98,GotSport
+Kenmore Surf 2010 Girls,U16,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=175,GotSport
+Spencerport G2010 Gold,U16,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=12,GotSport
+Cobras FC B10 DiMaggio,U16,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=124,GotSport
+BU15 Fairport Fire Tatro,U16,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=134,GotSport
+Lakefront SC B2010 Blue,U16,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=218,GotSport
+B2010 Zaleski,U16,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=177,GotSport
+Clarence Inferno 2010B Red,U16,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=244,GotSport
+Lakefront SC B2010 Gilbertson,U16,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=176,GotSport
+Spencerport B2010 Gold,U16,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=220,GotSport
+WNY Flash Rochester 2010B Premier,U16,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=156,GotSport
+IYSA 2010 Select (U15),U16,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=193,GotSport
+Penfield Rangers U15 White,U16,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=154,GotSport
+Ramos Soccer International,U16,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=67,GotSport
+West Seneca Wildcats 2010B Clarke,U16,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=269,GotSport
+Cobras FC B10 Kozak,U16,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=179,GotSport
+INVICTUS FC 2010 BOYS,U16,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=146,GotSport
+SDA 2010B MLS Next Academy,U16,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=2,GotSport
+NY Rush Binghamton 2010B,U16,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=8,GotSport
+OPSC 2010B Express,U16,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=220,GotSport
+Soaring Capital Atletico 2010B,U16,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=231,GotSport
+DSC 2010 U15 Boys (CITY),U16,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=91,GotSport
+FC Dynamo ROC B2010,U16,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=7,GotSport
+FMSC 2010/2011 boys,U16,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=181,GotSport
+RHSC Falcons 2010 Boys,U16,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=219,GotSport
+Tillie's Touch 2010/11 Boys,U16,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=187,GotSport
+Pittsford Mustangs S.C. -Knights,U16,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=254,GotSport
+Rochester Rush 2010 Boys,U16,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=96,GotSport
+Syracuse United 2011B,U16,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=177,GotSport
+Flash Binghamton 10B EA,U16,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=73,GotSport
+WNY Flash 10B ECNL,U16,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=121,GotSport
+WNY Flash 10B ECNL RL,U16,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=33,GotSport
+2010 Boys Black,U16,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=55,GotSport
+DSC 2010 U15 Boys (BULLS),U16,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=233,GotSport
+Clarence Inferno 2010B Black,U16,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=62,GotSport
+Hilton Heat - Fromm,U16,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=150,GotSport
+LSC Lightning 2010B Fuller,U16,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228,GotSport
+NY Rush Select 10B MLS Next AD,U16,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=22,GotSport
+FC Dynamo ROC B2010 United,U16,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=104,GotSport
+Niagara Pioneer Renegades,U16,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=54,GotSport
+10B MLS Next II,U16,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=11,GotSport
+Northeast Rush Select B2010,U16,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=17,GotSport
+AFCR Brighton Boys 2010 BU15 WHITE,U16,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=218,GotSport
+Amherst 2010B Silver - Diarra,U16,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=79,GotSport
+Buffalo Stallions 2010 Boys,U16,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=95,GotSport
+Cobras FC B10 DiMaggio,U16,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=123,GotSport
+LDSC 2010B City,U16,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=152,GotSport
+NWAA Wolves 2010B - Sauer,U16,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=100,GotSport
+LDSC 2010B United,U16,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=252,GotSport
+Upstate Elite 2010,U16,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=67,GotSport
+CSA B2010 Warriors,U16,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=59,GotSport
+Amherst 2010B Red - Kathman - Rangers,U16,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=33,GotSport
+BU15 Fairport Venom Demauro,U16,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=256,GotSport
+Amherst 2009 Camardo,U17,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=110,GotSport
+BRVSA U15G,U17,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=135,GotSport
+Lakefront SC G2009 Brown,U17,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=23,GotSport
+Syracuse 09G,U17,Female,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=28,GotSport
+09G GA,U17,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=26,GotSport
+2009 Girls Black,U17,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=23,GotSport
+CNY Coliseum 2009 Girls,U17,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=70,GotSport
+Clarence Inferno 2009G Red,U17,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=107,GotSport
+Sounders,U17,Female,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=116,GotSport
+Girls 2009,U17,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=115,GotSport
+Rochester Rush 2009 Girls,U17,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=46,GotSport
+WNY Flash Rochester 2009G Premier,U17,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=14,GotSport
+WNY Flash Rochester ECNL RL G09,U17,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=15,GotSport
+09G GA,U17,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=10,GotSport
+Niagara Pioneer 2009 G Green Shock,U17,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=120,GotSport
+WNY Flash 09G ECNL,U17,Female,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=112,GotSport
+FC Dynamo ROC G2009 City,U17,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=13,GotSport
+LSC Lightning 2009G Smith,U17,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=134,GotSport
+Buffalo Stallions Girls 2009,U17,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=21,GotSport
+GU16 (2009),U17,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108,GotSport
+Twin Tiers SC 2009/2010G,U17,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=41,GotSport
+OPSC 2009G Fierce RKU,U17,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=16,GotSport
+RNYFC 09G DPL,U17,Female,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=8,GotSport
+Hamburg 2009 Girls Black,U17,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=111,GotSport
+GUFC 2009G Manetta,U17,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=101,GotSport
+Soaring Capital Blackout 2009/10G,U17,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=127,GotSport
+G2009 Green,U17,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=82,GotSport
+GISC 2009G Vikings,U17,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=67,GotSport
+Corning United 2009-2010 Girls Athena,U17,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=119,GotSport
+Pittsford Mustangs Girls 2009 Blue,U17,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=41,GotSport
+WNY Flash 09G ECNL RL,U17,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=77,GotSport
+Flash Binghamton 09G ECNL RL,U17,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=5,GotSport
+CSA G2009 United,U17,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=109,GotSport
+Northeast Rush Select G2009,U17,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=4,GotSport
+WNY Flash ECNL RL G08,U17,Female,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122,GotSport
+Penfield Rangers U16,U17,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=163,GotSport
+WNY Flash 09B ECNL RL,U17,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123,GotSport
+Hamburg 2009 Boys Black,U17,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=201,GotSport
+Kenmore Invaders 2009 Boys,U17,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=155,GotSport
+Lakefront SC B2009 Desario,U17,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=92,GotSport
+Corning United 2009-2010 Boys Cosmos,U17,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=182,GotSport
+Canandaigua Attack BU16,U17,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=92,GotSport
+09B MLS Next II,U17,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=29,GotSport
+Boys U16,U17,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=198,GotSport
+Rochester Ny FC,U17,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=159,GotSport
+Syracuse City FC,U17,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=142,GotSport
+Upstate Elite 2009,U17,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=100,GotSport
+Amherst 2009B Red - Yoerg,U17,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=209,GotSport
+GISC 2009B Vikings,U17,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=116,GotSport
+SDA 2009B NAL,U17,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=4,GotSport
+Spencerport B2009 Gold,U17,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=138,GotSport
+2009 Boys Black,U17,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=101,GotSport
+Flash Binghamton 09B EA,U17,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=25,GotSport
+Pittsford Mustangs Boys 2009 Blue,U17,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=109,GotSport
+RNYFC Finger Lakes 2009 Boys,U17,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=139,GotSport
+Clarence Inferno 2009B Red,U17,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=194,GotSport
+Buffalo Pro Soccer USL Academy U17B,U17,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=79,GotSport
+Kenmore SC 1888,U17,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=37,GotSport
+RHSC Falcons 2009 Boys,U17,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=188,GotSport
+CSA B2009 Raptors,U17,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=65,GotSport
+Syracuse 09B,U17,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=154,GotSport
+NY Rush Binghamton 2009B,U17,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=10,GotSport
+Clarence Inferno 2009B Black,U17,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=109,GotSport
+EMSC ECRL B09,U17,Male,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=77,GotSport
+BB Sting U16B,U17,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=155,GotSport
+Soaring Capital Eagles 2009B,U17,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=54,GotSport
+WNY Flash Rochester 2009B Premier,U17,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=83,GotSport
+B2009 Zeller,U17,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=91,GotSport
+WNY Flash Rochester ECNL RL B09,U17,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=89,GotSport
+B2009 - DeGroot (U16),U17,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=192,GotSport
+NY Rush Select 09B MLS Next AD,U17,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=31,GotSport
+Lakefront SC B2009 Blue,U17,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=98,GotSport
+Niagara Pioneer 2009 B Strikers,U17,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=110,GotSport
+OPSC 2009B Dynamo,U17,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=48,GotSport
+OPSC 2009B Fusion,U17,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=70,GotSport
+Penfield Rangers 16 Tournament,U17,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=137,GotSport
+AFCR Jets Boys 2009 (BU16),U17,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=202,GotSport
+Boys 2009,U17,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=219,GotSport
+Cobras FC B09 Heirigs,U17,Male,GotSport Rankings,0,NYW,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=142,GotSport
+CSA G2008 Crush,U18,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=11,GotSport
+NWAA Wolves 2008G - Strangio,U18,Female,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=39,GotSport
+GUFC 2008G Billings,U18,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=68,GotSport
+Girls U17 Gananda Soccer Club,U18,Female,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=74,GotSport
+GUFC 2008G Burnham,U18,Female,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=84,GotSport
+RNYFC 08G DPL,U18,Female,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=19,GotSport
+NY Rush Select 08G DPL,U18,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=7,GotSport
+Soaring Capital Impact 2008G,U18,Female,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=12,GotSport
+08G Red Flash Binghamton DPL,U18,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=77,GotSport
+Amherst 2008/2009G Red - Griffin,U18,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=21,GotSport
+Churchville Cheetahs,U18,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=32,GotSport
+Kenmore Niagara Surf 2008 Girls,U18,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=60,GotSport
+Lioness FC U17-,U18,Female,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=80,GotSport
+Clarence Inferno 2008G Red,U18,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=21,GotSport
+OPSC 2008G Stars,U18,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=75,GotSport
+Pittsford Mustangs Girls 2008 Blue,U18,Female,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=13,GotSport
+Cobras FC G08/09 Kozak,U18,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=22,GotSport
+Lakefront SC G2008 Carpenter,U18,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+SDA 08G GA2,U18,Female,GotSport Rankings,0,NYW,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=19,GotSport
+Spencerport G2008/2009 Gold,U18,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=35,GotSport
+Buffalo Rush 2008/09G,U18,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=19,GotSport
+GU18 (2008/9),U18,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=74,GotSport
+Rochester Rush 2008 Girls,U18,Female,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=53,GotSport
+NPSL Dragons,U18,Female,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=48,GotSport
+Arcade Storm 2009/2008G Blizzards,U18,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=30,GotSport
+Lakefront SC G2008 Blue,U18,Female,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=79,GotSport
+SDA 2008B NAL,U18,Male,GotSport Rankings,0,NYW,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=6,GotSport
+2007/08 Boys Black,U18,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=41,GotSport
+Kings of Chaos,U18,Male,GotSport Rankings,0,NYW,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=125,GotSport
+Lakefront SC B2008 Blue,U18,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=102,GotSport
+Northeast Rush Select 2008 Boys,U18,Male,GotSport Rankings,0,NYW,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=40,GotSport
+BU18 (2008/9),U18,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=91,GotSport
+NY Rush Select 08B MLS Next AD,U18,Male,GotSport Rankings,0,NYW,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=4,GotSport
+BU17 Fairport United FC Davis,U18,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=128,GotSport
+FC Dynamo ROC B2008/2009,U18,Male,GotSport Rankings,0,NYW,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=29,GotSport
+Churchville United,U18,Male,GotSport Rankings,0,NYW,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=104,GotSport
+Clarence Inferno 2008B Red,U18,Male,GotSport Rankings,0,NYW,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=69,GotSport
+GUFC 2008B Green Nicholson,U18,Male,GotSport Rankings,0,NYW,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=29,GotSport
+Spencerport B2008 Gold,U18,Male,GotSport Rankings,0,NYW,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=78,GotSport
+CSA Elite B2008 Chargers,U18,Male,GotSport Rankings,0,NYW,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=19,GotSport
+AFCR Brighton Boys 2008 BU17,U18,Male,GotSport Rankings,0,NYW,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=84,GotSport
+Buffalo Stallions Boys 2008 Leggio,U18,Male,GotSport Rankings,0,NYW,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=81,GotSport
+GUFC 2008B Blue Christopher,U18,Male,GotSport Rankings,0,NYW,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=28,GotSport
+Soaring Capital Venom Red 2008B,U18,Male,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=30,GotSport
+LDSC 2008B Knights,U18,Male,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=116,GotSport
+OPSC 2008B Avalanche,U18,Male,GotSport Rankings,0,NYW,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=38,GotSport
+08B Red Flash Binghamton,U18,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=29,GotSport
+Lansing Soccer Club,U18,Male,GotSport Rankings,0,NYW,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=110,GotSport
+Buffalo Stallions Boys 2008,U18,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=36,GotSport
+Kenmore Surf 2008 Boys,U18,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=55,GotSport
+Rochester Rush 2008 Boys Grey,U18,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=82,GotSport
+irondequoit Challenge,U18,Male,GotSport Rankings,0,NYW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=70,GotSport

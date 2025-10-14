@@ -1,0 +1,2 @@
+team_name,age_group,gender,source,points,state,rank,url
+TUSC 08 Girls ECNL-RL,U18,Female,GotSport Rankings,0,TN,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1

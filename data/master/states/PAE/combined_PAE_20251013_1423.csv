@@ -1,0 +1,44 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+16G Black,U10,Female,GotSport Rankings,0,PAE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+SWAG Academy 2016,U10,Male,GotSport Rankings,0,PAE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+15G Black,U11,Female,GotSport Rankings,0,PAE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+FCE 2015 Girls Pre ECNL,U11,Female,GotSport Rankings,0,PAE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+Black Dtown '15 (G),U11,Female,GotSport Rankings,0,PAE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+Black Dtown '14 (G),U12,Female,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+LMSC 2014G Navy,U12,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+PreECNL 2014,U12,Female,GotSport Rankings,0,PAE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+13G ECNL,U13,Female,GotSport Rankings,0,PAE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+13G Aspire,U13,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+13G GA,U13,Female,GotSport Rankings,0,PAE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+13G GA,U13,Female,GotSport Rankings,0,PAE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+ECNL 2013,U13,Female,GotSport Rankings,0,PAE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+NUU 12F Strikers,U14,Female,GotSport Rankings,0,PAE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+ECNL '12 (G),U14,Female,GotSport Rankings,0,PAE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+Northwestern United 2012 Lady Tigers,U14,Female,GotSport Rankings,0,PAE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+NAL '12,U14,Male,GotSport Rankings,0,PAE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1,GotSport
+Storm,U15,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+Dominion ECNL RL 11G,U15,Female,GotSport Rankings,0,PAE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+Eagle FC 11G Black,U15,Female,GotSport Rankings,0,PAE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+11G Aspire,U15,Female,GotSport Rankings,0,PAE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+FCE 2011 Girls ECNL RL,U15,Female,GotSport Rankings,0,PAE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+Steel United 11B Elite,U15,Male,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1,GotSport
+1776 United FC 10 Girls Elite NL,U16,Female,GotSport Rankings,0,PAE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+2010 Girls Lyon,U16,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+2010G Warrington FC United,U16,Female,GotSport Rankings,0,PAE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+FCE 2010 Girls ECNL RL,U16,Female,GotSport Rankings,0,PAE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+YMS ECNL RL B10,U16,Male,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+HV Armour 2010B NPL,U16,Male,GotSport Rankings,0,PAE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+Elite '09,U17,Female,GotSport Rankings,0,PAE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+09G GA,U17,Female,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+Steel United 09G Elite,U17,Female,GotSport Rankings,0,PAE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+09G GA Aspire,U17,Female,GotSport Rankings,0,PAE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+Penn FC Youth 2008 F Black,U18,Female,GotSport Rankings,0,PAE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+NUU 08F Valor,U18,Female,GotSport Rankings,0,PAE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+FCE 2007/08 Girls ECNL RL,U18,Female,GotSport Rankings,0,PAE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+Lionville ‘08 Blue Warriors,U18,Female,GotSport Rankings,0,PAE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+2008G Elite 64,U18,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+PA Classics Academy Reading 08F Fury,U18,Female,GotSport Rankings,0,PAE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+Philadelphia SC Surf 08 Coppa Express,U18,Female,GotSport Rankings,0,PAE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+WLUSC 2008 Girls - Crampton,U18,Female,GotSport Rankings,0,PAE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+1776 United FC 2008 Girls Orange,U18,Female,GotSport Rankings,0,PAE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport
+MLS Next HD 07/08B,U18,Male,GotSport Rankings,0,PAE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1,GotSport

@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "20251014_1132",
+    "build_file": "data/master/master_team_index_USAonly_incremental_20251014_1132.csv",
+    "teams_total": 90265,
+    "added": 1,
+    "removed": 0,
+    "renamed": 192,
+    "notes": "Incremental + delta tracked build",
+    "build_type": "incremental",
+    "duration_seconds": 5,
+    "providers": [
+      "GotSport"
+    ],
+    "states_covered": 51
+  },
+  {
+    "timestamp": "20251014_1135",
+    "build_file": "data/master/master_team_index_USAonly_incremental_20251014_1135.csv",
+    "teams_total": 90265,
+    "added": 1,
+    "removed": 90072,
+    "renamed": 2,
+    "notes": "Incremental + delta tracked build",
+    "build_type": "incremental",
+    "duration_seconds": 4,
+    "providers": [
+      "GotSport"
+    ],
+    "states_covered": 51
+  }
+]

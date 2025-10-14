@@ -1,0 +1,16 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+SYC 2016G Pre-GA,U10,Female,GotSport Rankings,0,VA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+Great Falls Reston SC Pre-ECNL G15,U11,Female,GotSport Rankings,0,VA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+SYC 2015G Pre-GA,U11,Female,GotSport Rankings,0,VA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+SYC 2015B Pre-MLS Next,U11,Male,GotSport Rankings,0,VA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+SYC 2014B Pre-MLS Next,U12,Male,GotSport Rankings,0,VA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1,GotSport
+SYC U13 MLS Next,U13,Male,GotSport Rankings,0,VA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1,GotSport
+12G GA,U14,Female,GotSport Rankings,0,VA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+Arlington SA 2011G Red/ RL,U15,Female,GotSport Rankings,0,VA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+VYS Phoenix RL 10G,U16,Female,GotSport Rankings,0,VA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+VA Reign ECNL RL G 2010,U16,Female,GotSport Rankings,0,VA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+RU Blue ECNL RL G10,U16,Female,GotSport Rankings,0,VA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+Arlington SA 2010G Red/ RL,U16,Female,GotSport Rankings,0,VA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+Fairfax Virginia Union ECNL 10 Girls,U16,Female,GotSport Rankings,0,VA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+VDA 2009G ECNL,U17,Female,GotSport Rankings,0,VA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+GFRSC 09G Blue,U17,Female,GotSport Rankings,0,VA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport

@@ -1,0 +1,38 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "🧱 Create Virtual Environment",
+        "type": "shell",
+        "command": "python -m venv .venv",
+        "problemMatcher": []
+      },
+      {
+        "label": "📦 Install Dependencies",
+        "type": "shell",
+        "command": "python -m pip install -r requirements.txt",
+        "problemMatcher": []
+      },
+      {
+        "label": "🚀 Run Scraper Orchestrator",
+        "type": "shell",
+        "command": "python src/scraper/build_master_team_index.py",
+        "options": {
+          "env": {
+            "PYTHONPATH": "${workspaceFolder}/src"
+          }
+        },
+        "problemMatcher": []
+      },
+      {
+        "label": "🧹 Clean Temp & Logs",
+        "type": "shell",
+        "command": "rmdir /s /q data\\temp; rmdir /s /q data\\logs; mkdir data\\temp; mkdir data\\logs",
+        "problemMatcher": [],
+        "windows": {
+          "command": "powershell -Command \"Remove-Item -Recurse -Force data/temp,data/logs; New-Item -ItemType Directory -Force data/temp,data/logs\""
+        }
+      }
+    ]
+  }
+  

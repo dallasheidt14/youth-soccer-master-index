@@ -1,0 +1,30 @@
+team_name,age_group,gender,source,points,state,rank,url
+Coppermine SC 2015 Boys Pre-Academy I,U11,Male,GotSport Rankings,0,MD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Bethesda E 1 2015,U11,Female,GotSport Rankings,0,MD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Pre ECNL B14,U12,Male,GotSport Rankings,0,MD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Coppermine SC 2014 Boys Pre-Academy I,U12,Male,GotSport Rankings,0,MD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Potomac Premier I 14G,U12,Female,GotSport Rankings,0,MD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+2014 Girls Pre ECNL,U12,Female,GotSport Rankings,0,MD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Bethesda E 1 2014,U12,Female,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Coppermine SC 2013 Boys MLS Next AD,U13,Male,GotSport Rankings,0,MD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+13G GA,U13,Female,GotSport Rankings,0,MD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+SAC Boys 2012 - Premier Blue,U14,Male,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Baltimore Bays 2012 Crush Premier Girls,U14,Female,GotSport Rankings,0,MD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Coppermine SC Girls 2012 Girls Academy,U14,Female,GotSport Rankings,0,MD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Bethesda E 1 2012,U14,Female,GotSport Rankings,0,MD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+TAKOMA DREAMERS RIVER 2011 BOYS,U15,Male,GotSport Rankings,0,MD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+SAC Boys 2011 - MLS NEXT AD,U15,Male,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Azzurri 2011,U15,Female,GotSport Rankings,0,MD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+SEVERNA PARK 11G - GREEN,U15,Female,GotSport Rankings,0,MD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Evolution 2011G,U15,Female,GotSport Rankings,0,MD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+HFC United 2011/2012 Girls DPL,U15,Female,GotSport Rankings,0,MD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Rush 11G,U15,Female,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Bethesda E 1 2011,U15,Female,GotSport Rankings,0,MD,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+ASA Juventus Elite 2010 boys,U16,Male,GotSport Rankings,0,MD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+10G Aspire,U16,Female,GotSport Rankings,0,MD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+09G Aspire,U17,Female,GotSport Rankings,0,MD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+SOMD Rush 09G Blue,U17,Female,GotSport Rankings,0,MD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Elite 09G,U17,Female,GotSport Rankings,0,MD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+08B - Archieved Team,U18,Male,GotSport Rankings,0,MD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+SAC Girls 08/07 - GA ASPIRE,U18,Female,GotSport Rankings,0,MD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Rush 08G,U18,Female,GotSport Rankings,0,MD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1

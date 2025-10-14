@@ -1,0 +1,756 @@
+team_name,age_group,gender,source,points,state,rank,url
+NPSC U10 B White,U10,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=6
+16 Boys Inferno Copa Red,U10,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=8
+2016 Timbers Elite,U10,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=10
+Rapids SC 2016B,U10,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=13
+IFFC 2016B Claret - Richens,U10,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=18
+16 Boys Inferno United,U10,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=22
+UVSF United '16 Harris,U10,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=23
+NBFC 2016 Boys Black,U10,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=23
+2016 Boys,U10,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=25
+NBFC 2016 Boys Blue,U10,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=28
+PVSC 17/16 Boys- Merkley,U10,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=33
+GSA U10B Academy Green,U10,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=38
+ALBION SC IDAHO B16 Academy,U10,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=41
+2016/17 Teton FC Boys - Kitchin,U10,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=42
+PVSC 17/16 Boys- Arhin,U10,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=43
+Digger Boys 2016,U10,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=47
+Idaho Juniors 16B Neon,U10,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=55
+Sandpoint Strikers FC 2016B Black,U10,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=57
+Sandpoint Strikers FC 2016B Red,U10,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=58
+PFC 2016 B,U10,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=66
+16 Boys Inferno Copa Grey,U10,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=67
+Shelley U10 Boys 2025-2026,U10,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=68
+NBFC 2016 Boys Grey,U10,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=69
+16 Boys Inferno Liga,U10,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=73
+Sun Valley SC Boys 2016s - Orange,U10,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=77
+IFFC 2016B Cobalt - Farr,U10,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=79
+NBFC 2016 Boys Pewter,U10,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=87
+Idaho Rush 16 Black,U10,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=89
+Idaho Rush 16 White,U10,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=89
+JYSA Rigby Boys 2016,U10,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=95
+IFFC 2016B Cobalt - Lyon,U10,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=99
+Real Boise CF 2016/17 - RC Celta de Vigo,U10,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=104
+Sandpoint Strikers 2016B White,U10,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=108
+IFFC 2016Boys Claret,U10,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=125
+Sun Valley Soccer Club - Boys 2016s - White,U10,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=125
+SSC 16B Black,U10,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=132
+Idaho Rush 16 Blue,U10,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=133
+CGA Academy 16/17B,U10,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=136
+ID Surf 16B Academy,U10,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=137
+Sting Soccer Club 16B Silver,U10,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=144
+NBFC 2016 Boys White,U10,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=145
+GSA U10B Academy Black,U10,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=164
+2016 Timbers Elite 2,U10,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=165
+U10 Black 2016 Indie Chicas,U10,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=7
+PFC 2016-17G,U10,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=10
+2016 Thorns Elite,U10,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=11
+Rapids SC 2016G,U10,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=12
+PVSC 2016 Girls- Wardlow,U10,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=13
+Digger Girls 2016,U10,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=14
+CGA Academy 16/17G,U10,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=14
+2016/17 Teton FC Girls - Stitgen,U10,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=19
+PVSC 2016 Girls- Sorrell,U10,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=22
+16 Girls Inferno Copa,U10,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=25
+Sting Soccer Club 16G Pool,U10,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=27
+U10 2016 Indie Chicas,U10,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=29
+Idaho United 16G Neon,U10,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=31
+ALBION SC IDAHO G16 Academy,U10,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=32
+IFFC 2016G Cobalt - Lima,U10,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=33
+PVSC 2016 Girls- Keller,U10,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=33
+NBFC 2016 Girls White,U10,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=34
+IFFC 2016G Claret - Resendiz,U10,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39
+JYSA Rigby Girls 2016,U10,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=42
+16 Girls Inferno Liga,U10,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=48
+16 Girls Inferno Liga,U10,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=49
+208 FC 2016 G Pink,U10,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=49
+NBFC 2016 Girls Blue,U10,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=50
+SSC 16G Black,U10,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=54
+Idaho Rush 16 Black,U10,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=61
+BVB IA CDA U9 GIRLS,U10,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=67
+SSC 16G Yellow,U10,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=70
+NBFC 2016 Girls Black,U10,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=73
+Idaho Rush 16 Blue,U10,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=75
+GSA U10G Academy Black,U10,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=76
+North Boise FC 2016/17 Girls AB,U10,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=82
+ALBION SC IDAHO G16-17 Academy,U10,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=88
+2015-17 Teton FC Girls-Ivey,U10,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=94
+25/26 FC North Idaho 2016 GIRLS,U10,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=94
+IFFC 2016G Cobalt - Willcox,U10,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=97
+Idaho Juniors 15B Neon,U11,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=12
+NBFC 2015 Boys Blue,U11,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=13
+2015 Timbers Elite,U11,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=13
+15 Boys Inferno Copa,U11,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=28
+2015 B Timberwolves FC,U11,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=32
+2015 Thunder FC Premier,U11,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=34
+Idaho Rush 15 Blue,U11,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=35
+Idaho Juniors 15B Black,U11,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=37
+ALBION SC IDAHO B15 Academy,U11,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=38
+GSA U11B Academy Green,U11,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=43
+PFC 2015,U11,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=47
+SSC 15B Black,U11,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=47
+NBFC 2015 Boys Black,U11,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=51
+Idaho Rush 15 White,U11,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=52
+ALBION SC IDAHO MH B15 Academy,U11,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=54
+IFFC 2015B Claret - Brower,U11,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=55
+NPSC U11B-White,U11,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=58
+Idaho Rush 15 Black,U11,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=63
+Rapids SC 2015B Blue,U11,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=66
+Rapids SC 2015B Blue,U11,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=67
+SSC 15B Yellow,U11,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=71
+2015 Timbers Elite 2,U11,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=76
+Sandpoint Strikers FC 2015B,U11,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=78
+NBFC 2015 Boys White,U11,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=85
+NBFC 2015 Boys Grey,U11,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=86
+Idaho Juniors 15B White,U11,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=89
+BTT 15 Boise Timbers Elite,U11,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=91
+UVSF United '15 Marostica,U11,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=91
+2015/16 Teton FC Boys - Mervis,U11,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=96
+2015 Boys Bolts,U11,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=101
+PVSC 2015 Boys- Harris,U11,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=104
+'15B Idaho Surf Hailey Academy,U11,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=115
+GSA U11B Academy Black,U11,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=117
+2015 Boys Silver,U11,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=119
+15 Boys Inferno Liga,U11,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=120
+15 Boys Inferno United,U11,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=131
+15 Boys Inferno United,U11,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=132
+Sandpoint Strikers FC 2015B Red,U11,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=136
+BVB IA CDA U10 BOYS,U11,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=155
+Sun Valley Soccer Club - Boys 2015s,U11,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=160
+IFFC 2015B Cobalt - Nestler,U11,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=161
+Snake River Strikers 2015 Spring 2025,U11,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=164
+GSA 15B Academy - Pina,U11,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=165
+NBFC 2015 Boys Pewter,U11,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=168
+SSC 15B Premier,U11,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=170
+ALBION SC IDAHO North B15 Academy,U11,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=186
+CGA Academy 15B,U11,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=190
+Shelley U10 Boys Team 2024-25,U11,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=190
+Idaho Legends 2015/2016 Boys - Filippini,U11,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=195
+IFFC 2015B Cobalt - Neibaur,U11,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=211
+Hells Canyon FC Rapids Boys - 2015,U11,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=226
+Real Meridian CF 2015 - Rayo Vallecano,U11,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=232
+JYSA Rigby Boys 2015 Maroon,U11,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+Global Sports Academy,U11,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=260
+CGA Academy 15/16B White,U11,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=276
+ID Surf 15B Academy,U11,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=279
+Digger Boys 2015,U11,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=281
+JYSA Rigby Boys 2015 White,U11,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=292
+Idaho Magic 15/16B,U11,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=301
+Rapids SC 2015B White,U11,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=312
+ID Surf Boise 15B Academy,U11,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=318
+2015 Boys,U11,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=324
+McCall U11 Lava Chickens,U11,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=337
+15/16 Timberwolves FC Black,U11,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=344
+Hells Canyon FC Rapids - Boys 2015 - White,U11,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=351
+JYSA Rigby Boys 2015,U11,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=359
+25/26 FC North Idaho 2015 White BOYS U11,U11,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=409
+Sun Valley Soccer Club - Boys 2015s - Orange,U11,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=420
+15 Girls Inferno Copa Red,U11,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=7
+Idaho United 15G Neon,U11,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=10
+Idaho Rush 15 Blue,U11,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=14
+15 Girls Inferno Copa Grey,U11,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=14
+Idaho Rush 15 Black,U11,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=19
+PVSC 2015 Girls- Semons,U11,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=20
+PFC 2015-2016,U11,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=24
+2015 Thorns Elite,U11,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=26
+BTT 15 Boise Thorns Elite,U11,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=29
+2015 Girls Lightning,U11,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=30
+Id Surf Boise 15G Academy,U11,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=39
+PVSC 2015 Girls- Bollinger,U11,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=40
+CGA Academy 15G,U11,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=45
+Idaho Legends 2015 Girls - Martin 24/25,U11,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=49
+IFFC 2015G Cobalt - Fielding,U11,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=50
+15 Girls Inferno United,U11,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=50
+U11 Black 2015 Indie Chicas,U11,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=53
+UVSF United '15 Bennion,U11,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=53
+ID Surf 15G Academy,U11,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=56
+Idaho United 15G Black,U11,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=61
+JYSA Rigby Girls 2015,U11,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=65
+NBFC 2015 Girls Blue,U11,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=67
+Rapids SC 2015G,U11,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=69
+2015 Teton FC Girls - Bergart,U11,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=72
+Idaho Rush 2015 Girls white,U11,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=77
+GSA U11G Academy II Green,U11,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=83
+2015 Girls Competitive,U11,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=85
+NBFC 2015 Girls White,U11,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=89
+IFFC 2015G Claret - Wheeler,U11,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=97
+Sandpoint Strikers FC 2015G,U11,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=105
+Idaho Legends 2015 Girls - Martin 25/26,U11,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109
+2015 Thorns Elite 2,U11,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113
+Sandpoint Strikers FC 2015G Black,U11,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+Digger Girls 2015,U11,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=133
+Ambush FC Royals,U11,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=141
+2015/2016 Girls,U11,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=148
+LSC U11G LNR,U11,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=148
+ALBION SC IDAHO North G15 Academy,U11,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=152
+SSC 15G Black,U11,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=157
+208 FC 2015 G Pink,U11,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=160
+GSA U11G Academy I Black,U11,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=164
+208 FC 2015 G Blue,U11,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=169
+2015 Girls,U11,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=173
+INACTIVE U11 White 2015 Indie Chicas,U11,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=181
+NBFC 2015 Girls Black,U11,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=192
+UVSF United '15 Sanders,U11,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=199
+Idaho Rush Soccer Club Blackwidows,U11,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=212
+GSA U11G Academy I Green,U11,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=217
+2015 Girls Blue,U11,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=233
+SSC 15G Gray,U11,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=234
+Idaho Juniors 14B Neon,U12,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=23
+Idaho Rush 14 Blue,U12,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=27
+NBFC 2014 Boys Blue,U12,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=34
+2014 Timbers Elite,U12,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=35
+Ida - Ore FC Tigers,U12,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=44
+14 Boys Inferno Copa,U12,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=45
+Idaho Juniors 14B Black,U12,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=47
+Idaho Rush 14 Black,U12,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=50
+NPSC U12B- White,U12,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=52
+2014 Boys White,U12,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=62
+2014 Timbers Elite 2,U12,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=65
+Sun Valley Soccer Club - Boys 2014,U12,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=67
+IFFC 2014B Claret - Munoz Villagran,U12,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=67
+Rapids SC 2014B Blue,U12,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=69
+Idaho Rush 2014 White,U12,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=69
+14 Boys Inferno Liga,U12,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=88
+PFC Elite 2014B,U12,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=90
+NBFC 2014 Boys Black,U12,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=93
+PVSC 2014 Boys- Johnson A,U12,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=113
+2014 B Timberwolves FC,U12,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=117
+BTT 14 Boise Timbers Elite 2,U12,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=123
+UVSF United '14-Trujillo,U12,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=134
+Digger Boys 2014,U12,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=140
+JYSA Rigby Boys 2014,U12,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=151
+Rapids SC 2014B White,U12,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=156
+ALBION SC IDAHO MH B14 Academy,U12,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=165
+ALBION SC IDAHO B14 Academy,U12,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=170
+Idaho Legends 2014 Boys - DeCicco 24/25,U12,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+GSA 14B MSC,U12,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=183
+Idaho Legends 2014 Boys - Gaub 25/26,U12,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=195
+ID Surf 14B Academy,U12,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=195
+CGA Academy 14B,U12,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=203
+2014/2015 Boys,U12,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+NBFC 2014 Boys White,U12,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=209
+GSA U12B Pre Elite,U12,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=218
+Real Boise CF 2014/15 - Getafe,U12,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=225
+Ambush FC Titans,U12,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=239
+Sandpoint Strikers FC 2014B Red,U12,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=247
+SSC 14B Premier,U12,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=256
+SSC 14B Academy,U12,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=264
+Rapids SC 2014B Grey,U12,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=265
+PVSC 2014 Boys- Johnson B,U12,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=266
+Real Meridian CF RC Celta,U12,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=266
+UVSF United '14 Slagle,U12,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=270
+Sandpoint Strikers FC 2014B Black,U12,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=271
+Hells Canyon Rapids Boys 2014,U12,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=272
+25/26 FC North Idaho 2015 Blue BOYS U11,U12,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=276
+2014 / 2015 Boys Rush Nations United,U12,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=281
+BVB IA CDA U11 BOYS - BLACK,U12,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=286
+SSC 14B Black,U12,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=287
+IFFC 2014B Cobalt - Wright,U12,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=323
+Shelley U12 Boys 2025-2026,U12,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=327
+25/26 FC North Idaho 2014 White BOYS U12,U12,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=347
+IFFC 2014B Copper - Munoz Villagran,U12,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=349
+14 Boys Inferno United,U12,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=352
+ALBION SC IDAHO B14 Premier,U12,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=353
+BVB IA CDA U11 BOYS - YELLOW,U12,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=360
+2014 Timbers,U12,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=387
+Real Middleton CF 2014 - AC Milan,U12,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=393
+2016- Amorim AYDP,U12,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=433
+2014 Thorns Elite 2,U12,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=20
+14 Girls Inferno Copa,U12,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=36
+Idaho Rush 14 Blue,U12,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=36
+IFFC 2014G Claret - Nelson,U12,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=39
+Rapids SC 2014G,U12,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=41
+U12 Black 2014 Indie Chicas,U12,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=48
+NBFC 2014 Girls Blue,U12,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=52
+ALBION SC IDAHO G14 Academy,U12,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=52
+2014 Thorns Elite,U12,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=53
+ID Surf Boise 14G Academy,U12,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=53
+GSA U12G Pre Elite Black,U12,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=60
+Idaho Rush 14 Black,U12,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=64
+Idaho Legends 2014 Girls - Green 24/25,U12,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=70
+2014 Thorns,U12,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=79
+GSA U12G Pre Elite Green,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=87
+UVSF United '14 T. Anderson,U12,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=88
+PVSC 2014 Girls- Darby,U12,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=90
+14 Girls Inferno Liga,U12,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=92
+PVSC 2014 Girls- Stucki,U12,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=92
+2014 G Timberwolves FC,U12,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=94
+IFFC 2014G Copper - Phillips,U12,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=99
+IFFC 2014G Cobalt - Minnie,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=103
+2014/2015 Girls,U12,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=104
+HCFC Rapids 2014/15 Girls - WHITE,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=108
+Ida - Ore FC Tigers,U12,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=112
+McCall U12G Travel Team,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=116
+SSC 14G Black,U12,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=123
+JYSA Rigby Girls 2014,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=123
+Sandpoint Strikers FC 2014G,U12,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=131
+JYSA Rigby Girls 2014-2015,U12,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+BVB IA CDA U10/11 GIRLS,U12,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+U12 White 2014 Indie Chicas,U12,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=140
+Valley SC U11 Girls (Silver) Spring 25,U12,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=149
+Hells Canyon Rapids Girls 2014/15,U12,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=153
+SSC 14G Yellow,U12,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=155
+U11G RDL All-Star Team,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=159
+NBFC 2014 Girls Black,U12,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=162
+PFC 2014-15G,U12,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=163
+ID Surf Boise 14G Blue,U12,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=185
+BTT 14 Boise Thorns Elite 2,U12,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=188
+Valley Soccer Club-Asure,U12,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=189
+ALBION SC IDAHO G14-15 Academy,U12,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=200
+2014 Girls Blue,U12,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=207
+Ambush FC Warriors,U12,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=210
+2014-4 Zufelt AYDP,U12,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=222
+Valley SC U11Girls (Bronze) Spring 25,U12,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=232
+Boise Wolves Soccer Club,U12,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=232
+Ambush FC Phoenix,U12,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=239
+Shelley U12 Girls 2025-2026,U12,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=246
+Idaho Juniors 13B Neon,U13,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=21
+PFC Elite 2013,U13,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=24
+13 Boys Inferno Copa,U13,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=36
+Idaho Rush 13 ECNL-RL,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=43
+CGA Elite 13/14B Red,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=50
+ID Surf 13B Academy,U13,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=51
+ALBION SC IDAHO B13 Academy,U13,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=60
+2013 Timbers ECNL,U13,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=62
+Sun Valley Soccer Club Boys 2013 - Academy,U13,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=64
+NBFC 2013 Boys Blue,U13,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=67
+Sting Soccer Club 13B Academy,U13,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=76
+Rapids SC 2013B,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=77
+JYSA Rigby Boys 2013,U13,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=79
+IFFC 2013B Claret - Willcox,U13,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=94
+Idaho Rush 13 White,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=95
+13 Boys Inferno Liga,U13,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=99
+2013 Timbers ECNL RL,U13,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=103
+13 Boys Inferno United,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=113
+UVSF United '13- Pitt,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=115
+BTT 13 Boise Timbers Elite,U13,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=120
+PVSC 2013 Boys- Lopez,U13,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=120
+2013 Boys Shockwave,U13,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=130
+2013 Boys,U13,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=135
+2013 B Timberwolves FC,U13,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=141
+Idaho Legends 2013 Boys - DeCicco 24/25,U13,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=146
+McCall U13B Travel Team A,U13,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=150
+ALBION SC IDAHO MH B13 Academy,U13,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=153
+‘13B Blue,U13,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=167
+IFFC 2013B Copper - Lund,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=169
+2013/14 Teton FC Boys- Mollenkof,U13,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=173
+Idaho Juniors 13B Black,U13,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=180
+Idaho Legends 2013 Boys - DeCicco 25/26,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=182
+LSC U13B LNR,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=186
+2013/14 Teton FC Boys - Kugelman,U13,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=186
+NBFC 2013 Boys Black,U13,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=198
+Real Middleton CF 2013 - AS Roma,U13,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=198
+Kuna United SC,U13,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=201
+Kuna United SC,U13,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=202
+Idaho Rush 13 ECNL,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=204
+2013 Timbers Elite 2,U13,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=212
+PFC 2013,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=212
+IFFC 2013B Cobalt - Clark,U13,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=217
+CGA Elite 13/14B White,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=238
+UVSF United '13 Price,U13,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=242
+Digger Boys 2013,U13,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=242
+Hells Canyon Rapids Boys 2013,U13,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=246
+GSA 13B,U13,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=249
+AYSO Rexburg All-Stars BU10,U13,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=258
+SSC 13B Premier,U13,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=261
+Snake River Strikers Carrillo 2013 Spring 2025,U13,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=261
+Sun Valley Soccer Club - Boys 2013s - Orange,U13,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=270
+Timberwolves 2013/2014 B Gray,U13,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=284
+2014-2015-7 Smith AYDP,U13,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=285
+Sandpoint Strikers FC 2013B,U13,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=290
+2013/2014 Boys Murdock,U13,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+Rapids SC 2013B - Select,U13,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+25/26 FC North Idaho 2014 Blue BOYS U12,U13,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=306
+PVSC 2013 Boys Goettsche,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=315
+Real Boise CF 2013 - Real Betis,U13,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=321
+JYSA Rigby Boys 2013-2014 Maroon,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=328
+BVB IA CDA U12/13 BOYS,U13,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=349
+2013 Boys,U13,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+Sandpoint Strikers FC 2013B Red,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=362
+JYSA Rigby Boys 2013-2014 White,U13,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=373
+South Fremont Boys 2013,U13,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=374
+ID Surf Boise 13B Academy,U13,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378
+Shelley U12 Boys Team 2025 Spring,U13,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=402
+South Fremont Boys Team 2013,U13,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=424
+BTT 13 Boise Timbers Pre-ECNL,U13,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+13 Nero,U13,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=20
+13 Girls Inferno Copa,U13,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=28
+Idaho Rush 13 Blue,U13,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=29
+IFFC 2013G Claret - Whittier,U13,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=29
+NBFC 2013 Girls Blue,U13,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=33
+2013 Thorns ECNL,U13,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=38
+Sandpoint Strikers FC 2013G,U13,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=40
+BTT 13 Boise Thorns,U13,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=40
+CGA Academy 13/14G,U13,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=45
+PVSC 2013 Girls- Benjamin,U13,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=50
+Idaho Rush 13 White,U13,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=54
+2013 G Timberwolves FC,U13,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=55
+Idaho Legends 2013 Girls,U13,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=57
+PFC 2013-14,U13,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62
+13 Girls Inferno Liga,U13,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=63
+U13 Black 2013 Indie Chicas,U13,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=64
+2013 Girls Thunder,U13,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=67
+Rapids SC 2013G,U13,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=68
+2013 Boise Thorns,U13,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=72
+NBFC 2013 Girls Black,U13,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=74
+IFFC 2013G Cobalt - Solis,U13,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=85
+BTT 13 Boise Thorns Elite,U13,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=89
+SSC 13G Premier,U13,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=91
+2013/2014 Girls,U13,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=111
+2013/2014 Girls,U13,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=112
+PVSC 2013 Girls- Contreras,U13,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=116
+Sandpoint Strikers FC 2013G Red,U13,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=118
+CGA Academy 13/14G White,U13,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=121
+2013 Thorns ECNL RL,U13,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=129
+U13 White 2013 Indie Chicas,U13,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=130
+PVSC 2013 Girls- Tirapelli Wolverines,U13,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=132
+IFFC 2013G Copper - Jorgensen,U13,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=133
+IFFC 2013G Copper - Jorgensen,U13,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+2013/14 Teton FC Girls - Verbeten,U13,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=141
+Idaho Magic 12/13G,U13,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=155
+UVSF United '13 Anderson,U13,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=172
+LSC U13G LNR,U13,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=176
+13G Aspire,U13,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=182
+Hells Canyon Rapids Girls 2013,U13,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+Digger Girls 2013,U13,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=196
+208 FC 2014/13 G,U13,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+2013/14 Teton Girls- Tracy,U13,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+Sun Valley Soccer Club Girls 2013 - Academy,U13,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=204
+ID Surf 13G Academy DPL,U13,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=216
+ALBION SC IDAHO G13 Academy,U13,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225
+UVSF United '13 T-Anderson,U13,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=238
+AYSO Rexburg All-Stars GU10,U13,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=247
+Idaho Juniors 12B Neon,U14,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=46
+Rapids SC 2012B - Premier,U14,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=48
+Idaho Magic 12/13B Madrigal,U14,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=49
+Sun Valley Soccer Club Boys 2012,U14,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=52
+2012 Timbers ECNL,U14,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=53
+Idaho Rush 12 ECNL,U14,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=53
+Idaho Rush 12 ECNL,U14,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=54
+2012 Boys,U14,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=60
+Idaho Magic 12/13B Payne,U14,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=68
+Idaho Rush 12 Azul,U14,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=71
+CGA Elite 12B Red,U14,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=73
+IFFC 2012B Claret - Nelson,U14,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=82
+ALBION SC IDAHO B12 Academy,U14,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=98
+PFC Elite 2012 CE,U14,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=109
+Real Boise CF 2012 - Sevilla FC,U14,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=112
+CGA Elite 12B White,U14,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=117
+Digger Boys 2012,U14,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=119
+ID Surf 12B Academy,U14,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=119
+Rapids SC 2012B - Select,U14,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=134
+BTT 12 Boise Timbers,U14,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=134
+Sting Soccer Club 12B Academy,U14,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=137
+12 Boys Inferno Copa,U14,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=149
+Idaho Rush 12 ECNL-RL,U14,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=153
+2011-12 Teton FC Boys- Bissen,U14,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=159
+2012 / 2013 Boys Rush Nations United,U14,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=160
+Ida - Ore FC Tigers,U14,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=166
+12 Boys Inferno Liga,U14,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=169
+2012 Timbers ECNL RL,U14,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=169
+Snake River Strikers 2012 Spring 2025,U14,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=175
+NBFC 2012/13 Boys,U14,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=182
+Sandpoint Strikers FC 2012B,U14,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=190
+IFFC 2012B Copper - Doten,U14,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=203
+12B Idaho Villarreal Academy NPL,U14,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=214
+IFFC 2012B Cobalt - Frenchy,U14,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=215
+BTT 12/13 Timbers Elite,U14,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=224
+Sting Soccer Club 12B Premier,U14,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=234
+2012 Boys Rampage,U14,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=253
+Real Middleton CF 2012 - Hellas Verona,U14,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=261
+UVSF United '12-Watson,U14,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262
+ID Surf 12/13B Blue,U14,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+South Fremont YSA- Boys 2012,U14,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=273
+Valley SC U12B (Bronze) Spring 25,U14,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=288
+BVBIA COEUR D'ALENE BU14,U14,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292
+Hells Canyon Rapids Boys 2012,U14,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292
+NBFC 2012 Boys Black,U14,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=307
+NPSC U13/14B- Grey,U14,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=310
+PVSC 2012 Boys- McArthur,U14,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=329
+RFC Emmett TUZOS,U14,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=359
+Idaho United 12G Neon,U14,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=15
+Idaho Rush 12 ECNL-RL,U14,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=22
+U14 Black 2012 Indie Chicas,U14,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=29
+Idaho Rush 12 Nero,U14,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=34
+CGA Elite 12G,U14,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=38
+2012/13 Teton FC Girls- Kunz,U14,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=42
+PVSC 2013 Girls- Vaughan,U14,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=45
+2012 Girls Tidal Wave,U14,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=45
+PVSC 2012 Girls- Davis,U14,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=46
+GSA U14G Elite,U14,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=47
+12 Girls Inferno Copa,U14,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=47
+2012 Thorns ECNL RL,U14,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=54
+PFC 2012-13G,U14,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=56
+2012 Thorns ECNL,U14,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=58
+12G Aspire,U14,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=66
+IFFC 2012G Claret - Cook,U14,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=78
+Idaho Rush 12 Azul,U14,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=82
+U14 White 2012 Indie Chicas,U14,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=89
+Idaho Magic 12/13G Payne,U14,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=92
+PVSC 2012 Girls- Millward,U14,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=93
+GSA U14G,U14,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=94
+UVSF United '12 Kerns,U14,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=98
+208 FC 2012 G,U14,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+IFFC 2012G Cobalt - Brower,U14,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+JYSA Rigby Girls 2012,U14,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=111
+PVSC 2012 Girls- Olsen,U14,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=114
+IFFC 2012G Cobalt - Haycock,U14,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=120
+NPSC U13/14G- White,U14,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=124
+Idaho Legends 2012 Girls - Newell 24/25,U14,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=127
+Valley SC U14 Girls Fall 25,U14,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=136
+SSC 12G Premier,U14,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=144
+Shelley U14 Girls Team 2025-2026,U14,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=145
+Digger Girls 2012,U14,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=151
+2012 Players Girls,U14,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=163
+South Fremont 2012 Girls,U14,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=164
+Legacy U13G,U14,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=165
+Valley SC - U13G - Fall 25,U14,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=167
+ID Surf 12G Academy DPL,U14,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=173
+Real Eagle CF 2012 - Utah Royals,U14,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=177
+Hells Canyon Rapids Girls 2012,U14,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=179
+Shelley U13 Girls Team 2024-25,U14,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=181
+U13G RDL All-Star Team,U14,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=212
+JYSA Rigby Girls 2012-2013,U14,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=213
+BTT 12 Boise Thorns - ECNL,U14,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=218
+BVB IA CDA U13 GIRLS,U14,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=220
+McCall U13G Travel Team,U14,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=221
+Idaho Rush 11 ECNL,U15,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=20
+11 Boys Inferno Copa,U15,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=20
+2011 Timbers ECNL,U15,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=35
+PFC Premier 2011 HP,U15,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=37
+Idaho Juniors 11B Neon,U15,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=39
+CGA Elite 11B,U15,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=56
+2011 Timbers ECNL RL,U15,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=63
+2011 Boys Typhoon,U15,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=74
+Rapids SC 2011B - Premier,U15,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=86
+Idaho Rush 11 ECNL-RL,U15,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=89
+IFFC 2011B Claret. - Grgich,U15,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=94
+Idaho Legends 2011 Boys Gold - Strickler 24/25,U15,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=102
+Sting Soccer Club 11B Academy,U15,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=111
+Idaho Juniors 11B Black,U15,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=115
+UVSF United ‘11 Meredith,U15,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=124
+11B Academy,U15,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=125
+11B Academy,U15,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=126
+Sun Valley Soccer Club Boys 2011 - Academy,U15,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=131
+'12B Idaho Surf Hailey,U15,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=133
+BTT 11 Boise Timbers,U15,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=142
+ALBION SC IDAHO B11 Academy,U15,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=143
+11 Boys Inferno Liga,U15,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=157
+ALBION SC IDAHO B11 Academy II,U15,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=159
+Idaho Legends 2011 Boys,U15,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=160
+IFFC 2011B - Fall Johnsen,U15,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=167
+IFFC 2011B Cobalt - Eastman,U15,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=189
+JYSA Player 2011 Boys Comp,U15,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=193
+PVSC 2012 Boys- Harris,U15,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197
+IFFC 2011B Cobalt - Johnsen,U15,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=206
+Real Middleton CF 2011 - SSC Napoli,U15,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=207
+McCall U14B Travel Team,U15,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=209
+JYSA Rigby Boys 2011-2012,U15,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=210
+JYSA Rigby Boys 2011,U15,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=229
+ALBION SC IDAHO North B11 Academy,U15,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=229
+2011 B Timberwolves FC Gray Competitive,U15,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=230
+ALBION SC IDAHO MH B11 Academy,U15,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=230
+South Fremont Boys 2011,U15,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=244
+PVSC 2011 Boys- Tafelelmar,U15,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245
+Sting Soccer Club 11B Premier,U15,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=259
+Valley SC - U14B Fall 25,U15,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=260
+PVSC 2011 Boys Clark,U15,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=265
+BTT Nightmares - Premier,U15,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=273
+PVSC 2011 - Stuckey Coed,U15,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=287
+ALBION SC IDAHO B11 ACADEMY POOL,U15,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=298
+U14B RDL All-Star Team,U15,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=320
+SSC 11/12B Trapped,U15,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=330
+U15 Black 2011 Indie Chicas,U15,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=23
+CGA Elite 11G,U15,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=32
+11G Aspire,U15,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34
+2011 Thorns ECNL RL,U15,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=37
+Idaho Rush 11 ECNL-RL,U15,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=38
+2011G Timberwolves FC,U15,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=38
+ID SURF 11G Academy,U15,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=41
+Rapids SC 2011/2012G - Premier,U15,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=51
+2011 Girls Charge,U15,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=54
+2011 Thorns ECNL,U15,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=57
+PVSC 2011 Girls- Hunt,U15,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=62
+NBFC 2011/12 Girls,U15,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=68
+Idaho Legends 2011 Girls - Carver 24/25,U15,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=77
+IFFC 2011G Claret - Murray,U15,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=82
+PVSC 2011 Girls Stuckey,U15,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=88
+PFC Elite 2011-12G,U15,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=93
+Sandpoint Strikers FC 2011G,U15,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=106
+11 Girls Inferno Copa,U15,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=107
+IFFC 2011G Cobalt - Gooch 2,U15,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=109
+IFFC 2011G Cobalt - Gooch,U15,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=114
+SSC 11G Trapped,U15,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=119
+Rapids SC 2011/2012G Select,U15,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=119
+Sting Soccer Club 11G Premier,U15,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=123
+PVSC 2011 Girls- Smith,U15,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=124
+Sandpoint Strikers FC 2012G,U15,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=127
+LSC U15G LNR,U15,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=132
+LSC U14G LNR,U15,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=142
+ALBION SC IDAHO MH G11 Academy,U15,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+BTT 11 Boise Thorns - ECNL - Red,U15,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=148
+ALBION SC IDAHO G11 Academy,U15,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+IFFC 2011G FALL - Borgmann,U15,Female,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=152
+Digger Girls 2011,U15,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=156
+ID Surf 11G Academy DPL,U15,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=160
+JYSA Rigby Girls 2011-2012,U15,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=164
+Kuna Wildcats,U15,Female,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=173
+UVSF United '11 Thompson,U15,Female,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=188
+Idaho Legends 2011 Girls - Carver 25/26,U15,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=210
+Idaho Rush 10 ECNL-RL,U16,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=22
+BTT 10 Boise Timbers - ECNL RL,U16,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=34
+Idaho Juniors 10B Neon,U16,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=38
+ID Surf 10B Academy,U16,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=45
+Rapids SC 2010B - Premier,U16,Male,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=54
+10 Boys Inferno Copa,U16,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=61
+IFFC 2010B Claret,U16,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=66
+Idaho Rush 10 Nero,U16,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=71
+Idaho Rush Nations United 2011/2010,U16,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=77
+Idaho Juniors 10B Black,U16,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=82
+Sting Soccer Club 10B EA,U16,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=97
+Rapids SC 2010B - Select,U16,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=100
+IFFC 2010B Cobalt - Gooch 1,U16,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=110
+PFC Elite 2010 HP,U16,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=114
+2010 Boys Stormbreakers,U16,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=115
+Sting Soccer Club 10B Premier,U16,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=133
+BVB IA CDA U15 BOYS,U16,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=135
+Snake River Strikers 2010 Spring 2025,U16,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=140
+IPL All Stars 2010B,U16,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=147
+UVSF United '10 Cooper,U16,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=147
+Idaho Magic 10/11B,U16,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=150
+2010 Boise Timbers,U16,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=156
+IFFC 2010B Cobalt - Gooch 2,U16,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=163
+10 Boys Inferno Liga,U16,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=170
+2010 B Timberwolves FC,U16,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=178
+2010/2011 Boys,U16,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=203
+Real Middleton CF 2010 - Genoa,U16,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=204
+2010 Timbers NPL,U16,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=211
+Hells Canyon Rapids Boys 2011/12,U16,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=213
+ALBION SC IDAHO North B10 Academy,U16,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=213
+Idaho Rush 2010 Boys D3,U16,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=213
+Hells Canyon Rapids Boys 2010,U16,Male,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=219
+Sun Valley Soccer Club - Boys 2010s,U16,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228
+10B Blue,U16,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=231
+Real Boise CF 2010/11 - Real Madrid CF,U16,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=231
+10B United,U16,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=242
+Sandpoint Strikers FC 2010B,U16,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=245
+Idaho Rush 2010/2011 Nations United Boys,U16,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=250
+10B Idaho Villarreal Academy ELITE,U16,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=260
+CGA Elite 10G,U16,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=14
+IFFC 2010G Claret - Howell,U16,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=17
+10G Aspire,U16,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=18
+GSA U16G Elite,U16,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=20
+‘10G Academy,U16,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=23
+‘10G Blue,U16,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=33
+10/11 Girls Inferno Liga,U16,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=36
+2010 Thorns ECNL,U16,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=40
+Idaho Rush 10 ECNL-RL,U16,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=47
+Legacy U15 2010G LNR,U16,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=48
+IPL All Stars 10G,U16,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=57
+2010 Girls Fire,U16,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=61
+10 Nero,U16,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=67
+10G United,U16,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=68
+Idaho Rush Competitive 2010 Girls,U16,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=69
+Legacy U15G LPR,U16,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=70
+Valley SC Storm - U15G - Spring 2025,U16,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=74
+10 Girls Inferno Copa,U16,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=81
+JYSA Rigby Girls 2010,U16,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=82
+ALBION SC IDAHO G10 Academy,U16,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=82
+ALBION SC IDAHO G10 Academy,U16,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=83
+ID Surf 10G Academy DPL,U16,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=92
+U15 2010 Indie Chicas,U16,Female,GotSport Rankings,0,ID,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=102
+2010 Thorns ECNL RL,U16,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=109
+2010-11 Teton FC Girls- Lopez,U16,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=110
+IFFC 2010G Cobalt - Burnell,U16,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=124
+2010/2011 Girls,U16,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=138
+Idaho Magic 10G,U16,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=144
+BTT 10 Boise Thorns - ECNL,U16,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=151
+2010 Girls,U16,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=154
+2010G Blue,U16,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=156
+2010 Girls Tornado,U16,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=159
+Idaho Rush 2015 Girls D3,U16,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=163
+Boise Thorns FC ECNL RL G10,U16,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=169
+IFFC 2010G - Fall,U16,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=172
+2010 Girls Rush RDL McCall,U16,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=173
+McCall United RDL Girls 2010,U16,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=174
+BTT 09 Boise Timbers - ECNL RL,U17,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=37
+Sting Soccer Club 09B Academy,U17,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=41
+BTT 09 Boise Timbers,U17,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=42
+IFFC 2009B Claret,U17,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=48
+Idaho Rush 09 Nero,U17,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=53
+Idaho Rush 09 ECNL-RL,U17,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=64
+Idaho Magic 09B,U17,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=68
+UVSF United '09 Price,U17,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=70
+IFFC 2009B Cobalt - Solis,U17,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=78
+2009 Boys Surge,U17,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=78
+2009 Timbers NPL,U17,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=89
+CGA Elite 09/10B,U17,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=96
+09 Boys Inferno Liga,U17,Male,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=113
+IFFC 2009B Cobalt - Doten,U17,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=146
+U16 Teton FC Boys,U17,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=151
+IPL All Stars 2009B,U17,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=155
+JYSA Rigby Boys 2009-2010,U17,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=168
+Snake River Strikers 2009 Spring 2025,U17,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=206
+South Fremont Boys 2009,U17,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=215
+Rapids SC 2009/2010G Premier,U17,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=3
+IFFC 2009G Claret,U17,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=5
+Idaho Rush 09 ECNL-RL,U17,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=9
+09G Aspire,U17,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=19
+Timberwolves FC 09 G,U17,Female,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=29
+2009 Girls Storm,U17,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=40
+GSA U17G Elite,U17,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=44
+BTT 09 Boise Thorns - ECNL,U17,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=57
+UVSF United '09 Birch,U17,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=57
+Idaho Rush 09 Nero,U17,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=60
+09 Girls Inferno Copa,U17,Female,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=66
+ALBION SC IDAHO G09 Academy,U17,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=76
+208 FC 2010 G,U17,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=89
+Rapids SC 2009/2010G Select,U17,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=99
+IFFC 2009G Cobalt,U17,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=109
+2009 Thorns ECNL RL,U17,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=127
+ID Surf 09G Academy DPL,U17,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=128
+Boise Thorns 2009 GIRLS ECNL RL,U17,Female,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=131
+Idaho Rush 08 ECNL-RL,U18,Male,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=9
+Rapids SC 2008/2009B Premier,U18,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=14
+09 Boys Inferno Copa,U18,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=17
+09 Boys Inferno Copa,U18,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=18
+NBFC Galacticos,U18,Male,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=20
+Idaho Storm 08B NPL,U18,Male,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=30
+CGA Elite 08B,U18,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=31
+Idaho Juniors 08B Neon,U18,Male,GotSport Rankings,0,ID,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=50
+IFFC 2008B Claret,U18,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=53
+Sting Soccer Club 08/09B EA,U18,Male,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=56
+PVSC 08/09/10 Boys- Lackey,U18,Male,GotSport Rankings,0,ID,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=63
+BTT 08 Boise Timbers - ECNL RL,U18,Male,GotSport Rankings,0,ID,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=68
+IFFC 2008B Cobalt,U18,Male,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=72
+Sun Valley Soccer Club - Boys 2009s/2008s,U18,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=89
+08 Boys Inferno,U18,Male,GotSport Rankings,0,ID,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=93
+Idaho ODP 2008 Boys,U18,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=96
+PFC 2008-09,U18,Male,GotSport Rankings,0,ID,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=98
+2008 Timbers NPL,U18,Male,GotSport Rankings,0,ID,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=105
+South Fremont U17 Boys,U18,Male,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=107
+Sun Valley Soccer Club - 2008 Boys,U18,Male,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=108
+ALBION SC IDAHO North HS Academy,U18,Male,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=112
+IPL All Stars 2008B,U18,Male,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=113
+BTT 08 Boise Timbers,U18,Male,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=120
+PFC 2008-09,U18,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=121
+2008/2009 B Timberwolves FC Gray Competitive,U18,Male,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=122
+CGA Elite 08/09G,U18,Female,GotSport Rankings,0,ID,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=3
+BYSL IFFC 2008G Claret,U18,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=5
+Idaho Rush 08 ECNL-RL,U18,Female,GotSport Rankings,0,ID,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=10
+Idaho Magic 08G,U18,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=28
+IFFC 2008G Claret,U18,Female,GotSport Rankings,0,ID,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=29
+Sting Soccer Club 08G DPL,U18,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=38
+Sandpoint Strikers FC Girls High School,U18,Female,GotSport Rankings,0,ID,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=41
+08 Girls Inferno Copa,U18,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=44
+IFFC 2008G Cobalt,U18,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=44
+PVSC 08/09/10 Girls- Russell Keller,U18,Female,GotSport Rankings,0,ID,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=49
+IPL All Stars 2008/09G,U18,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=56
+2008 Thorns ECNL RL,U18,Female,GotSport Rankings,0,ID,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=57
+Idaho Rush 08 Nero,U18,Female,GotSport Rankings,0,ID,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=63
+BTT 08 Boise Thorns - Elite,U18,Female,GotSport Rankings,0,ID,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=63
+2009-11 Teton FC Girls- Lopez,U18,Female,GotSport Rankings,0,ID,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=64
+2008 Girls Tempest,U18,Female,GotSport Rankings,0,ID,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=80
+2008/2009 Girls,U18,Female,GotSport Rankings,0,ID,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=80
+Boise Thorns 2008 GIRLS AGE GROUP POOL,U18,Female,GotSport Rankings,0,ID,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=83
+IFFC Cobalt,U18,Female,GotSport Rankings,0,ID,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=89

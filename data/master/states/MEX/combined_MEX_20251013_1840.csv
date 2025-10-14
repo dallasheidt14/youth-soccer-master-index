@@ -1,0 +1,11 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+Rayados Poniente,U10,Male,GotSport Rankings,0,MEX,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=51,GotSport
+FC Cancun,U11,Male,GotSport Rankings,0,MEX,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=366,GotSport
+Eagles FC,U14,Female,GotSport Rankings,0,MEX,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=207,GotSport
+BVBIA AZ HMO 2012 Boys,U14,Male,GotSport Rankings,0,MEX,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=64,GotSport
+Club Tijuana FB U14,U14,Male,GotSport Rankings,0,MEX,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=314,GotSport
+BVBIA AZ HMO 2012 Boys,U14,Male,GotSport Rankings,0,MEX,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=63,GotSport
+BVBIA AZ ENS 2011 Boys,U15,Male,GotSport Rankings,0,MEX,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=17,GotSport
+Monterrey Rayados 2011,U15,Male,GotSport Rankings,0,MEX,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=19,GotSport
+Sisukas FC 2011,U15,Male,GotSport Rankings,0,MEX,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=285,GotSport
+Borrego Tec de MTY 2011,U15,Male,GotSport Rankings,0,MEX,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=68,GotSport

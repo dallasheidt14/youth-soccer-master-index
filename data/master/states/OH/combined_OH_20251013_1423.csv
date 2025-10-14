@@ -1,0 +1,5 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+Columbus United G'11 Lions,U15,Female,GotSport Rankings,0,OH,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+Columbus United G'10 Lions,U16,Female,GotSport Rankings,0,OH,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+CUP 09B MLS Next HG,U17,Male,GotSport Rankings,0,OH,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1,GotSport
+Ambassadors FC 2008 Girls,U18,Female,GotSport Rankings,0,OH,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport

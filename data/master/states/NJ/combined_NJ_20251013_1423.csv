@@ -1,0 +1,33 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+16G Pre GA,U10,Female,GotSport Rankings,0,NJ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+15G Pre GA,U11,Female,GotSport Rankings,0,NJ,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+Pre-ECNL White G15,U11,Female,GotSport Rankings,0,NJ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+FUTBOLTECH CHSC - 2015 LIVERPOOL,U11,Male,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+Real FA 2014 Pre-GA,U12,Female,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+Pre-ECNL G14,U12,Female,GotSport Rankings,0,NJ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+The FA 2013 Girls Black,U13,Female,GotSport Rankings,0,NJ,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+13G GA,U13,Female,GotSport Rankings,0,NJ,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+Torpedoes GU13 Red,U13,Female,GotSport Rankings,0,NJ,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+FUTBOLTECH CHSC - 2013 BAYERN,U13,Male,GotSport Rankings,0,NJ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1,GotSport
+The FA 2012 Girls Black,U14,Female,GotSport Rankings,0,NJ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+Z-Girls Mercer 2012 Blue,U14,Female,GotSport Rankings,0,NJ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+Wall Elite Porto,U14,Female,GotSport Rankings,0,NJ,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1,GotSport
+NJ Stallions 12 PSG EDP NL,U14,Male,GotSport Rankings,0,NJ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1,GotSport
+11G Aspire,U15,Female,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+Marlton Chiefs Premier 2011,U15,Female,GotSport Rankings,0,NJ,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+Match Fit Mercer ECNL RL G11,U15,Female,GotSport Rankings,0,NJ,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1,GotSport
+11B ECNL,U15,Male,GotSport Rankings,0,NJ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1,GotSport
+Shore Fire FC Rebels USYS 2010G,U16,Female,GotSport Rankings,0,NJ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+Union County FC Dortmund 2009/10G DPL,U16,Female,GotSport Rankings,0,NJ,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+Harrison Swarm 2010,U16,Female,GotSport Rankings,0,NJ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+2010 Girls Elite,U16,Female,GotSport Rankings,0,NJ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+Wall Elite Juventus,U16,Female,GotSport Rankings,0,NJ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+PSA Monmouth 10G Orange,U16,Female,GotSport Rankings,0,NJ,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1,GotSport
+10B ECNL,U16,Male,GotSport Rankings,0,NJ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+O'Hara,U17,Female,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+‘09G NL,U17,Female,GotSport Rankings,0,NJ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+Wall Elite Spirit,U17,Female,GotSport Rankings,0,NJ,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+2009 Girls Elite,U17,Female,GotSport Rankings,0,NJ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+Legacy 09 Girls Black,U17,Female,GotSport Rankings,0,NJ,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+Torpedoes BU17 Red,U18,Male,GotSport Rankings,0,NJ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1,GotSport
+Silva,U18,Male,GotSport Rankings,0,NJ,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1,GotSport

@@ -1,0 +1,15 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+G2016 Lime,U10,Female,GotSport Rankings,0,CAS,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+So Cal Blues SC - G16 Blue,U10,Female,GotSport Rankings,0,CAS,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+G2016 Blue,U10,Female,GotSport Rankings,0,CAS,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+Sporting CA- G16 Pre ECNL,U10,Female,GotSport Rankings,0,CAS,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1,GotSport
+B16 Elite,U10,Male,GotSport Rankings,0,CAS,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+TFA-Pro B2016,U10,Male,GotSport Rankings,0,CAS,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+PHENOM B2016,U10,Male,GotSport Rankings,0,CAS,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+Futboleros FC,U10,Male,GotSport Rankings,0,CAS,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+G2015 Lime,U11,Female,GotSport Rankings,0,CAS,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+G2015 SB Souza,U11,Female,GotSport Rankings,0,CAS,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+SD Surf Academy Girls 2015 (Hoyos),U11,Female,GotSport Rankings,0,CAS,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1,GotSport
+HB Koge ECNL G13,U13,Female,GotSport Rankings,0,CAS,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+VBFC Academy 2011,U15,Male,GotSport Rankings,0,CAS,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1,GotSport
+ECNL RL G08/07,U18,Female,GotSport Rankings,0,CAS,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1,GotSport

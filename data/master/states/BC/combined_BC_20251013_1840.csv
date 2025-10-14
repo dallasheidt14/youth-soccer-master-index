@@ -1,0 +1,7 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+Azzurri FC,U11,Male,GotSport Rankings,0,BC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=166,GotSport
+Surrey FC 2014G Selects,U12,Female,GotSport Rankings,0,BC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=120,GotSport
+2012 Coyotes,U14,Male,GotSport Rankings,0,BC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=251,GotSport
+2011B BCSPL,U15,Male,GotSport Rankings,0,BC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=128,GotSport
+Azzurri,U16,Female,GotSport Rankings,0,BC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=150,GotSport
+24/25 U15G Div 1 Rangers (Narveaz),U16,Female,GotSport Rankings,0,BC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=171,GotSport

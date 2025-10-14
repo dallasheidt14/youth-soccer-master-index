@@ -1,0 +1,70 @@
+2025-10-14 10:46:13,138 - INFO - 🔍 Auto-detecting latest master index file...
+2025-10-14 10:46:13,139 - INFO - 📁 Found latest file: data\master\master_team_index_20251013_1840.csv
+2025-10-14 10:46:13,139 - INFO - 📊 Loading data from data\master\master_team_index_20251013_1840.csv
+2025-10-14 10:46:13,334 - INFO - 📈 Original data:
+2025-10-14 10:46:13,334 - INFO -    • Rows: 90,355
+2025-10-14 10:46:13,335 - INFO -    • Unique states: 71
+2025-10-14 10:46:13,335 - INFO -    • Columns: ['team_name', 'age_group', 'gender', 'source', 'points', 'state', 'rank', 'url', 'provider']
+2025-10-14 10:46:13,335 - INFO - 🔧 Starting normalization process...
+2025-10-14 10:46:13,337 - INFO - 🔧 Starting state normalization for 90,355 teams
+2025-10-14 10:46:13,340 - INFO - 📊 Original states found: 71
+2025-10-14 10:46:13,344 - INFO - 🔄 Mapped 7,221 teams: CAS → CA
+2025-10-14 10:46:13,347 - INFO - 🔄 Mapped 6,132 teams: CAN → CA
+2025-10-14 10:46:13,351 - INFO - 🔄 Mapped 3,252 teams: TXN → TX
+2025-10-14 10:46:13,354 - INFO - 🔄 Mapped 4,302 teams: TXS → TX
+2025-10-14 10:46:13,358 - INFO - 🔄 Mapped 3,045 teams: PAE → PA
+2025-10-14 10:46:13,361 - INFO - 🔄 Mapped 551 teams: PAW → PA
+2025-10-14 10:46:13,365 - INFO - 🔄 Mapped 4,207 teams: NYE → NY
+2025-10-14 10:46:13,368 - INFO - 🔄 Mapped 778 teams: NYW → NY
+2025-10-14 10:46:13,368 - INFO - ✅ Total regional mappings applied: 29,488
+2025-10-14 10:46:13,369 - INFO - 🌍 Removing 93 non-U.S. teams
+2025-10-14 10:46:13,401 - INFO - ✅ State normalization complete:
+2025-10-14 10:46:13,402 - INFO -    • Original teams: 90,355
+2025-10-14 10:46:13,402 - INFO -    • Final teams: 90,262
+2025-10-14 10:46:13,402 - INFO -    • Removed: 93 (0.1%)
+2025-10-14 10:46:13,404 - INFO - 📊 Final U.S. states: 51
+2025-10-14 10:46:13,404 - INFO -    • Top 5 states: {'CA': 13353, 'TX': 7554, 'NY': 4985, 'FL': 4914, 'NJ': 4453}
+2025-10-14 10:46:13,411 - INFO - 📋 Reordered columns: ['team_name', 'age_group', 'gender', 'state', 'rank', 'points', 'source', 'provider', 'url']
+2025-10-14 10:46:13,433 - INFO - 🔄 Sorted by: ['state', 'age_group', 'gender', 'rank']
+2025-10-14 10:46:13,434 - INFO - 💾 Saving cleaned data to data\master\master_team_index_USAonly_20251014_1046.csv
+2025-10-14 10:46:13,675 - INFO - ✅ Saved CSV → data\master\master_team_index_USAonly_20251014_1046.csv (90262 rows)
+2025-10-14 10:46:13,677 - INFO - 🏁 Normalization complete!
+2025-10-14 10:46:13,677 - INFO - ✅ Clean USA-only master index saved → data\master\master_team_index_USAonly_20251014_1046.csv
+2025-10-14 10:46:13,677 - INFO - 📊 Rows before: 90,355 → after: 90,262
+2025-10-14 10:46:13,677 - INFO - 🌍 States before: 71 → after: 51
+2025-10-14 10:46:13,681 - INFO - 📈 Final dataset summary:
+2025-10-14 10:46:13,681 - INFO -    • Age groups: ['U10', 'U11', 'U12', 'U13', 'U14', 'U15', 'U16', 'U17', 'U18']
+2025-10-14 10:46:13,681 - INFO -    • Genders: ['Female', 'Male']
+2025-10-14 10:46:13,681 - INFO -    • File size: 16.7 MB
+2025-10-14 10:49:08,191 - INFO - 🔍 Auto-detecting latest master index file...
+2025-10-14 10:49:08,192 - INFO - 📁 Found latest file: data\master\master_team_index_USAonly_20251014_1046.csv
+2025-10-14 10:49:08,192 - INFO - 📊 Loading data from data\master\master_team_index_USAonly_20251014_1046.csv
+2025-10-14 10:49:08,347 - INFO - 📈 Original data:
+2025-10-14 10:49:08,347 - INFO -    • Rows: 90,262
+2025-10-14 10:49:08,347 - INFO -    • Unique states: 51
+2025-10-14 10:49:08,347 - INFO -    • Columns: ['team_name', 'age_group', 'gender', 'state', 'rank', 'points', 'source', 'provider', 'url']
+2025-10-14 10:49:08,347 - INFO - 🔧 Starting normalization process...
+2025-10-14 10:49:08,350 - INFO - 🔧 Starting state normalization for 90,262 teams
+2025-10-14 10:49:08,353 - INFO - 📊 Original states found: 51
+2025-10-14 10:49:08,395 - INFO - ✅ State normalization complete:
+2025-10-14 10:49:08,395 - INFO -    • Original teams: 90,262
+2025-10-14 10:49:08,395 - INFO -    • Final teams: 90,262
+2025-10-14 10:49:08,395 - INFO -    • Removed: 0 (0.0%)
+2025-10-14 10:49:08,398 - INFO - 📊 Final U.S. states: 51
+2025-10-14 10:49:08,398 - INFO -    • Top 5 states: {'CA': 13353, 'TX': 7554, 'NY': 4985, 'FL': 4914, 'NJ': 4453}
+2025-10-14 10:49:08,404 - INFO - 📋 Reordered columns: ['team_name', 'age_group', 'gender', 'state', 'rank', 'points', 'source', 'provider', 'url']
+2025-10-14 10:49:08,422 - INFO - 🔄 Sorted by: ['state', 'age_group', 'gender', 'rank']
+2025-10-14 10:49:08,423 - INFO - 💾 Saving cleaned data to data\master\master_team_index_USAonly_20251014_1049.csv
+2025-10-14 10:49:08,662 - INFO - ✅ Saved CSV → data\master\master_team_index_USAonly_20251014_1049.csv (90262 rows)
+2025-10-14 10:49:08,662 - INFO - 📊 Generating per-state summary statistics...
+2025-10-14 10:49:08,704 - INFO - ✅ State summaries saved → data\master\state_summaries_20251014_1049.json
+2025-10-14 10:49:08,706 - INFO - 🏁 Normalization complete!
+2025-10-14 10:49:08,706 - INFO - ✅ Clean USA-only master index saved → data\master\master_team_index_USAonly_20251014_1049.csv
+2025-10-14 10:49:08,706 - INFO - 📊 Rows before: 90,262 → after: 90,262
+2025-10-14 10:49:08,706 - INFO - 🌍 States before: 51 → after: 51
+2025-10-14 10:49:08,706 - INFO - 📈 States covered: 50
+2025-10-14 10:49:08,706 - INFO - ⚽ Total teams nationwide: 90,262
+2025-10-14 10:49:08,710 - INFO - 📈 Final dataset summary:
+2025-10-14 10:49:08,710 - INFO -    • Age groups: ['U10', 'U11', 'U12', 'U13', 'U14', 'U15', 'U16', 'U17', 'U18']
+2025-10-14 10:49:08,710 - INFO -    • Genders: ['Female', 'Male']
+2025-10-14 10:49:08,710 - INFO -    • File size: 16.7 MB

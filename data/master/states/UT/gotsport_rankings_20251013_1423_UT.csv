@@ -1,0 +1,4 @@
+team_name,age_group,gender,source,points,state,rank,url
+Utah United Academy 2013,U13,Male,GotSport Rankings,0,UT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Fire FC Premier 09G,U17,Female,GotSport Rankings,0,UT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Utah Celtic FC 07/08 MLS Next 2,U18,Male,GotSport Rankings,0,UT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1

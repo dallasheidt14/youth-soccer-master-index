@@ -1,0 +1,599 @@
+2025-10-13 12:10:57,188 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 12:10:57,192 - INFO - ✅ Master team index written to C:\youth-soccer-master-index\data\master\master_team_index_20251013_1210.csv
+2025-10-13 12:10:57,192 - INFO - 🏁 Completed at 2025-10-13 12:10:57
+2025-10-13 12:20:39,923 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 12:20:39,923 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 12:20:39,923 - INFO - 🏗️ Initialized GotSport scraper with base URL: https://system.gotsport.com/org_event/events
+2025-10-13 12:20:39,923 - INFO - 🔄 Running GotSport scraper
+2025-10-13 12:20:39,924 - INFO - Scraping started for provider: GotSport
+2025-10-13 12:20:39,924 - INFO - 📡 Fetching raw data from GotSport
+2025-10-13 12:20:39,924 - INFO - 🌐 Starting data fetch from GotSport platform
+2025-10-13 12:20:39,924 - INFO - 📡 Making request to: https://system.gotsport.com/org_event/events
+2025-10-13 12:20:41,283 - INFO - ✅ Successfully fetched 10 raw team records from GotSport
+2025-10-13 12:20:41,284 - INFO - 📊 Retrieved 10 raw records from GotSport
+2025-10-13 12:20:41,284 - INFO - 🔧 Parsing and normalizing data from GotSport
+2025-10-13 12:20:41,284 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 12:20:41,284 - INFO - ✅ Successfully parsed 10 teams from GotSport
+2025-10-13 12:20:41,284 - INFO - ✅ Successfully parsed 10 records from GotSport
+2025-10-13 12:20:41,284 - INFO - 🏁 Completed scraping workflow for GotSport
+2025-10-13 12:20:41,284 - INFO - ✅ GotSport data collected: 10 teams
+2025-10-13 12:20:41,284 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 12:20:41,284 - INFO - 🔧 Creating unified master team index with 10 total teams
+2025-10-13 12:20:41,288 - INFO - ✅ Master team index updated successfully: C:\youth-soccer-master-index\data\master\master_team_index_20251013_1220.csv
+2025-10-13 12:20:41,289 - INFO - 📊 Master Index Summary:
+2025-10-13 12:20:41,289 - INFO -    Total teams: 10
+2025-10-13 12:20:41,289 - INFO -    Age groups: ['U11', 'U12', 'U13', 'U14', 'U15', 'U16', 'U17', 'U18', 'U19']
+2025-10-13 12:20:41,289 - INFO -    Genders: ['Female', 'Male']
+2025-10-13 12:20:41,289 - INFO -    Sources: ['GotSport']
+2025-10-13 12:20:41,289 - INFO - 🏁 Master team index build completed at 2025-10-13 12:20:39
+2025-10-13 13:18:16,708 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 13:18:16,708 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 13:18:16,708 - INFO - 🔧 ZenRows integration enabled for GotSport
+2025-10-13 13:18:16,708 - INFO - 🏗️ Initialized GotSport scraper with base URL: https://system.gotsport.com/org_event/events
+2025-10-13 13:18:16,708 - INFO - 🔄 Running GotSport scraper
+2025-10-13 13:18:16,708 - INFO - Scraping started for provider: GotSport
+2025-10-13 13:18:16,708 - INFO - 📡 Fetching raw data from GotSport
+2025-10-13 13:18:16,708 - INFO - 🌐 Starting data fetch from GotSport platform
+2025-10-13 13:18:16,708 - INFO - 🔧 Using ZenRows for rendering
+2025-10-13 13:18:16,712 - INFO - 🔧 Using ZenRows for rendering: https://system.gotsport.com/org_event/events
+2025-10-13 13:18:18,261 - WARNING - ⚠️ No HTML content received, using mock data
+2025-10-13 13:18:18,263 - INFO - ✅ Successfully fetched 10 raw team records from GotSport
+2025-10-13 13:18:18,263 - INFO - 📊 Retrieved 10 raw records from GotSport
+2025-10-13 13:18:18,263 - INFO - 🔧 Parsing and normalizing data from GotSport
+2025-10-13 13:18:18,263 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:18:18,263 - INFO - ✅ Successfully parsed 10 teams from GotSport
+2025-10-13 13:18:18,263 - INFO - ✅ Successfully parsed 10 records from GotSport
+2025-10-13 13:18:18,263 - INFO - 🏁 Completed scraping workflow for GotSport
+2025-10-13 13:18:18,263 - INFO - ✅ GotSport data collected: 10 teams
+2025-10-13 13:18:18,263 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 13:18:18,263 - INFO - 🔧 Creating unified master team index with 10 total teams
+2025-10-13 13:18:18,283 - INFO - ✅ Master team index updated successfully: C:\youth-soccer-master-index\data\master\master_team_index_20251013_1318.csv
+2025-10-13 13:18:18,283 - INFO - 📊 Master Index Summary:
+2025-10-13 13:18:18,283 - INFO -    Total teams: 10
+2025-10-13 13:18:18,283 - INFO -    Age groups: ['U11', 'U12', 'U13', 'U14', 'U15', 'U16', 'U17', 'U18', 'U19']
+2025-10-13 13:18:18,283 - INFO -    Genders: ['Female', 'Male']
+2025-10-13 13:18:18,283 - INFO -    Sources: ['GotSport']
+2025-10-13 13:18:18,283 - INFO - 🏁 Master team index build completed at 2025-10-13 13:18:16
+2025-10-13 13:22:43,421 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 13:22:43,422 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 13:22:43,422 - INFO - 🔧 ZenRows integration enabled for GotSport
+2025-10-13 13:22:43,422 - INFO - 🏗️ Initialized GotSport scraper with base URL: https://system.gotsport.com/org_event/events
+2025-10-13 13:22:43,422 - INFO - 🔄 Running GotSport scraper
+2025-10-13 13:22:43,422 - INFO - Scraping started for provider: GotSport
+2025-10-13 13:22:43,422 - INFO - 📡 Fetching raw data from GotSport
+2025-10-13 13:22:43,423 - INFO - 🌐 Starting data fetch from GotSport platform
+2025-10-13 13:22:43,423 - INFO - 🔧 Using ZenRows for rendering
+2025-10-13 13:22:43,429 - INFO - 🔧 Using ZenRows for rendering: https://system.gotsport.com/org_event/events
+2025-10-13 13:22:44,841 - WARNING - ⚠️ No HTML content received, using mock data
+2025-10-13 13:22:44,842 - INFO - ✅ Successfully fetched 10 raw team records from GotSport
+2025-10-13 13:22:44,842 - INFO - 📊 Retrieved 10 raw records from GotSport
+2025-10-13 13:22:44,842 - INFO - 🔧 Parsing and normalizing data from GotSport
+2025-10-13 13:22:44,843 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:22:44,843 - INFO - ✅ Successfully parsed 10 teams from GotSport
+2025-10-13 13:22:44,843 - INFO - ✅ Successfully parsed 10 records from GotSport
+2025-10-13 13:22:44,843 - INFO - 🏁 Completed scraping workflow for GotSport
+2025-10-13 13:22:44,844 - INFO - ✅ GotSport data collected: 10 teams
+2025-10-13 13:22:44,844 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 13:22:44,844 - INFO - 🔧 Creating unified master team index with 10 total teams
+2025-10-13 13:22:44,851 - INFO - ✅ Master team index updated successfully: C:\youth-soccer-master-index\data\master\master_team_index_20251013_1322.csv
+2025-10-13 13:22:44,851 - INFO - 📊 Master Index Summary:
+2025-10-13 13:22:44,852 - INFO -    Total teams: 10
+2025-10-13 13:22:44,852 - INFO -    Age groups: ['U11', 'U12', 'U13', 'U14', 'U15', 'U16', 'U17', 'U18', 'U19']
+2025-10-13 13:22:44,852 - INFO -    Genders: ['Female', 'Male']
+2025-10-13 13:22:44,853 - INFO -    Sources: ['GotSport']
+2025-10-13 13:22:44,853 - INFO - 🏁 Master team index build completed at 2025-10-13 13:22:43
+2025-10-13 13:28:48,669 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 13:28:48,669 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 13:28:48,669 - INFO - 🔧 ZenRows integration enabled for GotSport Rankings
+2025-10-13 13:28:48,669 - INFO - 🏗️ Initialized GotSport Rankings scraper with base URL: https://rankings.gotsport.com
+2025-10-13 13:28:48,669 - INFO - 🔄 Running GotSport scraper
+2025-10-13 13:28:48,669 - INFO - Scraping started for provider: GotSport Rankings
+2025-10-13 13:28:48,669 - INFO - 📡 Fetching raw data from GotSport Rankings
+2025-10-13 13:28:48,669 - INFO - 🌐 Starting comprehensive GotSport Rankings data fetch
+2025-10-13 13:28:48,669 - INFO - 📊 Processing 18 age/gender combinations
+2025-10-13 13:28:48,669 - INFO - 🔍 Fetching U10 Boys rankings
+2025-10-13 13:28:48,674 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:28:53,237 - WARNING - ⚠️ Rankings table not found for U10 Boys
+2025-10-13 13:28:53,237 - WARNING - ⚠️ No teams found for U10 Boys
+2025-10-13 13:28:55,024 - INFO - 🔍 Fetching U10 Girls rankings
+2025-10-13 13:28:55,024 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:28:56,703 - WARNING - ⚠️ Rankings table not found for U10 Girls
+2025-10-13 13:28:56,703 - WARNING - ⚠️ No teams found for U10 Girls
+2025-10-13 13:28:57,850 - INFO - 🔍 Fetching U11 Boys rankings
+2025-10-13 13:28:57,850 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:28:59,580 - WARNING - ⚠️ Rankings table not found for U11 Boys
+2025-10-13 13:28:59,580 - WARNING - ⚠️ No teams found for U11 Boys
+2025-10-13 13:29:00,979 - INFO - 🔍 Fetching U11 Girls rankings
+2025-10-13 13:29:00,979 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:29:03,089 - WARNING - ⚠️ Rankings table not found for U11 Girls
+2025-10-13 13:29:03,089 - WARNING - ⚠️ No teams found for U11 Girls
+2025-10-13 13:29:04,584 - INFO - 🔍 Fetching U12 Boys rankings
+2025-10-13 13:29:04,584 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:29:06,543 - WARNING - ⚠️ Rankings table not found for U12 Boys
+2025-10-13 13:29:06,543 - WARNING - ⚠️ No teams found for U12 Boys
+2025-10-13 13:29:07,817 - INFO - 🔍 Fetching U12 Girls rankings
+2025-10-13 13:29:07,817 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:29:09,373 - WARNING - ⚠️ Rankings table not found for U12 Girls
+2025-10-13 13:29:09,373 - WARNING - ⚠️ No teams found for U12 Girls
+2025-10-13 13:29:10,901 - INFO - 🔍 Fetching U13 Boys rankings
+2025-10-13 13:29:10,901 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:29:12,556 - WARNING - ⚠️ Rankings table not found for U13 Boys
+2025-10-13 13:29:12,556 - WARNING - ⚠️ No teams found for U13 Boys
+2025-10-13 13:29:13,567 - INFO - 🔍 Fetching U13 Girls rankings
+2025-10-13 13:29:13,568 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:29:15,384 - WARNING - ⚠️ Rankings table not found for U13 Girls
+2025-10-13 13:29:15,385 - WARNING - ⚠️ No teams found for U13 Girls
+2025-10-13 13:29:17,165 - INFO - 🔍 Fetching U14 Boys rankings
+2025-10-13 13:29:17,166 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:29:19,449 - WARNING - ⚠️ Rankings table not found for U14 Boys
+2025-10-13 13:29:19,449 - WARNING - ⚠️ No teams found for U14 Boys
+2025-10-13 13:29:20,714 - INFO - 🔍 Fetching U14 Girls rankings
+2025-10-13 13:29:20,714 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:29:22,834 - WARNING - ⚠️ Rankings table not found for U14 Girls
+2025-10-13 13:29:22,834 - WARNING - ⚠️ No teams found for U14 Girls
+2025-10-13 13:29:24,181 - INFO - 🔍 Fetching U15 Boys rankings
+2025-10-13 13:29:24,182 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:29:25,798 - WARNING - ⚠️ Rankings table not found for U15 Boys
+2025-10-13 13:29:25,799 - WARNING - ⚠️ No teams found for U15 Boys
+2025-10-13 13:29:27,183 - INFO - 🔍 Fetching U15 Girls rankings
+2025-10-13 13:29:27,183 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:29:28,798 - WARNING - ⚠️ Rankings table not found for U15 Girls
+2025-10-13 13:29:28,799 - WARNING - ⚠️ No teams found for U15 Girls
+2025-10-13 13:29:30,580 - INFO - 🔍 Fetching U16 Boys rankings
+2025-10-13 13:29:30,580 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:29:32,009 - WARNING - ⚠️ Rankings table not found for U16 Boys
+2025-10-13 13:29:32,009 - WARNING - ⚠️ No teams found for U16 Boys
+2025-10-13 13:29:33,802 - INFO - 🔍 Fetching U16 Girls rankings
+2025-10-13 13:29:33,802 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:29:35,544 - WARNING - ⚠️ Rankings table not found for U16 Girls
+2025-10-13 13:29:35,544 - WARNING - ⚠️ No teams found for U16 Girls
+2025-10-13 13:29:36,670 - INFO - 🔍 Fetching U17 Boys rankings
+2025-10-13 13:29:36,671 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:29:39,256 - WARNING - ⚠️ Rankings table not found for U17 Boys
+2025-10-13 13:29:39,256 - WARNING - ⚠️ No teams found for U17 Boys
+2025-10-13 13:29:40,963 - INFO - 🔍 Fetching U17 Girls rankings
+2025-10-13 13:29:40,963 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:29:43,008 - WARNING - ⚠️ Rankings table not found for U17 Girls
+2025-10-13 13:29:43,008 - WARNING - ⚠️ No teams found for U17 Girls
+2025-10-13 13:29:44,910 - INFO - 🔍 Fetching U18 Boys rankings
+2025-10-13 13:29:44,910 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:29:46,592 - WARNING - ⚠️ Rankings table not found for U18 Boys
+2025-10-13 13:29:46,593 - WARNING - ⚠️ No teams found for U18 Boys
+2025-10-13 13:29:48,422 - INFO - 🔍 Fetching U18 Girls rankings
+2025-10-13 13:29:48,422 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:29:50,017 - WARNING - ⚠️ Rankings table not found for U18 Girls
+2025-10-13 13:29:50,017 - WARNING - ⚠️ No teams found for U18 Girls
+2025-10-13 13:29:51,480 - WARNING - ⚠️ No teams found from any age/gender combination, using fallback data
+2025-10-13 13:29:51,480 - INFO - ✅ Successfully fetched 5 total team records from GotSport Rankings
+2025-10-13 13:29:51,481 - INFO - 📊 Retrieved 5 raw records from GotSport Rankings
+2025-10-13 13:29:51,481 - INFO - 🔧 Parsing and normalizing data from GotSport Rankings
+2025-10-13 13:29:51,481 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:29:51,481 - INFO - ✅ Successfully parsed 5 teams from GotSport Rankings
+2025-10-13 13:29:51,481 - INFO - ✅ Successfully parsed 5 records from GotSport Rankings
+2025-10-13 13:29:51,481 - INFO - 🏁 Completed scraping workflow for GotSport Rankings
+2025-10-13 13:29:51,481 - INFO - ✅ GotSport data collected: 5 teams
+2025-10-13 13:29:51,481 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 13:29:51,481 - INFO - 🔧 Creating unified master team index with 5 total teams
+2025-10-13 13:29:51,501 - INFO - ✅ Master team index updated successfully: C:\youth-soccer-master-index\data\master\master_team_index_20251013_1329.csv
+2025-10-13 13:29:51,501 - INFO - 📊 Master Index Summary:
+2025-10-13 13:29:51,501 - INFO -    Total teams: 5
+2025-10-13 13:29:51,501 - INFO -    Age groups: ['U11', 'U12', 'U13', 'U14']
+2025-10-13 13:29:51,501 - INFO -    Genders: ['Female', 'Male']
+2025-10-13 13:29:51,501 - INFO -    Sources: ['GotSport Rankings']
+2025-10-13 13:29:51,501 - INFO - 🏁 Master team index build completed at 2025-10-13 13:28:48
+2025-10-13 13:47:11,884 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 13:47:11,884 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 13:47:11,884 - INFO - 🔧 ZenRows integration enabled for GotSport Rankings
+2025-10-13 13:47:11,884 - INFO - 🏗️ Initialized GotSport Rankings scraper with base URL: https://rankings.gotsport.com
+2025-10-13 13:47:11,884 - INFO - 🔄 Running GotSport scraper
+2025-10-13 13:47:11,884 - INFO - Scraping started for provider: GotSport Rankings
+2025-10-13 13:47:11,884 - INFO - 📡 Fetching raw data from GotSport Rankings
+2025-10-13 13:47:11,884 - INFO - 🌐 Starting comprehensive GotSport Rankings data fetch
+2025-10-13 13:47:11,884 - INFO - 📊 Processing 18 age/gender combinations
+2025-10-13 13:47:11,884 - INFO - 🔍 Fetching U10 Boys rankings
+2025-10-13 13:47:11,884 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:47:11,889 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:47:15,403 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:47:15,406 - WARNING - ⚠️ Rankings table not found for U10 Boys
+2025-10-13 13:47:15,406 - WARNING - ⚠️ No teams found for U10 Boys
+2025-10-13 13:47:16,853 - INFO - 🔍 Fetching U10 Girls rankings
+2025-10-13 13:47:16,854 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:47:16,854 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:47:18,562 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:47:18,564 - WARNING - ⚠️ Rankings table not found for U10 Girls
+2025-10-13 13:47:18,564 - WARNING - ⚠️ No teams found for U10 Girls
+2025-10-13 13:47:20,433 - INFO - 🔍 Fetching U11 Boys rankings
+2025-10-13 13:47:20,433 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:47:20,433 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:47:22,250 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:47:22,255 - WARNING - ⚠️ Rankings table not found for U11 Boys
+2025-10-13 13:47:22,255 - WARNING - ⚠️ No teams found for U11 Boys
+2025-10-13 13:47:24,032 - INFO - 🔍 Fetching U11 Girls rankings
+2025-10-13 13:47:24,033 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:47:24,033 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:47:26,635 - INFO - ✅ Successfully fetched content (28572 chars)
+2025-10-13 13:47:26,638 - WARNING - ⚠️ Rankings table not found for U11 Girls
+2025-10-13 13:47:26,638 - WARNING - ⚠️ No teams found for U11 Girls
+2025-10-13 13:47:27,938 - INFO - 🔍 Fetching U12 Boys rankings
+2025-10-13 13:47:27,938 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:47:27,938 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:47:30,508 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:47:30,512 - WARNING - ⚠️ Rankings table not found for U12 Boys
+2025-10-13 13:47:30,512 - WARNING - ⚠️ No teams found for U12 Boys
+2025-10-13 13:47:32,468 - INFO - 🔍 Fetching U12 Girls rankings
+2025-10-13 13:47:32,469 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:47:32,469 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:47:34,356 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:47:34,358 - WARNING - ⚠️ Rankings table not found for U12 Girls
+2025-10-13 13:47:34,358 - WARNING - ⚠️ No teams found for U12 Girls
+2025-10-13 13:47:36,337 - INFO - 🔍 Fetching U13 Boys rankings
+2025-10-13 13:47:36,337 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:47:36,337 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:47:38,123 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:47:38,126 - WARNING - ⚠️ Rankings table not found for U13 Boys
+2025-10-13 13:47:38,126 - WARNING - ⚠️ No teams found for U13 Boys
+2025-10-13 13:47:39,745 - INFO - 🔍 Fetching U13 Girls rankings
+2025-10-13 13:47:39,746 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:47:39,746 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:47:43,177 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:47:43,180 - WARNING - ⚠️ Rankings table not found for U13 Girls
+2025-10-13 13:47:43,180 - WARNING - ⚠️ No teams found for U13 Girls
+2025-10-13 13:47:44,371 - INFO - 🔍 Fetching U14 Boys rankings
+2025-10-13 13:47:44,371 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:47:44,371 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:47:46,504 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:47:46,508 - WARNING - ⚠️ Rankings table not found for U14 Boys
+2025-10-13 13:47:46,508 - WARNING - ⚠️ No teams found for U14 Boys
+2025-10-13 13:47:47,623 - INFO - 🔍 Fetching U14 Girls rankings
+2025-10-13 13:47:47,624 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:47:47,624 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:47:50,317 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:47:50,320 - WARNING - ⚠️ Rankings table not found for U14 Girls
+2025-10-13 13:47:50,320 - WARNING - ⚠️ No teams found for U14 Girls
+2025-10-13 13:47:51,819 - INFO - 🔍 Fetching U15 Boys rankings
+2025-10-13 13:47:51,819 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:47:51,819 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:47:53,556 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:47:53,558 - WARNING - ⚠️ Rankings table not found for U15 Boys
+2025-10-13 13:47:53,558 - WARNING - ⚠️ No teams found for U15 Boys
+2025-10-13 13:47:55,136 - INFO - 🔍 Fetching U15 Girls rankings
+2025-10-13 13:47:55,137 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:47:55,137 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:47:59,777 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:47:59,779 - WARNING - ⚠️ Rankings table not found for U15 Girls
+2025-10-13 13:47:59,780 - WARNING - ⚠️ No teams found for U15 Girls
+2025-10-13 13:48:01,703 - INFO - 🔍 Fetching U16 Boys rankings
+2025-10-13 13:48:01,703 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:48:01,703 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:48:03,927 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:48:03,930 - WARNING - ⚠️ Rankings table not found for U16 Boys
+2025-10-13 13:48:03,930 - WARNING - ⚠️ No teams found for U16 Boys
+2025-10-13 13:48:05,486 - INFO - 🔍 Fetching U16 Girls rankings
+2025-10-13 13:48:05,486 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:48:05,486 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:48:07,214 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:48:07,216 - WARNING - ⚠️ Rankings table not found for U16 Girls
+2025-10-13 13:48:07,216 - WARNING - ⚠️ No teams found for U16 Girls
+2025-10-13 13:48:09,050 - INFO - 🔍 Fetching U17 Boys rankings
+2025-10-13 13:48:09,050 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:48:09,050 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:48:10,862 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:48:10,865 - WARNING - ⚠️ Rankings table not found for U17 Boys
+2025-10-13 13:48:10,866 - WARNING - ⚠️ No teams found for U17 Boys
+2025-10-13 13:48:11,923 - INFO - 🔍 Fetching U17 Girls rankings
+2025-10-13 13:48:11,924 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:48:11,924 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:48:13,393 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:48:13,397 - WARNING - ⚠️ Rankings table not found for U17 Girls
+2025-10-13 13:48:13,397 - WARNING - ⚠️ No teams found for U17 Girls
+2025-10-13 13:48:14,722 - INFO - 🔍 Fetching U18 Boys rankings
+2025-10-13 13:48:14,722 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:48:14,722 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:48:22,240 - INFO - ✅ Successfully fetched content (29032 chars)
+2025-10-13 13:48:22,243 - WARNING - ⚠️ Rankings table not found for U18 Boys
+2025-10-13 13:48:22,243 - WARNING - ⚠️ No teams found for U18 Boys
+2025-10-13 13:48:23,628 - INFO - 🔍 Fetching U18 Girls rankings
+2025-10-13 13:48:23,628 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:48:23,628 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:48:27,516 - INFO - ✅ Successfully fetched content (29033 chars)
+2025-10-13 13:48:27,519 - WARNING - ⚠️ Rankings table not found for U18 Girls
+2025-10-13 13:48:27,519 - WARNING - ⚠️ No teams found for U18 Girls
+2025-10-13 13:48:29,504 - WARNING - ⚠️ No teams found from any age/gender combination, using fallback data
+2025-10-13 13:48:29,510 - INFO - ✅ Saved CSV → C:\youth-soccer-master-index\data\master\sources\gotsport_rankings_20251013_1348.csv (5 rows)
+2025-10-13 13:48:29,511 - INFO - ✅ Saved CSV → C:\youth-soccer-master-index\data\master\states\AZ\gotsport_rankings_20251013_1348_AZ.csv (5 rows)
+2025-10-13 13:48:29,511 - INFO - 📊 CSV Summary:
+2025-10-13 13:48:29,511 - INFO -    Nationwide: 5 teams
+2025-10-13 13:48:29,511 - INFO -    AZ: 5 teams
+2025-10-13 13:48:29,511 - INFO - ✅ Successfully fetched 5 total team records from GotSport Rankings
+2025-10-13 13:48:29,511 - INFO - 📊 Retrieved 5 raw records from GotSport Rankings
+2025-10-13 13:48:29,511 - INFO - 🔧 Parsing and normalizing data from GotSport Rankings
+2025-10-13 13:48:29,511 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:48:29,511 - INFO - ✅ Successfully parsed 5 teams from GotSport Rankings
+2025-10-13 13:48:29,512 - INFO - ✅ Successfully parsed 5 records from GotSport Rankings
+2025-10-13 13:48:29,512 - INFO - 🏁 Completed scraping workflow for GotSport Rankings
+2025-10-13 13:48:29,512 - INFO - ✅ GotSport data collected: 2 teams
+2025-10-13 13:48:29,512 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 13:48:29,512 - INFO - 🔧 Creating unified master team index with 2 total teams
+2025-10-13 13:48:29,512 - ERROR - ❌ Error building master team index: setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part.
+2025-10-13 13:48:45,061 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 13:48:45,061 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 13:48:45,061 - INFO - 🔧 ZenRows integration enabled for GotSport Rankings
+2025-10-13 13:48:45,061 - INFO - 🏗️ Initialized GotSport Rankings scraper with base URL: https://rankings.gotsport.com
+2025-10-13 13:48:45,062 - INFO - 🔄 Running GotSport scraper
+2025-10-13 13:48:45,062 - INFO - Scraping started for provider: GotSport Rankings
+2025-10-13 13:48:45,062 - INFO - 📡 Fetching raw data from GotSport Rankings
+2025-10-13 13:48:45,062 - INFO - 🌐 Starting comprehensive GotSport Rankings data fetch
+2025-10-13 13:48:45,062 - INFO - 📊 Processing 18 age/gender combinations
+2025-10-13 13:48:45,062 - INFO - 🔍 Fetching U10 Boys rankings
+2025-10-13 13:48:45,062 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:48:45,068 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:48:46,677 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:48:46,682 - WARNING - ⚠️ Rankings table not found for U10 Boys
+2025-10-13 13:48:46,682 - WARNING - ⚠️ No teams found for U10 Boys
+2025-10-13 13:48:47,940 - INFO - 🔍 Fetching U10 Girls rankings
+2025-10-13 13:48:47,940 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:48:47,940 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:48:49,398 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:48:49,400 - WARNING - ⚠️ Rankings table not found for U10 Girls
+2025-10-13 13:48:49,400 - WARNING - ⚠️ No teams found for U10 Girls
+2025-10-13 13:48:50,654 - INFO - 🔍 Fetching U11 Boys rankings
+2025-10-13 13:48:50,654 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:48:50,654 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:48:53,502 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:48:53,507 - WARNING - ⚠️ Rankings table not found for U11 Boys
+2025-10-13 13:48:53,507 - WARNING - ⚠️ No teams found for U11 Boys
+2025-10-13 13:48:55,081 - INFO - 🔍 Fetching U11 Girls rankings
+2025-10-13 13:48:55,081 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:48:55,081 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:48:56,916 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:48:56,919 - WARNING - ⚠️ Rankings table not found for U11 Girls
+2025-10-13 13:48:56,919 - WARNING - ⚠️ No teams found for U11 Girls
+2025-10-13 13:48:58,739 - INFO - 🔍 Fetching U12 Boys rankings
+2025-10-13 13:48:58,740 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:48:58,740 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:49:02,136 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:49:02,138 - WARNING - ⚠️ Rankings table not found for U12 Boys
+2025-10-13 13:49:02,138 - WARNING - ⚠️ No teams found for U12 Boys
+2025-10-13 13:49:03,981 - INFO - 🔍 Fetching U12 Girls rankings
+2025-10-13 13:49:03,981 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:49:03,981 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:49:06,315 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:06,318 - WARNING - ⚠️ Rankings table not found for U12 Girls
+2025-10-13 13:49:06,318 - WARNING - ⚠️ No teams found for U12 Girls
+2025-10-13 13:49:08,136 - INFO - 🔍 Fetching U13 Boys rankings
+2025-10-13 13:49:08,136 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:49:08,136 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:49:09,591 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:49:09,596 - WARNING - ⚠️ Rankings table not found for U13 Boys
+2025-10-13 13:49:09,596 - WARNING - ⚠️ No teams found for U13 Boys
+2025-10-13 13:49:10,864 - INFO - 🔍 Fetching U13 Girls rankings
+2025-10-13 13:49:10,864 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:49:10,864 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:49:12,840 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:12,844 - WARNING - ⚠️ Rankings table not found for U13 Girls
+2025-10-13 13:49:12,844 - WARNING - ⚠️ No teams found for U13 Girls
+2025-10-13 13:49:13,929 - INFO - 🔍 Fetching U14 Boys rankings
+2025-10-13 13:49:13,929 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:49:13,929 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:49:15,711 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:49:15,713 - WARNING - ⚠️ Rankings table not found for U14 Boys
+2025-10-13 13:49:15,713 - WARNING - ⚠️ No teams found for U14 Boys
+2025-10-13 13:49:17,234 - INFO - 🔍 Fetching U14 Girls rankings
+2025-10-13 13:49:17,234 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:49:17,234 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:49:19,428 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:19,432 - WARNING - ⚠️ Rankings table not found for U14 Girls
+2025-10-13 13:49:19,432 - WARNING - ⚠️ No teams found for U14 Girls
+2025-10-13 13:49:21,223 - INFO - 🔍 Fetching U15 Boys rankings
+2025-10-13 13:49:21,223 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:49:21,223 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:49:22,723 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:49:22,728 - WARNING - ⚠️ Rankings table not found for U15 Boys
+2025-10-13 13:49:22,728 - WARNING - ⚠️ No teams found for U15 Boys
+2025-10-13 13:49:24,680 - INFO - 🔍 Fetching U15 Girls rankings
+2025-10-13 13:49:24,681 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:49:24,681 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:49:27,723 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:27,729 - WARNING - ⚠️ Rankings table not found for U15 Girls
+2025-10-13 13:49:27,729 - WARNING - ⚠️ No teams found for U15 Girls
+2025-10-13 13:49:29,331 - INFO - 🔍 Fetching U16 Boys rankings
+2025-10-13 13:49:29,332 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:49:29,332 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:49:30,959 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:49:30,962 - WARNING - ⚠️ Rankings table not found for U16 Boys
+2025-10-13 13:49:30,962 - WARNING - ⚠️ No teams found for U16 Boys
+2025-10-13 13:49:32,925 - INFO - 🔍 Fetching U16 Girls rankings
+2025-10-13 13:49:32,926 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:49:32,926 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:49:37,122 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:37,125 - WARNING - ⚠️ Rankings table not found for U16 Girls
+2025-10-13 13:49:37,125 - WARNING - ⚠️ No teams found for U16 Girls
+2025-10-13 13:49:38,955 - INFO - 🔍 Fetching U17 Boys rankings
+2025-10-13 13:49:38,956 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:49:38,956 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:49:43,825 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:49:43,828 - WARNING - ⚠️ Rankings table not found for U17 Boys
+2025-10-13 13:49:43,828 - WARNING - ⚠️ No teams found for U17 Boys
+2025-10-13 13:49:44,833 - INFO - 🔍 Fetching U17 Girls rankings
+2025-10-13 13:49:44,833 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:49:44,833 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:49:46,820 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:46,823 - WARNING - ⚠️ Rankings table not found for U17 Girls
+2025-10-13 13:49:46,823 - WARNING - ⚠️ No teams found for U17 Girls
+2025-10-13 13:49:47,875 - INFO - 🔍 Fetching U18 Boys rankings
+2025-10-13 13:49:47,875 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:49:47,875 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:49:50,614 - INFO - ✅ Successfully fetched content (29032 chars)
+2025-10-13 13:49:50,618 - WARNING - ⚠️ Rankings table not found for U18 Boys
+2025-10-13 13:49:50,618 - WARNING - ⚠️ No teams found for U18 Boys
+2025-10-13 13:49:52,292 - INFO - 🔍 Fetching U18 Girls rankings
+2025-10-13 13:49:52,292 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:49:52,292 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:49:54,024 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:49:54,027 - WARNING - ⚠️ Rankings table not found for U18 Girls
+2025-10-13 13:49:54,027 - WARNING - ⚠️ No teams found for U18 Girls
+2025-10-13 13:49:55,639 - WARNING - ⚠️ No teams found from any age/gender combination, using fallback data
+2025-10-13 13:49:55,643 - INFO - ✅ Saved CSV → C:\youth-soccer-master-index\data\master\sources\gotsport_rankings_20251013_1349.csv (5 rows)
+2025-10-13 13:49:55,644 - INFO - ✅ Saved CSV → C:\youth-soccer-master-index\data\master\states\AZ\gotsport_rankings_20251013_1349_AZ.csv (5 rows)
+2025-10-13 13:49:55,645 - INFO - 📊 CSV Summary:
+2025-10-13 13:49:55,645 - INFO -    Nationwide: 5 teams
+2025-10-13 13:49:55,645 - INFO -    AZ: 5 teams
+2025-10-13 13:49:55,645 - INFO - ✅ Successfully fetched 5 total team records from GotSport Rankings
+2025-10-13 13:49:55,645 - INFO - 📊 Retrieved 5 raw records from GotSport Rankings
+2025-10-13 13:49:55,645 - INFO - 🔧 Parsing and normalizing data from GotSport Rankings
+2025-10-13 13:49:55,645 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:49:55,645 - INFO - ✅ Successfully parsed 5 teams from GotSport Rankings
+2025-10-13 13:49:55,645 - INFO - ✅ Successfully parsed 5 records from GotSport Rankings
+2025-10-13 13:49:55,645 - INFO - 🏁 Completed scraping workflow for GotSport Rankings
+2025-10-13 13:49:55,646 - INFO - ✅ GotSport data collected: 5 teams
+2025-10-13 13:49:55,647 - INFO - 📁 GotSport CSV saved to: C:\youth-soccer-master-index\data\master\sources\gotsport_rankings_20251013_1349.csv
+2025-10-13 13:49:55,647 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 13:49:55,647 - INFO - 🔧 Creating unified master team index with 5 total teams
+2025-10-13 13:49:55,649 - INFO - ✅ Master team index updated successfully: C:\youth-soccer-master-index\data\master\master_team_index_20251013_1349.csv
+2025-10-13 13:49:55,649 - INFO - 📊 Master Index Summary:
+2025-10-13 13:49:55,649 - INFO -    Total teams: 5
+2025-10-13 13:49:55,649 - INFO -    Age groups: ['U11', 'U12', 'U13', 'U14']
+2025-10-13 13:49:55,649 - INFO -    Genders: ['Female', 'Male']
+2025-10-13 13:49:55,649 - INFO -    Sources: ['GotSport Rankings']
+2025-10-13 13:49:55,649 - INFO - 🏁 Master team index build completed at 2025-10-13 13:48:45
+2025-10-13 13:51:05,075 - INFO - 🚀 Starting Youth Soccer Master Index Build
+2025-10-13 13:51:05,075 - INFO - 📡 Initializing GotSport scraper
+2025-10-13 13:51:05,075 - INFO - 🔧 ZenRows integration enabled for GotSport Rankings
+2025-10-13 13:51:05,075 - INFO - 🏗️ Initialized GotSport Rankings scraper with base URL: https://rankings.gotsport.com
+2025-10-13 13:51:05,075 - INFO - 🔄 Running GotSport scraper
+2025-10-13 13:51:05,075 - INFO - Scraping started for provider: GotSport Rankings
+2025-10-13 13:51:05,075 - INFO - 📡 Fetching raw data from GotSport Rankings
+2025-10-13 13:51:05,075 - INFO - 🌐 Starting comprehensive GotSport Rankings data fetch
+2025-10-13 13:51:05,075 - INFO - 📊 Processing 18 age/gender combinations
+2025-10-13 13:51:05,075 - INFO - 🔍 Fetching U10 Boys rankings
+2025-10-13 13:51:05,076 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:51:05,081 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=m
+2025-10-13 13:51:06,966 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:06,969 - WARNING - ⚠️ Rankings table not found for U10 Boys
+2025-10-13 13:51:06,969 - WARNING - ⚠️ No teams found for U10 Boys
+2025-10-13 13:51:08,628 - INFO - 🔍 Fetching U10 Girls rankings
+2025-10-13 13:51:08,628 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:51:08,628 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=10&gender=f
+2025-10-13 13:51:10,930 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:10,933 - WARNING - ⚠️ Rankings table not found for U10 Girls
+2025-10-13 13:51:10,933 - WARNING - ⚠️ No teams found for U10 Girls
+2025-10-13 13:51:12,356 - INFO - 🔍 Fetching U11 Boys rankings
+2025-10-13 13:51:12,356 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:51:12,356 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=m
+2025-10-13 13:51:14,067 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:14,069 - WARNING - ⚠️ Rankings table not found for U11 Boys
+2025-10-13 13:51:14,069 - WARNING - ⚠️ No teams found for U11 Boys
+2025-10-13 13:51:15,912 - INFO - 🔍 Fetching U11 Girls rankings
+2025-10-13 13:51:15,912 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:51:15,912 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=11&gender=f
+2025-10-13 13:51:18,111 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:18,114 - WARNING - ⚠️ Rankings table not found for U11 Girls
+2025-10-13 13:51:18,114 - WARNING - ⚠️ No teams found for U11 Girls
+2025-10-13 13:51:19,411 - INFO - 🔍 Fetching U12 Boys rankings
+2025-10-13 13:51:19,411 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:51:19,411 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=m
+2025-10-13 13:51:21,245 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:21,248 - WARNING - ⚠️ Rankings table not found for U12 Boys
+2025-10-13 13:51:21,248 - WARNING - ⚠️ No teams found for U12 Boys
+2025-10-13 13:51:22,789 - INFO - 🔍 Fetching U12 Girls rankings
+2025-10-13 13:51:22,790 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:51:22,790 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=12&gender=f
+2025-10-13 13:51:24,467 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:24,469 - WARNING - ⚠️ Rankings table not found for U12 Girls
+2025-10-13 13:51:24,469 - WARNING - ⚠️ No teams found for U12 Girls
+2025-10-13 13:51:25,789 - INFO - 🔍 Fetching U13 Boys rankings
+2025-10-13 13:51:25,789 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:51:25,789 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=m
+2025-10-13 13:51:27,577 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:27,583 - WARNING - ⚠️ Rankings table not found for U13 Boys
+2025-10-13 13:51:27,583 - WARNING - ⚠️ No teams found for U13 Boys
+2025-10-13 13:51:28,690 - INFO - 🔍 Fetching U13 Girls rankings
+2025-10-13 13:51:28,690 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:51:28,690 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=13&gender=f
+2025-10-13 13:51:30,433 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:30,436 - WARNING - ⚠️ Rankings table not found for U13 Girls
+2025-10-13 13:51:30,437 - WARNING - ⚠️ No teams found for U13 Girls
+2025-10-13 13:51:32,236 - INFO - 🔍 Fetching U14 Boys rankings
+2025-10-13 13:51:32,236 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:51:32,236 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=m
+2025-10-13 13:51:35,585 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:35,587 - WARNING - ⚠️ Rankings table not found for U14 Boys
+2025-10-13 13:51:35,587 - WARNING - ⚠️ No teams found for U14 Boys
+2025-10-13 13:51:36,894 - INFO - 🔍 Fetching U14 Girls rankings
+2025-10-13 13:51:36,894 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:51:36,894 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=14&gender=f
+2025-10-13 13:51:39,535 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:39,539 - WARNING - ⚠️ Rankings table not found for U14 Girls
+2025-10-13 13:51:39,539 - WARNING - ⚠️ No teams found for U14 Girls
+2025-10-13 13:51:41,005 - INFO - 🔍 Fetching U15 Boys rankings
+2025-10-13 13:51:41,005 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:51:41,005 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=m
+2025-10-13 13:51:42,752 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:42,754 - WARNING - ⚠️ Rankings table not found for U15 Boys
+2025-10-13 13:51:42,754 - WARNING - ⚠️ No teams found for U15 Boys
+2025-10-13 13:51:44,678 - INFO - 🔍 Fetching U15 Girls rankings
+2025-10-13 13:51:44,678 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:51:44,678 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=15&gender=f
+2025-10-13 13:51:46,231 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:46,233 - WARNING - ⚠️ Rankings table not found for U15 Girls
+2025-10-13 13:51:46,233 - WARNING - ⚠️ No teams found for U15 Girls
+2025-10-13 13:51:47,830 - INFO - 🔍 Fetching U16 Boys rankings
+2025-10-13 13:51:47,830 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:51:47,830 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=m
+2025-10-13 13:51:49,429 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:49,433 - WARNING - ⚠️ Rankings table not found for U16 Boys
+2025-10-13 13:51:49,433 - WARNING - ⚠️ No teams found for U16 Boys
+2025-10-13 13:51:50,648 - INFO - 🔍 Fetching U16 Girls rankings
+2025-10-13 13:51:50,648 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:51:50,648 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=16&gender=f
+2025-10-13 13:51:52,987 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:51:52,989 - WARNING - ⚠️ Rankings table not found for U16 Girls
+2025-10-13 13:51:52,989 - WARNING - ⚠️ No teams found for U16 Girls
+2025-10-13 13:51:54,606 - INFO - 🔍 Fetching U17 Boys rankings
+2025-10-13 13:51:54,606 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:51:54,606 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=m
+2025-10-13 13:51:56,267 - INFO - ✅ Successfully fetched content (28552 chars)
+2025-10-13 13:51:56,269 - WARNING - ⚠️ Rankings table not found for U17 Boys
+2025-10-13 13:51:56,269 - WARNING - ⚠️ No teams found for U17 Boys
+2025-10-13 13:51:58,112 - INFO - 🔍 Fetching U17 Girls rankings
+2025-10-13 13:51:58,112 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:51:58,112 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=17&gender=f
+2025-10-13 13:52:00,507 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:52:00,510 - WARNING - ⚠️ Rankings table not found for U17 Girls
+2025-10-13 13:52:00,510 - WARNING - ⚠️ No teams found for U17 Girls
+2025-10-13 13:52:01,906 - INFO - 🔍 Fetching U18 Boys rankings
+2025-10-13 13:52:01,906 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:52:01,906 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=m
+2025-10-13 13:52:05,520 - INFO - ✅ Successfully fetched content (39501 chars)
+2025-10-13 13:52:05,522 - WARNING - ⚠️ Rankings table not found for U18 Boys
+2025-10-13 13:52:05,522 - WARNING - ⚠️ No teams found for U18 Boys
+2025-10-13 13:52:06,767 - INFO - 🔍 Fetching U18 Girls rankings
+2025-10-13 13:52:06,767 - INFO - 🌐 Fetching attempt 1/3: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:52:06,767 - INFO - 🔧 Using ZenRows for rendering: https://rankings.gotsport.com/?team_country=USA&age=18&gender=f
+2025-10-13 13:52:08,425 - INFO - ✅ Successfully fetched content (28553 chars)
+2025-10-13 13:52:08,428 - WARNING - ⚠️ Rankings table not found for U18 Girls
+2025-10-13 13:52:08,428 - WARNING - ⚠️ No teams found for U18 Girls
+2025-10-13 13:52:10,143 - WARNING - ⚠️ No teams found from any age/gender combination, using fallback data
+2025-10-13 13:52:10,148 - INFO - ✅ Saved CSV → data\master\sources\gotsport_rankings_20251013_1352.csv (5 rows)
+2025-10-13 13:52:10,148 - INFO - ✅ Nationwide CSV saved → data\master\sources\gotsport_rankings_20251013_1352.csv
+2025-10-13 13:52:10,150 - INFO - ✅ Saved CSV → data\master\states\AZ\gotsport_rankings_20251013_1352_AZ.csv (5 rows)
+2025-10-13 13:52:10,150 - INFO - ✅ AZ: 5 teams saved → data\master\states\AZ\gotsport_rankings_20251013_1352_AZ.csv
+2025-10-13 13:52:10,150 - INFO - 📦 Total teams saved: 5 across 1 states
+2025-10-13 13:52:10,150 - INFO - ✅ Successfully fetched 5 total team records from GotSport Rankings
+2025-10-13 13:52:10,150 - INFO - 📊 Retrieved 5 raw records from GotSport Rankings
+2025-10-13 13:52:10,150 - INFO - 🔧 Parsing and normalizing data from GotSport Rankings
+2025-10-13 13:52:10,150 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:52:10,150 - INFO - ✅ Successfully parsed 5 teams from GotSport Rankings
+2025-10-13 13:52:10,151 - INFO - ✅ Successfully parsed 5 records from GotSport Rankings
+2025-10-13 13:52:10,151 - INFO - 🏁 Completed scraping workflow for GotSport Rankings
+2025-10-13 13:52:10,152 - INFO - ✅ GotSport data collected: 5 teams
+2025-10-13 13:52:10,152 - INFO - 📁 GotSport CSV saved to: data\master\sources\gotsport_rankings_20251013_1352.csv
+2025-10-13 13:52:10,152 - INFO - 📋 Preparing for additional providers (Modular11, AthleteOne)
+2025-10-13 13:52:10,152 - INFO - 🔧 Creating unified master team index with 5 total teams
+2025-10-13 13:52:10,154 - INFO - ✅ Master team index updated successfully: C:\youth-soccer-master-index\data\master\master_team_index_20251013_1352.csv
+2025-10-13 13:52:10,154 - INFO - 📊 Master Index Summary:
+2025-10-13 13:52:10,154 - INFO -    Total teams: 5
+2025-10-13 13:52:10,154 - INFO -    Age groups: ['U11', 'U12', 'U13', 'U14']
+2025-10-13 13:52:10,154 - INFO -    Genders: ['Female', 'Male']
+2025-10-13 13:52:10,154 - INFO -    Sources: ['GotSport Rankings']
+2025-10-13 13:52:10,154 - INFO - 🏁 Master team index build completed at 2025-10-13 13:51:05

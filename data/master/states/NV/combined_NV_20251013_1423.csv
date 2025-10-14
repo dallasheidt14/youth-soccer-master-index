@@ -1,0 +1,11 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+Las Vegas Sports Academy U10 Boys White 2016,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+Nevada FC 16B Pre-EA,U10,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+Las Vegas Sports Academy U10 Boys Red 2016,U10,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+Las Vegas Sports Academy U11 Boys Red 2015,U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+Magnifico FC B15E,U11,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+Henderson LVSA '15B Black,U11,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+Las Vegas Sports Academy U12 Pre GA 2014,U12,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+Las Vegas Sports Academy U12 Boys Pre MLS Next 2014,U12,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1,GotSport
+LV Heat Surf ECNL G13,U13,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+Las Vegas Sports Academy U13 MLS Next 2013,U13,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1,GotSport

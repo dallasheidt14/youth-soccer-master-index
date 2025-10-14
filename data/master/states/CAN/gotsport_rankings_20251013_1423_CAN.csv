@@ -1,0 +1,19 @@
+team_name,age_group,gender,source,points,state,rank,url
+Santa Clara Sporting 16B Green,U10,Male,GotSport Rankings,0,CAN,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+CVFA 16B Academy,U10,Male,GotSport Rankings,0,CAN,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Mustang SC 16G Pre-ECNL,U10,Female,GotSport Rankings,0,CAN,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Regulators Green 16,U10,Female,GotSport Rankings,0,CAN,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Placer United 16G Gold,U10,Female,GotSport Rankings,0,CAN,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+2016G Pre-ECNL,U10,Female,GotSport Rankings,0,CAN,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Burlingame SC 2016G Pre-ECNL RL,U10,Female,GotSport Rankings,0,CAN,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Ajax United 16G Green Pre-GA,U10,Female,GotSport Rankings,0,CAN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Ajax United 15B Academy Pre-MLS Next,U11,Male,GotSport Rankings,0,CAN,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Lightning 15 Black,U11,Male,GotSport Rankings,0,CAN,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Spirits 15 Black,U11,Female,GotSport Rankings,0,CAN,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+1974 NFC 2015G Pre-GA,U11,Female,GotSport Rankings,0,CAN,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Mustang SC 14G Pre-ECNL,U12,Female,GotSport Rankings,0,CAN,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+CVFA 13B Academy I,U13,Male,GotSport Rankings,0,CAN,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+CVFA 14B Academy I,U13,Male,GotSport Rankings,0,CAN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+San Juan SC PreECNL G14/13,U13,Female,GotSport Rankings,0,CAN,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+San Juan SC ECNL G13,U13,Female,GotSport Rankings,0,CAN,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+San Juan SC ECNL G12,U14,Female,GotSport Rankings,0,CAN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1

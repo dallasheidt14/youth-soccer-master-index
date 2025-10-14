@@ -1,0 +1,12 @@
+team_name,age_group,gender,source,points,state,rank,url
+PR Surf 2015 White,U11,Male,GotSport Rankings,0,PUR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=312
+Coamo FC 2015 boys,U11,Male,GotSport Rankings,0,PUR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=416
+Mirabelli Soccer Academy 2014 N,U12,Male,GotSport Rankings,0,PUR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=433
+Coamo FC 2014 girls,U12,Female,GotSport Rankings,0,PUR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253
+Mirabelli Soccer Academy 2012 N,U14,Male,GotSport Rankings,0,PUR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=21
+DS Academy PR 2012,U14,Male,GotSport Rankings,0,PUR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+Union SA U13,U14,Male,GotSport Rankings,0,PUR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=330
+PR Surf 2012 Blue,U14,Male,GotSport Rankings,0,PUR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=350
+Coamo FC U12Fem,U14,Female,GotSport Rankings,0,PUR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=202
+PR Surf 2010 White,U16,Male,GotSport Rankings,0,PUR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=239
+Coamo FC 2009 boys,U17,Male,GotSport Rankings,0,PUR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199

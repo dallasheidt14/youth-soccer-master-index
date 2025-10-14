@@ -1,0 +1,53 @@
+{
+    "$schema": "https://www.cursor.com/schemas/v1/cursor.schema.json",
+    "project": {
+        "name": "Youth Soccer Master Index",
+        "description": "A scalable scraping and data orchestration project that builds and updates master team lists for all U10–U18 boys and girls divisions across multiple platforms (GotSport, Modular11, AthleteOne).",
+        "language": "python",
+        "framework": "custom",
+        "ai": {
+            "context": [
+                "data/",
+                "src/",
+                "src/scraper/",
+                "src/scraper/providers/",
+                "src/scraper/config/",
+                "src/scraper/utils/",
+                "requirements.txt"
+            ]
+        },
+        "structure": {
+            "source": "src",
+            "tests": "tests",
+            "data": "data"
+        }
+    },
+    "environments": [
+        {
+            "name": "local-dev",
+            "path": ".venv",
+            "interpreter": "${workspaceFolder}/.venv/Scripts/python.exe",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/src",
+                "DATA_DIR": "${workspaceFolder}/data",
+                "LOG_DIR": "${workspaceFolder}/data/logs",
+                "TEMP_DIR": "${workspaceFolder}/data/temp"
+            }
+        }
+    ],
+    "tools": {
+        "run": {
+            "main": "src/scraper/build_master_team_index.py",
+            "args": [],
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/src"
+            }
+        }
+    },
+    "metadata": {
+        "maintainer": "Dallas Heidt",
+        "repository": "https://github.com/dallasheidt14/youth-soccer-master-index",
+        "created": "2025-10-13",
+        "version": "1.0.0"
+    }
+}

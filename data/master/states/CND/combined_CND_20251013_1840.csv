@@ -1,0 +1,8 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+FC Toronto U11 Girls,U12,Female,GotSport Rankings,0,CND,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=263,GotSport
+Markham Soccer Club,U13,Female,GotSport Rankings,0,CND,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=267,GotSport
+Burlington Bayhawks White,U13,Male,GotSport Rankings,0,CND,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=305,GotSport
+NK Vatreni,U13,Male,GotSport Rankings,0,CND,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=40,GotSport
+Oakville Soccer 2009 Boys,U17,Male,GotSport Rankings,0,CND,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=198,GotSport
+U17G PoCo Aces (Deras),U18,Female,GotSport Rankings,0,CND,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=89,GotSport
+Quebec International Academy,U18,Male,GotSport Rankings,0,CND,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=122,GotSport

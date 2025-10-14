@@ -1,0 +1,17 @@
+team_name,age_group,gender,source,points,state,rank,url
+New York Soccer Football Club,U11,Male,GotSport Rankings,0,OTH,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=99
+Wtx Rapids Fc 2015B,U11,Male,GotSport Rankings,0,OTH,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=374
+College cup U10,U11,Male,GotSport Rankings,0,OTH,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=397
+Tigers 2014,U12,Male,GotSport Rankings,0,OTH,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=210
+West Texas Rapids FC 2014 B/G,U12,Male,GotSport Rankings,0,OTH,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=423
+Vortex FC,U13,Female,GotSport Rankings,0,OTH,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=98
+EDHSC 12B Elite,U14,Male,GotSport Rankings,0,OTH,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=39
+Scholar Athletes Leadership Academy (SALA) 2012/13 Girls,U14,Female,GotSport Rankings,0,OTH,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=22
+International Oilers,U15,Male,GotSport Rankings,0,OTH,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=150
+Hereford FC 2011,U15,Male,GotSport Rankings,0,OTH,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192
+Mitigator FC U14/U15,U15,Male,GotSport Rankings,0,OTH,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=307
+The W Academy 2010,U16,Male,GotSport Rankings,0,OTH,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=59
+D/FW/A Wild Wolves SC 2010,U16,Male,GotSport Rankings,0,OTH,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=246
+Chicago Inter Soccer G2010 ECNL RL,U16,Female,GotSport Rankings,0,OTH,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=108
+Tumon FC 2009 (Guam),U16,Female,GotSport Rankings,0,OTH,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=158
+Elephant Soccer Club of Harlem (U16),U17,Male,GotSport Rankings,0,OTH,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=181

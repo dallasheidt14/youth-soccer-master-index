@@ -1,0 +1,192 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+RSC '16 Girls Gold,U10,Female,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=98,GotSport
+2016 Boys Pre ECNL Black,U10,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=15,GotSport
+RSC '16 Boys Black,U10,Male,GotSport Rankings,0,DE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=125,GotSport
+2016 Boys South Blue,U10,Male,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=126,GotSport
+2016 Boys Pre ECNL Blue,U10,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=137,GotSport
+2016 Boys South Black,U10,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=28,GotSport
+DFA 2016 Boys Black,U10,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=10,GotSport
+DFA 2016/17 Boys White,U10,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=168,GotSport
+2015 Concord Girls Summer Select,U11,Female,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=79,GotSport
+2015 Girls Pre ECNL Black,U11,Female,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=21,GotSport
+Concord 2015 Girls Gray,U11,Female,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=168,GotSport
+Delmarva Rush Rush 2015G,U11,Female,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=38,GotSport
+Stars FC 2015 Girls Summer Select,U11,Female,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203,GotSport
+2015 Girls South Black,U11,Female,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=93,GotSport
+RSC '15 Girls,U11,Female,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=16,GotSport
+Sporting Athletic Club 2015G Black,U11,Female,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=100,GotSport
+2015 Girls North Black,U11,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=124,GotSport
+Concord 2015 Girls Red,U11,Female,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=62,GotSport
+2015 Boys North Black,U11,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=176,GotSport
+2015 Boys Central Black,U11,Male,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=214,GotSport
+RSC '15 Boys Black,U11,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=166,GotSport
+Sporting Athletic Club 2015B Gold,U11,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=159,GotSport
+2015 Boys Pre ECNL Black,U11,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=149,GotSport
+2015 Boys South Pre-ECNL Black,U11,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=40,GotSport
+Sporting PA Summer U10 Boys,U11,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341,GotSport
+Delmarva Rush 2015B Rush,U11,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=58,GotSport
+Sporting Athletic Club 2015B Red I,U11,Male,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=26,GotSport
+Bu11 Elite Academy,U11,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=86,GotSport
+Delmarva Rush Nero 2015B,U11,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=406,GotSport
+Sporting Athletic Club 2015B White,U11,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282,GotSport
+2015 Boys Pre ECNL Blue,U11,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=87,GotSport
+DFA 2015 Boys White,U11,Male,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=269,GotSport
+Bu11 Premier II,U11,Male,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=374,GotSport
+RSC '15 Boys Gold,U11,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=33,GotSport
+Concord 2015 Boys Red,U11,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=229,GotSport
+Sporting Athletic Club 2015B Black,U11,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=12,GotSport
+2015 Boys North Blue,U11,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339,GotSport
+DFA 2015 Boys Black,U11,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=112,GotSport
+Stars FC 2015 Boys Summer Select,U11,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=72,GotSport
+RSC '14 Girls,U12,Female,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=11,GotSport
+2014 Girls North Blue,U12,Female,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=224,GotSport
+DFA 2014 Girls Black,U12,Female,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=14,GotSport
+2014 Girls Pre ECNL Black,U12,Female,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=3,GotSport
+2014 Girls Central Black,U12,Female,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=126,GotSport
+2014 Girls North Black,U12,Female,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=197,GotSport
+Sporting Athletic Club 2014G Pre-GA Black,U12,Female,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=58,GotSport
+Concord 2014 Girls,U12,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=182,GotSport
+2014 Boys North Gray,U12,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=352,GotSport
+2014 Boys North White,U12,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=82,GotSport
+First State United,U12,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=161,GotSport
+2014 Boys North Black,U12,Male,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=56,GotSport
+2014 Boys North Gold,U12,Male,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447,GotSport
+2014 Boys Pre ECNL Black,U12,Male,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=28,GotSport
+2014 Boys South Black,U12,Male,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=57,GotSport
+Sporting Athletic Club 2014B Pre-MLS Red,U12,Male,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=42,GotSport
+Stars FC 2014 Boys Summer Select,U12,Male,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=165,GotSport
+2014 Boys Central Blue,U12,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212,GotSport
+Concord 2014 Boys Grey,U12,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=255,GotSport
+Delmarva Rush Rush 2014B,U12,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=127,GotSport
+RSC '14 Boys Black,U12,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=267,GotSport
+DFA 2014 Boys Black,U12,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=52,GotSport
+RSC '14 Boys Gold,U12,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=71,GotSport
+Sporting Athletic Club 2014B Pre-MLS Black,U12,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=9,GotSport
+2014 Boys Central Black,U12,Male,GotSport Rankings,0,DE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=209,GotSport
+2014 Boys North Blue,U12,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=97,GotSport
+2014 Boys Pre ECNL Blue,U12,Male,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=25,GotSport
+Sporting Athletic Club 2014B Gold,U12,Male,GotSport Rankings,0,DE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=122,GotSport
+Concord 2014 Boys Red,U12,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=149,GotSport
+2013 Girls North Blue,U13,Female,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=147,GotSport
+Sporting Athletic Club 2013 Girls NAL,U13,Female,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=59,GotSport
+ECNL RL G13,U13,Female,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=6,GotSport
+2013 Girls Central Black,U13,Female,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=204,GotSport
+RSC '13 Girls,U13,Female,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=2,GotSport
+13G GA,U13,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=167,GotSport
+2013 Girls North Black,U13,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=217,GotSport
+Concord 2013 Boys Grey,U13,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=373,GotSport
+2013 Boys Central Blue,U13,Male,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=363,GotSport
+2013 Boys North White,U13,Male,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=240,GotSport
+Olimpia 2013 Decano,U13,Male,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=79,GotSport
+2013 Boys North Blue,U13,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=213,GotSport
+Concord 2013 Boys Red,U13,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=157,GotSport
+Sporting PA Summer U12 Boys,U13,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378,GotSport
+RSC '13 Boys,U13,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=114,GotSport
+Sporting Athletic Club 2013 NAL,U13,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=62,GotSport
+Sporting Athletic Club 2013B Black,U13,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=75,GotSport
+Stars FC 2013 Boys Summer Select,U13,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=242,GotSport
+2013 Boys North Black,U13,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=110,GotSport
+2013 Boys South Blue,U13,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=179,GotSport
+2013 Boys South Black,U13,Male,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=14,GotSport
+ECNL B13,U13,Male,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=19,GotSport
+2013 Boys Central Black,U13,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=375,GotSport
+DFA 2013 Boys Black,U13,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=93,GotSport
+2013 Boys North Blue,U13,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=212,GotSport
+Olimpia 2013 Parauno,U13,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=394,GotSport
+Sporting Athletic Club 2013 Red,U13,Male,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=222,GotSport
+ECNL RL B13,U13,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=22,GotSport
+2012 Girls Central Black,U14,Female,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=26,GotSport
+2012 Girls South Black,U14,Female,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=90,GotSport
+RSC '12 Girls,U14,Female,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=19,GotSport
+ECNL RL G12,U14,Female,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=11,GotSport
+2012 Girls North Black,U14,Female,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=20,GotSport
+Delmarva Rush Rush 2012G,U14,Female,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=11,GotSport
+DFA 2012 Girls Black,U14,Female,GotSport Rankings,0,DE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=67,GotSport
+Concord 2012/13 Girls,U14,Female,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=198,GotSport
+12G GA,U14,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=7,GotSport
+Sporting Athletic Club 2012 Girls NAL,U14,Female,GotSport Rankings,0,DE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=42,GotSport
+Bu14 Elite Academy,U14,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=129,GotSport
+Concord 2012 Boys Grey,U14,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=237,GotSport
+DFA 2012 Boys White,U14,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=242,GotSport
+2012 Boys North Blue,U14,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=83,GotSport
+ECNL RL B12,U14,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=15,GotSport
+Sporting Athletic Club 2012B Black,U14,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=230,GotSport
+DFA 2012 Boys Black,U14,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=20,GotSport
+ECNL B12,U14,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=14,GotSport
+2012 Boys North Black,U14,Male,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=73,GotSport
+2012 Boys Central Blue,U14,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320,GotSport
+2012 Boys South Black,U14,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=40,GotSport
+Sporting Athletic Club 2012 USYS,U14,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=8,GotSport
+Concord 2012 Boys Red,U14,Male,GotSport Rankings,0,DE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=80,GotSport
+Delmarva Rush Rush 2012B,U14,Male,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=287,GotSport
+2012 Boys Central Black,U14,Male,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=81,GotSport
+2012 Boys North Gold,U14,Male,GotSport Rankings,0,DE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=115,GotSport
+Sporting Athletic Club 2012 NAL,U14,Male,GotSport Rankings,0,DE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=51,GotSport
+Bu14 Elite Academy,U14,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=128,GotSport
+RSC '12 Boys,U14,Male,GotSport Rankings,0,DE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=73,GotSport
+DFA 2011 Girls Black,U15,Female,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=35,GotSport
+ECNL RL G11,U15,Female,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=3,GotSport
+Sporting Athletic Club 2011 Girls NAL,U15,Female,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=2,GotSport
+11G GA,U15,Female,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=104,GotSport
+RSC '11 Girls,U15,Female,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=5,GotSport
+ECNL RL B11,U15,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=10,GotSport
+Sporting Athletic Club 2011B Black,U15,Male,GotSport Rankings,0,DE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=163,GotSport
+2011 Boys North Blue,U15,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197,GotSport
+2011 Boys South Black,U15,Male,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=105,GotSport
+Sporting Athletic Club 2011 NAL,U15,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1,GotSport
+RSC '11 Boys,U15,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=201,GotSport
+Potros,U15,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302,GotSport
+Stars FC 2011 Boys Summer Select,U15,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=172,GotSport
+DFA 2011 Boys Black NL,U15,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=13,GotSport
+DFA 2011 Boys White,U15,Male,GotSport Rankings,0,DE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=170,GotSport
+Sporting Athletic Club 2011 USYS,U15,Male,GotSport Rankings,0,DE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=24,GotSport
+2011 Boys Central Black,U15,Male,GotSport Rankings,0,DE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=96,GotSport
+Concord 2011 Boys,U15,Male,GotSport Rankings,0,DE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=128,GotSport
+2011 Boys North Black,U15,Male,GotSport Rankings,0,DE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=67,GotSport
+ECNL B11,U15,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=2,GotSport
+2010 Girls North Black,U16,Female,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=48,GotSport
+ECNL RL G10,U16,Female,GotSport Rankings,0,DE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=29,GotSport
+DFA 2010 Girls Black NL,U16,Female,GotSport Rankings,0,DE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=5,GotSport
+10G GA,U16,Female,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=15,GotSport
+2010 Girls South Black,U16,Female,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=141,GotSport
+2010 Girls Central Black,U16,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=113,GotSport
+Sporting Athletic Club 2010B Black,U16,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=15,GotSport
+Sporting Athletic Club 2010B USYS NL,U16,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=20,GotSport
+RSC '10 Boys GOLD,U16,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=36,GotSport
+Delmarva Rush Rush 2010B,U16,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=38,GotSport
+ECNL B10,U16,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1,GotSport
+Sporting Athletic Club 2010 MLS NEXT,U16,Male,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=52,GotSport
+DFA 2010 Boys Black,U16,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=160,GotSport
+ECNL RL B10,U16,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=17,GotSport
+Sporting Athletic Club 2010B Red,U16,Male,GotSport Rankings,0,DE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=81,GotSport
+2010 Boys North Black,U16,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=40,GotSport
+DFA 2010 Boys White,U16,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=143,GotSport
+Sporting Athletic Club 2010 NAL,U16,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=24,GotSport
+2010 Boys Central Black,U16,Male,GotSport Rankings,0,DE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=142,GotSport
+2010 Boys North Blue,U16,Male,GotSport Rankings,0,DE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=149,GotSport
+2009 Girls Central Black,U17,Female,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=107,GotSport
+ECNL RL G09,U17,Female,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1,GotSport
+2009 Girls North Black,U17,Female,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=11,GotSport
+DFA 2009/2010 Girls White,U17,Female,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=103,GotSport
+09G GA,U17,Female,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=6,GotSport
+ECNL B09,U17,Male,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=6,GotSport
+Sporting Athletic Club 2009 USYS,U17,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=20,GotSport
+ECNL RL B09,U17,Male,GotSport Rankings,0,DE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=46,GotSport
+2009 Boys North Black,U17,Male,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=171,GotSport
+2009 Boys South Black,U17,Male,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=111,GotSport
+Alianza,U17,Male,GotSport Rankings,0,DE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=85,GotSport
+DFA 2009 Boys Black,U17,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=86,GotSport
+Sporting Athletic Club 2009B Black,U17,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=37,GotSport
+Sporting Athletic Club 2009 NAL,U17,Male,GotSport Rankings,0,DE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=20,GotSport
+2009 Boys Central Black,U17,Male,GotSport Rankings,0,DE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=15,GotSport
+2009 MLS NEXT,U17,Male,GotSport Rankings,0,DE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=132,GotSport
+DFA 2009 Boys White,U17,Male,GotSport Rankings,0,DE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=124,GotSport
+Concord 09/10 Boys Red,U17,Male,GotSport Rankings,0,DE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=71,GotSport
+Concord 2009 Boys Grey,U17,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=65,GotSport
+Sporting Athletic Club 2009B Red,U18,Male,GotSport Rankings,0,DE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=92,GotSport
+DFA 08/09 Boys Black,U18,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=64,GotSport
+Sporting Athletic Club 2008/07 USYS,U18,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=5,GotSport
+Delmarva Rush Rush 2008B,U18,Male,GotSport Rankings,0,DE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=138,GotSport
+2007/2008 Boys North Black,U18,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=36,GotSport
+2008/07 MLS NEXT Homegrown,U18,Male,GotSport Rankings,0,DE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=43,GotSport
+B2008-09 Elite Academy,U18,Male,GotSport Rankings,0,DE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=69,GotSport

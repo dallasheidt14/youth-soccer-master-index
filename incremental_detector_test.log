@@ -1,0 +1,26 @@
+2025-10-14 11:09:46,614 - INFO - 🧪 Testing incremental detector
+2025-10-14 11:09:46,799 - INFO - 📂 Loaded baseline: 90,262 teams
+2025-10-14 11:09:46,801 - INFO - 📂 Baseline loaded: 90,262 rows
+2025-10-14 11:09:46,801 - INFO - 🧮 Comparing with new scrape: 1,003 rows
+2025-10-14 11:09:48,523 - INFO - 🆕 3 new teams detected out of 1,003 total
+2025-10-14 11:09:48,524 - INFO - 📊 New teams by state: {'CA': 1, 'TX': 1, 'FL': 1}
+2025-10-14 11:09:48,524 - INFO - 🎂 New teams by age: {'U12': 1, 'U13': 1, 'U14': 1}
+2025-10-14 11:09:48,524 - INFO - ⚽ New teams by gender: {'Male': 2, 'Female': 1}
+2025-10-14 11:09:48,527 - INFO - 📊 Summary: {'total_new_teams': 3, 'states': {'CA': 1, 'TX': 1, 'FL': 1}, 'age_groups': {'U12': 1, 'U13': 1, 'U14': 1}, 'genders': {'Male': 2, 'Female': 1}, 'top_states': {'CA': 1, 'TX': 1, 'FL': 1}, 'top_age_groups': {'U12': 1, 'U13': 1, 'U14': 1}}
+2025-10-14 11:09:48,529 - INFO - ✅ Saved CSV → data\master\incremental\new_teams_20251014_1109.csv (3 rows)
+2025-10-14 11:09:48,529 - INFO - ✅ Incremental file saved: data\master\incremental\new_teams_20251014_1109.csv
+2025-10-14 11:09:48,529 - INFO - 💾 Saved to: data\master\incremental\new_teams_20251014_1109.csv
+2025-10-14 11:09:48,529 - INFO - ✅ Incremental detector test completed
+2025-10-14 11:11:55,136 - INFO - 🧪 Testing incremental detector
+2025-10-14 11:11:55,303 - INFO - 📂 Loaded baseline: 90,262 teams
+2025-10-14 11:11:55,304 - INFO - 📂 Baseline loaded: 90,262 rows
+2025-10-14 11:11:55,304 - INFO - 🧮 Comparing with new scrape: 1,003 rows
+2025-10-14 11:11:57,041 - INFO - 🆕 3 new teams detected out of 1,003 total
+2025-10-14 11:11:57,042 - INFO - 📊 New teams by state: {'CA': 1, 'TX': 1, 'FL': 1}
+2025-10-14 11:11:57,042 - INFO - 🎂 New teams by age: {'U12': 1, 'U13': 1, 'U14': 1}
+2025-10-14 11:11:57,042 - INFO - ⚽ New teams by gender: {'Male': 2, 'Female': 1}
+2025-10-14 11:11:57,044 - INFO - 📊 Summary: {'total_new_teams': 3, 'states': {'CA': 1, 'TX': 1, 'FL': 1}, 'age_groups': {'U12': 1, 'U13': 1, 'U14': 1}, 'genders': {'Male': 2, 'Female': 1}, 'top_states': {'CA': 1, 'TX': 1, 'FL': 1}, 'top_age_groups': {'U12': 1, 'U13': 1, 'U14': 1}}
+2025-10-14 11:11:57,047 - INFO - ✅ Saved CSV → data\master\incremental\new_teams_20251014_1111.csv (3 rows)
+2025-10-14 11:11:57,047 - INFO - ✅ Incremental file saved: data\master\incremental\new_teams_20251014_1111.csv
+2025-10-14 11:11:57,047 - INFO - 💾 Saved to: data\master\incremental\new_teams_20251014_1111.csv
+2025-10-14 11:11:57,047 - INFO - ✅ Incremental detector test completed

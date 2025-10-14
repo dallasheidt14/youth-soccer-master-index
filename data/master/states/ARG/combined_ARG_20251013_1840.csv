@@ -1,0 +1,7 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+ADCC Canning,U11,Male,GotSport Rankings,0,ARG,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339,GotSport
+ADCC Canning,U12,Male,GotSport Rankings,0,ARG,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=402,GotSport
+ADCC Canning,U13,Male,GotSport Rankings,0,ARG,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=418,GotSport
+ADCC Canning,U14,Male,GotSport Rankings,0,ARG,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=357,GotSport
+ADCC CANNING,U16,Male,GotSport Rankings,0,ARG,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=75,GotSport
+ADCC CANNING,U16,Male,GotSport Rankings,0,ARG,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=74,GotSport

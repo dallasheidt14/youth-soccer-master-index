@@ -1,0 +1,667 @@
+team_name,age_group,gender,source,points,state,rank,url,provider
+16G Silver,U10,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=24,GotSport
+Nevada FC 16G Pre-DPL,U10,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=17,GotSport
+16G Premier,U10,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=18,GotSport
+LV Heat Surf G16 Select Orange Henderson,U10,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=6,GotSport
+Las Vegas Sports Academy U10 Girls Red 2016,U10,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=2,GotSport
+LV Heat Surf G16 Select Orange Summerlin,U10,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=2,GotSport
+ALBION SC Las Vegas G16 Academy I,U10,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39,GotSport
+Las Vegas Sports Academy U10 Girls Silver 2016,U10,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=86,GotSport
+Magnifico FC G16E,U10,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=47,GotSport
+Reno Storm,U10,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=36,GotSport
+Players 16 Girls Juniors Elite,U10,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=59,GotSport
+Sierra Nevada FC Diamonds,U10,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=43,GotSport
+VU Stars Acadmey 16G Black,U10,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=23,GotSport
+Las Vegas Sports Academy U10 Girls White 2016,U10,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=3,GotSport
+Elite FC 16G,U10,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=27,GotSport
+LV Heat Surf G16 Select Blue Henderson,U10,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=6,GotSport
+ALBION SC Las Vegas B16 Academy II,U10,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=143,GotSport
+PRIME SC 16 BOYS WMN,U10,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=12,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2016 WHITE 1,U10,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=19,GotSport
+Elko Indar Futbol Club U10,U10,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=32,GotSport
+Las Vegas Storm FC B17/16 Academy 1,U10,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=84,GotSport
+Nevada FC 16B Select II,U10,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=165,GotSport
+16B Silver,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=80,GotSport
+APD F.C. 2016B,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=53,GotSport
+Las Vegas Sports Academy U10 Boys Black 2016,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=3,GotSport
+Las Vegas Sports Academy U10 Boys Silver 2016,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=31,GotSport
+Las Vegas Sports Academy U10 Boys White 2016,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+Nevada FC 16B Pre-EA,U10,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+VILLARREAL LV U10 Blue-BenA,U10,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=110,GotSport
+VILLARREAL LV U10 White-MoiG,U10,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=102,GotSport
+Las Vegas Sports Academy U10 Boys Red 2016,U10,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1,GotSport
+Players 16 Boys Junior Academy 1,U10,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=133,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2016 BLUE,U10,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=6,GotSport
+VILLARREAL LV U10 Yellow-BenA,U10,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=50,GotSport
+Las Vegas Sports Academy U10 Boys Grey 2016,U10,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=107,GotSport
+Players 16 Boys Junior Academy,U10,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=8,GotSport
+Juventus Academy Las Vegas U10 Zidane,U10,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=144,GotSport
+HIGH DESERT HAWKS,U10,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=33,GotSport
+F.C. MALVERDE.,U10,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=35,GotSport
+Nevada FC 16B Select I,U10,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=10,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2016 WHITE,U10,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=7,GotSport
+Sierra Surf 2016B Blue,U10,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=69,GotSport
+BOMBERS 2016,U10,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=28,GotSport
+LV Heat Surf B16 Select Blue Henderson,U10,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=35,GotSport
+Mineros,U10,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=126,GotSport
+Las Vegas Elite FC B16 Gold,U10,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=6,GotSport
+Players 16 Boys Juniors Elite,U10,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=2,GotSport
+BVBIA Las Vegas 2016 Black,U10,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=132,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2016 BLUE 1,U10,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=2,GotSport
+Sierra Surf 2016B White,U10,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=42,GotSport
+LV Heat Surf B16 Select Orange Henderson,U10,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=13,GotSport
+Juventus Academy Las Vegas U10 Ronaldo,U10,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=14,GotSport
+Las Vegas Storm FC B17/16 Academy 1,U10,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=91,GotSport
+CFC Vipers 16B,U10,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=73,GotSport
+Las Vegas Sports Academy U10 Boys Burgundy 2016,U10,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=145,GotSport
+NV United FC - B16 JB,U10,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=103,GotSport
+16B Gold,U10,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=132,GotSport
+16B Premier,U10,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=7,GotSport
+ALBION SC Las Vegas B16 Academy IV,U10,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=159,GotSport
+APD F.C. 2015G,U11,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=60,GotSport
+CFC Invictus 15G,U11,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113,GotSport
+LV Heat Surf G15 Pre NP Summerlin,U11,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=3,GotSport
+Las Vegas Sports Academy U11 Pre GA 2015,U11,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=7,GotSport
+15G Premier,U11,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=17,GotSport
+Elko Indar Futbol Club U11,U11,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=137,GotSport
+Henderson LVSA '15G Red,U11,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=16,GotSport
+Las Vegas Sports Academy U11 Girls Silver 2015,U11,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113,GotSport
+LV Heat Surf G15 Pre SP Henderson,U11,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=35,GotSport
+LV Predators 2015,U11,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=221,GotSport
+15G Gold,U11,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=60,GotSport
+Nevada FC 15G Pre-DPL,U11,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=4,GotSport
+15G Silver,U11,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=64,GotSport
+VU Stars Academy 15G Black,U11,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=60,GotSport
+2015G MINERITAS,U11,Female,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=32,GotSport
+LAS VEGAS DIVERSITY FC '15 GIRLS ACADEMY,U11,Female,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=42,GotSport
+Sierra Surf 2015G Blue,U11,Female,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203,GotSport
+Players 15 Girls Elite Junior,U11,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=5,GotSport
+RENO RIPTIDE,U11,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=141,GotSport
+Las Vegas Sports Academy U11 Girls Black 2015,U11,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=124,GotSport
+CFC Valley Guardians 15G,U11,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=149,GotSport
+Juventus Academy Las Vegas U11 Del Pierro,U11,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=216,GotSport
+Players 15 Girls Junior Academy,U11,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=238,GotSport
+LV Heat Surf G15 Pre RP Summerlin,U11,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109,GotSport
+Las Vegas Sports Academy U11 Girls White 2015,U11,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=6,GotSport
+NV United FC - G15 RB,U11,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=9,GotSport
+LV Heat Surf G15 Pre NP Henderson,U11,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=34,GotSport
+Magnifico FC G15E,U11,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=12,GotSport
+LV Heat Surf G15 Pre RP Henderson,U11,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=5,GotSport
+APD F.C. 2015G,U11,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=59,GotSport
+BISHOP STARS,U11,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=138,GotSport
+ALBION SC Las Vegas B15 Academy II,U11,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=100,GotSport
+Kazzanova FC las vegas Nv (2015),U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=163,GotSport
+LV Predators 15,U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=417,GotSport
+Las Vegas Sports Academy U11 Boys Red 2015,U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+Nevada Rush B2015 Blue,U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=57,GotSport
+Sierra Surf 2015B White,U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=138,GotSport
+APD F.C. 2015B,U11,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=110,GotSport
+Las Vegas Eliminators 2015 Yellow,U11,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=107,GotSport
+Magnifico FC B15E,U11,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+Players 15 Boys Juniors Academy 3,U11,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=207,GotSport
+15B Gold,U11,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=181,GotSport
+Lassen United FC,U11,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=408,GotSport
+VILLARREAL LV U11 EA Yellow-SamA,U11,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=6,GotSport
+LV Heat Surf B15 Pre LP Henderson,U11,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=73,GotSport
+MVLA Nevada 2015B,U11,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=188,GotSport
+PRIME SC 15 BOYS WMN,U11,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=90,GotSport
+2015Gold,U11,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=37,GotSport
+ALBION SC Las Vegas B15 Academy VI,U11,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=129,GotSport
+Bishop FC,U11,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=210,GotSport
+LV Heat Surf B15 Pre RP Henderson,U11,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=6,GotSport
+Players 15 Boys Juniors Academy 2,U11,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=33,GotSport
+ALBION SC Las Vegas B15 Academy V,U11,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=112,GotSport
+Eliminators 2015 Black,U11,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=217,GotSport
+Real Reno,U11,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=39,GotSport
+15B Silver,U11,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=109,GotSport
+Desert Heat 2015,U11,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=54,GotSport
+LVHSSC Select 2015 2015,U11,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=405,GotSport
+Magnifico FC B15P,U11,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=5,GotSport
+RENO MINEROS,U11,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=19,GotSport
+ALBION SC Las Vegas B15 Academy III,U11,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=26,GotSport
+LV Heat Surf B15 Pre NP Summerlin,U11,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=29,GotSport
+LV Heat Surf B15 Pre SP Henderson,U11,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=96,GotSport
+Las Vegas Sports Academy U10 Boys Copper 2015,U11,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=204,GotSport
+CFC Misphitz 15B,U11,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=161,GotSport
+Henderson LVSA '15B Black,U11,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1,GotSport
+BVB IA LV 2015 Black,U11,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=104,GotSport
+Barcelona Las Vegas,U11,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=194,GotSport
+Henderson LVSA '15B Red,U11,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=183,GotSport
+Players 15 Boys Academy,U11,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=18,GotSport
+Sierra Surf 2015B Blue,U11,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=39,GotSport
+Las Vegas Sports Academy U11 Boys Black 2015,U11,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=23,GotSport
+Players 15 Boys Junior Elite,U11,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=6,GotSport
+LAS VEGAS DIVERSITY FC '15 BOYS ACADEMY,U11,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=312,GotSport
+Tuzos 15,U11,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=68,GotSport
+Vegas United ‘15 Boys Academy,U11,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=42,GotSport
+Las Vegas Elite FC B15 Pre-EA,U11,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=45,GotSport
+VILLARREAL LV U11 White-MoiG,U11,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=139,GotSport
+Vegas United ‘15 Boys Elite,U11,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=4,GotSport
+Kazzanova FC las vegas Nv (2015),U11,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=162,GotSport
+Las Vegas Sports Academy U10 Boys Silver 2015,U11,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=34,GotSport
+Las Vegas Sports Academy U11 Boys White 2015,U11,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=2,GotSport
+Dezert Storm U10 B,U11,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=408,GotSport
+LV Heat Surf B15 Pre NP Henderson,U11,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=4,GotSport
+Las Vegas Sports Academy U10 Boys Grey 2015,U11,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=25,GotSport
+Las Vegas Sports Academy U11 Boys Onix 2015,U11,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=183,GotSport
+Zorritos,U11,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=48,GotSport
+Henderson LVSA '15B Silver,U11,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=42,GotSport
+Juventus Academy Las Vegas U11 Chiellini,U11,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=171,GotSport
+Vegas strong 2015,U11,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=41,GotSport
+ALBION SC Las Vegas B15 Academy I,U11,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=58,GotSport
+BE PRO U11,U11,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=412,GotSport
+CFC Valley Rage 15B,U11,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=250,GotSport
+MVLA NV 15B Real Madrid White,U11,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=395,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2015 BLUE,U11,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=5,GotSport
+VILLARREAL LV U11 Blue-JorG,U11,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=60,GotSport
+B15E R.Arredondo,U11,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=14,GotSport
+Eliminators 2015 Yellow,U11,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=62,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2015 WHITE,U11,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=16,GotSport
+Academy FC '15 Boys,U11,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=375,GotSport
+ROA Soccer Academy 2015 Grey,U11,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=21,GotSport
+Las Vegas Sports Academy U12 Pre GA 2014,U12,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1,GotSport
+MINERITAS,U12,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=62,GotSport
+ALBION SC Las Vegas G14 Academy East,U12,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=20,GotSport
+Elite FC 14G,U12,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=240,GotSport
+LV Heat Surf G14 Pre NP Summerlin,U12,Female,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=9,GotSport
+Nevada FC 14G Select I,U12,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=80,GotSport
+14G PreNPL,U12,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=9,GotSport
+CFC Rising 14G,U12,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=129,GotSport
+Sierra Nevada FC Vipers,U12,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=50,GotSport
+Las Vegas Sports Academy U11 Girls Silver 2014,U12,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=25,GotSport
+Nevada FC 14G Pre-DPL,U12,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=16,GotSport
+ALBION SC Las Vegas G14 Academy II,U12,Female,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=90,GotSport
+SPARTANS,U12,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=94,GotSport
+14G Gold,U12,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=158,GotSport
+RENO WAVE14G,U12,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=10,GotSport
+Vegas United '14 Girls Academy,U12,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=77,GotSport
+ALBION SC Las Vegas G14 Academy I,U12,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=2,GotSport
+Fiera 14,U12,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=23,GotSport
+CFC Valley Rebels 14G,U12,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=93,GotSport
+CV SKY ALLIANCE 2014 GIRLS,U12,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=90,GotSport
+GEA Academy Pre-ECNL I 14G,U12,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=223,GotSport
+Las Vegas Sports Academy U12 Girls White 2014,U12,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=5,GotSport
+Sierra Surf 2014G Blue,U12,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=33,GotSport
+LV Heat Surf G14 Pre NP Henderson,U12,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=3,GotSport
+Las Vegas Elite FC G14/15 Black,U12,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=33,GotSport
+Sierra Surf 2014G White,U12,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258,GotSport
+Players 14 Boys Pre MLS NEXT,U12,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=4,GotSport
+CFC Valley Riot 14B,U12,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=219,GotSport
+ALBION SC Las Vegas B14 Academy V,U12,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=46,GotSport
+PRIME SC 14 BOYS PRE NPL,U12,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=9,GotSport
+ALBION SC Las Vegas B14 Academy I,U12,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=9,GotSport
+CFC Knights 14B,U12,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=153,GotSport
+Las Vegas Alliance FC 14/15 Boys,U12,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=45,GotSport
+Las Vegas Elite FC B14 Black,U12,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=29,GotSport
+Sierra Surf 2014B Gray,U12,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=162,GotSport
+BVB IA Las Vegas 2014 Yellow,U12,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=432,GotSport
+ROA Soccer Academy 2014 Blue,U12,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=3,GotSport
+La Academia,U12,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447,GotSport
+NNSC R. United 2014,U12,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=99,GotSport
+Nevada Rush B2014 Blue,U12,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=98,GotSport
+LAS VEGAS DIVERSITY FC '14 BOYS WHITE,U12,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=279,GotSport
+Players 14 Boys Elite,U12,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=31,GotSport
+VILLARREAL LV U12 Red-MoiG,U12,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=174,GotSport
+ALBION SC Las Vegas B14 Academy III,U12,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=11,GotSport
+LV Heat Surf B14 Pre NP Henderson,U12,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=5,GotSport
+Players 14/15 Boys Academy East,U12,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=23,GotSport
+ALBION SC Las Vegas B14 Academy II,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=8,GotSport
+ALBION SC Las Vegas B14 Academy IV,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=31,GotSport
+Las Vegas Red Stars 2014,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=130,GotSport
+Las Vegas Sports Academy U12 Boys Grey 2014,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=44,GotSport
+Nevada Rush B2014 Select,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420,GotSport
+Players 14 Boys Academy,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=216,GotSport
+Sierra Nevada FC Raptors,U12,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=257,GotSport
+2014 Pre MLS Next AD,U12,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=4,GotSport
+ALBION SC Las Vegas B14 Academy VI,U12,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=247,GotSport
+Sierra Nevada FC 2014 Gunners,U12,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=53,GotSport
+APD Alliance 2014B Red Vipers,U12,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=116,GotSport
+Nevada FC 14B Select I,U12,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=231,GotSport
+Players 2014 Boys Henderson,U12,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=427,GotSport
+Sierra Surf 2014B White,U12,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=74,GotSport
+VILLARREAL LV U12 WHITE-BenA,U12,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=21,GotSport
+Barcelona Las Vegas,U12,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=367,GotSport
+LV Predators 14,U12,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=449,GotSport
+Phoenix FC,U12,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=397,GotSport
+Desert Heat 2014,U12,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=124,GotSport
+LV Heat Surf B14 Pre NP Summerlin,U12,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=12,GotSport
+LV Heat Surf B14 Pre RP Henderson,U12,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=89,GotSport
+Reno Tahoe 2014,U12,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=8,GotSport
+Las Vegas Elite FC B14 Pre-EA,U12,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=20,GotSport
+Las Vegas Sports Academy U12 Boys Black 2014,U12,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=31,GotSport
+Nevada FC 14B Select II,U12,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=321,GotSport
+DHFC 2014,U12,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=102,GotSport
+Las Vegas Sports Academy U12 Boys Pre MLS Next 2014,U12,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1,GotSport
+VILLARREAL LV U12 EA Yellow-NeiW,U12,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=5,GotSport
+CV SKY ALLIANCE 2014 BOYS,U12,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=235,GotSport
+LVSA 2014 Boys Red,U12,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=428,GotSport
+BVB IA LV 2014 Black,U12,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=6,GotSport
+Elite FC 14B,U12,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=234,GotSport
+LAS VEGAS DIVERSITY FC '14 BOYS ACADEMY 1,U12,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=22,GotSport
+LV Panthers FC 2014,U12,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447,GotSport
+Las Vegas Sports Academy U12 Boys White 2014,U12,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=10,GotSport
+Las Vegas Sports Academy U12 Boys Onyx 2014,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=141,GotSport
+PRIME SC 14 BOYS PVN,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=20,GotSport
+Phoenix FC,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=333,GotSport
+RENO PUMITAS,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=13,GotSport
+Reno United FC,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=132,GotSport
+Sierra Surf 2014B Blue Pre-NPL,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=18,GotSport
+VILLARREAL LV U12 NPL Blue-BenA,U12,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=12,GotSport
+2014 Pre EA I 24',U12,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=2,GotSport
+BVB IA LV 2014 Yellow,U12,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=21,GotSport
+BVB IA Las Vegas 2014 Black,U12,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=407,GotSport
+Dezert Storm FC 2014 Boys,U12,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=354,GotSport
+13G Aspire,U13,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=18,GotSport
+BVB IA LV 2013 Girls Yellow,U13,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=164,GotSport
+NV United FC - G13 KB,U13,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=232,GotSport
+Las Vegas Sports Academy U13 Girls White 2013,U13,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=60,GotSport
+13G Gold,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=27,GotSport
+2013G MINERTIAS,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=96,GotSport
+Nevada FC 13G DPL,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=34,GotSport
+Nevada Rush G2013 Select,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=14,GotSport
+PRIME SC 13/14 GIRLS NNA,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=15,GotSport
+Players 13/14 Girls Academy,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=23,GotSport
+Players 13/14 Girls Elite,U13,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=12,GotSport
+Lady Tigers FC 2013,U13,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=217,GotSport
+ROA Soccer Academy 2013G Blue,U13,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=128,GotSport
+LV Heat Surf ECNL RL S.Cal G13,U13,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=27,GotSport
+Sierra Surf 2013G White,U13,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=72,GotSport
+APD Alliance 2013G Red,U13,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=233,GotSport
+Magnifico FC G13P,U13,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=34,GotSport
+LV Heat Surf 13G Pre NP Summerlin,U13,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=3,GotSport
+LV Heat Surf 13G Pre SP Henderson,U13,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=13,GotSport
+SCREAMING EAGLES,U13,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=53,GotSport
+BVB IA LV 2013 Girls Black,U13,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=13,GotSport
+Soccer Stars,U13,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=151,GotSport
+13G GA,U13,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=3,GotSport
+LV Heat Surf 13G Pre RP Summerlin,U13,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=6,GotSport
+LV Heat Surf ECNL G13,U13,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1,GotSport
+13G Premier,U13,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=52,GotSport
+APD F.C. 2013G Black,U13,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=36,GotSport
+Las Vegas Sports Academy U12 Girls Black 2013,U13,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=141,GotSport
+Magnifico FC G13E,U13,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=10,GotSport
+13G GA,U13,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=6,GotSport
+13G NPL,U13,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=16,GotSport
+Sierra Surf 2013G Blue,U13,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=73,GotSport
+Dezert Storm FC 2013/2014 Girls,U13,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=194,GotSport
+Elite FC 13G,U13,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=93,GotSport
+GEA PRE ECNL 13G II,U13,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=182,GotSport
+LAS VEGAS DIVERSITY FC '13 GIRLS ACADEMY,U13,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=17,GotSport
+2013G MINERTIAS,U13,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=95,GotSport
+Magnifico FC G13 Elite,U13,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=10,GotSport
+Westside Select,U13,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=253,GotSport
+BVB IA LV 2013 Black,U13,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=49,GotSport
+Las Vegas Sports Academy U13 Boys White 2013,U13,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=89,GotSport
+Magnifico FC B13E,U13,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=19,GotSport
+Sierra Surf 2013B White,U13,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=223,GotSport
+Lions 2013,U13,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=381,GotSport
+LV Heat Surf 13B Pre RP Summerlin,U13,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=145,GotSport
+Las Vegas Sports Academy U13 Boys Red 2013,U13,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=42,GotSport
+Players 13 Boys Elite,U13,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=24,GotSport
+VILLARREAL LV U13 NPL Blue-JacN,U13,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=17,GotSport
+Phoenix FC,U13,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=308,GotSport
+APD F.C. 2013B Red,U13,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=409,GotSport
+PRIME SC 13 BOYS LDS,U13,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=299,GotSport
+VILLARREAL LV U14 White-GerV,U13,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=64,GotSport
+2013 Gold,U13,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=82,GotSport
+PRIME SC 13 BOYS NPL,U13,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=6,GotSport
+Albion SC Las Vegas B13 Academy V,U13,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=25,GotSport
+Vegas strong 2013 silver,U13,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=183,GotSport
+Las Vegas Sports Academy U13 MLS Next 2013,U13,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1,GotSport
+Sierra Surf 2013B Blue,U13,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=70,GotSport
+VILLARREAL LV U13 EA Yellow-SamA,U13,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=2,GotSport
+ALBION SC Las Vegas B13 MLS 2,U13,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=14,GotSport
+LV Royals FC 2013,U13,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=107,GotSport
+Las Vegas Sports Academy U12 Boys Black 2013,U13,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=260,GotSport
+Las Vegas Sports Academy U12 Boys Silver 2013,U13,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=22,GotSport
+Vegas United ‘13 Boys Academy,U13,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=129,GotSport
+BVB IA Las Vegas 2013 Black,U13,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=127,GotSport
+Players 2013 MLS NEXT AD,U13,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=17,GotSport
+ROA Soccer Academy 2013 Blue,U13,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=97,GotSport
+13B Silver,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=238,GotSport
+ALBION SC Las Vegas B13 Academy I,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=11,GotSport
+ALBION SC Las Vegas B13 Academy IV,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=94,GotSport
+LV Heat Surf ECNL B13,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=9,GotSport
+Las Vegas Elite FC B13 Gold,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=14,GotSport
+Nevada FC 13B EA,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=99,GotSport
+Sierra Nevada FC 2013 Arsenal,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=73,GotSport
+Tigers 2013/2014,U13,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371,GotSport
+APD F.C. 2013B Black,U13,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=260,GotSport
+LV galaxy,U13,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378,GotSport
+Las vegas m city 2013,U13,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=413,GotSport
+Vegas United ‘13 Boys Academy II,U13,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=91,GotSport
+B13 EA,U13,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=103,GotSport
+GALINDO-GZL ACADEMY B13,U13,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=205,GotSport
+LV Heat Surf State B13,U13,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=209,GotSport
+MVLA Nevada SC 2013B,U13,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=116,GotSport
+Nevada Rush B2013 Blue,U13,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=247,GotSport
+vegas strong sc 2013,U13,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=7,GotSport
+ALBION SC Las Vegas B13 Academy III,U13,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=38,GotSport
+BVB IA LV 2013 Yellow,U13,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=175,GotSport
+Henderson LVSA 13/14B Black,U13,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=105,GotSport
+LAS VEGAS DIVERSITY FC '13 BOYS ELITE,U13,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=5,GotSport
+Las Vegas Alliance FC 2013 Boys,U13,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=138,GotSport
+APD Alliance 2013B,U13,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=96,GotSport
+CFC Black Dragons 13B,U13,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=66,GotSport
+LAS VEGAS DIVERSITY FC '13 BOYS ACADEMY,U13,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=149,GotSport
+Players 13 Boys Academy 1,U13,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=13,GotSport
+ALBION SC Las Vegas B13 EA,U13,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=20,GotSport
+LV Heat Surf ECNL RL S.Cal B13,U13,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=51,GotSport
+Las Vegas Sports Academy U13 Boys 2013 MLS NEXT AD,U13,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=294,GotSport
+Players 13 Boys Academy,U13,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393,GotSport
+Winnemucca United Boys ('13-'14),U13,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=417,GotSport
+13B Gold,U13,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=185,GotSport
+13B NPL,U13,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=46,GotSport
+ALBION SC Las Vegas B13 MLS Next,U13,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=5,GotSport
+Kazzanova FC. Las Vegas NV,U13,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=178,GotSport
+12G GA,U14,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=10,GotSport
+12G Aspire,U14,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=5,GotSport
+LASSEN UNITED FC,U14,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=184,GotSport
+Vegas United '12 Girls Elite,U14,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=4,GotSport
+1302G FISICARO,U14,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=199,GotSport
+ALBION SC Las Vegas G12 Academy,U14,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=13,GotSport
+SKITTLES SC 2012,U14,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=107,GotSport
+Sierra Nevada FC Storm,U14,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=31,GotSport
+12G Silver,U14,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=62,GotSport
+NV United FC - G12 SD,U14,Female,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=54,GotSport
+CFC Mayhem 12G,U14,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=56,GotSport
+Sierra Surf 2012G Blue,U14,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=13,GotSport
+LV Heat Surf ECNL G12,U14,Female,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=10,GotSport
+12G NPL,U14,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=13,GotSport
+Sierra Surf 2012G White,U14,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109,GotSport
+12G Gold,U14,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=42,GotSport
+CFC Valley Lightning 12G,U14,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=177,GotSport
+Mammoth Lakes FC 2012G,U14,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=108,GotSport
+1301G WILLIFORD,U14,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=190,GotSport
+CV SKY ALLIANCE 2012 GIRLS,U14,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204,GotSport
+VILLARREAL LV U14 NPL Yellow Girls-ShaK,U14,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=205,GotSport
+Las Vegas Sports Academy U13 Girls Silver 2012,U14,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=175,GotSport
+Nevada FC 12G DPL,U14,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=206,GotSport
+LV Heat Surf ECNL RL G12,U14,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=2,GotSport
+LV Heat Surf ECNL RL S.Cal G12,U14,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=4,GotSport
+Nevada Rush G2012 Select,U14,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=4,GotSport
+1301B LINDSAY,U14,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=304,GotSport
+Vegas strong 2012,U14,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=36,GotSport
+ALBION SC Las Vegas B12 EA,U14,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=32,GotSport
+LAS VEGAS DIVERSITY FC '12 BOYS JT,U14,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=25,GotSport
+LAS VEGAS DIVERSITY FC '13 BOYS ELITE,U14,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=313,GotSport
+Nevada FC 12/13B Select I,U14,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=310,GotSport
+Players 12 Boys Academy,U14,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=312,GotSport
+Vegas United ‘12 Boys Elite,U14,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=6,GotSport
+2012 MLS Next AD,U14,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=85,GotSport
+Las Vegas Alliance FC '12 Boys,U14,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=25,GotSport
+Las Vegas Sports Academy U14 MLS Next 2012,U14,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=36,GotSport
+ROA Soccer Academy 2012 Blue,U14,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=30,GotSport
+Sierra Surf 2012B Blue NPL,U14,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=8,GotSport
+BVB IA LV 2012 Black,U14,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=22,GotSport
+Hot Shots,U14,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=94,GotSport
+1302B MUNGER,U14,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=220,GotSport
+B12 Academy II,U14,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=16,GotSport
+Mammoth Lakes FC,U14,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=174,GotSport
+Players 2012 Boys Henderson,U14,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=15,GotSport
+Sierra Nevada FC Strikers,U14,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=80,GotSport
+Beatrice Nighthawks - 2012B,U14,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=198,GotSport
+LV Heat Surf ECNL RL B12,U14,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=19,GotSport
+Nevada FC 12B EA,U14,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=52,GotSport
+LV Panthers FC 2012,U14,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=137,GotSport
+Las Vegas Sports Academy U14 Boys 2012 MLS NEXT AD,U14,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=66,GotSport
+Sierra Surf 2012B White,U14,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=125,GotSport
+Sporting Nebr B Gold 2012,U14,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=269,GotSport
+ALBION SC Las Vegas B12 Academy I,U14,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=362,GotSport
+ALBION SC Las Vegas B12 MLS Next,U14,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=28,GotSport
+Las Vegas Sports Academy U14 Boys White 2012,U14,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=319,GotSport
+Magnifico FC B12E,U14,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=175,GotSport
+Players 12 Boys Academy 1,U14,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=34,GotSport
+12B Premier,U14,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=35,GotSport
+LV Heat Surf ECNL B12,U14,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=11,GotSport
+Elko Elite FC 13/12s,U14,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=177,GotSport
+Minty Fresh U14 Fall 2025,U14,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=339,GotSport
+Douglas Diablos,U14,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=159,GotSport
+Las Vegas Elite FC B12 EA,U14,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=68,GotSport
+1303B K SMITH,U14,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=182,GotSport
+NNSC Reno BattleBorn 2012B NPL,U14,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=15,GotSport
+VILLARREAL LV U14 EA Yellow-JacN,U14,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=2,GotSport
+Kazzanova FC 2012,U14,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=291,GotSport
+Henderson LVSA '12/13B White,U14,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=93,GotSport
+VILLARREAL LV U14 NPL Blue -SamA,U14,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=12,GotSport
+Golden Lights,U14,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=328,GotSport
+12B Gold,U14,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=201,GotSport
+Las Vegas Sports Academy U14 Boys Red 2012,U14,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=33,GotSport
+NNCS R. United 2012,U14,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=52,GotSport
+Players 12 Boys Elite,U14,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=107,GotSport
+LV Heat Surf ECNL RL S.Cal B12,U14,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=22,GotSport
+Las Vegas Red Stars 2012,U14,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=140,GotSport
+1306B NICOLOSI,U14,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=274,GotSport
+Las Vegas Elite FC B12 GOLD,U14,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=17,GotSport
+MVLA-NV 2012B Manchester City Premier,U14,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=78,GotSport
+Players 12 Boys MLS NEXT 2,U14,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=5,GotSport
+CFC Dragons 12B,U14,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=62,GotSport
+PRIME SC 12 BOYS RED,U14,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=8,GotSport
+Players 12 Boys MLS NEXT AD,U14,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=2,GotSport
+Vegas strong 2012,U14,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=35,GotSport
+11G GA,U15,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=22,GotSport
+11G NPL,U15,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=51,GotSport
+Players 11 Girls Elite,U15,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=4,GotSport
+2011 Girls,U15,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=112,GotSport
+Sierra Surf 2011G Blue,U15,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=44,GotSport
+Sierra Nevada FC Pride,U15,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=129,GotSport
+Vegas United '11 Girls Elite,U15,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=4,GotSport
+Vegas United '11 Girls Academy,U15,Female,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=104,GotSport
+LV Heat Surf ECNL G11,U15,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=8,GotSport
+LV Heat Surf ECNL RL S.Cal G11,U15,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=9,GotSport
+PRIME SC 11 Girls,U15,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=7,GotSport
+11G GA,U15,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=10,GotSport
+Elite FC 11G,U15,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=45,GotSport
+Dezert Storm FC G 09,U15,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=86,GotSport
+Henderson LVSA '11G Black,U15,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=177,GotSport
+MAMMOTH STORM 2011/2012,U15,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=131,GotSport
+Nevada FC 11G DPL,U15,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=107,GotSport
+11G Gold,U15,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=175,GotSport
+Sierra Surf 2011G White,U15,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=136,GotSport
+Sierra Nevada FC 2011 Strikers,U15,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=59,GotSport
+LV Heat Surf ECNL RL G11 2024,U15,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=21,GotSport
+Sierra Surf 2011G Gray,U15,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=18,GotSport
+Las Vegas Storm FC G11 Elite,U15,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=2,GotSport
+LV Rowdies,U15,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=3,GotSport
+11G Aspire,U15,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=18,GotSport
+11B NPL,U15,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=19,GotSport
+Battle Born,U15,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=290,GotSport
+LV Heat Surf ECNL RL S.Cal B11,U15,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=59,GotSport
+Las Vegas Alliance FC B2011,U15,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=81,GotSport
+11B Gold,U15,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=53,GotSport
+LV Heat Surf ECNL B11,U15,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=14,GotSport
+Players 11 Boys Academy 2,U15,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=150,GotSport
+Tahoe Thunder,U15,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=325,GotSport
+U14 UNITED FC,U15,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=110,GotSport
+archive B11,U15,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=18,GotSport
+Players 11 Boys MLS NEXT AD,U15,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=40,GotSport
+1403B CASON/STODDARD,U15,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=252,GotSport
+BVB IA Las Vegas 2011 Black,U15,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=173,GotSport
+NV United FC- B11 BS,U15,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=333,GotSport
+Nevada Rush B2011 Blue,U15,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=125,GotSport
+Las Vegas Sports Academy U15 Boys White 2011,U15,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=79,GotSport
+NYSA RFC,U15,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=243,GotSport
+Battleborn 2011,U15,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=88,GotSport
+Eliminators 2011 Yellow,U15,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=219,GotSport
+Players 2011 Boys Elite,U15,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=15,GotSport
+ALBION SC Las Vegas B11 MLS 2,U15,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=28,GotSport
+APD F.C. 2011B,U15,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=208,GotSport
+B11 EA,U15,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=30,GotSport
+Barcelona Las Vegas,U15,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=280,GotSport
+LV Heat Surf State B11,U15,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=7,GotSport
+Las Vegas Sports Academy U15 Boys 2011 MLS NEXT AD,U15,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=229,GotSport
+2011 MLS Next AD,U15,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=6,GotSport
+CD INDEPENDIENTE 2011,U15,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=33,GotSport
+LAS VEGAS DIVERSITY FC '11 BOYS ELITE,U15,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=12,GotSport
+VILLARREAL LV U15 EA Yellow-MoiS,U15,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=16,GotSport
+IAMSOCCER U15,U15,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=243,GotSport
+LV Heat Surf State B11 MG,U15,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=23,GotSport
+Players 11 Boys Elite 1,U15,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=2,GotSport
+Vegas United '11 Boys Academy,U15,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=267,GotSport
+Deportivo 2011,U15,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=34,GotSport
+LV Heat Surf ECNL RL B11,U15,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=20,GotSport
+Las Vegas Sports Academy U15 Boys Black 2011,U15,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=261,GotSport
+Players 11 Boys Academy,U15,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=61,GotSport
+Sierra Surf 2011B White,U15,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=144,GotSport
+The Lions,U15,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=47,GotSport
+Nevada FC 11B EA,U15,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=59,GotSport
+Players 11 Boys Academy 1,U15,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=34,GotSport
+Sierra Surf 2011B Blue,U15,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=25,GotSport
+LV Tigres Academy 2011,U15,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=38,GotSport
+Nevada Rush B2011 Select,U15,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=26,GotSport
+RAYADOS LAS VEGAS SOCCER ACADEMY 2012 BLUE 1,U15,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=131,GotSport
+Hot Shots 11,U15,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212,GotSport
+PRIME SC 11 Boys CMA,U15,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=14,GotSport
+ALBION SC Las Vegas B11 MLS Next,U15,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=241,GotSport
+2011 Gold,U15,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=125,GotSport
+LV Heat Surf State B11/12 RC,U15,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=204,GotSport
+Rio FC,U15,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=117,GotSport
+1402B HEISTER,U15,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=293,GotSport
+BVB IA LV 2011 Black,U15,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=2,GotSport
+CFC Premier 11B,U15,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=108,GotSport
+Las Vegas Sports Academy U15 MLS Next 2011,U15,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=15,GotSport
+VILLARREAL LV U15 NPL Blue -LubB,U15,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=101,GotSport
+10G GA,U16,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=4,GotSport
+VILLARREAL LV U16 NPL Yellow Girls-ShaK,U16,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=5,GotSport
+1402G SNYDER,U16,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=138,GotSport
+Sierra Surf 2010G Black,U16,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=69,GotSport
+Vegas United '10 Girls Academy,U16,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=22,GotSport
+10G ECNL RL,U16,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=12,GotSport
+ALBION SC Las Vegas G10 Academy I,U16,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=40,GotSport
+Las Vegas Sports Academy U16 Girls White 2010,U16,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=22,GotSport
+10G Aspire,U16,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=13,GotSport
+Las Vegas Sports Academy U16 Girls Silver 2010,U16,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=61,GotSport
+VILLARREAL LV U16 BLUE Girls-ShaK,U16,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=60,GotSport
+1403G STERN,U16,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=120,GotSport
+LV Heat Surf ECNL RL G10,U16,Female,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=10,GotSport
+LV STRIKERS,U16,Female,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=44,GotSport
+Rio FC 2010 Girls,U16,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=109,GotSport
+10G GA,U16,Female,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=52,GotSport
+Vegas United '10 Girls Elite,U16,Female,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=5,GotSport
+LV Heat Surf ECNL G10,U16,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=12,GotSport
+Las Vegas Storm FC G10 Premier,U16,Female,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=10,GotSport
+Players 10 Girls Elite,U16,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=8,GotSport
+Sierra Surf 2010G Blue,U16,Female,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=25,GotSport
+10G NPL,U16,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=22,GotSport
+CFC Venom Premier 10G,U16,Female,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=27,GotSport
+10G Silver,U16,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=176,GotSport
+2010 Girls Silver,U16,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=125,GotSport
+LV Heat Surf ECNL RL S.Cal G10,U16,Female,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=164,GotSport
+2010 MLS Next AD,U16,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=42,GotSport
+LAS VEGAS DIVERSITY FC '10 BOYS ELITE,U16,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=13,GotSport
+ALBION SC Las Vegas B10 Academy I,U16,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=111,GotSport
+Las Vegas Sports Academy 2010 MLS NEXT,U16,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=117,GotSport
+10B Premier,U16,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=100,GotSport
+ALBION SC Las Vegas B10 EA,U16,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=60,GotSport
+LV Heat Surf ECNL RL S.Cal B10,U16,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=41,GotSport
+ROA Soccer Academy 2010Blue,U16,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=218,GotSport
+Las Vegas Sports Academy U16 Boys 2010 MLS NEXT AD,U16,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=13,GotSport
+Players 10 Boys Academy 1,U16,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=150,GotSport
+Wolves SC,U16,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=123,GotSport
+10B NPL,U16,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=20,GotSport
+Nevada Rush B2010 Select,U16,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=13,GotSport
+Players 10 Boys Elite,U16,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=86,GotSport
+LV Tigres Academy 2010,U16,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=28,GotSport
+Vegas United ‘10 Boys Elite,U16,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=97,GotSport
+"Winnemucca United Boys ('10, '11, '12)",U16,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=268,GotSport
+Players 10 Boys Elite 1,U16,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=26,GotSport
+Sierra Surf 2010B White,U16,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=235,GotSport
+Sierra Surf 2010B Blue NPL,U16,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=25,GotSport
+VILLARREAL LV U16 EA Yellow-RobW,U16,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=19,GotSport
+Vegas strong 2010,U16,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=69,GotSport
+1401B DAVIS,U16,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=182,GotSport
+BVB IA LV 2010 Black,U16,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=42,GotSport
+Las Vegas Elite FC B10 EA,U16,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=43,GotSport
+Players 10 Boys MLS Next AD,U16,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=15,GotSport
+Deportivo Las Vegas 2010,U16,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=49,GotSport
+Henderson LVSA '10B Red,U16,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=46,GotSport
+Las Vegas Sports Academy U16 Boys Red 2010,U16,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=95,GotSport
+LV Heat Surf ECNL RL B10,U16,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=67,GotSport
+Reno United FC,U16,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=29,GotSport
+Las Vegas Sports Academy U16 MLS Next 2010,U16,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=194,GotSport
+Players 10 Boys Academy,U16,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=99,GotSport
+LV Heat Surf State B10,U16,Male,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=268,GotSport
+LAS VEGAS DIVERSITY FC '10 BOYS ACADEMY,U16,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=81,GotSport
+Fiera 10,U16,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=32,GotSport
+GreenBeast 10,U16,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=108,GotSport
+Las Vegas Red Stars 2010,U16,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208,GotSport
+LV Heat Surf ECNL B10,U16,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=4,GotSport
+VILLARREAL LV U16 NPL Blue-LubB,U16,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=35,GotSport
+2009 Girls Silver PW,U17,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=121,GotSport
+LV Heat Surf ECNL RL G09,U17,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=12,GotSport
+LAS VEGAS DIVERSITY FC '09 GIRLS ACADEMY,U17,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108,GotSport
+Elko Indar U16 Girls,U17,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=75,GotSport
+Sierra Surf 2009G Blue,U17,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=8,GotSport
+09G GA,U17,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=4,GotSport
+Vegas United '09 Girls Elite,U17,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=5,GotSport
+LAS VEGAS DIVERSITY FC '09 GIRLS ELITE,U17,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=14,GotSport
+Sierra Nevada FC Phoenix,U17,Female,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=72,GotSport
+09G Aspire,U17,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=22,GotSport
+09G GA,U17,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=9,GotSport
+G09 Academy,U17,Female,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=19,GotSport
+09G ECNL RL,U17,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=29,GotSport
+09G Gold,U17,Female,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=20,GotSport
+Cobritas,U17,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=126,GotSport
+LV Heat Surf Elite 64 09G,U17,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=44,GotSport
+Elko Indar Futbol Club,U17,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=88,GotSport
+LAS VEGAS DIVERSITY FC '09 GIRLS GRAY,U17,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=124,GotSport
+LV Heat Surf ECNL G09,U17,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=14,GotSport
+Elite FC 09B,U17,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=77,GotSport
+Las Vegas Sports Academy U17 Boys 2009 MLS NEXT AD,U17,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=8,GotSport
+ALBION SC Las Vegas B09 MLS Next,U17,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=63,GotSport
+LAS VEGAS DIVERSITY FC '09 BOYS WHITE,U17,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=140,GotSport
+Players 2009 Boys Academy 2,U17,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=160,GotSport
+LV Heat Surf ECNL B09,U17,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=68,GotSport
+BattleBorn United 09,U17,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=66,GotSport
+LAS VEGAS DIVERSITY FC '09 BOYS ELITE,U17,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=16,GotSport
+Las Vegas Alliance FC '09 Boys,U17,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=51,GotSport
+Monarchs Academy LV,U17,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=154,GotSport
+Nevada Rush B2009 Blue,U17,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=60,GotSport
+Sierra Surf 2009B Blue,U17,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=91,GotSport
+Las Vegas Sports Academy U17 MLS Next 2009,U17,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=87,GotSport
+ALBION SC Las Vegas B09 EA,U17,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=146,GotSport
+Deportivo Las Vegas 2009,U17,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=163,GotSport
+GALINDO-GLZ ACADEMY 09,U17,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=71,GotSport
+Players 09 Boys Elite,U17,Male,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=90,GotSport
+2009 Gold,U17,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=203,GotSport
+2009 Boys Premier,U17,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=141,GotSport
+Players 2009/10 Boys Elite Henderson,U17,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=198,GotSport
+Sin City Las Vegas,U17,Male,GotSport Rankings,0,NV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=70,GotSport
+CFC Lobos 09B,U17,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=96,GotSport
+Fiera 09,U17,Male,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=130,GotSport
+LV Heat Surf ECNL RL B09,U17,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=103,GotSport
+ALBION SC Las Vegas B09 MLS 2,U17,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=151,GotSport
+Nevada Rush B2009 Select,U17,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=29,GotSport
+Players 09 Boys MLS Next AD,U17,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=7,GotSport
+2009 MLS Next AD,U17,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=14,GotSport
+Nevada FC 09B EA,U17,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=109,GotSport
+VILLARREAL LV U17 EA Yellow-PatW,U17,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=37,GotSport
+VILLARREAL LV U17 NPL Blue-RobW,U17,Male,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=74,GotSport
+LV Heat Surf State B09,U17,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=193,GotSport
+Players 09 Boys Academy,U17,Male,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=21,GotSport
+2009 Gold 24',U17,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=38,GotSport
+08G NPL,U18,Female,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=8,GotSport
+Henderson LVSA '08/09G Black,U18,Female,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=22,GotSport
+Sierra Nevada FC Intensity 08,U18,Female,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=33,GotSport
+Players 09 Girls Elite,U18,Female,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=5,GotSport
+Sierra Surf 08/09G White,U18,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=44,GotSport
+Vegas United 08/09 Girls Academy,U18,Female,GotSport Rankings,0,NV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=15,GotSport
+HENDERSON-LVSA '08G Black,U18,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=86,GotSport
+LAS VEGAS DIVERSITY FC '08 GIRLS ELITE,U18,Female,GotSport Rankings,0,NV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=4,GotSport
+Elko Indar U17 Girls,U18,Female,GotSport Rankings,0,NV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=53,GotSport
+Las Vegas Sports Academy U18 Girls Silver 2008,U18,Female,GotSport Rankings,0,NV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=12,GotSport
+LAS VEGAS DIVERSITY FC '08 BOYS ACADEMY,U18,Male,GotSport Rankings,0,NV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=46,GotSport
+Deportivo Las Vegas '08,U18,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=127,GotSport
+Las Vegas Alliance FC '08 Boys,U18,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=16,GotSport
+Sierra Surf 2008B Blue,U18,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=94,GotSport
+Las Vegas Elite FC B09 EA,U18,Male,GotSport Rankings,0,NV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=21,GotSport
+Rio FC U16B,U18,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=66,GotSport
+Vegas Strong,U18,Male,GotSport Rankings,0,NV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=105,GotSport
+LV Heat Surf,U18,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=53,GotSport
+Nevada FC 08B Douglas,U18,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=121,GotSport
+LAS VEGAS DIVERSITY FC '08 BOYS ELITE,U18,Male,GotSport Rankings,0,NV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=3,GotSport
+BattleBorn United 08,U18,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=37,GotSport
+Players 08 Boys Academy2,U18,Male,GotSport Rankings,0,NV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=129,GotSport
+LVSA MLS Next 08 Boys,U18,Male,GotSport Rankings,0,NV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=130,GotSport
+Las Vegas Storm FC B09/08 Academy,U18,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=130,GotSport
+Nevada FC 08B EA,U18,Male,GotSport Rankings,0,NV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99,GotSport

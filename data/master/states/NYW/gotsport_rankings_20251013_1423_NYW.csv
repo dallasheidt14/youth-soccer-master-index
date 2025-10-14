@@ -1,0 +1,3 @@
+team_name,age_group,gender,source,points,state,rank,url
+CNY Coliseum 2010 Girls,U16,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Lakefront SC G2008 Carpenter,U18,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1

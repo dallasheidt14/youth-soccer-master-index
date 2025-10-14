@@ -1,0 +1,49 @@
+team_name,age_group,gender,source,points,state,rank,url
+Southeast 2016 Boys Black,U10,Male,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+16B GSA,U10,Male,GotSport Rankings,0,AZ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+16B KChacon,U10,Male,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Tuzos Academy GTA 2016,U10,Male,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+16G GSA,U10,Female,GotSport Rankings,0,AZ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+16G Novais Royals,U10,Female,GotSport Rankings,0,AZ,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+AZ Arsenal Pre-ECNL B15,U11,Male,GotSport Rankings,0,AZ,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Chelsea 15B,U11,Male,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Phoenix United 2015 Elite,U11,Male,GotSport Rankings,0,AZ,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+U-11 (2015) Girls Pre Academy Blue,U11,Female,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Northwest 2015 Girls Black,U11,Female,GotSport Rankings,0,AZ,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+CCV Stars 15 Girls North Pre-GA Aspire,U11,Female,GotSport Rankings,0,AZ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+14B GSA,U12,Male,GotSport Rankings,0,AZ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Southeast 2014 Boys Black,U12,Male,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014 Elite,U12,Male,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Tuzos Royals 2014,U12,Male,GotSport Rankings,0,AZ,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Phoenix United 2014 Academy,U12,Male,GotSport Rankings,0,AZ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014B West,U12,Male,GotSport Rankings,0,AZ,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+CCV Stars 14 Girls North Pre-GA Aspire,U12,Female,GotSport Rankings,0,AZ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Arizona Soccer Club 2014G Pre-GA ASPIRE,U12,Female,GotSport Rankings,0,AZ,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Southeast 2013 Boys Black,U13,Male,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Playmaker Futbol Academy ECNL-RL B13,U13,Male,GotSport Rankings,0,AZ,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Legends FC AZ 13G FC,U13,Female,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G Flores Royals DPL,U13,Female,GotSport Rankings,0,AZ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+2013 Girls Blue,U13,Female,GotSport Rankings,0,AZ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+PRFC ECNL G13,U13,Female,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+CCV STARS 13 Girls Pre-E64 SUR,U13,Female,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+CCV Stars 13 Girls South Premier 2,U13,Female,GotSport Rankings,0,AZ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+Northwest 2012 Boys Black,U14,Male,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+FCDA 2012B Red,U14,Male,GotSport Rankings,0,AZ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Phoenix United 2012 Elite,U14,Male,GotSport Rankings,0,AZ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Southeast 2012 Boys Red,U14,Male,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Southeast 2012 Girls Black,U14,Female,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+PRFC ECNL G12,U14,Female,GotSport Rankings,0,AZ,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+PRFC SC 12G NL Premier 1 Pacific,U14,Female,GotSport Rankings,0,AZ,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+East Valley NSFC 12 Girls Klingler,U14,Female,GotSport Rankings,0,AZ,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Synergy FC 12G,U14,Female,GotSport Rankings,0,AZ,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+West Valley 2012 Royals Shamoun DPL-O,U14,Female,GotSport Rankings,0,AZ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Scottsdale 11 Sandsharks Select,U15,Male,GotSport Rankings,0,AZ,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+11 Boys Navy,U15,Male,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Tuzos Academy Mesa 2011 Elite,U15,Male,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+CCV Stars 11 Boys South ECNL RL,U15,Male,GotSport Rankings,0,AZ,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+AZ Arsenal 11 Boys Flagstaff EL,U15,Male,GotSport Rankings,0,AZ,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Legends FC AZ 11G FC,U15,Female,GotSport Rankings,0,AZ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Excel Soccer Academy E64 RL 11G,U15,Female,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+11G Aspire,U15,Female,GotSport Rankings,0,AZ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+AZEV G2011 (NAVY),U15,Female,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Real Arizona 2010 Girls,U16,Female,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1

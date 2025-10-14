@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "🐍 Run Scraper Orchestrator",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/scraper/build_master_team_index.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/src"
+            }
+        }
+    ]
+}

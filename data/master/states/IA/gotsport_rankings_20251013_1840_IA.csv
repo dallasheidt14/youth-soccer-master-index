@@ -1,0 +1,745 @@
+team_name,age_group,gender,source,points,state,rank,url
+BSA 2016 Boys White,U10,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=10
+BSA 2016 Boys Blue,U10,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=24
+UFA DSM 2016B ACADEMY,U10,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=28
+CVSC 2016 Boys,U10,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=35
+MSC 2016 Boys - Purple,U10,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=39
+NSSC U10 Red,U10,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=44
+AYSO United 2016 Boys Blue,U10,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=110
+AYSO United 2016 Boys Red,U10,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=110
+Sabers 2016,U10,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=112
+SESA U10 B Black,U10,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=117
+SESA U10 B- Yellow,U10,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=117
+QCS B2016 Lightning,U10,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=120
+North Iowa 10U Tournament - Coed,U10,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=144
+Pearl City 2016 Boys,U10,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=148
+Apex 10U Boys Red,U10,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=162
+SIE 2016 Boys,U10,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=169
+MSC U10G Girls - Gold,U10,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=2
+BSA 2016 Girls White,U10,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=13
+ISC Fever 9U-10U Girls-2016-2017-2018,U10,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=21
+AYSO United 2016 Girls Red,U10,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=23
+QC Legendary Strikers,U10,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=31
+NSSC 2016,U10,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=34
+FK enVISION - U9/U10 Girls,U10,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=40
+SESA U9/10 G,U10,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=46
+Apex 10U Girls Red,U10,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=50
+MSC U10G - Purple,U10,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=78
+AYSO United 2016 Girls Blue,U10,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=81
+CVSC 2016G,U10,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=84
+MSC 2015 Boys,U11,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=53
+2015 QCS Select,U11,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=57
+BSA Boys Black U11,U11,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=59
+RFA 2015's,U11,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=66
+BSA 2015 Boys Blue,U11,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=76
+VSA 2015 Boys Black,U11,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=95
+CVSC 2015B,U11,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=121
+RFA U10 Gold,U11,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=133
+VSA 2015 Boys Green,U11,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=133
+SIE Academy 2015 Boys,U11,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=146
+Pearl City 2015 Boys,U11,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=152
+Pearl City 2015 Boys,U11,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=153
+AYSO United 2015 Boys White,U11,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=155
+AYSO United 2015 Boys White,U11,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=156
+Iowa Rush North 2015 Boys,U11,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=178
+Ames SC 11u Boys Navy,U11,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=179
+Ames SC 11u Boys Navy,U11,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=180
+DMSC 2015 Boys Red,U11,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=183
+DMSC 2015 Boys Blue,U11,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=183
+RFA U10 Black,U11,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=187
+ISC Sting 1-2015 Boys,U11,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=191
+North Scott Scarlet,U11,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=191
+FC United U10B,U11,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=197
+ISC Mavericks 3-2014 Boys,U11,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=198
+UFA DSM 2015BA,U11,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=207
+Dubuque Soccer Club U10B Red,U11,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=217
+Gilbert U10 Black,U11,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=218
+AYSO United 2015 Boys Red,U11,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=223
+ATHLETIC SPORTING 2015B,U11,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=226
+North Scott Silver,U11,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=230
+Iowa United FC 2015B FCA,U11,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235
+DCG 2015B Red Select,U11,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=239
+Iowa Rush 2015 Boys Grey,U11,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=249
+BigDogs 2034,U11,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=254
+Burlington Predators U11,U11,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+Atomic Fleas,U11,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=258
+BSA Blue U11,U11,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=263
+Iowa Rush North 2015 Academy Boys,U11,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=264
+CRSA 2015 Boys,U11,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=265
+SESA U11 B,U11,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=267
+AYSO United 2015 Boys Blue,U11,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=268
+Dubuque Soccer Club U10,U11,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=273
+CVSC 2015B Blue,U11,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=274
+VSA 2015 Boys White,U11,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=275
+Christian Soccer Academy,U11,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=281
+Dubuque Soccer Club U10 Red,U11,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=283
+Iowa United FC 2015B Navy,U11,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=286
+Iowa Rush 2015 Boys Blue,U11,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=292
+NWISC Galaxy U11B,U11,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=303
+North Iowa 11U Tournament - Coed,U11,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=306
+Apex 11U Boys Red,U11,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=306
+North Iowa 10U Tournament - Boys,U11,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=309
+ISC Sting 2-2015 Boys,U11,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=320
+Iowa United FC 2015B White,U11,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=327
+DMSC 2015 Boys White,U11,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=331
+Apex 10UB Santos,U11,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336
+Genesis FC U10 Boys,U11,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=340
+UFA Siouxland 2014 Competitive,U11,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=352
+SCFC B2015 U11,U11,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=352
+2015 Boys Quad City Strikers - Black,U11,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=356
+Apex 10UB Arsenal,U11,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=362
+SESA U9 B,U11,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=362
+VSA 2015 Boys Yellow,U11,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+Gilbert U10 Red,U11,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=376
+DCG 2015B White Select,U11,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=393
+Iowa Rush 2015 Boys White,U11,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=406
+515 Soccer Academy - 2015 Boys,U11,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=408
+Gilbert U10 Black,U11,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=420
+DeWitt U11 Girls,U11,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=21
+BSA 2015 Girls White,U11,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=25
+QCS Lightning,U11,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=34
+QCS Lightning 2015 Girls,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=43
+FC United 2015G Navy,U11,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=49
+NSSC,U11,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=52
+Iowa Rush North 2015 Girls,U11,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=61
+CVSC 2015G,U11,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=77
+NWISC Galaxy U10 Girls,U11,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=77
+AYSO United 2015 Girls Blue,U11,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=79
+AYSO United 2015 Girls Blue,U11,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=80
+SESA U11/12 G,U11,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=80
+AYSO United 2015 Girls,U11,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=99
+Iowa Rush 2015 Girls Blue,U11,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=107
+Iowa Rush 2015 Girls Blue,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=108
+VSA 2015 Girls Green,U11,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113
+VSA 2015 Girls Green,U11,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=114
+VSA 2014 Girls White,U11,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=134
+DMSC 2015 Girls Red,U11,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=139
+DCG 2015G White Select,U11,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=146
+GU11 Dubuque Soccer Club,U11,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=157
+FC United 2015G Red,U11,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=161
+Stormin' Strikers,U11,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=161
+NPU U11G,U11,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=162
+CRSA 2015 Girls Red,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=172
+Apex 10UG Courage,U11,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=175
+North Iowa 10U Tournament Girls,U11,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=175
+VSA 2015 Girls White,U11,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=177
+Apex 11U Girls Red,U11,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=179
+VSA 2015 Girls Black,U11,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=182
+Pearl City 2015 Girls,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=184
+VSA 2015 Girls Yellow,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=185
+NP United 2015,U11,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=195
+CRSA 2015 Girls,U11,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=200
+CR Storm U11Girls,U11,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=200
+Iowa Rush 2015 Girls White,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=201
+ISC Hurricanes 2-11U-12U Girls,U11,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203
+Apex 10UG Pride,U11,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=204
+Iowa Rush 2015 Girls Grey,U11,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=213
+Sporting Iowa 2014G,U11,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=216
+FC United 2015G,U11,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=222
+Iowa Storm 2015G,U11,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=224
+Fuerza Raptors 15/16,U11,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=227
+UFA DSM 2015G,U11,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=229
+CRSA 2015 Girls,U11,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=233
+RFA 2014’s,U12,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=36
+NSSC 2014 Boys,U12,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=64
+VSA 2014 Boys Black,U12,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=70
+QCS 2014 Lightning,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=73
+BSA 2014 Boys White,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=87
+Pearl City 2014/13B,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=95
+Dewitt Sabers,U12,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=106
+MSC 2014 Boys,U12,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=108
+TNT Soccer 2014B,U12,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=120
+DMSC 2014 Boys Red,U12,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=128
+BSA 2014 Boys Blue,U12,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=135
+Dubuque Soccer Club BU10/11,U12,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=139
+Athletic sporting,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=144
+MCSC U11B Select,U12,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=155
+VSA 2014 Boys White,U12,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=168
+QC Strikers 2014 Thunder,U12,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=170
+UFA Siouxland 2014 select,U12,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=172
+ISC Mavericks 1-2014 Boys,U12,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=175
+UFA DSM 2014B ELITE,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+VSA 2014 Boys Yellow,U12,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+DCG U11 Boys Select,U12,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=179
+CVSC 2014B Blue,U12,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=180
+UFA DSM 2014B PREMIER,U12,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=183
+Iowa Storm Soccer Club 2014B,U12,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=186
+DMSC 2014 Boys Blue,U12,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=202
+Iowa Rush South 11U Boys,U12,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212
+Iowa Rush 2014 Boys Grey,U12,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=220
+CRSA 2014 Boys Black,U12,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=222
+SESA U12 B,U12,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=229
+Iowa Rush North 2014 Boys,U12,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=237
+UFA SL 2014B ELITE,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=241
+Iowa United FC 2014B,U12,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245
+WI Surf 2014B Blue,U12,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=247
+Sporting Iowa Black 2014B,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=258
+WIN Surf 2014B,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=261
+Iowa Rush 2014 Boys Blue,U12,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=261
+North Iowa 12U Tournament - Boys,U12,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+Sporting Iowa Grey 2014B,U12,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=287
+AYSO United 2014 Boys Blue,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=290
+Storm Lake Kickers Soccer Club,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=293
+WI Surf 2014B Black,U12,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=294
+Apex 12U Boys Red,U12,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=302
+UFA Siouxland 2014 competitive,U12,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=302
+UFA Siouxland 2014 boys Elite,U12,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=303
+AYSO United 2014 Boys Red,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=305
+FC United 2014B Red,U12,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=306
+BSA 2014 Boys Silver,U12,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=311
+SIE 2014 Boys,U12,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=315
+CVSC 2014B Gray,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=322
+UFA DSM 2015B,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=328
+Galaxy U11 Boys 2025-2026,U12,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=333
+CRSA 2014 Boys Red,U12,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=340
+Iowa United FC 2014B FCA,U12,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=340
+ISC Mavericks 2-2014 Boys,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=343
+Iowa United FC 11U Boys,U12,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=348
+SCFC B2014 U12,U12,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=353
+NWISC GALAXY,U12,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=357
+MCSC U12B,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=362
+Ames SC 12u Boys Navy,U12,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=362
+11UB Apex Red,U12,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=381
+ISC Rewards 2-11U-12U Boys,U12,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=384
+Iowa ODP 14B Navy,U12,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=389
+FC United U11B Navy,U12,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=395
+Sporting Iowa Silver 2014B,U12,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=396
+Sporting Iowa Red 2014B,U12,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=396
+TNT Soccer 14B,U12,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=400
+CVSC 2014 Boys Blue,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=401
+Burlington Predators U12,U12,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=407
+#TeamLet'sGetIt,U12,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=411
+CVSC 2014B Black,U12,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=413
+CVSC 2014B Gray,U12,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=413
+VSA 2014 Boys Blue,U12,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=419
+Sporting Iowa Silver 2014B,U12,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=435
+Sporting Iowa Blue 2014B,U12,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=435
+UFA DSM 2014B 3,U12,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=437
+BSA 2014 Girls Blue,U12,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=24
+FC United 2014G,U12,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=40
+FC United 2014G,U12,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=45
+FK enVISION - U11/12 Girls,U12,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=49
+FC United 2014G,U12,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=53
+MSC 2014/2015 Girls - Gold,U12,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=54
+SIE 2014 Girls Blue,U12,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=55
+VSA 2014 Girls Red,U12,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=59
+TNT soccer U11G,U12,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=60
+DMSC 2014 Girls Red,U12,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=75
+2014 Girls - Fusion,U12,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=92
+2014 Girls - Fusion,U12,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=93
+AYSO United 2014 Girls,U12,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=97
+UFA DSM 2014G,U12,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=104
+CVSC 2014G,U12,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=109
+SIE 2014 Girls White,U12,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=114
+Iowa United FC 11UG,U12,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=116
+MCSC U10G - Blue,U12,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=128
+Ames U11 Girls Navy,U12,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=129
+MSC 2014/2015 Girls - Purple,U12,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=129
+North Polk United,U12,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=131
+North Polk United,U12,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=132
+Iowa Rush 2014 Girls Blue,U12,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=135
+VSA 2014 Girls Orange,U12,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+WIN Surf 2014G,U12,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+VSA 2014 Girls Blue,U12,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=144
+Sporting Iowa Grey 2014G,U12,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=147
+ISC Hurricanes 1-11U-12U Girls,U12,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=151
+Iowa Rush North 2014 Girls,U12,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=151
+Iowa Rush 2014 Girls Grey,U12,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160
+Apex 12U Girls Red,U12,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=167
+Sporting Iowa Blue 2014G,U12,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=170
+Christian Soccer Academy U11 girls,U12,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=174
+FC United 2014G Tournament,U12,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181
+MCSC U12G Select,U12,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=182
+ISC Rewards-11U-12U Girls,U12,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=203
+Iowa United FC 2014G Navy,U12,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=213
+DMSC 2014 Girls Blue,U12,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=213
+Sporting Iowa Black 2014G,U12,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=219
+AYSO United 2014 Girls Blue,U12,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=219
+FC America Girls,U12,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=220
+UFA DSM U11G,U12,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=221
+Fuerza Raptors 2014,U12,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=224
+VSA 2014 Girls Yellow,U12,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=227
+515 Soccer Academy - U11 Girls,U12,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=228
+CRSA 2014 Girls,U12,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=231
+WI SURF U11G,U12,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=232
+Sabers 13/14,U12,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=240
+VSA 2014 Girls Black,U12,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=247
+UFA DSM 2014 G ELITE,U12,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=249
+SCFC G2014 U12,U12,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=251
+NPU U12G,U12,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=252
+Iowa United FC 2014G Red,U12,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=252
+QCS G2014 Thunder,U12,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258
+Iowa Storm Soccer Club 2014G,U12,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258
+Sporting Iowa Silver 2014G,U12,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+ISC Force Blue-2013 Boys,U13,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=47
+MSC 2013 Boys,U13,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=56
+Sporting Iowa 2013B Pre-ECNL,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=61
+MASC- Little Bobcats,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=67
+BSA 2013 Boys White,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=83
+AYSO United 2013 Boys Red,U13,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=88
+VSA 2013 Boys Black,U13,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=97
+VSA 2013 Boys Green,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=118
+FK enVISION - U11/U12 Boys,U13,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=118
+UFA DSM 2013B ELITE,U13,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=139
+Decorah United Boys 2013/2014,U13,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=148
+FC United U12B Red,U13,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=149
+Iowa Rush North 2013 Boys,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=155
+VSA 2013 Boys Yellow,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=162
+M-town United,U13,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=168
+North Iowa 13U Tournament - Boys,U13,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=172
+North Iowa 13U Tournament - Boys,U13,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=173
+CRSA 2013 Boys,U13,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=175
+FC United 2013B Navy,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=183
+Apex 13U Boys Red,U13,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=186
+BSA Blue 2013,U13,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=188
+Larchwood Soccer Club Wildcats,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=189
+VSA 2013 Boys White,U13,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=205
+Chaos United,U13,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=210
+Iowa ODP - 2013B Navy,U13,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=211
+North Polk United,U13,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=213
+ISC Force Red-2013 Boys,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=228
+Iowa Rush South 12U/13U Boys,U13,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=236
+AYSO United 2013 Boys Blue,U13,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=239
+Iowa Storm Soccer Club 2013B,U13,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=239
+Christian Soccer Academy U13,U13,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=245
+Iowa ODP 13B Blue,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=263
+ISC Force White-2013 Boys,U13,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=266
+12UB Apex Red,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=267
+VSA 2013 Boys Premier,U13,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=273
+Mini Zacatecas,U13,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=274
+Iowa United FC 2013B Navy,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=274
+SCFC B2013 U13,U13,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=274
+FC United Iowa 2013B,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=276
+CVSC 2013B,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277
+QCStrikers 12U Boys - Lightning,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277
+VSA 2013 Boys Gray,U13,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=280
+Iowa Rush 2013 Boys,U13,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=281
+Sporting Iowa ECNL B12,U13,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=286
+WI Surf U12B Black,U13,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=287
+Pearl City 2013B,U13,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=304
+Sporting Iowa White 2013B,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=305
+Sporting Iowa Strikers 2013 Boys White,U13,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=308
+Sporting Iowa - ECNL-RL B12,U13,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=309
+Iowa Rush 2013 Boys Blue,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=314
+Dubuque Soccer Club 12u,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=317
+Iowa ODP - 2013B Red,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=328
+QCS Cosmos,U13,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=329
+Quad Cities Strikers Cosmos,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=336
+Sporting Iowa Grey 2013B,U13,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=337
+Iowa Rush B12U Rec Grey,U13,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=341
+VSA 2013 Boys Competitive Green,U13,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=341
+DCG 2013B Select,U13,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=342
+TNT Soccer U11B,U13,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=347
+Iowa United FC 12U Boys Navy,U13,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=348
+VSA 2013 Boys Competitive Black,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=348
+Iowa Infinity FC,U13,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=349
+CVSC 2013B,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=353
+Iowa United FC 2013B White,U13,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+Iowa United FC 12U Boys White,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=380
+U12 Boys 2025-2026,U13,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=381
+DMSC 2013 Boys Red,U13,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=384
+Spring Creek FC B2013,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=387
+Iowa Infinity FC,U13,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=390
+Sporting Iowa Blue 2013B,U13,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=391
+DMSC 2013 Boys Blue,U13,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=392
+Ames SC 13u Boys Navy,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+UFA DSM 2013B SELECT,U13,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=402
+Iowa Rush 2013 Boys Grey,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=405
+VSA 2013 Boys Blue,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=408
+QC Strikers - Thunder Boys U12,U13,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=411
+Gilbert U12,U13,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+WIN Surf 2013B,U13,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=422
+SESA U13 B,U13,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=424
+SPRING CREEK FC - SCFC 2013 BOYS U11,U13,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=430
+Sporting Iowa Strikers 2013 Boys Blue,U13,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+TNT Soccer 2013G,U13,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=54
+FC United 2013G Red,U13,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=65
+NSSC Surge,U13,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=85
+Iowa Rush 2013 Girls Grey,U13,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=85
+SIE 2013 Girls,U13,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=92
+VSA 2013 Girls Black,U13,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=94
+Iowa Rush 2013 Girls Blue,U13,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=104
+AYSO United 2013 Girls Blue,U13,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=105
+Iowa Rush North 2013 Girls,U13,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+Dubuque Soccer Club 12u,U13,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+TNT Soccer 2013G II,U13,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=114
+SESA 2013/14 G,U13,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=115
+VSA 2013 Girls White,U13,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=117
+Iowa Storm 2013G,U13,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=117
+QCS 2013/14G,U13,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=137
+Des Moines SC 2013 Girls Red,U13,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=145
+CVSC 2013G,U13,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=149
+DMSC 2013 Girls Red,U13,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=150
+CVSC 2013G,U13,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=151
+Western Iowa Surf U12 Girls Black,U13,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=153
+Xolos Academy FC MN 2013G,U13,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=154
+Sporting Iowa Pre-ECNL 1 2013G,U13,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=160
+13G GA,U13,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=161
+Apex 12UG,U13,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=166
+SCFC G2013 U13,U13,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=167
+SPIA 2013g White,U13,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=172
+FC United 2013G Navy,U13,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=172
+SCFC 2013 Girls (U12),U13,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=176
+Sporting Iowa Pre-ECNL 2 2013G,U13,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=180
+Iowa ODP - 2013G Navy,U13,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=181
+North Iowa 13U Tournament Girls,U13,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+NWISC Galaxy U12,U13,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=186
+AYSO United 2013 Girls Red,U13,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=188
+VSA 2013 Girls Premier,U13,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=189
+VSA 2013 Girls Green,U13,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=190
+UFA DSM 2013G,U13,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=194
+Iowa Rush 2013 Girls White,U13,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=195
+FC United Iowa ECNL RL G12,U13,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=199
+UFA DSM 2013G,U13,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=210
+Apex 13U Girls Red,U13,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=219
+Sporting Iowa Blue 2013G,U13,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225
+SESA 2013 G,U13,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=228
+Iowa ODP 13G Green,U13,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=228
+NSSC Surge Red,U13,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=237
+Iowa ODP - 2013G Red,U13,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=245
+Sporting Iowa ECNL RL G12,U13,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=249
+Western Iowa Surf U12G Blue,U13,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=251
+CRSA 2013 Girls,U13,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=256
+Clinton United,U13,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=256
+Sporting Iowa White 2013G,U13,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=261
+WIN Surf 2013G,U13,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=262
+FC United 2013G,U13,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=268
+North Scott U14/15 Boys,U14,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=67
+DMSC 2012 Boys Red,U14,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=73
+BSA 2012 Boys Elite,U14,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=82
+DMSC 2012 Boys Blue,U14,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=99
+FK enVISION - U14 Boys,U14,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=117
+ISC Raptors Blue-2012 Boys,U14,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=117
+ISC Knights Blue 2011 Boys,U14,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=117
+Iowa United 2012B Navy,U14,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=126
+CRSA 2012 Boys,U14,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=131
+SESA 2012 B,U14,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=133
+VSA 2012 Boys Premier,U14,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=134
+QC Strikers 2012B Lightning,U14,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=136
+UFA DSM 2012 BOYS ELITE,U14,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=140
+2012 Boys ECNL,U14,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=142
+AYSO United 2012 Boys,U14,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=147
+BSA 2012 Boys Blue,U14,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=173
+Pearl City 2012 Boys,U14,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=176
+Iowa Rush 2012 Boys Blue,U14,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=177
+Ames SC 14u Boys Navy,U14,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=178
+Iowa Rush 2012 Boys Grey,U14,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=179
+NWISC Galaxy U13 Boys,U14,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199
+CVSC 2012B,U14,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=207
+ATLETHIC SPORTING,U14,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=222
+UFA DSM 2012B SELECT,U14,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=228
+Sporting Iowa White 2012B,U14,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=232
+Iowa United 2012B Red,U14,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=233
+MSC 2012 Boys,U14,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=237
+CVSC 2012B,U14,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=239
+Iowa Storm Soccer Club U13B,U14,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=240
+Athletic sporting U12,U14,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=242
+Athletic sporting,U14,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245
+Liverghouls FC 13U,U14,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250
+Iowa ODP - 2012B Navy,U14,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=258
+FC United 2012B,U14,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=263
+Apex 13UB,U14,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=277
+VSA 2012 Boys Competitive,U14,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=278
+Ames SC 12u Boys Navy,U14,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=287
+WDSC,U14,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=290
+Apex 14U Boys Red,U14,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=293
+Iowa Rush South 12U Boys,U14,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=295
+Burlington Predators U14,U14,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=298
+Sporting Iowa Strikers 2012 Boys Blue,U14,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+Storm Lake Kickers Soccer Club,U14,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=301
+DCG 2012B Select,U14,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=306
+AYSO United 2012 Boys Blue,U14,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=317
+Ames U11 Boys Navy,U14,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=318
+Iowa United FC 13U Boys Navy,U14,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321
+Iowa Rush South 11U Boys,U14,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=323
+SCFC B2012 U14,U14,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=323
+Iowa ODP 12B Green,U14,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=325
+Iowa United FC 13UB White,U14,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=330
+2012B ECNL,U14,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=334
+MSC U14 Boys,U14,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=337
+Iowa Rush North 2012/13 Boys,U14,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=342
+Gilbert Tigers U14,U14,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=345
+Iowa ODP - 2012B Red,U14,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=346
+Spring Creek FC - SCFC B2012,U14,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=348
+Indianola Soccer Tribe U15,U14,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=349
+Western Iowa Surf 2012 Boys Blue,U14,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=353
+WI Surf Black U13B,U14,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=353
+Iowa Storm Soccer U13/14B,U14,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=361
+Iowa United FC 2012B White,U14,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=364
+FCA FIRE,U14,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=42
+UFA DSM 2012 GIRLS ELITE,U14,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=44
+SIE 2012 Girls,U14,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=53
+Pearl City 2012G,U14,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=59
+TNT Soccer 2012G,U14,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=78
+2012 Girls GA,U14,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=90
+AYSO United 2012 Girls,U14,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=98
+NSSC Dynamite,U14,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=105
+Iowa Rush 2012 Girls,U14,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=111
+12G GA,U14,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=111
+Pearl City 2012G black,U14,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=114
+2012G CDL 1 (White),U14,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=119
+VSA 2012 Girls Premier,U14,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=125
+Iowa ODP - 2012G Red,U14,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=131
+Iowa Rush 2012/13 Girls Grey,U14,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=132
+DCG 2012G Select,U14,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=132
+2012G ECNL-RL,U14,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=141
+MSC 2012/2013 Girls,U14,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=144
+SESA MSG,U14,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=148
+CRSA 2012 Girls,U14,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=159
+CVSC 2012G,U14,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=172
+NSSC U14/15 GIRLS,U14,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=172
+Des Moines SC 2012 Girls Red,U14,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=172
+VSA 2012 Girls Competitive,U14,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=174
+Apex 14U Girls Red,U14,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=181
+AYSO United 2012 Girls Blue,U14,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=189
+QC Strikers 2012G,U14,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=193
+CBSC Strikers 2012,U14,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194
+Iowa United FC 13UG,U14,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=196
+Iowa Rush North 2012/13 Girls,U14,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=197
+Iowa Rush 2012/13 Girls Blue,U14,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=197
+MCSC U14G Select,U14,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=198
+Apex 13UG Red,U14,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=199
+Iowa ODP 12G Green,U14,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=201
+Iowa ODP - 2012G Navy,U14,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=201
+515 Soccer Academy - 2012 Girls,U14,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=202
+FC United 2012G,U14,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=215
+WIN Surf 2012G,U14,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+FC America Fire,U14,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=220
+Sporting Iowa ECNL 2012G,U14,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=222
+VSA 2013/12 Girls Competitive,U14,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=224
+DMSC 12U Girls Red,U14,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=226
+UFA DSM 2011 BOYS ELITE,U15,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=62
+NSSC U14 Scarlet,U15,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=75
+Iowa Rush North 2011/12 Boys,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=90
+WI Surf 2011B Black,U15,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=95
+AYSO United 2011 Boys,U15,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=102
+FC United 2011B Navy,U15,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=103
+VSA 2011 Boys Premier,U15,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=107
+DMSC 2011 Boys Red,U15,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=111
+ISC Hawks Blue-2010 Boys,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=122
+BSA 2011 Boys Elite,U15,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=148
+Iowa United FC 2011B White,U15,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=168
+SESA 2011 B,U15,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=174
+UFA DSM 2011B PREMIER,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+Iowa Rush 2011 Boys Grey,U15,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=186
+FC United (Iowa) - B2011,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=194
+FC United 2011B Red,U15,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195
+Ames SC 15u Boys Yellow,U15,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=198
+DMSC 2011 Boys Blue,U15,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=198
+Sporting Iowa 2011B ECNL,U15,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=206
+CRSA 2011 Boys,U15,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=208
+2011B Sporting Iowa ECNL,U15,Male,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212
+Iowa Rush 2011 Boys Blue,U15,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=214
+Sporting Iowa Strikers 2011 Boys Blue,U15,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=221
+Decorah United Boys U13/14/15,U15,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=223
+ISC Knights 2011 Boys POP/POPPI,U15,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=223
+UFA DSM 2011B SELECT,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=224
+FC United 2012/11B Navy,U15,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=224
+Iowa ODP 11B Green,U15,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=225
+UFA DMS 2011 SELECT,U15,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=227
+WIN Surf 2011B,U15,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=235
+UFA DSM 2011 BOYS ELITE,U15,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=238
+SESA U14/15 B,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=241
+FC United Iowa - RL 11B,U15,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=243
+Sporting Iowa RL B11,U15,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=248
+2011B CDL 1 (White),U15,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=252
+DCG Boys U14/15 Select,U15,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+VSA 2011 Boys Competitive (U14),U15,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+VSA 2011 Boys Competitive Black,U15,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+Iowa ODP 11B Blue,U15,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+Ames U14 Boys Navy,U15,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=272
+Lancers,U15,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=277
+Iowa United FC 14U Boys,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=282
+North Iowa 14U Tournament - Boys,U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=283
+MCSC U15B,U15,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=287
+Iowa Rush North 2011 Boys,U15,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=288
+SCFC 2011 Boys (14U),U15,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=288
+VSA 2011 Boys Competitive Green,U15,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=290
+Iowa United FC 2011B Navy,U15,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=290
+Iowa ODP - 2011B Navy,U15,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=298
+Iowa ODP - 2011B Red,U15,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=298
+QCS B2011 Lightning,U15,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=303
+Sporting Iowa White 2011B,U15,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=308
+Apex 14/15UB,U15,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=311
+CVSC 2011/2010B,U15,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=311
+Tornadoes,U15,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=313
+2011B CDL 2 (Blue),U15,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=323
+SCFC B2011 U15,U15,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=327
+2011 Boys ECNL,U15,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=327
+FM Little Hounds,U15,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=332
+UFA DSM 2011 GIRLS ELITE,U15,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=5
+Fúerza Raptors,U15,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=25
+11G GA,U15,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=61
+FK enVISION - U14/U15 Girls,U15,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=64
+QC Strikers 2011G,U15,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=68
+BSA 2011 Girls,U15,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=68
+Western Iowa Surf U14 Black,U15,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=81
+QCS 2011G,U15,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=89
+TNT Soccer 2011G,U15,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=94
+Sporting Iowa Strikers 2011 Girls Blue,U15,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=97
+UFA DSM 2011G E,U15,Female,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=108
+ISC Rage Blue 15U Girls-2011-2012 Girls,U15,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=110
+DCG U14 Girls Select,U15,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=110
+CRSA 2011 Girls,U15,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113
+CRSA 2011 Girls,U15,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=114
+North Scott U14/15 Girls,U15,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=122
+DMSC 2011 Girls Red,U15,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=124
+Iowa Rush South 14/15U Girls,U15,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=125
+CVSC 2011G,U15,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=128
+2011 Girls GA,U15,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=129
+WIN Surf 2011G,U15,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=130
+FC United 2011G,U15,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=134
+Iowa ODP - 2011G Red,U15,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=135
+Apex 2010G,U15,Female,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=137
+Iowa Rush North 2011/12 Girls,U15,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=139
+FC United 2011/2012G,U15,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=150
+Apex 14UG Grey,U15,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=151
+Sporting Iowa Central - 2011G ECNL,U15,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=151
+Yankton United 11G,U15,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=162
+VSSC 14UG,U15,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=163
+FC United 2011G Navy,U15,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=163
+2011G CDL 1 (White),U15,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=165
+Iowa Rush 2011 Girls,U15,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=171
+VSA 2011 Girls Premier,U15,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=177
+Iowa ODP - 2011G Navy,U15,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=180
+CSC Red Devils,U15,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=181
+VSA 2011 Girls Competitive,U15,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=182
+Apex 2011G,U15,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=183
+Iowa Rush South 15U Girls,U15,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=184
+2011G ECNL-RL,U15,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=189
+Iowa Rush South 12U Girls,U15,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+Sporting Iowa RL G11,U15,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=199
+2011G Sporting Iowa ECNL,U15,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+NWISC Galaxy U14,U15,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+UFA DSM 2010 BOYS ELITE,U16,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=14
+BSA 2010 Boys Elite,U16,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=37
+MSC 2010/2011 Boys,U16,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=67
+Iowa ODP - 2010B Navy,U16,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=88
+Fuerza Raptors 10/11,U16,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=99
+VSA 2010 Boys,U16,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=99
+North Scott Soccer Club U16B,U16,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=107
+Iowa ODP - 2010B Red,U16,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=127
+Iowa Rush 2010 Boys,U16,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=151
+Iowa United FC 2010B Navy,U16,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=182
+SESA U16 B,U16,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=191
+2010 QC PREP,U16,Male,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=192
+Iowa United FC 15U Boys,U16,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=193
+Sporting Iowa White 2010B,U16,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=201
+FC United DSM - 2010B,U16,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=205
+SCFC 2010 Boys (15U),U16,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=206
+CRSA 2010 Boys,U16,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=209
+Denison YSA (Youth Soccer Association),U16,Male,GotSport Rankings,0,IA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=210
+Sporting Iowa RL B10,U16,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=215
+Ames U13 Boys Navy,U16,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=217
+DMSC 2010 Boys Red,U16,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=218
+CVSC 2010/2011B Gray,U16,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=220
+VSA 2010 Boys Competitive,U16,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=225
+Ames 16U Boys Yellow,U16,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228
+2010 Boys ECNL,U16,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=230
+Ames SC 15/16u Boys Navy,U16,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=234
+Pearl City 2010 Boys,U16,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=235
+ISC Hawks White 2010 Boys,U16,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=240
+Apex 16U Boys Red,U16,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=248
+Ames SC 15/16u Boys Yellow,U16,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=250
+Ames SC 15U Boys,U16,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=250
+CVSC 2010/2011B Blue,U16,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=258
+VSA 2010 Boys Premier,U16,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=258
+NSSC 2010,U16,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=259
+FC United Iowa 2010B,U16,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=263
+Storm Lake Kickers Soccer Club,U16,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=263
+Sporting Iowa ECNL 10B,U16,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=270
+TNT Soccer 2010G,U16,Female,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=28
+FC United 2010/2011 Red,U16,Female,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=56
+FC United Iowa 2010G,U16,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=67
+Iowa ODP 2010G Red,U16,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=75
+Xolos Academy FC MN 10G,U16,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=79
+SESA MS Girls,U16,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=87
+SIE 2010 Girls,U16,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=90
+UFA DSM 2010/11 G,U16,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=99
+10G GA,U16,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=104
+Iowa Rush 2010 Girls,U16,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=114
+Iowa Storm Soccer Club U14/U15G,U16,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=118
+Iowa United FC 2010G,U16,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=120
+Western Iowa SURF 2010G,U16,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=123
+CRSA 2010 Girls,U16,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=129
+Apex 14UG Red,U16,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=134
+Ames 15U Girls Navy,U16,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=134
+Western Iowa Surf U15G Grey 2010,U16,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=135
+Iowa Rush South 14U/15U Girls,U16,Female,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=138
+Sporting Iowa ECNL-RL 2010G,U16,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=145
+AYSO United 2010 Girls Red,U16,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=147
+Sporting Iowa ECNL 2010,U16,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=155
+VSA 2010 Girls Premier,U16,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=168
+Iowa United FC 14/15U Girls,U16,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=171
+QC Strikers U15G,U16,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=172
+Iowa ODP 2010G Navy,U16,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=178
+Sporting Iowa Central - 2009B ECNL,U17,Male,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=38
+DMSC 2009 Boys Red,U17,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=85
+ISC Warriors Blue 2009 Boys,U17,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=103
+B2009 Sporting Iowa ECNL,U17,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=112
+DCG Boys HS Select,U17,Male,GotSport Rankings,0,IA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123
+VSA 09 Boys Premier,U17,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=130
+Iowa Rush 2009 Boys,U17,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=145
+FC United Iowa RL B09,U17,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=152
+SCFC B2009/2010 U16/U17,U17,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=169
+SESA U17 B,U17,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=177
+Sporting Iowa 15UB ECNL-RL,U17,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=178
+VSA 2009 Boys Premier,U17,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=187
+AYSO United 2009 Boys,U17,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=187
+2009 Boys ECNL,U17,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=191
+Bondurant BlueJays,U17,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=195
+Iowa United FC 2009B Navy,U17,Male,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=195
+UFA DSM 2009B Elite,U17,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=197
+UFA DSM 2009 BOYS ELITE,U17,Male,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=205
+Sporting Iowa Strikers 2009 Boys Blue,U17,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=210
+DMSC 2009 Boys Blue,U17,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=217
+Iowa Rush South 14U Boys,U17,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=218
+ISC Warriors White/Hawks White Boys,U17,Male,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=219
+Quad City Strikers Hammers,U17,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=224
+Sporting Iowa 13UG ECNL,U17,Male,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=225
+FC United Iowa 2009G,U17,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=23
+TNT Soccer 2009G,U17,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=59
+Sporting Iowa ECNL-RL 2009G,U17,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=61
+FC America 2009/2010 Girls,U17,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=65
+Iowa Rush South 14U Girls,U17,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=76
+CRSA 2009 Girls,U17,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=84
+UFA DSM 2009G Elite,U17,Female,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=93
+UFA DMS 2009 GIRLS ELITE,U17,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=96
+Rogue FC (IA) 2009,U17,Female,GotSport Rankings,0,IA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=101
+Sporting Iowa ECNL U14G,U17,Female,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=118
+Midwest United FC ECNL RL G08,U17,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122
+Sporting Iowa ECNL RL G08,U17,Female,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=123
+FC America 2009/2010 Girls White,U17,Female,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=126
+VSA 2009 Girls Premier,U17,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=127
+Sporting Iowa U15G ECNL-RL,U17,Female,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=128
+Sporting Iowa ECNL 2009G,U17,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=132
+2008 Boys ECNL,U18,Male,GotSport Rankings,0,IA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=12
+DMSC 2008 Boys Red,U18,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=48
+FC America 08/09 (IA),U18,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=55
+Sporting Iowa Central - 2008B ECNL-RL,U18,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=57
+NSSC U16-17 Boys,U18,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=81
+SESA U18 B,U18,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=94
+Sporting Iowa U16B ECNL-RL,U18,Male,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=95
+FC United Iowa - RL B08,U18,Male,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99
+FCA Thunder 2008 (IA),U18,Male,GotSport Rankings,0,IA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=106
+Sporting Iowa ECNL B08,U18,Male,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=110
+Iowa United FC 2008B Navy,U18,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=114
+SESA U18 B,U18,Male,GotSport Rankings,0,IA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=114
+Iowa United FC U17 Boys,U18,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=116
+VSA 08 Boys Premier,U18,Male,GotSport Rankings,0,IA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=119
+Apex 17UB,U18,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=124
+Western Iowa Surf U17 Black,U18,Male,GotSport Rankings,0,IA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=129
+Iowa ODP - 2008/07 Boys,U18,Male,GotSport Rankings,0,IA,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=131
+Iowa ODP - 2009/08B,U18,Male,GotSport Rankings,0,IA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=136
+CRSA 2008 Boys,U18,Male,GotSport Rankings,0,IA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=138
+TNT Soccer 08G,U18,Female,GotSport Rankings,0,IA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=30
+BSA 2008 Girls Elite,U18,Female,GotSport Rankings,0,IA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=32
+FC United Iowa - RL G08,U18,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=34
+Sporting Iowa Central - 2008G ECNL-RL,U18,Female,GotSport Rankings,0,IA,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=35
+Sporting Iowa Strikers 2008-09 Girls,U18,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=47
+FC America 08 Girls,U18,Female,GotSport Rankings,0,IA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=68
+CRSA 2008/2009 Girls,U18,Female,GotSport Rankings,0,IA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=69
+SESA HSG,U18,Female,GotSport Rankings,0,IA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=72
+Apex 17UG,U18,Female,GotSport Rankings,0,IA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=79
+Sporting Iowa ECNL 08G,U18,Female,GotSport Rankings,0,IA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=80
+Sporting Iowa RL G08,U18,Female,GotSport Rankings,0,IA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=81

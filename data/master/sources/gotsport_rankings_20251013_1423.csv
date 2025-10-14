@@ -1,0 +1,361 @@
+team_name,age_group,gender,source,points,state,rank,url
+Southeast 2016 Boys Black,U10,Male,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+16B GSA,U10,Male,GotSport Rankings,0,AZ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Las Vegas Sports Academy U10 Boys White 2016,U10,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Nevada FC 16B Pre-EA,U10,Male,GotSport Rankings,0,NV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Las Vegas Sports Academy U10 Boys Red 2016,U10,Male,GotSport Rankings,0,NV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+16B KChacon,U10,Male,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Santa Clara Sporting 16B Green,U10,Male,GotSport Rankings,0,CAN,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Tuzos Academy GTA 2016,U10,Male,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+B2016 Elite Red,U10,Male,GotSport Rankings,0,NYE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+CVFA 16B Academy,U10,Male,GotSport Rankings,0,CAN,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+United FC 2016,U10,Male,GotSport Rankings,0,NYE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+U9 EPP Blue,U10,Male,GotSport Rankings,0,MA,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+MIAMI UNITED FC 2016 ELITE,U10,Male,GotSport Rankings,0,FL,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+2016 Boys White,U10,Male,GotSport Rankings,0,FL,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+SWAG Academy 2016,U10,Male,GotSport Rankings,0,PAE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+B16 Elite,U10,Male,GotSport Rankings,0,CAS,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Strikers Miami FC 2016 PRE ECNL,U10,Male,GotSport Rankings,0,FL,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+TFA-Pro B2016,U10,Male,GotSport Rankings,0,CAS,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+PHENOM B2016,U10,Male,GotSport Rankings,0,CAS,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Futboleros FC,U10,Male,GotSport Rankings,0,CAS,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=1
+Mustang SC 16G Pre-ECNL,U10,Female,GotSport Rankings,0,CAN,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+G16,U10,Female,GotSport Rankings,0,NYE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+G2016 Lime,U10,Female,GotSport Rankings,0,CAS,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+16G Black,U10,Female,GotSport Rankings,0,PAE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+16G GSA,U10,Female,GotSport Rankings,0,AZ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+16G Pre GA,U10,Female,GotSport Rankings,0,NJ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+16G Novais Royals,U10,Female,GotSport Rankings,0,AZ,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+So Cal Blues SC - G16 Blue,U10,Female,GotSport Rankings,0,CAS,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+LFA Blue Star 2016G,U10,Female,GotSport Rankings,0,MO,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+G16 Red,U10,Female,GotSport Rankings,0,NYE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+G2016 Blue,U10,Female,GotSport Rankings,0,CAS,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Regulators Green 16,U10,Female,GotSport Rankings,0,CAN,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Placer United 16G Gold,U10,Female,GotSport Rankings,0,CAN,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+SYC 2016G Pre-GA,U10,Female,GotSport Rankings,0,VA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Sporting CA- G16 Pre ECNL,U10,Female,GotSport Rankings,0,CAS,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+2016G Pre-ECNL,U10,Female,GotSport Rankings,0,CAN,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Burlingame SC 2016G Pre-ECNL RL,U10,Female,GotSport Rankings,0,CAN,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Solar South 16G Adames,U10,Female,GotSport Rankings,0,TXN,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+2016 PFCU Wave,U10,Female,GotSport Rankings,0,IL,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+Ajax United 16G Green Pre-GA,U10,Female,GotSport Rankings,0,CAN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=1
+FUTBOLTECH CHSC - 2015 LIVERPOOL,U11,Male,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Las Vegas Sports Academy U11 Boys Red 2015,U11,Male,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Magnifico FC B15E,U11,Male,GotSport Rankings,0,NV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+2015 (U11) Pre MLS,U11,Male,GotSport Rankings,0,FL,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Weston FC 2015 Future Elite I,U11,Male,GotSport Rankings,0,FL,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+2015 Boys Blue,U11,Male,GotSport Rankings,0,FL,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+AZ Arsenal Pre-ECNL B15,U11,Male,GotSport Rankings,0,AZ,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Weston FC 2015 Future Elite II,U11,Male,GotSport Rankings,0,FL,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+KBSC Academy 2015,U11,Male,GotSport Rankings,0,FL,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Henderson LVSA '15B Black,U11,Male,GotSport Rankings,0,NV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Coppermine SC 2015 Boys Pre-Academy I,U11,Male,GotSport Rankings,0,MD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+ONE FC B2015 BLACK,U11,Male,GotSport Rankings,0,FL,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+SYC 2015B Pre-MLS Next,U11,Male,GotSport Rankings,0,VA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Chelsea 15B,U11,Male,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+2015 Boys White,U11,Male,GotSport Rankings,0,FL,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Ajax United 15B Academy Pre-MLS Next,U11,Male,GotSport Rankings,0,CAN,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Phoenix United 2015 Elite,U11,Male,GotSport Rankings,0,AZ,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+Lightning 15 Black,U11,Male,GotSport Rankings,0,CAN,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+2015-BOYS TEAM ORANGE,U11,Male,GotSport Rankings,0,FL,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+FPFC PRE ECNL I B15,U11,Male,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=1
+15G Black,U11,Female,GotSport Rankings,0,PAE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+G2015 Lime,U11,Female,GotSport Rankings,0,CAS,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+G2015 SB Souza,U11,Female,GotSport Rankings,0,CAS,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+FCE 2015 Girls Pre ECNL,U11,Female,GotSport Rankings,0,PAE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+SD Surf Academy Girls 2015 (Hoyos),U11,Female,GotSport Rankings,0,CAS,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+G15 Red,U11,Female,GotSport Rankings,0,NYE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Solar 15G Bates Red,U11,Female,GotSport Rankings,0,TXN,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+U-11 (2015) Girls Pre Academy Blue,U11,Female,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Northwest 2015 Girls Black,U11,Female,GotSport Rankings,0,AZ,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Great Falls Reston SC Pre-ECNL G15,U11,Female,GotSport Rankings,0,VA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+SYC 2015G Pre-GA,U11,Female,GotSport Rankings,0,VA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Black Dtown '15 (G),U11,Female,GotSport Rankings,0,PAE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+15G Pre GA,U11,Female,GotSport Rankings,0,NJ,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Pre-ECNL White G15,U11,Female,GotSport Rankings,0,NJ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+2015 Girls Blue,U11,Female,GotSport Rankings,0,FL,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Bethesda E 1 2015,U11,Female,GotSport Rankings,0,MD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Spirits 15 Black,U11,Female,GotSport Rankings,0,CAN,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+CCV Stars 15 Girls North Pre-GA Aspire,U11,Female,GotSport Rankings,0,AZ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+1974 NFC 2015G Pre-GA,U11,Female,GotSport Rankings,0,CAN,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Sting Pre-ECNL G15 Prokof,U11,Female,GotSport Rankings,0,TXN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=1
+Pre ECNL B14,U12,Male,GotSport Rankings,0,MD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+14B GSA,U12,Male,GotSport Rankings,0,AZ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+SYC 2014B Pre-MLS Next,U12,Male,GotSport Rankings,0,VA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014Elite Colo Colo,U12,Male,GotSport Rankings,0,FL,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Coppermine SC 2014 Boys Pre-Academy I,U12,Male,GotSport Rankings,0,MD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Southeast 2014 Boys Black,U12,Male,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+SFFA 2014 Boys White,U12,Male,GotSport Rankings,0,FL,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014 Elite,U12,Male,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Tuzos Royals 2014,U12,Male,GotSport Rankings,0,AZ,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014B ELITE,U12,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+DORAL WEST 2014,U12,Male,GotSport Rankings,0,FL,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Phoenix United 2014 Academy,U12,Male,GotSport Rankings,0,AZ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+SFFA 2014 Boys Blue,U12,Male,GotSport Rankings,0,FL,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Doral SC White 2014,U12,Male,GotSport Rankings,0,FL,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014B West,U12,Male,GotSport Rankings,0,AZ,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Las Vegas Sports Academy U12 Boys Pre MLS Next 2014,U12,Male,GotSport Rankings,0,NV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Doral SC Elite 2014,U12,Male,GotSport Rankings,0,FL,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Miami Skies FC 2014 Black,U12,Male,GotSport Rankings,0,FL,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014 Cyclones Boys Black,U12,Male,GotSport Rankings,0,FL,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+2014 Boys Blue,U12,Male,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=1
+Real FA 2014 Pre-GA,U12,Female,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Las Vegas Sports Academy U12 Pre GA 2014,U12,Female,GotSport Rankings,0,NV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Potomac Premier I 14G,U12,Female,GotSport Rankings,0,MD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+PBG 14 GIRLS FGAL Pre GA1,U12,Female,GotSport Rankings,0,FL,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+CCV Stars 14 Girls North Pre-GA Aspire,U12,Female,GotSport Rankings,0,AZ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Black Dtown '14 (G),U12,Female,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+LMSC 2014G Navy,U12,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+14 Krush Pre ECNL,U12,Female,GotSport Rankings,0,FL,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+MVP FC 2014G,U12,Female,GotSport Rankings,0,FL,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Arizona Soccer Club 2014G Pre-GA ASPIRE,U12,Female,GotSport Rankings,0,AZ,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+2014 Girls Pre ECNL,U12,Female,GotSport Rankings,0,MD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+2014 Pre GA,U12,Female,GotSport Rankings,0,FL,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+CCO COBRAS G 2014,U12,Female,GotSport Rankings,0,FL,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Mustang SC 14G Pre-ECNL,U12,Female,GotSport Rankings,0,CAN,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Bethesda E 1 2014,U12,Female,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+PreECNL 2014,U12,Female,GotSport Rankings,0,PAE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+JAM Palmetto - Lenzini,U12,Female,GotSport Rankings,0,FL,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Pre-ECNL G14,U12,Female,GotSport Rankings,0,NJ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Sting Black ECNL RL NTX G14 Lomax,U12,Female,GotSport Rankings,0,TXN,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+FC Prime Miami Pre ECNL G14,U12,Female,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=1
+Coppermine SC 2013 Boys MLS Next AD,U13,Male,GotSport Rankings,0,MD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+FUTBOLTECH CHSC - 2013 BAYERN,U13,Male,GotSport Rankings,0,NJ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+ACADEMIA METODO COIRA 2013 ELITE,U13,Male,GotSport Rankings,0,FL,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+SYC U13 MLS Next,U13,Male,GotSport Rankings,0,VA,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+IMCFA 2013,U13,Male,GotSport Rankings,0,FL,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Southeast 2013 Boys Black,U13,Male,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+CBF 2013 HP NL,U13,Male,GotSport Rankings,0,FL,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Las Vegas Sports Academy U13 MLS Next 2013,U13,Male,GotSport Rankings,0,NV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Playmaker Futbol Academy ECNL-RL B13,U13,Male,GotSport Rankings,0,AZ,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Weston FC 2013 MLS Next,U13,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+B2014 PRO,U13,Male,GotSport Rankings,0,FL,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Dallas Texans Pre ECNL 2013B Mendoza,U13,Male,GotSport Rankings,0,TXN,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+ANBBK Boynton Beach Knights BBK-2013-B-BLACK,U13,Male,GotSport Rankings,0,FL,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+WS 2013B Gold,U13,Male,GotSport Rankings,0,FL,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+THUNDERS Academy U13 by Athletum FC,U13,Male,GotSport Rankings,0,FL,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+CVFA 13B Academy I,U13,Male,GotSport Rankings,0,CAN,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+2013 Boys Blue,U13,Male,GotSport Rankings,0,FL,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+MIAMI UNITED FC 2013 ELITE,U13,Male,GotSport Rankings,0,FL,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Utah United Academy 2013,U13,Male,GotSport Rankings,0,UT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+CVFA 14B Academy I,U13,Male,GotSport Rankings,0,CAN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=1
+Legends FC AZ 13G FC,U13,Female,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G Flores Royals DPL,U13,Female,GotSport Rankings,0,AZ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G GA,U13,Female,GotSport Rankings,0,MD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+2013 Girls Blue,U13,Female,GotSport Rankings,0,AZ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G ECNL,U13,Female,GotSport Rankings,0,PAE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+PRFC ECNL G13,U13,Female,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G Aspire,U13,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+CCV STARS 13 Girls Pre-E64 SUR,U13,Female,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G GA,U13,Female,GotSport Rankings,0,PAE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G GA,U13,Female,GotSport Rankings,0,PAE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+The FA 2013 Girls Black,U13,Female,GotSport Rankings,0,NJ,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+San Juan SC PreECNL G14/13,U13,Female,GotSport Rankings,0,CAN,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+LV Heat Surf ECNL G13,U13,Female,GotSport Rankings,0,NV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+San Juan SC ECNL G13,U13,Female,GotSport Rankings,0,CAN,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+ECNL 2013,U13,Female,GotSport Rankings,0,PAE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+HB Koge ECNL G13,U13,Female,GotSport Rankings,0,CAS,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+13G GA,U13,Female,GotSport Rankings,0,NJ,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+CCV Stars 13 Girls South Premier 2,U13,Female,GotSport Rankings,0,AZ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+Pittsburgh Riverhounds Academy ECNL 2013 Girls,U13,Female,GotSport Rankings,0,PAW,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+Torpedoes GU13 Red,U13,Female,GotSport Rankings,0,NJ,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=1
+Northwest 2012 Boys Black,U14,Male,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+2012 Southern Homestead NAL,U14,Male,GotSport Rankings,0,FL,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+B2012 BLAU,U14,Male,GotSport Rankings,0,FL,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+FCDA 2012B Red,U14,Male,GotSport Rankings,0,AZ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Phoenix United 2012 Elite,U14,Male,GotSport Rankings,0,AZ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+ANBBK Boynton Beach Knights BBK-2012-B-BLACK,U14,Male,GotSport Rankings,0,FL,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+KBSC Premier 2012,U14,Male,GotSport Rankings,0,FL,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+NJ Stallions 12 PSG EDP NL,U14,Male,GotSport Rankings,0,NJ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Strikers Miami FC 2012 Elite,U14,Male,GotSport Rankings,0,FL,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Coerfontaine FC U14,U14,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+SB4U VENLO LIME,U14,Male,GotSport Rankings,0,NYE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+KBSC Academy 2012,U14,Male,GotSport Rankings,0,FL,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Blast 2012,U14,Male,GotSport Rankings,0,NYE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Southeast 2012 Boys Red,U14,Male,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+SAC Boys 2012 - Premier Blue,U14,Male,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+GOTFC 2012 Elite,U14,Male,GotSport Rankings,0,FL,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+ONE FC B2012 BLACK,U14,Male,GotSport Rankings,0,FL,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+MERAKI STREET FC 2012 ELITE,U14,Male,GotSport Rankings,0,FL,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+NAL '12,U14,Male,GotSport Rankings,0,PAE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Silva Select 2012,U14,Male,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=1
+Southeast 2012 Girls Black,U14,Female,GotSport Rankings,0,AZ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+12G Aspire,U14,Female,GotSport Rankings,0,NYE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+NUU 12F Strikers,U14,Female,GotSport Rankings,0,PAE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+The FA 2012 Girls Black,U14,Female,GotSport Rankings,0,NJ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+ECNL '12 (G),U14,Female,GotSport Rankings,0,PAE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Baltimore Bays 2012 Crush Premier Girls,U14,Female,GotSport Rankings,0,MD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+12G GA,U14,Female,GotSport Rankings,0,VA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Commack Crossfire G12,U14,Female,GotSport Rankings,0,NYE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Dix Hills EST Angel City G2012,U14,Female,GotSport Rankings,0,NYE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Coppermine SC Girls 2012 Girls Academy,U14,Female,GotSport Rankings,0,MD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+PRFC ECNL G12,U14,Female,GotSport Rankings,0,AZ,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Bethesda E 1 2012,U14,Female,GotSport Rankings,0,MD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+PRFC SC 12G NL Premier 1 Pacific,U14,Female,GotSport Rankings,0,AZ,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Z-Girls Mercer 2012 Blue,U14,Female,GotSport Rankings,0,NJ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+East Valley NSFC 12 Girls Klingler,U14,Female,GotSport Rankings,0,AZ,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Synergy FC 12G,U14,Female,GotSport Rankings,0,AZ,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Wall Elite Porto,U14,Female,GotSport Rankings,0,NJ,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+West Valley 2012 Royals Shamoun DPL-O,U14,Female,GotSport Rankings,0,AZ,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+Northwestern United 2012 Lady Tigers,U14,Female,GotSport Rankings,0,PAE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+San Juan SC ECNL G12,U14,Female,GotSport Rankings,0,CAN,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=1
+WS 2011B Gold,U15,Male,GotSport Rankings,0,FL,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+ANWSC Wellington SC 2011B Elite,U15,Male,GotSport Rankings,0,FL,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+TAKOMA DREAMERS RIVER 2011 BOYS,U15,Male,GotSport Rankings,0,MD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+11B ECNL,U15,Male,GotSport Rankings,0,NJ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Sporting Athletic Club 2011 NAL,U15,Male,GotSport Rankings,0,DE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Steel United 11B Elite,U15,Male,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Scottsdale 11 Sandsharks Select,U15,Male,GotSport Rankings,0,AZ,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+11 Boys Navy,U15,Male,GotSport Rankings,0,AZ,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+2011 CTC Hialeah City FC BLUE,U15,Male,GotSport Rankings,0,FL,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+GOTFC 2011 Super Elite,U15,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+LT Elite SGA 11B Premier,U15,Male,GotSport Rankings,0,TXS,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+IMCFA U13,U15,Male,GotSport Rankings,0,FL,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Weston FC 2011 Boys Black,U15,Male,GotSport Rankings,0,FL,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Tuzos Academy Mesa 2011 Elite,U15,Male,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+SAC Boys 2011 - MLS NEXT AD,U15,Male,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+CCV Stars 11 Boys South ECNL RL,U15,Male,GotSport Rankings,0,AZ,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+KHO Lions U15 Premier,U15,Male,GotSport Rankings,0,FL,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+Miami Breakers FC 2011B Elite NL (FL),U15,Male,GotSport Rankings,0,FL,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+VBFC Academy 2011,U15,Male,GotSport Rankings,0,CAS,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+AZ Arsenal 11 Boys Flagstaff EL,U15,Male,GotSport Rankings,0,AZ,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=1
+11G Aspire,U15,Female,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Azzurri 2011,U15,Female,GotSport Rankings,0,MD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Marlton Chiefs Premier 2011,U15,Female,GotSport Rankings,0,NJ,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Legends FC AZ 11G FC,U15,Female,GotSport Rankings,0,AZ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+SEVERNA PARK 11G - GREEN,U15,Female,GotSport Rankings,0,MD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Excel Soccer Academy E64 RL 11G,U15,Female,GotSport Rankings,0,AZ,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Storm,U15,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Evolution 2011G,U15,Female,GotSport Rankings,0,MD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Dominion ECNL RL 11G,U15,Female,GotSport Rankings,0,PAE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Eagle FC 11G Black,U15,Female,GotSport Rankings,0,PAE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+HFC United 2011/2012 Girls DPL,U15,Female,GotSport Rankings,0,MD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+11G Aspire,U15,Female,GotSport Rankings,0,AZ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Match Fit Mercer ECNL RL G11,U15,Female,GotSport Rankings,0,NJ,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+AZEV G2011 (NAVY),U15,Female,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Rush 11G,U15,Female,GotSport Rankings,0,MD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Arlington SA 2011G Red/ RL,U15,Female,GotSport Rankings,0,VA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+11G Aspire,U15,Female,GotSport Rankings,0,PAE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+FCE 2011 Girls ECNL RL,U15,Female,GotSport Rankings,0,PAE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Bethesda E 1 2011,U15,Female,GotSport Rankings,0,MD,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+Columbus United G'11 Lions,U15,Female,GotSport Rankings,0,OH,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=1
+LI Slammers B2010 MLS Next,U16,Male,GotSport Rankings,0,NYE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+KBSC Academy 2010,U16,Male,GotSport Rankings,0,FL,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+Weston FC 2010 MLS Tier 2,U16,Male,GotSport Rankings,0,FL,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+2010 (U16) EDP,U16,Male,GotSport Rankings,0,FL,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+2010 JULIAN ALVAREZ,U16,Male,GotSport Rankings,0,FL,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+YMS ECNL RL B10,U16,Male,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+ECNL B10,U16,Male,GotSport Rankings,0,DE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+2010 (U16) NAL,U16,Male,GotSport Rankings,0,FL,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+Weston FC 2010 Boys Black,U16,Male,GotSport Rankings,0,FL,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+2010 CTC PALAU BLACK,U16,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+MILAN DE MIAMI PREMIER 2010,U16,Male,GotSport Rankings,0,FL,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+UST FC Elite B2010,U16,Male,GotSport Rankings,0,NYE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+MI Stars 10 MLS Next AD,U16,Male,GotSport Rankings,0,MI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+10B ECNL,U16,Male,GotSport Rankings,0,NJ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+West Pines United FC 2010 Elite,U16,Male,GotSport Rankings,0,FL,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+ASA Juventus Elite 2010 boys,U16,Male,GotSport Rankings,0,MD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+HV Armour 2010B NPL,U16,Male,GotSport Rankings,0,PAE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+2010 NAL,U16,Male,GotSport Rankings,0,NYE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+GALACTICOS SOCCER ACADEMY 2010 MLS AD,U16,Male,GotSport Rankings,0,FL,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+Springs SC 2010B RL,U16,Male,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=1
+1776 United FC 10 Girls Elite NL,U16,Female,GotSport Rankings,0,PAE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Shore Fire FC Rebels USYS 2010G,U16,Female,GotSport Rankings,0,NJ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Union County FC Dortmund 2009/10G DPL,U16,Female,GotSport Rankings,0,NJ,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Harrison Swarm 2010,U16,Female,GotSport Rankings,0,NJ,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+2010 Girls Elite,U16,Female,GotSport Rankings,0,NJ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+VYS Phoenix RL 10G,U16,Female,GotSport Rankings,0,VA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+2010 Girls Lyon,U16,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+VA Reign ECNL RL G 2010,U16,Female,GotSport Rankings,0,VA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+10G Aspire,U16,Female,GotSport Rankings,0,MD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Columbus United G'10 Lions,U16,Female,GotSport Rankings,0,OH,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+RU Blue ECNL RL G10,U16,Female,GotSport Rankings,0,VA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Wall Elite Juventus,U16,Female,GotSport Rankings,0,NJ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+2010G Warrington FC United,U16,Female,GotSport Rankings,0,PAE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Real Arizona 2010 Girls,U16,Female,GotSport Rankings,0,AZ,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+FCE 2010 Girls ECNL RL,U16,Female,GotSport Rankings,0,PAE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+CNY Coliseum 2010 Girls,U16,Female,GotSport Rankings,0,NYW,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Arlington SA 2010G Red/ RL,U16,Female,GotSport Rankings,0,VA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+DASC 2010 Sparta 1 (SD),U16,Female,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+PSA Monmouth 10G Orange,U16,Female,GotSport Rankings,0,NJ,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Fairfax Virginia Union ECNL 10 Girls,U16,Female,GotSport Rankings,0,VA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+Team Boca 09B White (FL),U17,Male,GotSport Rankings,0,FL,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Miami Lakes United 2009 Boys Black,U17,Male,GotSport Rankings,0,FL,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+ECNL RL B09,U17,Male,GotSport Rankings,0,FL,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+KBSC Elite 2009,U17,Male,GotSport Rankings,0,FL,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+MILAN DE MIAMI 2009,U17,Male,GotSport Rankings,0,FL,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Doral SC ECNL 2009,U17,Male,GotSport Rankings,0,FL,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Avanti Soccer Academy 09B West,U17,Male,GotSport Rankings,0,TXN,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+2009 TORRES,U17,Male,GotSport Rankings,0,FL,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Strikers Miami FC 2009 Elite Rios,U17,Male,GotSport Rankings,0,FL,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+2009B NPL,U17,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Raiders FC 2009,U17,Male,GotSport Rankings,0,IL,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+WS 2009B,U17,Male,GotSport Rankings,0,FL,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+2009 MLS Next AD,U17,Male,GotSport Rankings,0,FL,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+LISC Boys 2009 Academy,U17,Male,GotSport Rankings,0,NYE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Imperial SC 09B NLFC TX-S,U17,Male,GotSport Rankings,0,TXS,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+CCO COBRAS 2009 BOYS,U17,Male,GotSport Rankings,0,FL,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+CUP 09B MLS Next HG,U17,Male,GotSport Rankings,0,OH,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+FBS-FC 2009 White,U17,Male,GotSport Rankings,0,FL,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Athletum FC Elite 2009,U17,Male,GotSport Rankings,0,FL,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+Nona FC 2009 Boys Black NAL,U17,Male,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=1
+O'Hara,U17,Female,GotSport Rankings,0,NJ,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+‘09G NL,U17,Female,GotSport Rankings,0,NJ,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Wall Elite Spirit,U17,Female,GotSport Rankings,0,NJ,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+09G Aspire,U17,Female,GotSport Rankings,0,MD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Elite '09,U17,Female,GotSport Rankings,0,PAE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+09G GA,U17,Female,GotSport Rankings,0,PAE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Fire FC Premier 09G,U17,Female,GotSport Rankings,0,UT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+ECNL RL G09,U17,Female,GotSport Rankings,0,DE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Steel United 09G Elite,U17,Female,GotSport Rankings,0,PAE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+SOMD Rush 09G Blue,U17,Female,GotSport Rankings,0,MD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+CFC Ole G2009 Academy #2,U17,Female,GotSport Rankings,0,CT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+2009 Girls Elite,U17,Female,GotSport Rankings,0,NJ,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+09G GA Aspire,U17,Female,GotSport Rankings,0,PAE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Shamrocks,U17,Female,GotSport Rankings,0,NYE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Legacy 09 Girls Black,U17,Female,GotSport Rankings,0,NJ,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+VDA 2009G ECNL,U17,Female,GotSport Rankings,0,VA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+Elite 09G,U17,Female,GotSport Rankings,0,MD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+G2009,U17,Female,GotSport Rankings,0,NYE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+EBU Elite 09G Elite 64,U17,Female,GotSport Rankings,0,WI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+GFRSC 09G Blue,U17,Female,GotSport Rankings,0,VA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=1
+2008 Blue,U18,Male,GotSport Rankings,0,NYE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+THUNDER 2008 BLACK,U18,Male,GotSport Rankings,0,FL,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+MLS Next HD 07/08B,U18,Male,GotSport Rankings,0,PAE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+New York Elite Alleycats FC 2008/07 MLS NEXT AD,U18,Male,GotSport Rankings,0,NYE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Torpedoes BU17 Red,U18,Male,GotSport Rankings,0,NJ,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+West Pines United FC 2008 Elite,U18,Male,GotSport Rankings,0,FL,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Miami Breakers FC 2008B Elite NL (FL),U18,Male,GotSport Rankings,0,FL,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+08B - Archieved Team,U18,Male,GotSport Rankings,0,MD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Utah Celtic FC 07/08 MLS Next 2,U18,Male,GotSport Rankings,0,UT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+EFU 2008,U18,Male,GotSport Rankings,0,FL,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Silva,U18,Male,GotSport Rankings,0,NJ,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+St. Paul Blackhawks 08 Boys Black (MN SC),U18,Male,GotSport Rankings,0,MN,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+AFC 08B Black NLFC,U18,Male,GotSport Rankings,0,TXS,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+UNITED STARS 2008,U18,Male,GotSport Rankings,0,FL,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Lake Worth Sharks U18 Boys,U18,Male,GotSport Rankings,0,FL,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Weston FC 2008 Boys Pool,U18,Male,GotSport Rankings,0,FL,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+B2008 ECNLRL,U18,Male,GotSport Rankings,0,NYE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Weston FC 2008 Boys White,U18,Male,GotSport Rankings,0,FL,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Strikers Miami FC 2008 Black,U18,Male,GotSport Rankings,0,FL,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+2008B USL Championship,U18,Male,GotSport Rankings,0,FL,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=1
+Penn FC Youth 2008 F Black,U18,Female,GotSport Rankings,0,PAE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+NUU 08F Valor,U18,Female,GotSport Rankings,0,PAE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+FCE 2007/08 Girls ECNL RL,U18,Female,GotSport Rankings,0,PAE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Lionville ‘08 Blue Warriors,U18,Female,GotSport Rankings,0,PAE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+SAC Girls 08/07 - GA ASPIRE,U18,Female,GotSport Rankings,0,MD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Michigan Tigers FC Elite 64 08G (MI),U18,Female,GotSport Rankings,0,MI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+2008G Elite 64,U18,Female,GotSport Rankings,0,PAE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Rush 08G,U18,Female,GotSport Rankings,0,MD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Ambassadors FC 2008 Girls,U18,Female,GotSport Rankings,0,OH,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+PA Classics Academy Reading 08F Fury,U18,Female,GotSport Rankings,0,PAE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Philadelphia SC Surf 08 Coppa Express,U18,Female,GotSport Rankings,0,PAE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+CFC Ole G2008 NAL,U18,Female,GotSport Rankings,0,CT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Valley FC 2008 National Academy League,U18,Female,GotSport Rankings,0,CT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+Lakefront SC G2008 Carpenter,U18,Female,GotSport Rankings,0,NYW,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+TUSC 08 Girls ECNL-RL,U18,Female,GotSport Rankings,0,TN,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+WLUSC 2008 Girls - Crampton,U18,Female,GotSport Rankings,0,PAE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+NEFC Central G08 DPL,U18,Female,GotSport Rankings,0,MA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+ECNL RL G08/07,U18,Female,GotSport Rankings,0,CAS,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+1776 United FC 2008 Girls Orange,U18,Female,GotSport Rankings,0,PAE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1
+RVC Red Storm,U18,Female,GotSport Rankings,0,NYE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=1

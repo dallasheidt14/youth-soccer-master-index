@@ -1,0 +1,46 @@
+2025-10-13 12:17:41,405 - INFO - 🏗️ Initialized GotSport scraper with base URL: https://system.gotsport.com/org_event/events
+2025-10-13 12:17:41,405 - INFO - Scraping started for provider: GotSport
+2025-10-13 12:17:41,405 - INFO - 📡 Fetching raw data from GotSport
+2025-10-13 12:17:41,405 - INFO - 🌐 Starting data fetch from GotSport platform
+2025-10-13 12:17:41,405 - INFO - 📡 Making request to: https://system.gotsport.com/org_event/events
+2025-10-13 12:17:42,616 - INFO - ✅ Successfully fetched 10 raw team records from GotSport
+2025-10-13 12:17:42,616 - INFO - 📊 Retrieved 10 raw records from GotSport
+2025-10-13 12:17:42,616 - INFO - 🔧 Parsing and normalizing data from GotSport
+2025-10-13 12:17:42,616 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 12:17:42,617 - INFO - ✅ Successfully parsed 10 teams from GotSport
+2025-10-13 12:17:42,617 - INFO - ✅ Successfully parsed 10 records from GotSport
+2025-10-13 12:17:42,617 - INFO - 🏁 Completed scraping workflow for GotSport
+2025-10-13 12:17:42,617 - INFO - 🏆 GotSport scraping completed successfully!
+2025-10-13 12:17:42,617 - INFO - 📊 Total teams found: 10
+2025-10-13 12:17:42,617 - ERROR - ❌ GotSport scraper failed: 'charmap' codec can't encode character '\u26bd' in position 2: character maps to <undefined>
+2025-10-13 12:17:50,982 - INFO - 🏗️ Initialized GotSport scraper with base URL: https://system.gotsport.com/org_event/events
+2025-10-13 12:17:50,982 - INFO - Scraping started for provider: GotSport
+2025-10-13 12:17:50,982 - INFO - 📡 Fetching raw data from GotSport
+2025-10-13 12:17:50,982 - INFO - 🌐 Starting data fetch from GotSport platform
+2025-10-13 12:17:50,982 - INFO - 📡 Making request to: https://system.gotsport.com/org_event/events
+2025-10-13 12:17:52,863 - INFO - ✅ Successfully fetched 10 raw team records from GotSport
+2025-10-13 12:17:52,864 - INFO - 📊 Retrieved 10 raw records from GotSport
+2025-10-13 12:17:52,864 - INFO - 🔧 Parsing and normalizing data from GotSport
+2025-10-13 12:17:52,864 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 12:17:52,864 - INFO - ✅ Successfully parsed 10 teams from GotSport
+2025-10-13 12:17:52,865 - INFO - ✅ Successfully parsed 10 records from GotSport
+2025-10-13 12:17:52,865 - INFO - 🏁 Completed scraping workflow for GotSport
+2025-10-13 12:17:52,865 - INFO - 🏆 GotSport scraping completed successfully!
+2025-10-13 12:17:52,865 - INFO - 📊 Total teams found: 10
+2025-10-13 13:18:07,261 - INFO - 🔧 ZenRows integration enabled for GotSport
+2025-10-13 13:18:07,261 - INFO - 🏗️ Initialized GotSport scraper with base URL: https://system.gotsport.com/org_event/events
+2025-10-13 13:18:07,261 - INFO - Scraping started for provider: GotSport
+2025-10-13 13:18:07,261 - INFO - 📡 Fetching raw data from GotSport
+2025-10-13 13:18:07,261 - INFO - 🌐 Starting data fetch from GotSport platform
+2025-10-13 13:18:07,261 - INFO - 🔧 Using ZenRows for rendering
+2025-10-13 13:18:07,269 - INFO - 🔧 Using ZenRows for rendering: https://system.gotsport.com/org_event/events
+2025-10-13 13:18:09,352 - WARNING - ⚠️ No HTML content received, using mock data
+2025-10-13 13:18:09,352 - INFO - ✅ Successfully fetched 10 raw team records from GotSport
+2025-10-13 13:18:09,352 - INFO - 📊 Retrieved 10 raw records from GotSport
+2025-10-13 13:18:09,352 - INFO - 🔧 Parsing and normalizing data from GotSport
+2025-10-13 13:18:09,352 - INFO - 🔧 Starting data parsing and normalization
+2025-10-13 13:18:09,352 - INFO - ✅ Successfully parsed 10 teams from GotSport
+2025-10-13 13:18:09,352 - INFO - ✅ Successfully parsed 10 records from GotSport
+2025-10-13 13:18:09,352 - INFO - 🏁 Completed scraping workflow for GotSport
+2025-10-13 13:18:09,352 - INFO - 🏆 GotSport scraping completed successfully!
+2025-10-13 13:18:09,352 - INFO - 📊 Total teams found: 10
