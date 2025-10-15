@@ -245,6 +245,7 @@ class GotSportScraper(BaseScraper):
                             team_info = {
                                 "rank": i + 1,
                                 "team_name": "",
+                                "team_id": "",
                                 "points": 0,
                                 "state": "",
                                 "age_group": f"U{age}",
@@ -255,6 +256,7 @@ class GotSportScraper(BaseScraper):
                             
                             # Extract team information using correct GotSport API field names
                             team_info["team_name"] = str(team.get('team_name', '')).strip()
+                            team_info["team_id"] = str(team.get('team_id', '')).strip()
                             team_info["points"] = self._extract_points(str(team.get('points', team.get('score', 0))))
                             team_info["state"] = str(team.get('team_association', '')).strip()
                             
@@ -278,6 +280,7 @@ class GotSportScraper(BaseScraper):
                         team_info = {
                             "rank": i + 1,
                             "team_name": str(team.get("team_name", "")).strip(),
+                            "team_id": str(team.get("team_id", "")).strip(),
                             "points": self._extract_points(str(team.get("points", team.get("score", 0)))),
                             "state": str(team.get("team_association", "")).strip(),
                             "age_group": f"U{age}",
@@ -371,6 +374,7 @@ class GotSportScraper(BaseScraper):
                     # Create team record
                     team_data = {
                         "team_name": team_name,
+                        "team_id": "",  # Not available in HTML parsing
                         "age_group": f"U{age}",
                         "gender": "Male" if gender == "m" else "Female",
                         "source": "GotSport Rankings",
@@ -494,7 +498,7 @@ class GotSportScraper(BaseScraper):
         """
         try:
             # Create DataFrame with specified column order
-            column_order = ["team_name", "age_group", "gender", "source", "points", "state", "rank", "url"]
+            column_order = ["team_name", "team_id", "age_group", "gender", "source", "points", "state", "rank", "url"]
             df = pd.DataFrame(teams_data)
             
             # Ensure all columns exist
@@ -682,47 +686,59 @@ class GotSportScraper(BaseScraper):
             
             # Step 1: Fetch raw data and create DataFrame/CSVs
             if incremental:
-                self.logger.info(f"🔄 Running incremental detection mode - simulating new teams")
-                # For testing: create a few fake new teams to test detection
-                fake_teams = [
-                    {
-                        "team_name": "TestTeam Alpha 2025 Boys Elite",
-                        "age_group": "U9",
-                        "gender": "Male", 
-                        "state": "AZ",
-                        "rank": 1,
-                        "points": 1100,
-                        "source": "GotSport Rankings",
-                        "provider": "GotSport",
-                        "url": "https://system.gotsport.com/api/v1/team_ranking_data"
-                    },
-                    {
-                        "team_name": "TestTeam Beta 2025 Girls Premier",
-                        "age_group": "U11",
-                        "gender": "Female",
-                        "state": "AZ", 
-                        "rank": 3,
-                        "points": 1020,
-                        "source": "GotSport Rankings",
-                        "provider": "GotSport",
-                        "url": "https://system.gotsport.com/api/v1/team_ranking_data"
-                    },
-                    {
-                        "team_name": "TestTeam Gamma 2025 Boys United",
-                        "age_group": "U10",
-                        "gender": "Male",
-                        "state": "AZ",
-                        "rank": 2, 
-                        "points": 1080,
-                        "source": "GotSport Rankings",
-                        "provider": "GotSport",
-                        "url": "https://system.gotsport.com/api/v1/team_ranking_data"
-                    }
-                ]
-                
-                df_test = pd.DataFrame(fake_teams)
-                self.logger.info(f"📂 Created test data: {len(df_test)} rows")
-                return df_test, Path("data/master/incremental/test_teams.csv")
+                self.logger.info(f"🔄 Running incremental detection mode - performing real scrape to test team_id capture")
+                # For testing: run a small real scrape to verify team_id capture
+                raw_data, nationwide_path = self.fetch_raw_data()
+                if raw_data:
+                    # Take only first 5 teams for testing
+                    test_data = raw_data[:5]
+                    self.logger.info(f"📂 Created test data from real scrape: {len(test_data)} rows")
+                    return test_data, Path("data/master/incremental/test_teams.csv")
+                else:
+                    self.logger.warning("⚠️ No real data available, using simulated data")
+                    # Fallback to simulated data
+                    fake_teams = [
+                        {
+                            "team_name": "TestTeam Alpha 2025 Boys Elite",
+                            "team_id": "12345",
+                            "age_group": "U9",
+                            "gender": "Male", 
+                            "state": "AZ",
+                            "rank": 1,
+                            "points": 1100,
+                            "source": "GotSport Rankings",
+                            "provider": "GotSport",
+                            "url": "https://system.gotsport.com/api/v1/team_ranking_data"
+                        },
+                        {
+                            "team_name": "TestTeam Beta 2025 Girls Premier",
+                            "team_id": "12346",
+                            "age_group": "U11",
+                            "gender": "Female",
+                            "state": "AZ", 
+                            "rank": 3,
+                            "points": 1020,
+                            "source": "GotSport Rankings",
+                            "provider": "GotSport",
+                            "url": "https://system.gotsport.com/api/v1/team_ranking_data"
+                        },
+                        {
+                            "team_name": "TestTeam Gamma 2025 Boys United",
+                            "team_id": "12347",
+                            "age_group": "U10",
+                            "gender": "Male",
+                            "state": "AZ",
+                            "rank": 2, 
+                            "points": 1080,
+                            "source": "GotSport Rankings",
+                            "provider": "GotSport",
+                            "url": "https://system.gotsport.com/api/v1/team_ranking_data"
+                        }
+                    ]
+                    
+                    df_test = pd.DataFrame(fake_teams)
+                    self.logger.info(f"📂 Created test data: {len(df_test)} rows")
+                    return df_test, Path("data/master/incremental/test_teams.csv")
             else:
                 self.logger.info(f"📡 Fetching raw data from {self.provider_name}")
                 raw_data, nationwide_path = self.fetch_raw_data()

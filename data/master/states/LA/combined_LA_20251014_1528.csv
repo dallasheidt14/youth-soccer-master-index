@@ -1,0 +1,495 @@
+team_name,age_group,gender,state,rank,points,source,provider,url
+CSC Eagles Academy Fusilier,U10,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=75
+LA Krewe Rush 16G Blue,U10,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=94
+16G LA Fire Sam-Pang,U10,Female,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=78
+CSC Eagles Academy Jester,U10,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=148
+Thibodaux Patriots,U10,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=146
+CSC Eagles Academy Burr,U10,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=98
+LA Krewe Rush 16B Blue,U10,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=167
+SSC 2016/2017 YELLOW,U10,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=162
+LA Krewe Rush 16B Red,U10,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=167
+SSC 2016/2017 BLUE,U10,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=32
+SHREVEPORT STRIKERS FFC 2016B,U10,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=150
+Red Raider PSC,U11,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=230
+Cabosa Shreveport United - 2015G Academy ETHAN,U11,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=215
+2015G Academy CHELSEA,U11,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=215
+LA Krewe Rush 15G Yellow,U11,Female,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=186
+LA Krewe Rush 15G Gold-SJP,U11,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=226
+LA Krewe Rush 15G Red,U11,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=200
+Shreveport United 2015G Academy,U11,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=135
+United GU11 2015,U11,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=226
+LA Krewe Rush 15G Silver,U11,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=221
+LA Krewe Rush 15G Gold-MP,U11,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=235
+SSC 15G Storm Academy Green,U11,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=226
+LA Krewe Rush 15G Green,U11,Female,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=120
+CSC Eagles 2015 G,U11,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=161
+LA Krewe Rush 15G Black-SJP,U11,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=226
+CSC Eagles Academy Lavin,U11,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=149
+LA Krewe Rush 15G Black-MP,U11,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=226
+Vermilion Reign 2015,U11,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=226
+LA Krewe Rush 15G Purple,U11,Female,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203
+LA Krewe Rush 15B Black,U11,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=383
+CSC Eagles Academy Williams,U11,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=218
+10U BOYS FRANCO S25,U11,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=323
+LA Krewe Rush 15B Red,U11,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=358
+CSC Eagles Academy Arana,U11,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=257
+LA Krewe Rush 15B Silver,U11,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+Shreveport Academy 2015B,U11,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=420
+15B LA FIRE REES,U11,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=414
+LA Krewe Rush 15B Blue,U11,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=385
+LA Krewe Rush 15B AEX,U11,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+15B LA FIRE MAYES,U11,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=420
+LA Krewe Rush 15B White-MP,U11,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+New Orleans DFC 15B Black,U11,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=379
+15B LA FIRE BARTLETT,U11,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=420
+CSC Eagles 2015 B Black,U11,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+LA Krewe Rush 15B Gold,U11,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=115
+LA Krewe Rush 15B Silver - SJP,U11,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=385
+SHREVEPORT STRIKERS FFC 15/16B,U11,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=146
+15B LA FIRE ST LOUIS,U11,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=419
+Shreveport United 2015BB,U11,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+15B LA FIRE VALLADARES,U11,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=419
+CSC Eagles 2015 B Yellow,U11,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=248
+LA Krewe Rush 15B Purple,U11,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=390
+14G LA FIRE NAVY,U12,Female,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=154
+Flight 2014G Blue,U12,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+NOLA Jesters 14G Gold,U12,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=206
+PSC Fury FC,U12,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=265
+14G LA FIRE SILVER,U12,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=251
+BRSC 14G Red BH,U12,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=252
+LA Krewe Rush 14G White,U12,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181
+Lafourche Legacy 2014 Girls,U12,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=168
+Bayou SC 2014G,U12,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=105
+LA Krewe Rush 13G Gold,U12,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=238
+Madisonville United 14G,U12,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=110
+United GU12 2014,U12,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=180
+14G LA FIRE RED,U12,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=83
+LA Force 2014G Sky Blue Robichaux,U12,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=46
+LA TDP Elite Pre-GA 14/15,U12,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=174
+MSC Lakers 2014G Elite Blue,U12,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=106
+MSC Lakers 2014G Premier,U12,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=208
+LA Krewe Rush 14G Black-MP,U12,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=145
+St. Charles Soccer Lyon,U12,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=228
+JPSA 2014G Sneaky Snails,U12,Female,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=204
+CSC Eagles 2014,U12,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=203
+LA Krewe Rush 14G Black-SJP,U12,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96
+LA Krewe Rush 14G Gold,U12,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=74
+MSC Lakers 2014G Elite Black,U12,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=146
+NOLA Jesters 14G Green,U12,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=173
+CSC EAGLES 2014 G,U12,Female,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=51
+PSC 2014 Girls,U12,Female,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=131
+LA Force 2014B Navy Chalanczuk,U12,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420
+LA Krewe Rush 14B AEX,U12,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=156
+SSC 2014/2015 BLUE,U12,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=355
+Jambalaya Soccer Academy 14B,U12,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=297
+LA Krewe Rush 14B Black,U12,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=243
+MSC Lakers 2014B Elite Black,U12,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+BRSC 14B Black MS,U12,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=415
+Lafourche Legacy 2014 Boys,U12,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245
+14B LA FIRE CP WHITE,U12,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=230
+JPRD 14/15B Red,U12,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=291
+New Orleans DFC 14B White,U12,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=361
+St. Charles Soccer Barca,U12,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=377
+Vermilion Revolution 14/15,U12,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=268
+CSC EAGLES 2014 B BLACK,U12,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=330
+MSC Lakers 2014B Premier,U12,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=367
+Motagua Juniors 2014B,U12,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=446
+United BU12 2014,U12,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278
+14B LA FIRE CP NAVY,U12,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=238
+Bayou SC 2014B Navy,U12,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=265
+Flight 2014B Blue,U12,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=203
+New Orleans Spartans 14B,U12,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=284
+Covington FC 2014 Boys Blue,U12,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=214
+New Orleans DFC 14B Black,U12,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=213
+CSC EAGLES 2014 B YELLOW,U12,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=243
+WOYSA Futbol Club 2014/2015 B,U12,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=237
+NELSA '14 B,U12,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=297
+NOLA Jesters 14B Purple,U12,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+LA Krewe Rush 13B Gold,U12,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=424
+LA Krewe Rush 14B Gold,U12,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=246
+STYSA ELITE 14 BOYS,U12,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=451
+The 18th Ward 2014B,U12,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=172
+WestBank FC 14,U12,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=183
+LA Krewe Rush 14B White-MP,U12,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=281
+Madisonville United 14B Navy,U12,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=196
+14B LA FIRE LP NAVY,U12,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=200
+BRSC 2014 Boys Pre Competitive U11,U12,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=372
+LA Force 2014B Sky Blue Robichaux,U12,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=369
+MSC Lakers 2014B Elite Blue,U12,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=194
+Coastal SC 2014/2015B - Tiger Sharks,U12,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=352
+LA Krewe Rush 14B Blue,U12,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=286
+Madisonville United 14B White,U12,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+14B LA FIRE CP RED,U12,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=139
+BRSC Rockets,U12,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=259
+Bayou SC 2014B White,U12,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=303
+SSC 14B Storm Premier,U12,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=239
+PSC 2014 Boys,U12,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=375
+14B LA FIRE LP RED,U12,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=240
+LA Krewe Rush 14B AEX,U12,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=155
+Madisonville United 13B Navy,U12,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=274
+NOLA Jesters 14B Green,U12,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=451
+Bayou SC 2014B Gold,U12,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=144
+SSC 14B Storm Elite,U12,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=219
+Flight 2014B Grey,U12,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=438
+LA Force 2014 Sky Blue,U12,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=241
+LA Krewe Rush 14B White-SJP,U12,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=196
+Madisonville United 13G Grey,U13,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=252
+Covington FC 2013 Girls White,U13,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=245
+New Orleans DFC 13G,U13,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=115
+Madisonville United 13G White,U13,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=92
+SSC 13G Storm Elite,U13,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=117
+STYSA ELITE 13-14 GIRLS,U13,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=248
+BRSC 13 G Maroon,U13,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=206
+LATDP Pre GA 2013,U13,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=239
+Bayou SC 2013G,U13,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+LA Krewe Rush 13G AEX,U13,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=127
+13G LA FIRE RED,U13,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=122
+NOLA Jesters 13G Green,U13,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=229
+CSC EAGLES 2013 G,U13,Female,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+Flight 2013G Blue,U13,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=121
+PSC 2013 Girls,U13,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=123
+Vermilion Reign 13/14,U13,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=147
+LA Krewe Rush ECNL RL G13,U13,Female,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=117
+Madisonville United 13G Navy,U13,Female,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=133
+LA Krewe Rush 13G Black-MP,U13,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=128
+MSC Girls Lakers Premier 2013,U13,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=203
+Lafourche Legacy 2013 Girls,U13,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=140
+St. Charles Soccer 2012G,U13,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=268
+BRSC 13G Black LB,U13,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=103
+MSC Girls Lakers Elite Black 2013,U13,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=167
+Revolt 13G,U13,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=219
+MSC Girls Lakers Elite Blue 2013,U13,Female,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+WestBank FC 13 Girls,U13,Female,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=118
+TSA United GU12,U13,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=251
+13G LA FIRE NAVY,U13,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=150
+Flight 2013G Grey,U13,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+LA Krewe Rush 13G Black,U13,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=147
+13G LA FIRE WHITE,U13,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=261
+BRSC 13G Red LC,U13,Female,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=189
+NOLA Jesters 13G Purple,U13,Female,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+New Orleans DFC 13G,U13,Female,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=114
+LA Elite 2013 MLS B,U13,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+LFC Heat 2013,U13,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=243
+MSC Boys Lakers Premier 2012,U13,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=341
+New Orleans DFC 13B,U13,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=288
+STYSA ELITE 13 BOYS,U13,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=226
+13B LA FIRE CP GOLD,U13,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=170
+Flight 2013B Blue,U13,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=174
+MSC Boys Lakers Premier Blue 2013,U13,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=236
+Vermilion Revolution 2013,U13,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=202
+CSC EAGLES 2013 B BLACK,U13,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=441
+LA Krewe Rush 13B White,U13,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=261
+13B LA FIRE LP RED,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=191
+Coastal SC U-12/13 Hammer Heads,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=288
+Covington FC 2013/14 Boys Maroon,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=421
+LA Force 2013B Sky Blue Rollins,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=441
+LA Krewe Rush ECNL RL B13,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=194
+MSC Boys Lakers Elite Blue 2013,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=250
+MSC Boys Lakers Premier Black 2013,U13,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=195
+Bayou SC 2013B Navy,U13,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=178
+New Orleans DFC 13B White,U13,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=283
+BRSC 13B JM,U13,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277
+United Boys 2013,U13,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=305
+13B LA FIRE LP NAVY,U13,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=135
+BRSC 13 B Maroon,U13,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=232
+LFC UNITED B 13/14,U13,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+Covington FC Bulls 2013 White,U13,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=201
+LA Force 2013/14B Navy,U13,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=244
+Coastal SC 2013/2014B - White Sharks,U13,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=173
+Flight 2013B Grey,U13,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=315
+LAFOURCHE LEGACY 13B,U13,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+Madisonville United 13B White,U13,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=258
+SSC 13B Storm Elite,U13,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=195
+Revolt 13B,U13,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=423
+13B LA FIRE CP NAVY,U13,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=283
+13B LA FIRE CP WHITE,U13,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=241
+BRSC 13/14B RC,U13,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=224
+New Orleans Spartans 13B,U13,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=159
+BRSC 13B Red LC,U13,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=249
+MSC Capybaras,U13,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=432
+NOLA Jesters 13B Gold,U13,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=324
+13B LA FIRE CP RED,U13,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=68
+Madisonville United 13B,U13,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=168
+NOLA Jesters 13B Green,U13,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=249
+NOLA Jesters 13B Purple,U13,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=184
+SCP 2013,U13,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=323
+Covington FC Bulls 2013 Blue,U13,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=193
+JPSA 2013/14B Po-Boys,U13,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=319
+LA Krewe Rush 13B AEX,U13,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=211
+New Orleans DFC 13B Black,U13,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=217
+13B LA FIRE CP GOLD,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=169
+BRSC 13B Red AA,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=189
+LA Krewe Rush 13B White-MP,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=238
+MSC Boys Lakers Elite Black 2013,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=186
+PSC 2013 Boys,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=208
+Vermilion Revolution 2013,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=201
+Westbank FC13,U13,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=266
+BRSC 13B Black PR,U13,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=177
+CSC EAGLES 2013 B Yellow,U13,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=53
+Lafourche Legacy 2013 Boys,U13,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=416
+PSC 2013/14 Boys,U13,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=307
+BRSC 12G Red JB,U14,Female,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=174
+LA Krewe Rush 11G Gold,U14,Female,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=224
+Bayou SC 2012G,U14,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+Lafourche Legacy 2012 Girls,U14,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=132
+Madisonville United 12G,U14,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=69
+BRSC 12G Black KH,U14,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=97
+LA Krewe Rush ECNL RL G12,U14,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=62
+12G LA FIRE NAVY,U14,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=103
+CSC EAGLES 2012 G,U14,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=74
+LA Krewe Rush 12G Black,U14,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+MSC Lakers 2012G Premier,U14,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=193
+12G LA FIRE GOLD,U14,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=151
+MSC Lakers 2012G ECNL RL,U14,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=83
+Flight 2012G Blue,U14,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=115
+LFC UNITED G 12/13,U14,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=193
+BRSC 12G RP,U14,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=214
+12G LA FIRE RED,U14,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=59
+Covington FC Girls 2012/13 Blue,U14,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=146
+BRSC 12B Black AA,U14,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=92
+Covington FC 2012 Boys Blue,U14,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=252
+United BU14 2012,U14,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=356
+Olimpia 12B,U14,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=350
+LA Krewe Rush ECNL RL B12,U14,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=168
+JPRD 12/13B,U14,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=217
+Jambalaya Soccer Academy 12B,U14,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=354
+Madisonville United 12B Navy,U14,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=346
+Benfica United,U14,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=291
+12B LA FIRE NAVY,U14,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=242
+PSC 2012 Boys,U14,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=96
+Bayou SC 2012B Gold,U14,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=248
+Madisonville United 12B,U14,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=255
+The 18th Ward 2012B,U14,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=148
+BRSC 12B Red JM,U14,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=136
+CSC EAGLES 2012 B,U14,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=112
+MSC Lakers 2012B Premier,U14,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=293
+North Louisiana United 12/13 Boys,U14,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=351
+MSC Lakers 2012B ECNL RL,U14,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=123
+LA Krewe Rush 12B White-SJP,U14,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=186
+WOYSA Futbol Club 2012/2013 B,U14,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=347
+WestBank FC 12B,U14,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=324
+LA Krewe Rush 12B Black,U14,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=160
+LA Krewe Rush 12B Blue,U14,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=264
+STYSA ELITE 12 BOYS,U14,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=138
+LFC UNITED B 2012,U14,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=235
+BRSC 12B Red AD,U14,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=244
+JPSA 12B MIlan,U14,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=185
+Coastal SC 2012/2013B - Hammer Heads,U14,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=86
+Flight 2012B Grey,U14,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=238
+Motagua Juniors 2012B,U14,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=248
+SSC 12B Storm Elite,U14,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=187
+12B LA FIRE GOLD,U14,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=211
+Flight 2012B Blue,U14,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=176
+BRSC 2012 B Black,U14,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=149
+St. Charles Soccer Villa,U14,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=161
+BRSC 12B Maroon JM,U14,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=259
+LA Krewe Rush 12B AEX,U14,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=112
+Shreveport United 2012B White,U14,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=97
+2012 U14B Black Dragons/Use' YSC,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=287
+Bayou SC 2012B Navy,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=272
+LA Krewe Rush 12B White-MP,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=309
+Lafourche Legacy 2012 Boys,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=253
+NOLA Jesters 12B Green,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=204
+NOLA Jesters 12B Purple,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=257
+SCP 12,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=323
+WestBank FC 12,U14,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279
+Bayou F.C. - BFC,U14,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=355
+14U BIGGS S25,U15,Female,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=123
+BRSC 11G Black MP,U15,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=37
+BRSC Avengers,U15,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=187
+LA Krewe Rush ECNL RL G11,U15,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113
+11G LA FIRE NAVY,U15,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=99
+JPSA 2011/12G Krewe,U15,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113
+Lafourche Legacy 2011-2012 Girls,U15,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=133
+STYSA ELITE 11 GIRLS,U15,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=109
+11G LA FIRE RED,U15,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=42
+Shreveport United 2011G Blue,U15,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=44
+LA Krewe Rush 11G Black,U15,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=133
+PSC 2011/12 Girls,U15,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=81
+Flight 2011G Blue,U15,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=124
+BRSC 11G Red JF,U15,Female,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=176
+SSC 11G Storm Elite,U15,Female,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=138
+MSC Lakers 2011G Premier,U15,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=80
+NOLA Jesters 11G Green,U15,Female,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=159
+LA Krewe Rush 11G AEX,U15,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=92
+MSC Lakers 2011G ECNL RL,U15,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=52
+LA Force 2011G Sky Blue Medrano,U15,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=116
+MSC Girls Lakers Premier 2011,U15,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=208
+Madisonville United 11G,U15,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=121
+NOLA Jesters 11G Purple,U15,Female,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+Bayou SC 2011G,U15,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=79
+LA Force Soccer Club 2011G Sky Blue,U15,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=119
+Covington FC 2011 Girls Blue,U15,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=200
+New Orleans DFC 11G NL,U15,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=76
+11B LA FIRE RED,U15,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=103
+NOLA Jesters 11B Purple,U15,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=104
+Westbank FC 11,U15,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+New Orleans DFC 11B Black NL,U15,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=102
+FSC,U15,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=220
+11s LA FIRE LEE,U15,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=238
+Covington FC Bulls 2011/12 White,U15,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=225
+Flight 2011B Blue,U15,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192
+Bayou SC 2011B Navy,U15,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=150
+Lafourche Legacy 2011 Boys,U15,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+MSC Lakers 2011B ECNL RL,U15,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=172
+11B LA FIRE NAVY,U15,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=189
+BRSC 11 B Black,U15,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=236
+BVB International Academy Louisiana 11 Boy's Black Puma,U15,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245
+CSC EAGLES 2011 B,U15,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=142
+LA Krewe Rush ECNL RL B11,U15,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=54
+Madisonville United 11B,U15,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=283
+BRSC 11 B Red,U15,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=328
+BRSC 11B Maroon JC,U15,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=198
+Covington FC Bulls 2011/12 Blue,U15,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=240
+JPSA 2011B Roma,U15,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=136
+LA Krewe Rush 11B Black,U15,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=149
+LFC Heat 2011,U15,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=164
+North Louisiana United 11/12 Boys,U15,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=210
+Bayou SC 2011B Gold,U15,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=226
+11B LA FIRE WHITE,U15,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=149
+BRSC 11B Black SM,U15,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=175
+BRSC 11B Red HA,U15,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=138
+LA Krewe Rush 11B White,U15,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=215
+New Orleans DFC 11B White,U15,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=267
+NOLA Jesters 11B Green,U15,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=313
+PSC 2011 Boys,U15,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=110
+DFC 2011B Black,U15,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=241
+Coastal SC 2011/2012B - Fury,U15,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=249
+MSC Lakers 2011B Premier,U15,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=232
+11B LA Fire Gold,U15,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=308
+Vermilion Revolution 11/12,U15,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195
+2024-25 U14 Coed Banegas,U15,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=323
+Shreveport United 2010G Blue,U16,Female,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=71
+Vermilion Reign 10/11,U16,Female,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=170
+MSC Girls Lakers Premier 2010,U16,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=130
+CSC EAGLES 2010 G,U16,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=55
+LFC United G 10/11,U16,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=110
+10G LA FIRE RED,U16,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=49
+Bayou SC 2010G,U16,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=117
+Lafourche Legacy 2010-2011 Girls,U16,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=87
+MSC Lakers 2010G ECNL RL,U16,Female,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=15
+LA Krewe Rush 10G Academy,U16,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=123
+LA Krewe Rush ECNL RL G10,U16,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=92
+BRSC 10G Black RN,U16,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=118
+LA Krewe Rush 10G Black,U16,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=147
+BRSC 11/10G Red JC,U16,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=144
+Covington FC Bulls 2010,U16,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=116
+New Orleans DFC 10B NL,U16,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=122
+BRSC 10B Maroon VSC,U16,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=230
+BRSC 10B Red JB,U16,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=159
+Covington FC Bulls 2010 White,U16,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=116
+LA Krewe Rush ECNL RL B10,U16,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=53
+STYSA ELITE 10-11 BOYS,U16,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=191
+TSA BU15 2010 G. Swift Royals,U16,Male,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=262
+Motagua Juniors 2010B,U16,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=237
+Covington FC Bulls 2010 Boys Blue,U16,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=19
+Olimpia 10B,U16,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=217
+St Charles Soccer United,U16,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=211
+PSC 2010/11 Academy,U16,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=269
+10B LA FIRE RED,U16,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=175
+JPSA 10B Ajax,U16,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=126
+BRSC 10 B Red AA,U16,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=130
+LA Krewe Rush 10B AEX,U16,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=109
+Bayou SC 2010B,U16,Male,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=94
+North Louisiana United10/11 Boys,U16,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=221
+PSC 2010 Boys,U16,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=124
+Flight 2010B Blue,U16,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=160
+LA Krewe Rush 10B Black,U16,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=190
+LA ELITE NEXT 10 B,U16,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=200
+MSC Lakers 2010B ECNL RL,U16,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=144
+LA Krewe Rush 10B White,U16,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=152
+10B LA FIRE GOLD,U16,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=160
+MSR 10/12 Boys,U16,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=210
+SSC 10B Storm Elite,U16,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=93
+10B LA FIRE WHITE,U16,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=223
+10B LA FIRE SAM-PANG,U16,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208
+BRSC 10B Black JC,U16,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=75
+SSC 2010/2011,U16,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=206
+North Louisiana United 09/10/11 Girls,U17,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=105
+STYSA ELITE 09-11 GIRLS,U17,Female,LA,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=110
+09G LA FIRE NAVY,U17,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=96
+LA Krewe Rush 09G AEX,U17,Female,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122
+BRSC 09G Black RN,U17,Female,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=67
+09G LA FIRE RED,U17,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=121
+LA Krewe Rush 09G Academy,U17,Female,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=71
+LA Krewe Rush ECNL RL G09,U17,Female,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=62
+Covington FC 2009/10 Girls Blue,U17,Female,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=135
+Madisonville United 09/10G,U17,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=130
+Revolt 09G,U17,Female,LA,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108
+09G GA,U17,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=29
+LA Krewe Rush 09G Black,U17,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=69
+MSC Lakers 2009G ECNL RL,U17,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=16
+Shreveport United 2009G Blue,U17,Female,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=38
+JPSA 09G Hurricanes,U17,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=65
+BRSC 09G Red EL,U17,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108
+LA Force 2009G Sky Blue Mitchell,U17,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=121
+BRSC 09 B Black,U17,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=142
+NOLA Jesters 09/10B Green,U17,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=206
+PSC 2009 Boys,U17,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=191
+Cajun Rush 09B AEX,U17,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=208
+LA Krewe Rush ECNL RL B09,U17,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=222
+09B LA FIRE NAVY,U17,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=141
+09B LA FIRE RED,U17,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=70
+Ascension Flight 08B Blue,U17,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=137
+BRSC 09B Red AD,U17,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=164
+Bayou SC 2009B,U17,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=81
+CSC EAGLES 2009 B,U17,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=107
+LA Krewe Rush 09B AEX,U17,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=83
+MSC Lakers Boys Premier 2009,U17,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=139
+MSC Lakers 2009B ECNL RL,U17,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=29
+WestBank FC 09/10,U17,Male,LA,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=146
+Flight 09/10B McQuarn,U17,Male,LA,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=193
+LA Force Soccer Club 09B,U17,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=181
+SSC 09B Storm Elite,U17,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=90
+09B LA FIRE WHITE,U17,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=105
+Flight 2009B Blue,U17,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=85
+BRSC 09B Black MC,U17,Male,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=86
+New Orleans Spartans 09B,U17,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=16
+Madisonville United 09B,U17,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=119
+St. Charles Soccer Spurs,U17,Male,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=204
+LA Krewe Rush 09B Black,U17,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=135
+LAFOURCHE LEGACY 09 BOYS,U17,Male,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=214
+09B LA FIRE GOLD,U17,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=180
+New Orleans Spartans 10B,U17,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=117
+North Louisiana United 09/10 Boys,U17,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=151
+Vermilion Revolution 09/10,U17,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=192
+BRSC 09B Red BA,U17,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=102
+LA TDP ELITE NEXT 09B,U17,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=89
+NOLA Jesters 09B Purple,U17,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=175
+STYSA ELITE 09 BOYS,U17,Male,LA,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=114
+08G LA FIRE RED,U18,Female,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=34
+08G GA,U18,Female,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=70
+LA Krewe Rush 09G AEX,U18,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=54
+Lafourche Legacy HS Girls,U18,Female,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=84
+LFC UNITED G 08/10,U18,Female,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=84
+Shreveport United 2008G Blue,U18,Female,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=6
+08G LA FIRE NAVY,U18,Female,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=80
+Covington FC 2008/09 Girls Blue,U18,Female,LA,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=84
+BRSC 08 G Red,U18,Female,LA,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=58
+LA Force 08G,U18,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=46
+New Orleans DFC 08G NL,U18,Female,LA,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=40
+LA Krewe Rush 08G Academy,U18,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=55
+SSC 08G Storm Elite,U18,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=5
+SYSC High School Academy,U18,Female,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=89
+Madisonville United 08G,U18,Female,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=60
+LA Krewe Rush 08B Black,U18,Male,LA,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=79
+08B LA FIRE NAVY,U18,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=53
+Vermilion Revolution 08/09,U18,Male,LA,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=118
+Flight 2008B Grey,U18,Male,LA,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99
+PSC HS Boys,U18,Male,LA,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=24
+08B LA FIRE RED,U18,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=106
+2008 Westbank Elite,U18,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=73
+Flight 08/09B McQuarn,U18,Male,LA,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=118
+Lafourche Legacy 2008-2010 Boys,U18,Male,LA,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=108
+LA Krewe Rush 08B Academy,U18,Male,LA,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=49
+LA TDP ELITE NEXT 08B,U18,Male,LA,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=65
+Shreveport United 2008B,U18,Male,LA,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=132
+STYSA ELITE 08-10 BOYS,U18,Male,LA,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=71
+Covington FC Bulls B2008,U18,Male,LA,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=124
+BRSC 08/07B Red JC,U18,Male,LA,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=73
+14B LA FIRE CP GOLD,U12,Male,LA,2,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212
+Bayou SC 2013B Gold,U13,Male,LA,8,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=113
+LA Krewe Rush 13B Black,U13,Male,LA,18,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=176
+The 18th Ward 2013B,U13,Male,LA,13,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=181
+12B LA FIRE RED,U14,Male,LA,17,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=151
+Madisonville United 10B,U16,Male,LA,20,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=129

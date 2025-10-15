@@ -1,0 +1,716 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url,provider
+MT SURF G2016 Blue,584305.0,U10,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=31,GotSport
+BFSC G2016 AC,658816.0,U10,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=85,GotSport
+REAL G2016 Black,409400.0,U10,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=11,GotSport
+MT SURF G2016/17 Blue,,U10,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=93,GotSport
+SFC G2016 Red,581591.0,U10,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=38,GotSport
+MT Rush G-2016-SE Blue,,U10,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=87,GotSport
+PFC G2016/17navy-AC Fall,,U10,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=22,GotSport
+BSFC G2016 SE,581299.0,U10,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=44,GotSport
+BFSC G2016 AC,,U10,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=92,GotSport
+FVU G2016 White-AC,,U10,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=60,GotSport
+BSFC2016G F25,668298.0,U10,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=90,GotSport
+HYSA G2016/2017 GOLD,,U10,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=73,GotSport
+SFC G2016 Red,,U10,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=37,GotSport
+FVU G2016 Green-AC,,U10,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=33,GotSport
+PFC G2016/17navy-AC Fall,420645.0,U10,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=22,GotSport
+BSFC2016G F25,,U10,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=91,GotSport
+HYSA G2016/2017 BLUE,,U10,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=15,GotSport
+HYSA G2016/2017 BLUE,581473.0,U10,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=15,GotSport
+MT Rush G-2016-SE Blue,665032.0,U10,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=84,GotSport
+MT SURF G2016 Black,415066.0,U10,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=33,GotSport
+MT SURF G2016 Black,,U10,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=5,GotSport
+MT SURF G2016 Blue,,U10,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=30,GotSport
+REAL G2016 Gold,443512.0,U10,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=5,GotSport
+LST G 2016,,U10,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=83,GotSport
+REAL G2016 Gold,,U10,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=5,GotSport
+BSFC G2016 SE,,U10,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=43,GotSport
+FVU G2016 White-AC,667881.0,U10,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=61,GotSport
+Glacier Surf 2016 Girls WHITE,661409.0,U10,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=71,GotSport
+HYSA G2016/2017 GOLD,658835.0,U10,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=70,GotSport
+MT SURF G2016/17 White,670174.0,U10,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=79,GotSport
+MT SURF G2016/17 White,,U10,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=79,GotSport
+FVU G2016 Green-AC,667878.0,U10,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=33,GotSport
+LST G 2016,596362.0,U10,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=83,GotSport
+Glacier Surf 2016 Girls WHITE,,U10,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=69,GotSport
+MT SURF G2016/17 Blue,670172.0,U10,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=85,GotSport
+HYSA B2016 BLUE,581469.0,U10,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=12,GotSport
+HYSA B2016 GOLD,,U10,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129,GotSport
+MT Rush B-2016-SE-Blue,,U10,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=130,GotSport
+MT SURF B2016/17 Blue,,U10,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=153,GotSport
+GESC B 16/17,431656.0,U10,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=91,GotSport
+GESC B16 black,559449.0,U10,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=8,GotSport
+GESC B16 black,,U10,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=8,GotSport
+MT Rush B-2016-SE-Red,665043.0,U10,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=161,GotSport
+MT Rush B-2016-SE-Blue,578489.0,U10,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=124,GotSport
+HYSA B2016 GOLD,676890.0,U10,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=123,GotSport
+MT SURF B2016/17 Blue,670140.0,U10,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=166,GotSport
+FVU B2016 White-AC,,U10,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=167,GotSport
+REAL B2016 Silver,639046.0,U10,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=157,GotSport
+Glacier Surf 2016 Boys BLUE,,U10,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=22,GotSport
+MT SURF B2016/17 White,,U10,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=119,GotSport
+REAL B2016 Gold,,U10,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=23,GotSport
+REAL B2016 Silver,,U10,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=168,GotSport
+FRSC B2016 AC,656861.0,U10,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=66,GotSport
+FVU B2016 Green-AC,667875.0,U10,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=157,GotSport
+Glacier Surf 2016 Boys BLUE,356466.0,U10,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=22,GotSport
+MT Rush B-2016-SE-Red,,U10,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=154,GotSport
+FRSC B2016 AC,,U10,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65,GotSport
+REAL B2016 Gold,162369.0,U10,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=23,GotSport
+GESC B 16/17,,U10,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=94,GotSport
+REAL B2016 Black,465954.0,U10,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=102,GotSport
+REAL B2016 Black,,U10,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=105,GotSport
+FVU B2016 Green-AC,,U10,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=168,GotSport
+FVU B2016 White-AC,540224.0,U10,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=160,GotSport
+MT SURF B2016/17 White,667922.0,U10,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=122,GotSport
+FVU G2015 White-AC,,U11,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=123,GotSport
+GESC G 2015,559167.0,U11,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=84,GotSport
+REAL G2015 Gold,254602.0,U11,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=23,GotSport
+GESC G 2015-17,350010.0,U11,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=27,GotSport
+PFC G2015/16navy-AC,51320.0,U11,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=136,GotSport
+Glacier Surf 2015/16 Girls BLUE,,U11,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=65,GotSport
+REAL G2015 Black,91235.0,U11,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=33,GotSport
+REAL G2015/16 Silver,344540.0,U11,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=88,GotSport
+HYSA G2015 GOLD,581472.0,U11,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=126,GotSport
+LYSA G2015-AC,,U11,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=160,GotSport
+SFC G2015 Red,,U11,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=72,GotSport
+HYSA G2015/16 BLUE-AC,,U11,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=187,GotSport
+Missoula Surf 15/16 G,,U11,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=116,GotSport
+FVU G2015 Green-AC,540218.0,U11,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=92,GotSport
+MT Rush G-2015-SE-Blue,579859.0,U11,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=87,GotSport
+MT SURF G2015 White,,U11,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=67,GotSport
+3rd/4th Girls Dash,,U11,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=210,GotSport
+HYSA G2015 GOLD,,U11,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=127,GotSport
+MT Rush G-2015-SE-Blue,,U11,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=89,GotSport
+BU G2015 Pink-SE,,U11,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=102,GotSport
+Glacier Surf 2015/16 Girls WHITE,540905.0,U11,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=187,GotSport
+HYSA G2015 BLUE,581471.0,U11,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=55,GotSport
+BR SFC G2015/16,,U11,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=100,GotSport
+GESC G 2015,,U11,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=85,GotSport
+REAL G2015/16 Silver,,U11,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=63,GotSport
+GESC G 2015-17,,U11,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=27,GotSport
+SFC G2015 Blue,,U11,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=90,GotSport
+MT SURF G2015 Blue,469578.0,U11,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=17,GotSport
+PFC G2015/16navy-AC,,U11,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=137,GotSport
+SFC G2015 Blue,578077.0,U11,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=88,GotSport
+BU G2015 Pink-SE,292788.0,U11,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=100,GotSport
+LYSA G2015-AC,579235.0,U11,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=158,GotSport
+REAL G2015 Gold,,U11,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=12,GotSport
+REAL G2015/16 Silver,,U11,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=207,GotSport
+BR SFC G2015/16,462128.0,U11,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=98,GotSport
+Strikers FC G2015 AC-Blue,,U11,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=215,GotSport
+MT SURF G2015 Blue,,U11,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=17,GotSport
+Strikers FC G2015 AC-Red,,U11,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=141,GotSport
+Glacier Surf 2015/16 Girls BLUE,408137.0,U11,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=63,GotSport
+Glacier Surf 2015/16 Girls WHITE,,U11,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=185,GotSport
+HYSA G2015 BLUE,,U11,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=56,GotSport
+Missoula Surf 15/16 G,594671.0,U11,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=114,GotSport
+FVU G2015 White-AC,540221.0,U11,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=127,GotSport
+SFC G2015 Red,578078.0,U11,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=70,GotSport
+FVU G2015 Green-AC,,U11,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=93,GotSport
+HYSA G2015/16 GRAY-AC,,U11,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211,GotSport
+MT SURF G2015 White,581516.0,U11,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=65,GotSport
+REAL G2015/16 Silver,638648.0,U11,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=199,GotSport
+REAL G2015 Black,,U11,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=33,GotSport
+Glacier Surf 2015/16 Boys WHITE,356467.0,U11,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=193,GotSport
+Missoula Surf 2015B,404521.0,U11,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=94,GotSport
+BU B2015 Pink-SE,,U11,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=150,GotSport
+RLYS 2015 Spring,597227.0,U11,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336,GotSport
+Missoula Surf 2015B,,U11,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=96,GotSport
+MT Rush B-2015-SE-Red,,U11,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=303,GotSport
+Missoula Surf 15/16B,,U11,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384,GotSport
+SFC B2015 T2,578075.0,U11,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=112,GotSport
+Strikers FC B2015 AC-Red,,U11,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=343,GotSport
+Glacier Surf 2015/16 Boys WHITE,,U11,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=195,GotSport
+MT Rush B-2015-SE-Blue,579854.0,U11,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=126,GotSport
+SFC B2015 T1,668790.0,U11,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=372,GotSport
+LYSA B2015-AC,,U11,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=233,GotSport
+REAL B2015 Gold,344821.0,U11,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=120,GotSport
+SFC B2015 T2,,U11,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=114,GotSport
+Strikers FC B2015 White,,U11,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=409,GotSport
+MT SURF B2015 Blue,428617.0,U11,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=77,GotSport
+FVU B2015 White-AC,540223.0,U11,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=195,GotSport
+FRDS B2015-AC,578165.0,U11,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=343,GotSport
+Glacier Surf 2015 Boys BLUE,,U11,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=180,GotSport
+PFC B2015/16navy-AC,207307.0,U11,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=131,GotSport
+REAL B2015 Silver,639047.0,U11,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=150,GotSport
+FVU B2015 White-AC,,U11,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=186,GotSport
+HYSA B2015 BLUE,426173.0,U11,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=195,GotSport
+HYSA B2015 GRAY-AC,,U11,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=156,GotSport
+REAL B2015 Gold,,U11,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=122,GotSport
+SFC B2015 T1,,U11,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=263,GotSport
+BU B2015 Pink-SE,417498.0,U11,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=146,GotSport
+MT SURF B2015 White,,U11,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=72,GotSport
+BSFC 2015coed F25,669136.0,U11,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=343,GotSport
+FRDS B2015-AC,,U11,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336,GotSport
+PFC B2015/16white-AC,,U11,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398,GotSport
+BSFC 2015coed F25,,U11,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=343,GotSport
+Glacier Surf 2015 Boys BLUE,540906.0,U11,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=177,GotSport
+LST B 2014- AC,,U11,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=356,GotSport
+MT SURF B2015 White,415122.0,U11,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=70,GotSport
+HYSA B2015 GRAY-AC,458608.0,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=190,GotSport
+LST B 2014- AC,581631.0,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=360,GotSport
+LYSA B2015-AC,461908.0,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=231,GotSport
+MT Rush B-2015-SE-Red,579853.0,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=299,GotSport
+MT SURF B2015 Blue,,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=79,GotSport
+PFC B2015/16white-AC,581500.0,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=363,GotSport
+SFC B2015 T1,,U11,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=367,GotSport
+REAL B2015 Black,363677.0,U11,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=79,GotSport
+BR SFC B2015,479917.0,U11,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=342,GotSport
+HYSA B2015 WHITE-AC,528897.0,U11,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=212,GotSport
+PFC B2015/16navy-AC,,U11,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=133,GotSport
+REAL B2015 Silver,,U11,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=153,GotSport
+BR SFC B2015,,U11,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=307,GotSport
+FVU B2015 Green-AC,540222.0,U11,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=110,GotSport
+HYSA B2015 BLUE,,U11,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=102,GotSport
+MT Rush B-2015-SE-Blue,,U11,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=128,GotSport
+REAL B2015 Black,,U11,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=68,GotSport
+SFC B2015 T3,578076.0,U11,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=196,GotSport
+FVU B2015 Green-AC,,U11,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=90,GotSport
+HYSA B2015 WHITE-AC,,U11,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=214,GotSport
+RLYS 2015 Spring,,U11,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339,GotSport
+SFC B2015 T1,578074.0,U11,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=260,GotSport
+Strikers FC B2015 AC-Blue,,U11,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=197,GotSport
+MT Rush G-2014-SE-Blue,,U12,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=62,GotSport
+MT SURF G2014 Blue,346016.0,U12,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=59,GotSport
+BU G2014 Pink-SE,,U12,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=98,GotSport
+REAL G2014 White,,U12,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=171,GotSport
+FVU G2014 Green-AC,,U12,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=71,GotSport
+SFC G2014 T1,578070.0,U12,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=80,GotSport
+GESC G14 black,,U12,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=67,GotSport
+BFSC G2014/15 AC,,U12,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=103,GotSport
+FVU G2014 Green-AC,410770.0,U12,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=69,GotSport
+FVU G2014 White-AC,410884.0,U12,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=219,GotSport
+REAL G2014 Silver,,U12,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=175,GotSport
+MT SURF G2014 White,,U12,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=204,GotSport
+REAL G2014 Gold,,U12,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=42,GotSport
+SFC G2014 T2,578071.0,U12,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=217,GotSport
+Glacier Surf 2014 Girls BLUE,,U12,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=71,GotSport
+MT SURF G2014 Blue,670179.0,U12,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=87,GotSport
+PFC G2014/15navy-CL Fall,,U12,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=128,GotSport
+BU G2014 Pink-SE,303686.0,U12,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96,GotSport
+Glacier Surf 2014 Girls BLUE,408124.0,U12,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=69,GotSport
+SFC G2014 T1,,U12,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=81,GotSport
+Strikers FC G2014 T2,,U12,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253,GotSport
+MT SURF G2014 Blue,,U12,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=88,GotSport
+REAL G2014 Black,,U12,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=119,GotSport
+Strikers FC G2014 T1,,U12,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253,GotSport
+BFSC G2014/15 AC,342365.0,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=141,GotSport
+GESC G14 black,346034.0,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=65,GotSport
+HYSA G2014 BLUE,,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=84,GotSport
+HYSA G2014 GOLD,456849.0,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=148,GotSport
+MT Rush G-2014-SE-Blue,424204.0,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=60,GotSport
+MT SURF G2014 White,233023.0,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=125,GotSport
+PFC G2014/15navy-CL Fall,221223.0,U12,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=126,GotSport
+MT SURF G2014 Blue,,U12,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=58,GotSport
+MT SURF G2014 White,670180.0,U12,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=201,GotSport
+REAL G2014 Gold,224752.0,U12,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=49,GotSport
+REAL G2014 Silver,443509.0,U12,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=182,GotSport
+FVU G2014 White-AC,,U12,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=214,GotSport
+REAL G2014 White,638650.0,U12,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=169,GotSport
+SFC G2014 T2,,U12,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=216,GotSport
+HYSA G2014 BLUE,423009.0,U12,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=108,GotSport
+HYSA G2014 GOLD,,U12,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=149,GotSport
+HYSA B2014/15 BLUE,426182.0,U12,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=155,GotSport
+MCPOSSE B2014 Maroon,,U12,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=190,GotSport
+REAL B2014 Gold,337326.0,U12,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=117,GotSport
+HYSA B2014/15 GOLD,,U12,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=295,GotSport
+MCFC C2014Black AC,,U12,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=357,GotSport
+Missoula Surf 2014/15B Black NPL,,U12,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=76,GotSport
+Missoula Surf 2014B Blue,331833.0,U12,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=241,GotSport
+REAL B2014/2015 Silver,639049.0,U12,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=362,GotSport
+SFC B2014 T3,,U12,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=270,GotSport
+BFSC B2014/15 AC,420008.0,U12,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=362,GotSport
+BSFC B2014 SE,581297.0,U12,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=276,GotSport
+HYSA B2014/15 GOLD,458767.0,U12,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=292,GotSport
+MT Rush B-2014-SE-Blue,,U12,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=215,GotSport
+SFC B2014 T1,578067.0,U12,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=98,GotSport
+MCPOSSE B2014 Maroon,581021.0,U12,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=187,GotSport
+SFC B2014 T2,578068.0,U12,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=192,GotSport
+BU B2014 Pink-SE,,U12,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=122,GotSport
+GESC B14 yellow,,U12,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=388,GotSport
+MCFC C2014Orange AC,580653.0,U12,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=237,GotSport
+MT SURF B2014 Blue,,U12,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=180,GotSport
+PFC B2014/15/16white-AC Fall,420647.0,U12,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=375,GotSport
+MT SURF B2014 White,670145.0,U12,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=366,GotSport
+PFC B2014/15/16navy-CL Fall,,U12,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=291,GotSport
+FVU B2014/15 White,,U12,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=369,GotSport
+Missoula Surf 2014/15B Black NPL,278491.0,U12,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=102,GotSport
+Missoula Surf 2014B Blue,,U12,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245,GotSport
+PFC B2014/15/16navy-CL Fall,165708.0,U12,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=288,GotSport
+Strikers FC B2014 T1,,U12,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=382,GotSport
+FRSC B2014 SE,,U12,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=204,GotSport
+FVU B2014 Green-AC,410767.0,U12,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=224,GotSport
+FVU B2014/15 White,667919.0,U12,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=361,GotSport
+MT SURF B2014 White,301171.0,U12,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=104,GotSport
+REAL B2014 Black,91225.0,U12,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=166,GotSport
+SFC B2014 T3,578069.0,U12,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=267,GotSport
+GESC B14 black,559438.0,U12,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=246,GotSport
+MT Rush B-2014-SE-Blue,579856.0,U12,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=211,GotSport
+REAL B2014 Gold,,U12,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=119,GotSport
+BFSC B2014/15 AC,,U12,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=365,GotSport
+GESC B14 yellow,33727.0,U12,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=386,GotSport
+MT SURF B2014 White,,U12,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=367,GotSport
+REAL B2014 Black,,U12,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=168,GotSport
+Glacier Surf 2014 Boys BLUE,,U12,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=223,GotSport
+MCFC C2014Black AC,580654.0,U12,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=354,GotSport
+REAL B2014/2015 Silver,,U12,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=364,GotSport
+BSFC B2014 SE,,U12,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278,GotSport
+FRDS B2014-AC,578166.0,U12,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=250,GotSport
+FRDS B2014-AC,,U12,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=253,GotSport
+Glacier Surf 2014 Boys BLUE,661406.0,U12,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=219,GotSport
+HYSA B2014/15 BLUE,,U12,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=152,GotSport
+MT SURF B2014 Blue,308924.0,U12,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177,GotSport
+BU B2014 Pink-SE,292782.0,U12,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=119,GotSport
+SFC B2014 T1,,U12,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=100,GotSport
+PFC B2014/15/16white-AC Fall,,U12,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=379,GotSport
+FRSC B2014 SE,648691.0,U12,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=200,GotSport
+LYSA B2014-AC,461907.0,U12,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=208,GotSport
+GESC B14 black,,U12,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=249,GotSport
+REAL B2014 Gold,337326.0,U12,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=116,GotSport
+FVU B2014 Green-AC,,U12,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=174,GotSport
+LYSA B2014-AC,,U12,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212,GotSport
+Strikers FC B2014 Red,,U12,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=371,GotSport
+LSSCG2012,343044.0,U13,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=144,GotSport
+REAL G2013 Bronze,,U13,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=45,GotSport
+GESC G13 black,300363.0,U13,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=127,GotSport
+MT SURF 13G DPL,619902.0,U13,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226,GotSport
+REAL G2013 Gertsch,91249.0,U13,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=116,GotSport
+HYSA G2013 BLUE,300528.0,U13,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=94,GotSport
+MT SURF G2013 Blue,,U13,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=236,GotSport
+ODP G2013PR Red,568152.0,U13,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=13,GotSport
+REAL G2013 Black,,U13,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=171,GotSport
+REAL G2013 Black,638989.0,U13,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=169,GotSport
+Glacier Surf 2013 Girls BLUE,,U13,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=128,GotSport
+MT Rush G-2013-SE-Blue,,U13,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62,GotSport
+ODP G2013PR white,,U13,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=228,GotSport
+MT SURF 13G DPL,,U13,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226,GotSport
+SFC G2013 T2,578065.0,U13,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=153,GotSport
+HYSA G2013 GOLD,,U13,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=100,GotSport
+MT Rush G-2013-SE-Blue,579860.0,U13,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=60,GotSport
+SFC G2013 T1,578064.0,U13,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=106,GotSport
+BSFC G2013 SE,581296.0,U13,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=80,GotSport
+HYSA G2013 GOLD,349319.0,U13,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=98,GotSport
+BSFC G2013 SE,,U13,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=82,GotSport
+LYSA G2013-AC,461909.0,U13,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=78,GotSport
+Missoula Surf 2013G,,U13,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=88,GotSport
+PFC G2013/14navy-AC,,U13,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=91,GotSport
+BR SFC G2013/14,,U13,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=93,GotSport
+LYSA G2013-AC,,U13,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=80,GotSport
+RBFC G2013 Hales,255267.0,U13,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=83,GotSport
+SFC G2013 T2,,U13,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=155,GotSport
+SFC G2013 T3,,U13,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197,GotSport
+ODP G2013PR Red,,U13,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=13,GotSport
+REAL G2013 Gertsch,,U13,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=98,GotSport
+FRDS G2013/2014-AC,,U13,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=258,GotSport
+MCPOSSE G2013 Maroon,,U13,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134,GotSport
+ODP G2013PR white,579049.0,U13,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=224,GotSport
+PFC G2013/14navy-AC,207305.0,U13,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=89,GotSport
+Strikers FC G2013 T1,,U13,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=236,GotSport
+BR SFC G2013/14,557314.0,U13,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=99,GotSport
+GESC G13 black,300363.0,U13,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=126,GotSport
+Missoula Surf 2013G,197947.0,U13,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=86,GotSport
+REAL G2013 Bronze,91251.0,U13,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=50,GotSport
+LST G 2014-AC,225942.0,U13,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=30,GotSport
+MCPOSSE G2013 Maroon,340613.0,U13,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=131,GotSport
+SFC G2013 T3,578066.0,U13,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=195,GotSport
+REAL G2013 Gold,638986.0,U13,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=64,GotSport
+Strikers FC G2013 T2,,U13,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255,GotSport
+FRDS G2013/2014-AC,578173.0,U13,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=246,GotSport
+Glacier Surf 2013 Girls BLUE,,U13,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=127,GotSport
+LSSCG2012,,U13,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=145,GotSport
+LST G 2014-AC,,U13,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=31,GotSport
+REAL G2013 Bronze,,U13,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=44,GotSport
+GESC B13 black,,U13,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=119,GotSport
+Glacier Surf 2013/14 Boys BLUE,,U13,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=70,GotSport
+Glacier Surf 2013/14 Boys WHITE,540909.0,U13,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=434,GotSport
+MT Rush B-2013-AC-White,,U13,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=431,GotSport
+SFC B2013 T1,578062.0,U13,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=225,GotSport
+MCPOSSE B2013 Maroon,340615.0,U13,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=167,GotSport
+SFC B2013 Red,,U13,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378,GotSport
+Strikers FC B2013 T1,,U13,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=401,GotSport
+FVU B2013 Green-AC,296681.0,U13,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=75,GotSport
+Glacier Surf 2013/14 Boys WHITE,,U13,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=428,GotSport
+GESC B12/13 Yellow,,U13,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=142,GotSport
+MT Rush B-2013-SE-Blue,579852.0,U13,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=132,GotSport
+REAL B2013/2014 Silver,231208.0,U13,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=171,GotSport
+SFC B2013 Blue,,U13,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=330,GotSport
+LSC C2013-CL,42078.0,U13,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=326,GotSport
+REAL B2013/2014 Silver,,U13,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=135,GotSport
+SFC B2013 T2,578063.0,U13,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=114,GotSport
+BR SFC B2013/14,557315.0,U13,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=201,GotSport
+BU B2013 Pink-SE,,U13,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=396,GotSport
+HYSA B2013 BLUE,303320.0,U13,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=268,GotSport
+HYSA B2013 GOLD,314935.0,U13,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=129,GotSport
+FRDS B2013-AC,578167.0,U13,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=180,GotSport
+GESC B12/13 Yellow,558869.0,U13,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=139,GotSport
+GESC B13 black,300362.0,U13,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=116,GotSport
+ODP B2013PR Red,568151.0,U13,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=404,GotSport
+PFC B2013/14navy-AC,48197.0,U13,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=163,GotSport
+MT Rush B-2013-SE-Blue,,U13,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=134,GotSport
+Missoula Surf 2013B NPL,496770.0,U13,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=421,GotSport
+REAL B2013 Black,443504.0,U13,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=213,GotSport
+SFC B2013 T1,,U13,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=227,GotSport
+HYSA B2013 GOLD,,U13,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=131,GotSport
+MT SURF B2013 Blue,,U13,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=226,GotSport
+SFC B2013 Blue,578060.0,U13,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=327,GotSport
+Missoula Surf 2013B NPL,,U13,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=410,GotSport
+BSFC 2013B F25,,U13,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=438,GotSport
+FRDS B2013-AC,,U13,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=183,GotSport
+HYSA B2013 BLUE,,U13,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=174,GotSport
+MCPOSSE B2013 Maroon,,U13,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=169,GotSport
+REAL B2013 Black,,U13,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=179,GotSport
+MT SURF B2013 Blue,670148.0,U13,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=223,GotSport
+ODP B2013PR Red,,U13,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=406,GotSport
+BSFC 2013B F25,669146.0,U13,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=416,GotSport
+FRDS B2013/14-AC,,U13,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=418,GotSport
+MT SURF B2013 Blue,,U13,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=100,GotSport
+FVU B2013 Green-AC,,U13,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=74,GotSport
+QCFC 2013B,418578.0,U13,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=281,GotSport
+SFC B2013 Red,578061.0,U13,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=365,GotSport
+Strikers FC B2013 Red,,U13,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=400,GotSport
+SFC B2013 T2,,U13,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=116,GotSport
+Glacier Surf 2013/14 Boys BLUE,326583.0,U13,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=68,GotSport
+LSC C2013-CL,,U13,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=328,GotSport
+MT SURF B2013 Blue,243670.0,U13,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=98,GotSport
+QCFC 2013B,,U13,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=283,GotSport
+REAL B2013 Gold,,U13,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=45,GotSport
+Strikers FC B2013 Blue,,U13,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=390,GotSport
+REAL B2013 Gold,196303.0,U13,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=48,GotSport
+GESC G 2011/12 yellow,33734.0,U14,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=210,GotSport
+REAL G2012 Black,,U14,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=164,GotSport
+FVU G2012/13 White,,U14,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=100,GotSport
+Strikers FC G2012 T1,,U14,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=120,GotSport
+HYSA G2012 BLUE,,U14,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=161,GotSport
+MT SURF G2012/13 White,670183.0,U14,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=193,GotSport
+HYSA G2012 BLUE,578346.0,U14,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=126,GotSport
+LST G 2012 - SE,207336.0,U14,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=111,GotSport
+MT SURF 12G DPL,,U14,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=171,GotSport
+PFC G2011/12navy-SE,48192.0,U14,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109,GotSport
+Strikers FC G2012 T1,449628.0,U14,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=177,GotSport
+FVU G2012/13 White,410796.0,U14,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=97,GotSport
+MT SURF G2012/13 White,,U14,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=197,GotSport
+PFC G2011/12navy-SE,,U14,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=111,GotSport
+BSFC2012G F25,668299.0,U14,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=138,GotSport
+GESC G12 PR,40419.0,U14,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=30,GotSport
+BW G2012PR,326239.0,U14,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=52,GotSport
+FRSC G2012 SE,646381.0,U14,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=216,GotSport
+GESC G 2011/12 yellow,,U14,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=220,GotSport
+GESC G12 PR,,U14,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=31,GotSport
+MT SURF G2012-PR,577668.0,U14,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=82,GotSport
+Strikers FC G2012 T2,,U14,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=214,GotSport
+BU G2012 Pink-PR,,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=176,GotSport
+FVU G2012/13 Green,,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=67,GotSport
+GESC G12 yellow,,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=81,GotSport
+HYSA G2012 BLUE,341398.0,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=142,GotSport
+MT SURF G2012/13-SE,,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169,GotSport
+REAL G2012 Gold,91252.0,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=31,GotSport
+SFC G2012 T1,575066.0,U14,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=40,GotSport
+BW G2012CL,524309.0,U14,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194,GotSport
+HYSA G2012 BLUE,,U14,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=128,GotSport
+PFC G2012/13navy-CL Fall,,U14,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=168,GotSport
+BU G2012 Pink-PR,29884.0,U14,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=174,GotSport
+REAL G2012/2013 Silver,638651.0,U14,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=220,GotSport
+QCFC 2012G,,U14,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=104,GotSport
+BFSC G 2012 CL,207198.0,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=108,GotSport
+HYSA G2012 BLUE,,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=144,GotSport
+MT SURF 12G DPL,619906.0,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169,GotSport
+MT SURF G2012,,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204,GotSport
+ODP G2012PR Red,417956.0,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204,GotSport
+REAL G2012 Black,443508.0,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194,GotSport
+SFC G2012 T1,,U14,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=42,GotSport
+BSFC2012G F25,,U14,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=140,GotSport
+LST G 2012 - SE,,U14,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=95,GotSport
+REAL G2012 Gold,,U14,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=32,GotSport
+BFSC G 2012 CL,,U14,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109,GotSport
+FVU G2012/13 Green,49105.0,U14,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=65,GotSport
+PFC G2012/13navy-CL Fall,295447.0,U14,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=166,GotSport
+QCFC 2012G,295675.0,U14,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=101,GotSport
+MT SURF G2012/13-SE,577669.0,U14,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=167,GotSport
+BW G2012PR,,U14,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=54,GotSport
+GESC G12 yellow,52925.0,U14,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=78,GotSport
+ODP G2012PR Red,,U14,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=212,GotSport
+FRSC G2012 SE,,U14,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=208,GotSport
+MT SURF G2012-PR,,U14,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=84,GotSport
+FVU B2012 White,206452.0,U14,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=264,GotSport
+Glacier Surf 2012/13 Boys BLUE,661403.0,U14,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=110,GotSport
+LSSCB2012,,U14,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=364,GotSport
+MCFC C2012 - CL,,U14,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=333,GotSport
+MT Rush B-2012-SE-Blue,579851.0,U14,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=167,GotSport
+GESC B12/13 Yellow,,U14,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=342,GotSport
+REAL B2012/2013 Silver,639053.0,U14,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=270,GotSport
+GESC B12 PR,40417.0,U14,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=78,GotSport
+LST B 2012-SE,576568.0,U14,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=103,GotSport
+LYSA B2012/13-AC,,U14,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=274,GotSport
+MT SURF B2012 Blue,670159.0,U14,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=89,GotSport
+SFC B2012 T1,575065.0,U14,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=150,GotSport
+MT Rush B-2012-SE-Blue,,U14,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=169,GotSport
+SFC B2012 T1,,U14,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=152,GotSport
+HYSA B2012 Blue,,U14,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=82,GotSport
+MT SURF B2012 Blue,,U14,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=91,GotSport
+MT SURF B2012 White,,U14,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245,GotSport
+BFSC B2012/13 SE,580177.0,U14,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=194,GotSport
+GESC B12 PR,,U14,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=79,GotSport
+RBFC 2012/13B Black,,U14,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292,GotSport
+REAL B2012 Black,,U14,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=119,GotSport
+BSFC B2012 SE,,U14,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=231,GotSport
+MCFC C2012 - CL,461842.0,U14,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=364,GotSport
+Strikers FC B2012 T2,,U14,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=310,GotSport
+BFSC B2012/13 CL,,U14,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=144,GotSport
+LST B 2012-SE,,U14,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=105,GotSport
+LYSA B2012/13-AC,207308.0,U14,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=272,GotSport
+MT Surf 2012B SW,578106.0,U14,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=101,GotSport
+REAL B2012 Black,199960.0,U14,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=117,GotSport
+CFSA B2012 Myers AC,,U14,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=240,GotSport
+FVU B2012 Green-PR,31942.0,U14,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=139,GotSport
+FVU B2012 White,,U14,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=253,GotSport
+MCFC C2012,580655.0,U14,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=335,GotSport
+SFC B2012 T2,578059.0,U14,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=278,GotSport
+Strikers FC B2012 T1,,U14,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=263,GotSport
+ODP B2012PR Red,,U14,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=49,GotSport
+HYSA B2012 BLUE,,U14,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=336,GotSport
+PFC B2012/13/14navy-CL Fall,,U14,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=304,GotSport
+BSFC B2012 SE,581294.0,U14,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=229,GotSport
+REAL B2012 Gold,336988.0,U14,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=47,GotSport
+FVU B2012 Green-PR,,U14,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=141,GotSport
+GESC B12/13 Yellow,673430.0,U14,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=365,GotSport
+MT SURF B2012 White,670160.0,U14,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=243,GotSport
+PFC B2012/13/14navy-CL Fall,165709.0,U14,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=300,GotSport
+RBFC 2012/13B Black,91226.0,U14,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292,GotSport
+CFSA B2012 Myers AC,340440.0,U14,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=238,GotSport
+HYSA B2012 Blue,30300.0,U14,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=80,GotSport
+SFC B2012 T2,,U14,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279,GotSport
+MT SURF B2012-PR,,U14,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=126,GotSport
+Missoula Surf 2012B,,U14,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=131,GotSport
+BFSC B2012/13 SE,,U14,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=196,GotSport
+BR Strikers FC B2012,,U14,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=333,GotSport
+Glacier Surf 2012/13 Boys BLUE,,U14,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=111,GotSport
+MT SURF B2012-PR,577658.0,U14,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=124,GotSport
+MT SURF B2012-SE,577659.0,U14,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=158,GotSport
+BFSC B2012/13 CL,420105.0,U14,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=146,GotSport
+Glacier Surf 2012/13 Boys BLUE,661403.0,U14,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=109,GotSport
+MT SURF B2012-SE,,U14,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=160,GotSport
+MT Surf 2012B SW,,U14,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=103,GotSport
+Missoula Surf 2012B,197950.0,U14,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199,GotSport
+ODP B2012PR Red,417963.0,U14,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=47,GotSport
+REAL B2012 Gold,,U14,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=44,GotSport
+MT Rush G-2011-PR-White,578407.0,U15,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=71,GotSport
+MT Rush G-2011-SE-White,,U15,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=193,GotSport
+BU G2011 Pink-PR,,U15,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=150,GotSport
+Glacier Surf 2011/12 Girls BLUE,265959.0,U15,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=111,GotSport
+BSFC G2011 SE,,U15,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=88,GotSport
+HYSA G2011/12 BLUE-PR,,U15,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113,GotSport
+LYSA G2011-SE,,U15,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=148,GotSport
+BSFC G2011 SE,581295.0,U15,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=85,GotSport
+HYSA G2011/12 GOLD,,U15,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=8,GotSport
+MT Rush G-2011-PR-White,,U15,Female,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=74,GotSport
+FVU G2011 Green,,U15,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=191,GotSport
+BU G2011 Silver,,U15,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=195,GotSport
+ODP G2011PR Red,293058.0,U15,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=29,GotSport
+REAL G2011 Gold,,U15,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34,GotSport
+SFC G2011/12 T2,,U15,Female,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=143,GotSport
+HYSA G2011/12 GOLD,448099.0,U15,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=7,GotSport
+REAL G2011/12 Black,91255.0,U15,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=97,GotSport
+SFC G2011 T1,575064.0,U15,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=69,GotSport
+MT SURF G2011-PR,,U15,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=37,GotSport
+REAL G2011/12 Black,,U15,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=100,GotSport
+BU G2011 Black- SE,545658.0,U15,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=196,GotSport
+SFC G2011/12 T2,578058.0,U15,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=140,GotSport
+BU G2011 Black- SE,,U15,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=207,GotSport
+LYSA G2011-SE,207306.0,U15,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=145,GotSport
+SFC G2011 T1,,U15,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=72,GotSport
+BU G2011 Pink-PR,292785.0,U15,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=147,GotSport
+MT SURF G2011-PR,577667.0,U15,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34,GotSport
+FVU G2011/12 Green,667894.0,U15,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=96,GotSport
+MT SURF G2011/12/13 Blue,670181.0,U15,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=126,GotSport
+BU G2011 Silver,545659.0,U15,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=197,GotSport
+MT SURF G2011,,U15,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=195,GotSport
+MT SURF G2011/12/13 Blue,,U15,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=129,GotSport
+ODP G2011PR Red,,U15,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=31,GotSport
+FVU G2011/12 Green,,U15,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=99,GotSport
+Glacier Surf 2011/12 Girls WHITE,,U15,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209,GotSport
+REAL G2011 Gold,91253.0,U15,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=46,GotSport
+Glacier Surf 2011/12 Girls BLUE,,U15,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113,GotSport
+Glacier Surf 2011/12 Girls WHITE,540910.0,U15,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=204,GotSport
+BU B2011/12 Pink-SE,,U15,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=153,GotSport
+FRDS B2011-SE,578168.0,U15,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=221,GotSport
+FVU B2011/12 Green,,U15,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=134,GotSport
+MCFC C2011 - CL,,U15,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302,GotSport
+REAL B2011 Gold,,U15,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=78,GotSport
+GESC B 2014 black,559170.0,U15,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=185,GotSport
+MCFC C2011 - CL,461841.0,U15,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=330,GotSport
+HYSA B2011 BLUE,,U15,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=90,GotSport
+FRDS B2011-SE,,U15,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=222,GotSport
+MT Rush B-2011-SE-Blue,579850.0,U15,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195,GotSport
+FRSC B2011 SE,,U15,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=264,GotSport
+GESC B11 PR,,U15,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=110,GotSport
+Montana Eclipse FC,652440.0,U15,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266,GotSport
+GESC B 2014 black,,U15,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=188,GotSport
+GESC B11 PR,33729.0,U15,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=107,GotSport
+ODP B2011PR Red,,U15,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=132,GotSport
+SFC B2011 T1,575061.0,U15,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=206,GotSport
+2010 Boys Black,606186.0,U15,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=225,GotSport
+Glacier Surf 2011/12 Boys BLUE,265961.0,U15,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=324,GotSport
+ODP B2011PR Red,293057.0,U15,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=129,GotSport
+BR SFC B2011/12,462126.0,U15,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=196,GotSport
+LSC C2011-CL,42077.0,U15,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=205,GotSport
+MT Rush B-2011-SE-Blue,,U15,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197,GotSport
+Missoula Surf 2011B NPL,,U15,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=54,GotSport
+REAL B2011 Black,215587.0,U15,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=121,GotSport
+BU B2011/12 Pink-SE,170126.0,U15,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=180,GotSport
+Montana Eclipse FC,,U15,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=267,GotSport
+BR SFC B2011/12,,U15,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=198,GotSport
+HYSA B2011 BLUE,578383.0,U15,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=86,GotSport
+LSC C2011-CL,,U15,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=207,GotSport
+Missoula Surf 2011B NPL,197949.0,U15,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=61,GotSport
+2010 Boys Black,,U15,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=226,GotSport
+FRSC B2011 SE,646374.0,U15,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=261,GotSport
+FVU B2011/12 Green,,U15,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=133,GotSport
+REAL B2011 Black,,U15,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=124,GotSport
+REAL B2011 Gold,198284.0,U15,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=75,GotSport
+SFC G2010 T1,,U16,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=32,GotSport
+FRDS G2010/2011-SE,,U16,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=129,GotSport
+REAL G2010 Black,547219.0,U16,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=93,GotSport
+SFC G2010 T1,575058.0,U16,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=31,GotSport
+GESC G10/11 PR,559447.0,U16,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=19,GotSport
+FRDS G2010/2011-SE,578172.0,U16,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=126,GotSport
+Missoula Surf 10/11G,,U16,Female,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=160,GotSport
+FVU G2010 White,,U16,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=52,GotSport
+Missoula Surf 10/11G,331835.0,U16,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=159,GotSport
+SFC G2010 T2,575060.0,U16,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=55,GotSport
+BU G2010 Pink-SE,,U16,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=141,GotSport
+ODP G2010PR Red,,U16,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=47,GotSport
+FVU G2010 White,574574.0,U16,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=50,GotSport
+FVU G2010-PR,206449.0,U16,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=47,GotSport
+REAL G2010 Black,,U16,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=95,GotSport
+BR SFC G2010/11/12,479916.0,U16,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=124,GotSport
+FVU G2010-PR,,U16,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=43,GotSport
+GESC G10/11 PR,,U16,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=17,GotSport
+SFC G2010 T2,,U16,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=57,GotSport
+HYSA G2010/11 GOLD-PR,,U16,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=109,GotSport
+BR SFC G2010/11/12,,U16,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=126,GotSport
+BU G2010 Pink-SE,56224.0,U16,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=139,GotSport
+Strikers FC G2010 T1,,U16,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=165,GotSport
+ODP G2010PR Red,183566.0,U16,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=45,GotSport
+Strikers FC G2010 T2,,U16,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=154,GotSport
+LSSC B 2010-SE,581533.0,U16,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=151,GotSport
+MT SURF B2010-PR Williams,,U16,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=117,GotSport
+SVS B2010 SE,581225.0,U16,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=110,GotSport
+FVU B2010-PR,450382.0,U16,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=179,GotSport
+MT SURF B2010-PR Bost,,U16,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=67,GotSport
+HYSA B2010/11 GOLD,,U16,Male,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=261,GotSport
+FCF B2010CL,581093.0,U16,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=183,GotSport
+GESC B2010-11 yellow,,U16,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=199,GotSport
+LSSC B 2010-SE,584037.0,U16,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228,GotSport
+ODP B2010PR Red,183567.0,U16,Male,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=166,GotSport
+MT SURF 2011B,,U16,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=269,GotSport
+Missoula Surf 2010B NPL,,U16,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=145,GotSport
+LYSA B2010-SE,,U16,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=82,GotSport
+MT Surf JPL/NPL B2010,29458.0,U16,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=66,GotSport
+MT SURF B2010-PR Bost,577660.0,U16,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=66,GotSport
+Missoula Surf 2010B NPL,48173.0,U16,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=144,GotSport
+LSSC B 2010-SE,,U16,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228,GotSport
+FCF B2010CL,,U16,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=184,GotSport
+FRDS B2010 SE,,U16,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=187,GotSport
+SFC B2010/11 T2,578057.0,U16,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=226,GotSport
+Strikers FC B2010 T2,,U16,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=234,GotSport
+GESC B2010-11 yellow,40418.0,U16,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=198,GotSport
+LYSA B2010-SE,48949.0,U16,Male,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=81,GotSport
+FVU B2010-PR,,U16,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=171,GotSport
+SFC B2010 T1,,U16,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=108,GotSport
+SFC B2010/11 T2,,U16,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228,GotSport
+KootenaiB2010CL25,459044.0,U16,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=240,GotSport
+MT SURF B2010-PR Williams,577661.0,U16,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=115,GotSport
+ODP B2010PR Red,,U16,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=167,GotSport
+SFC B2010 T1,576023.0,U16,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=107,GotSport
+MT SURF B2010-PR Williams,,U16,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=116,GotSport
+SVS B2010 SE,,U16,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=110,GotSport
+Strikers FC B2010 T1,,U16,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=252,GotSport
+HYSA B2010 GOLD-SE,,U16,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=116,GotSport
+MT Surf JPL/NPL B2010,,U16,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=66,GotSport
+SFC G2009 T1,575052.0,U17,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=44,GotSport
+MT SURF G2009/10-SE,577666.0,U17,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=116,GotSport
+REAL G2009 Gold-PR,108127.0,U17,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=7,GotSport
+GESC G09 PR,33731.0,U17,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=19,GotSport
+REAL G2010 Gold-PR,,U17,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=4,GotSport
+Glacier Surf 2009/10 Girls BLUE,,U17,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=56,GotSport
+KootenaiG2009CL25,,U17,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=120,GotSport
+SFC G2009 T1,,U17,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=46,GotSport
+KootenaiG2009CL25,459043.0,U17,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=117,GotSport
+REAL G2009 Gold-PR,,U17,Female,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=7,GotSport
+MT SURF G2009/10-SE,,U17,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=116,GotSport
+REAL G2010 Gold-PR,91260.0,U17,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=3,GotSport
+GESC G09 PR,,U17,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=20,GotSport
+Glacier Surf 2009/10 Girls BLUE,402462.0,U17,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=53,GotSport
+ODP B2009PR Red,,U17,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=192,GotSport
+REAL B2010 Black,582941.0,U17,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=155,GotSport
+FVU B09-PR,,U17,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=92,GotSport
+HYSA B2009 GOLD-SE,33515.0,U17,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=84,GotSport
+ODP B2009PR Red,41789.0,U17,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=196,GotSport
+FVU B09-PR,328250.0,U17,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=91,GotSport
+REAL B2010 Gold,,U17,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=47,GotSport
+Glacier Surf 2009/10 Boys,265966.0,U17,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=140,GotSport
+SFC B2009 T1,575041.0,U17,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=38,GotSport
+BFSC B2009/10 SE,,U17,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=106,GotSport
+Glacier Surf 2009/10 Boys,529705.0,U17,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123,GotSport
+MT Rush B-2009-SE-Blue,579848.0,U17,Male,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=168,GotSport
+Glacier Surf 2009/10 Boys,,U17,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=140,GotSport
+SFC B2009 T2,,U17,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=159,GotSport
+Glacier Surf 2009/10 Boys,,U17,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123,GotSport
+GESC B09 PR,,U17,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=149,GotSport
+REAL B2010 Gold,91229.0,U17,Male,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=46,GotSport
+BFSC B2009/10 SE,419997.0,U17,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123,GotSport
+SFC B2009 T1,,U17,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=38,GotSport
+GESC B09 PR,462812.0,U17,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=149,GotSport
+REAL B2010 Black,,U17,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=154,GotSport
+SFC B2009 T2,578055.0,U17,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=159,GotSport
+HYSA B2009 GOLD-SE,,U17,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=84,GotSport
+MT Rush B-2009-SE-Blue,,U17,Male,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=167,GotSport
+MT SURF G2008-PR,577665.0,U18,Female,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=22,GotSport
+SFC G2008/09 T2,578056.0,U18,Female,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=60,GotSport
+Glacier Surf 2009/10 Girls BLUE,,U18,Female,GotSport Rankings,0,MT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=74,GotSport
+FVU G08-PR,328251.0,U18,Female,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=60,GotSport
+HYSA G2008 BLUE-PR,,U18,Female,GotSport Rankings,0,MT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=24,GotSport
+HYSA G2008 BLUE-PR,33514.0,U18,Female,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=23,GotSport
+BU G2008 Pink-SE,29881.0,U18,Female,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=72,GotSport
+BU G2008 Pink-SE,,U18,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=72,GotSport
+REAL G2009/10 Black,,U18,Female,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=16,GotSport
+SVS G2008 SE,,U18,Female,GotSport Rankings,0,MT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=68,GotSport
+ODP G2008/09PR Red,,U18,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=40,GotSport
+REAL G2009/10 Black,443507.0,U18,Female,GotSport Rankings,0,MT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=15,GotSport
+FCF G2008-11CL,,U18,Female,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=77,GotSport
+Glacier Surf 2009/10 Girls BLUE,326582.0,U18,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=75,GotSport
+LSSC G 2008-SE,,U18,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=57,GotSport
+SFC G2008/09 T2,,U18,Female,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=61,GotSport
+MT SURF G2008-PR,,U18,Female,GotSport Rankings,0,MT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=22,GotSport
+ODP G2008/09PR Red,41788.0,U18,Female,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=38,GotSport
+FVU G08-PR,,U18,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=61,GotSport
+SFC G2008 T1,,U18,Female,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=17,GotSport
+FCF G2008-11CL,581098.0,U18,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=76,GotSport
+LSSC G 2008-SE,581536.0,U18,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=55,GotSport
+SFC G2008 T1,575050.0,U18,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=16,GotSport
+SVS G2008 SE,581222.0,U18,Female,GotSport Rankings,0,MT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=66,GotSport
+FRDS B2008/2010 SE,,U18,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=111,GotSport
+MT SURF B2008-PR,577663.0,U18,Male,GotSport Rankings,0,MT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=32,GotSport
+MT SURF B2008/9-SE,,U18,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=92,GotSport
+ODP B2008PR Red,41787.0,U18,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=53,GotSport
+SVS B2008 SE,,U18,Male,GotSport Rankings,0,MT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=109,GotSport
+MT SURF B2008-PR,,U18,Male,GotSport Rankings,0,MT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=31,GotSport
+MT Rush B-2008-SE- Blue,,U18,Male,GotSport Rankings,0,MT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=96,GotSport
+SFC B2008 T1,,U18,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=29,GotSport
+SVS B2008 SE,581224.0,U18,Male,GotSport Rankings,0,MT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=109,GotSport
+HYSA B2008 BLUE-PR,33513.0,U18,Male,GotSport Rankings,0,MT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=51,GotSport
+ODP B2008PR Red,,U18,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=52,GotSport
+REAL B2009 Gold-PR,194780.0,U18,Male,GotSport Rankings,0,MT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=38,GotSport
+BU B2008 Pink-PR,,U18,Male,GotSport Rankings,0,MT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=15,GotSport
+BU B2008 Pink-PR,29892.0,U18,Male,GotSport Rankings,0,MT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=15,GotSport
+REAL B2009 Black,215606.0,U18,Male,GotSport Rankings,0,MT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=76,GotSport
+HYSA B2008 BLUE-PR,,U18,Male,GotSport Rankings,0,MT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=50,GotSport
+BHS B2008 Panthers FC,614702.0,U18,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=133,GotSport
+REAL B2009 Gold-PR,,U18,Male,GotSport Rankings,0,MT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=37,GotSport
+MT Rush B-2008-SE- Blue,162658.0,U18,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=96,GotSport
+MT SURF B2008/9-SE,577664.0,U18,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=92,GotSport
+REAL B2009 Black,,U18,Male,GotSport Rankings,0,MT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=75,GotSport
+BHS B2008 Panthers FC,,U18,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=129,GotSport
+FRDS B2008/2010 SE,578169.0,U18,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=111,GotSport
+SFC B2008 T1,575040.0,U18,Male,GotSport Rankings,0,MT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=29,GotSport

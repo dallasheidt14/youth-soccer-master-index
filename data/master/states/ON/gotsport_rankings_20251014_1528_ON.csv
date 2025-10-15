@@ -1,0 +1,19 @@
+team_name,age_group,gender,source,points,state,rank,url
+Junior United Boys 2016,U10,Male,GotSport Rankings,0,ON,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=149
+Croatia united/mississauga croatia,U11,Male,GotSport Rankings,0,ON,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=98
+Liverpool FC-IA Michigan Windsor 2015 Red,U11,Male,GotSport Rankings,0,ON,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=134
+Chatham 2015 GIrls Strikers,U11,Female,GotSport Rankings,0,ON,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=124
+Vardar Win City 2014B,U12,Male,GotSport Rankings,0,ON,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=254
+OSU 2014 Boys Force Academy Black,U12,Male,GotSport Rankings,0,ON,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=309
+IFC Academy 2014B Blue,U12,Male,GotSport Rankings,0,ON,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=310
+Puslinch Predators,U12,Male,GotSport Rankings,0,ON,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+OSU 2014 Girls Force Academy Black,U12,Female,GotSport Rankings,0,ON,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=7
+PFC 2014G Black,U12,Female,GotSport Rankings,0,ON,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=128
+PFC 2014G Grey,U12,Female,GotSport Rankings,0,ON,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=195
+DeRo TFC 2013 Boys,U13,Male,GotSport Rankings,0,ON,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=166
+Burlington Bayhawks Yellow,U13,Male,GotSport Rankings,0,ON,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=359
+Superior Rush FC Excel Males,U14,Male,GotSport Rankings,0,ON,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=236
+Lasalle Stompers 2012B,U14,Male,GotSport Rankings,0,ON,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250
+Hamilton Sparta,U15,Female,GotSport Rankings,0,ON,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=117
+Olympic Flame,U16,Male,GotSport Rankings,0,ON,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=162
+Milton Magic HP,U18,Female,GotSport Rankings,0,ON,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=6

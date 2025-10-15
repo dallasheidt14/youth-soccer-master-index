@@ -16,6 +16,8 @@ import pandas as pd
 import logging
 from datetime import datetime
 from typing import List, Optional
+import csv
+from src.scraper.utils.logger import get_logger
 
 
 def get_timestamp(fmt: str = "%Y%m%d_%H%M") -> str:
@@ -244,6 +246,55 @@ def create_timestamped_path(
     timestamp = get_timestamp(timestamp_fmt)
     filename = f"{filename_prefix}_{timestamp}{extension}"
     return base_dir / filename
+
+
+def ensure_alias_table_exists(alias_path: Path = Path("data/aliases/team_aliases.csv")) -> Path:
+    """
+    Ensure the team aliases table exists with proper header.
+    
+    Creates the provided CSV path if it doesn't exist with columns:
+    team_id, alias_text, provider, provider_team_id, confidence, first_seen, last_seen
+    
+    Args:
+        alias_path: Target path for the aliases CSV (default: data/aliases/team_aliases.csv)
+    
+    Returns:
+        The path to the aliases CSV (created or already existing).
+    
+    Raises:
+        OSError / PermissionError / Exception on fatal I/O errors.
+    """
+    logger = get_logger(__name__)
+
+    if alias_path.exists():
+        logger.debug(f"Team aliases table already exists: {alias_path}")
+        return alias_path
+
+    logger.info("Creating team aliases table...")
+
+    try:
+        # Ensure directory exists
+        alias_path.parent.mkdir(parents=True, exist_ok=True)
+
+        # Create empty CSV with header
+        header = [
+            "team_id", "alias_text", "provider", "provider_team_id",
+            "confidence", "first_seen", "last_seen"
+        ]
+
+        with open(alias_path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(header)
+
+        logger.info(f"✅ Created team aliases table: {alias_path}")
+        return alias_path
+
+    except (OSError, PermissionError) as e:
+        logger.error(f"Failed to create aliases table at {alias_path}: {e}", exc_info=True)
+        raise
+    except Exception as e:
+        logger.error(f"Unexpected error creating aliases table at {alias_path}: {e}", exc_info=True)
+        raise
 
 
 if __name__ == "__main__":

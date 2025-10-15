@@ -1,0 +1,334 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+2016B Black,496157,U10,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=41
+2016B Red,363790,U10,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=42
+2016B Gold,635541,U10,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=90
+2016B White,496158,U10,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=115
+Rhode Island Surf B2016 Blue,397007,U10,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=122
+Rhode Island Surf B2016 White,397009,U10,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=122
+Rhode Island Surf B2016 Sky,641099,U10,Male,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=122
+2016G Red,363806,U10,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=18
+2016G Black,364720,U10,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=29
+CLP United 2016 Girls Silva - CYSA,271702,U10,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=43
+Rhode Island Surf G2016 Blue,397012,U10,Female,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=67
+10UGCB-BRISTOL-44-Troia - Bristol FC U10 Girls,463637,U10,Female,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=71
+Scorpions RI Girls 2016 Black,518516,U10,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=72
+Rhode Island Surf G2016 White,397117,U10,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=75
+10UGCEPYSA236-Hawksley K,542766,U10,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=77
+10UG A Barr/BYSA 9 Mitchell Courage,541301,U10,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=80
+2015B pre-MLS Red,363797,U11,Male,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=35
+Boys 2015 Elite,347649,U11,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=56
+Rhode Island Surf B2015 White,270913,U11,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=94
+Rhode Island Surf B2015 Pre-MLS,339456,U11,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=94
+RI Strikers FC 2015 Boys,273540,U11,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=111
+2015B pre-MLS Black,363798,U11,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=141
+OSNK United - 2015 Boys - Hornets,219377,U11,Male,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=154
+11UB A Barr/BYSA 11 Higg France,414305,U11,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=191
+10UBCPYSA-507-Hoye,550665,U11,Male,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=198
+645 U10 Boys Rhody Tiverton Dugan,593527,U11,Male,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=199
+2015B pre-MLS2 Red,495598,U11,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=200
+2015B pre-MLS2 Black,495599,U11,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=226
+U10RRIFS750-Ortega,591052,U11,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=237
+Boys 2015 HyperSonic,205363,U11,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=246
+Providence Sharks U11 Marroquin,597342,U11,Male,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=267
+"10UBR,SYSA,552,BERNIER",593935,U11,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=309
+OSNK United Blue Devils,168621,U11,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=311
+644 U10 Boys Rhody Tiverton Reilly,593523,U11,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=311
+RI Boys 2015 Black,397228,U11,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=312
+11UB C Barr/BYSA 12 Piper Holland,414303,U11,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=312
+11UBAEPYSA240-Resendes M,542763,U11,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=334
+"10UBCB,Kelley,627,South County Rays",517222,U11,Male,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=334
+WattsWong FC,505038,U11,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=335
+Rams FC Man Utd,408457,U11,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341
+11UB R Barr/BYSA 13 Piper Belgium,297097,U11,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341
+OSNK United - 2015 Boys - Wilcox,339551,U11,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=349
+10UBRPYSA-508-Howland,550666,U11,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=354
+11UBCB-BRISTOL-38-Archambault - Bristol FC U11 Boys Green,215723,U11,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=358
+11UBCEPYSA241-Lepore B,542764,U11,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=375
+RI Strikers FC 2015 Girls Team,391343,U11,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=35
+2015G Pre-Academy Red,363807,U11,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=50
+Girls 2015 Elite,98796,U11,Female,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=63
+2015G Pre-Academy Black,635561,U11,Female,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=74
+2015G Pre-Academy Black,635561,U11,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=75
+RI Girls 2015 White,519132,U11,Female,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=91
+RI Girls 2015 White,519132,U11,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=92
+CLP United 2015 Girls McDevitt - CYSA,385674,U11,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=102
+OSNK United - 2015 Girls - Costa,300519,U11,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=102
+11UGCEPYSA239-McCue J,542765,U11,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=123
+11UG C Barr/BYSA 14 Bella USA,297103,U11,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=126
+11UGCG CLCF - Tanguay #131,171633,U11,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=140
+Rhode Island Surf G2015 Premier,339791,U11,Female,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=140
+U10GR CLCF - TANGUAY #126,418838,U11,Female,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=148
+Middletown,611168,U11,Female,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=153
+"10UGC,Esposito,617,South County Storm",529652,U11,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=155
+Scorpions RI Girls 2015 Black,397637,U11,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=158
+10UGRPYSA-523-Geer,550910,U11,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=166
+11UG R Barr/BYSA 15 Bella Canada,414297,U11,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=174
+11UGCG-BRISTOL-45-Ferreira - Bristol FC,342922,U11,Female,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=177
+East Bay FC G2015,610114,U11,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=178
+Rams FC Wrexham,518169,U11,Female,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=179
+10UGAPYSA-522-Czepizak,551830,U11,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=191
+Rhode Island Surf G2015 Grey (ARCHIVED),519046,U11,Female,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=191
+"10UGA,Coventry Chaos",593589,U11,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=200
+Girls 2015 HyperSonic,506400,U11,Female,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=218
+"10UGR,SYSA,557,CARROLL",593945,U11,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=238
+2014B pre-MLS Black,512700,U12,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=42
+OSNK United - 2014 Boys - Merchant,168622,U12,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=63
+Boys 2014 Elite,576079,U12,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=71
+Rams FC Botafogo,391655,U12,Male,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=78
+CLCF 2014 Boys Academy,272643,U12,Male,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=125
+Boys 2014 HyperSonic,14801,U12,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=130
+Rhode Island Surf B2014 Pre-MLS,219925,U12,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=131
+RI Boys 2014 Black,397230,U12,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=134
+Rhode Island Surf B2014 Elite Blue,68707,U12,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=149
+B12U WFFSC- PETTIS,174659,U12,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=161
+RI Strikers FC 2014/15 Boys White - Ceprano,391342,U12,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=189
+RI Boys 2015 White,446810,U12,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=226
+12UBCG-BRISTOL-39-Sylvia - Bristol Bandits,48775,U12,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=234
+2014B Pre-MLS2 Black,363800,U12,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=261
+12UBCGWFF664-Maldonado,463791,U12,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=297
+"12UBR,OSNK,431,Catalozzi",412567,U12,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=297
+Boys 2014 SuperSonic,399508,U12,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=299
+Prime,577496,U12,Male,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=300
+WWSA 2016/2015,547441,U12,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=308
+11UBCPYSA-509-Bronson,550667,U12,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=313
+CLCF - Haxton #123,297495,U12,Male,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=353
+Providence Sharks U11 Perez,551735,U12,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=360
+U12BCGEWG - KEELEY #259,600342,U12,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=363
+12UBCB CLCF - Vlaun #123,171628,U12,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=379
+12UB CB Barr/BYSA 16 Green Denmark,297095,U12,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=380
+12UBCBWFF665-WOOD,174655,U12,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=380
+"11UBC,Blair,628,South County Sharks",517217,U12,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=388
+Rhode Island Surf B2014 Elite White,641101,U12,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=394
+12UBCG CLCF - Haxton #124,423313,U12,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=408
+646 U11 Boys Classic Tiverton Fiore,593530,U12,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=423
+12UB R Barr/BYSA 17 Piper Sweden,297096,U12,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=424
+"11UBR,Clarke,629,South County Sting",517216,U12,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=426
+EG216 - U11 Boys - Dougan,552221,U12,Male,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=436
+"11UBA,Yagoobian,630,South County Thrashers",517215,U12,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=444
+14G pre-GA,363810,U12,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=6
+14G GA Blue,219766,U12,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=17
+Rhode Island Surf 14G Pre-DPL,155851,U12,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=30
+Scorpions RI Girls 2014 Black,397632,U12,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=43
+Rams FC West Ham,391019,U12,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=45
+14G GA White,219765,U12,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=64
+Girls 2014 Elite,98795,U12,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=64
+CLP United 2014 Girls Varone - CYSA,385677,U12,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=81
+RI Girls 2014 White,521323,U12,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96
+Bristol Huskies Select,401226,U12,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=97
+Rhode Island Surf G2014 Premier,641110,U12,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+12UGAWFF643-HALLETT,174677,U12,Female,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160
+11UGCPYSA-524-Fox,551831,U12,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=177
+"12UGCB,OSNK,432,Patil",300520,U12,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=186
+Girls 2014 HyperSonic,467715,U12,Female,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=197
+RI Strikers FC 2014 Girls NECSL Team,498757,U12,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=199
+12UG CB Barr/BYSA 18 Higg Argentina,216441,U12,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=209
+2014G pre-GA Black,647242,U12,Female,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=210
+"11UGC,Coventry,165,Meisler",593591,U12,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=230
+11UG R Barr/BYSA 12 Mitchell Mexico,297102,U12,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=254
+Karma,50625,U12,Female,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=263
+Rhode Island Surf B2013 MLS,119225,U13,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=15
+U13 MLS NEXT,362794,U13,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=34
+U13 MLS Next AD,512701,U13,Male,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=53
+Higher Level Select Soccer Academy 2013B,585404,U13,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=62
+Smithfield Strikers 2013 Boys,301905,U13,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=87
+2013B Red,363801,U13,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=100
+RI STARS,241170,U13,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=108
+Rhode Island Surf B2013 Elite,119227,U13,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=116
+CLP United 2013 Boys Bragg - CYSA,385682,U13,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=128
+Boys 2013 SuperSonic,506384,U13,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=129
+Pre-MLS2 13B Black,363802,U13,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=139
+Pre-MLS2 13B Black,363802,U13,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=140
+CLCF 2013 Boys Academy,290724,U13,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=149
+Rhode Island Surf B2013 Premier,518330,U13,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=167
+Boys 2013 Elite,14800,U13,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=185
+Coventry Thunder U12 Boys,551334,U13,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=205
+Bayside FC NECSL 13B White,495718,U13,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=209
+Rams FC Aston Villa,272324,U13,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=219
+12UBCPYSA-511-Almili,550669,U13,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=241
+"13UBCB,OSNK,433,Schweizer",168623,U13,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=246
+"12UBCB,SYSA,554,FRANCAZIO",593940,U13,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=278
+647 U12 Boys Classic Blue Tiverton Klusak,593534,U13,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=278
+U12BRIFS751-Ortega,591053,U13,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=304
+13UBCGWFF670-TOURANGEAU,174660,U13,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=308
+12UBMYSC-358-COONEY,599555,U13,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=341
+13UBRWFF669-Brady,416718,U13,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=346
+"13UBC,McCann,632,South County Stompers",517209,U13,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=362
+U13 Providence Sharks Abarca,571868,U13,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=370
+13UB R Barr/BYSA 19 Mussab Germany,158365,U13,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=376
+Providence sharks U12 ruiz,551736,U13,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=379
+"12UBCB,Minuto,631,South County Rebels",517213,U13,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=384
+12UBRPYSA-475-Cleary,550668,U13,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=404
+"12UBR,Narragansett,377,Arnaus",596204,U13,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=406
+U13BCBEWG - BUTLER #261,600343,U13,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+13G GA,51355,U13,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=14
+13G GA,362793,U13,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=15
+Rams FC Everton,138649,U13,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=22
+CLP United 2013 Girls Silva - CYSA,271704,U13,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=33
+Girls 7th Grade Elite,14918,U13,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=45
+Rams FC Eintracht,391025,U13,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62
+Bayside FC NECSL 13G,495712,U13,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=67
+RI Strikers FC 2013 Girls Team,276853,U13,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=83
+CLCF 2013 Girls Academy,171634,U13,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=87
+12UGC-BGYSA-MCNAMARA-66,593730,U13,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=102
+RI Girls 2013 Black,397630,U13,Female,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+"13UGC,OSNK,435,Elliott",168630,U13,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=113
+13UGR CLCF - Hudick #134,39482,U13,Female,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=120
+Rhode Island Surf 13G DPL,110987,U13,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=120
+Rhode Island Surf G2013/14 Central (ARCHIVED),519051,U13,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=133
+12UGCPYSA-525-Helie,551832,U13,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=139
+599 U12 Girls Classic Gold Traore,550863,U13,Female,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=144
+U11GREWG - JACQUES #250,472985,U13,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=144
+12UGCPYSA-526-Helie,551833,U13,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=144
+13UG R Barr/BYSA 21 Higg Brazil,158364,U13,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=205
+648 U12 Girls Rhody Tiverton Wicks,593535,U13,Female,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=209
+13UGC CLCF - Masi #133,547110,U13,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=232
+13UG R Barr/BYSA 20 Bender Spain,158363,U13,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=239
+"12UGCB,SYSA,559,KOFRON",593946,U13,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=256
+Rhode Island Surf B2012 MLS,19030,U14,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=32
+Rhode Island Surf B2012 Premier,19032,U14,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=38
+Rams FC Man City,138652,U14,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=39
+RI Strikers FC 2012 Boys,276881,U14,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=44
+RI Boys 2012/13 Black,397236,U14,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=62
+CLCF 2012 Boys Academy,38651,U14,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=80
+2012B Red,518027,U14,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=91
+U14 MLS Next AD,363804,U14,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=99
+CLP United 2012 Boys Amaral - CYSA,271701,U14,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=109
+Higher Level Select Soccer Academy B12/13,569021,U14,Male,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=111
+RI Black 2012/13,501055,U14,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=134
+RI Boys 2012/13 White,397409,U14,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=178
+Boys 8th Grade HyperSonic,14799,U14,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=202
+649 U13 Boys Classic Tiverton Klusak,593536,U14,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=215
+U14 MLS NEXT,362795,U14,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245
+RI Boys 2012/13 Teal,519992,U14,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=247
+Boys 7th Grade HyperSonic,345395,U14,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=253
+13UBRWFF698-HAYES,174666,U14,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=277
+Goal Getters,631960,U14,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279
+14UBCBWFF671-Lucca,416719,U14,Male,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=312
+"13UBA,Sisson,633,South County Sharks",517208,U14,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=343
+12G GA,19373,U14,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=18
+Girls 2012 Elite,14803,U14,Female,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=45
+Rhode Island Surf 12G DPL,51354,U14,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=48
+RI Strikers FC 2012 Girls,276880,U14,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=52
+CLP United 2012 Girls Faria - CYSA,271706,U14,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=54
+Scorpions RI Girls 2012 Black,397638,U14,Female,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=82
+12G GA,362792,U14,Female,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=108
+Rhode Island Surf G2012 Premier,583803,U14,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=121
+650 U13 Girls Classic Tiverton Moussa,593537,U14,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=129
+Girls 7th/8th - Steele,578031,U14,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=144
+12UGRCYSA-104-2025SPRING,590083,U14,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=148
+Team Malia,631874,U14,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=152
+13UGC-BRISTOL-49-Overy - Bristol Huskies Elite,48906,U14,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=152
+OSNK United - 2012 Girls - Flynn,168644,U14,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=162
+"13UGA,Baird,619,South County Storm",529656,U14,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=186
+Rams FC 2012 Girls Wholey (tournament),599262,U14,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=188
+2012G Red,363813,U14,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=197
+Rhode Island Surf B2011 MLS Next,19370,U15,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=5
+U15 MLS Next AD,363791,U15,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=18
+U15 MLS Next,363256,U15,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=37
+Rhode Island Surf B2011 Elite,19371,U15,Male,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=54
+Rhode Island Surf B2011 Premier,19029,U15,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=73
+CLP United 2011 Boys McDevitt,271699,U15,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=76
+RI Strikers FC 2011 Boys Team - Ceprano,276888,U15,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=83
+Rams FC Brighton,391026,U15,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=108
+RI Boys 2011 Black,397412,U15,Male,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=120
+U15 Providence Sharks Rosal,571876,U15,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=132
+U14ARIFS753-Ortega,591055,U15,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+15UB A Barr/BYSA 22 Mussab Lyon,48515,U15,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+Boys 9th Grade HyperSonic,6037,U15,Male,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=184
+14UB R Barr/BYSA 24 Green Arsenal,48514,U15,Male,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=218
+EWG STRIKERS,553624,U15,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=233
+14UBCPYSA-513-Pyliotis,550671,U15,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=237
+OSNK United - 2011/2012 Boys - Wilcox,169229,U15,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=237
+Seaside Strikers,630099,U15,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=258
+651 U14 Boys Anchor Tiverton Messenger,593551,U15,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=274
+Providence Sharks U15 Salinas,551738,U15,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=278
+15UB R Barr/BYSA 23 Green Ajax,48516,U15,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=285
+U15BCGWFF673-Guyon,174668,U15,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=286
+Chariho FC,631861,U15,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=297
+14UB A Barr/BYSA 23 Aljarrah Spurs,48511,U15,Male,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=307
+14UBRPYSA-514-Bronson,550672,U15,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=307
+15UBR-BRISTOL-40-Alves - Bristol FC U15 Boys,149193,U15,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=311
+"14UBR,Narragansett,378,Prendergast",596206,U15,Male,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=321
+11G GA,19374,U15,Female,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=10
+RAMS FC Newcastle,272318,U15,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=27
+OSNK United - 2011 Girls - Costa,168879,U15,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=32
+RI Strikers FC 2011 Girls EDP National Team,276883,U15,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=40
+Girls 9th Grade - Gamboa,6038,U15,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=42
+Scorpions RI Girls 2011 Black,397639,U15,Female,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=51
+14UGAPYSA-528-Costa,551834,U15,Female,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=61
+Girls 8th Grade Elite,205364,U15,Female,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=76
+Smithfield Strikers 2011 Girls - Biegel,533012,U15,Female,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=86
+Girls 2011 SuperSonic,19026,U15,Female,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=96
+Rhode Island Surf G2011 Premier,396507,U15,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=98
+14UG A Barr/BYSA 22 Higg Chelsea,48518,U15,Female,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=100
+Rhode Island Surf 11G DPL,38278,U15,Female,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=101
+Rams FC 2011 Girls Wholey (tournament),599261,U15,Female,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=116
+14UGA CLCF - Biegel #138,39485,U15,Female,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=123
+Warwick Fire Fighters SC - 645 Girls,174679,U15,Female,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=142
+14UGRWFF677-Enright,174682,U15,Female,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=153
+U14 Gansett Girls,596212,U15,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=169
+2011G Red,495374,U15,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=178
+15UG CB Barr/BYSA 24 Bender Monaco,48517,U15,Female,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=181
+15UGCG-BRISTOL-47-Taylor - Bristol Huskies - Gold Stars,39823,U15,Female,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=190
+11G GA,362778,U15,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=200
+14UGCPYSA-529-Oliveira,551835,U15,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+Rhode Island Surf 2010 MLS NEXT AD,19033,U16,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=14
+U16 MLS Next AD,363792,U16,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=27
+RI Boys 2010 Black,397415,U16,Male,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=57
+CLCF 2010/11 Boys Academy,38650,U16,Male,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=58
+Rhode Island Surf B2010 Premier,32825,U16,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=59
+U16 MLS NEXT,363257,U16,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=79
+Rams FC Chelsea,39901,U16,Male,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=98
+Higher Level Select Soccer Academy B2010,569015,U16,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=152
+RI Strikers FC 2010 NECSL Boys White,276889,U16,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=161
+RI Strikers FC 2010 Boys RAL Team,276892,U16,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208
+WFFSC B15U Horton,584220,U16,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=219
+10G GA,19375,U16,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=15
+RI Strikers FC 2010 Girls - Biggs,110410,U16,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=55
+RAMS FC Hull City,138650,U16,Female,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=55
+Girls 9th Grade - Marcelino,99124,U16,Female,GotSport Rankings,0,RI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=56
+Rhode Island Surf 10G DPL,19034,U16,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=58
+Higher Level Select Soccer Academy G10/11,441071,U16,Female,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=78
+Scorpions RI Girls 2010 Black,397641,U16,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=94
+2010G Red,495378,U16,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=96
+Girls 2010 HyperSonic,6035,U16,Female,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=131
+10G GA,362779,U16,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=147
+Ri Strikers FC 2009 Girls Gold,578115,U16,Female,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=167
+Rhode Island Surf B2009 MLS,19046,U17,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=7
+U17 MLS Next AD,363789,U17,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=23
+Rhode Island Surf B2009 Central,32826,U17,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=41
+Rams FC Brentford,272328,U17,Male,GotSport Rankings,0,RI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=77
+Guyon - B16U 703,174672,U17,Male,GotSport Rankings,0,RI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=101
+U17 MLS Next,363258,U17,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=111
+RI Boys 2009/10 White,573180,U17,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=113
+RI Boys 2009 Black,397413,U17,Male,GotSport Rankings,0,RI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=114
+U16ARIFS754-Ortega,591058,U17,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=135
+Higher Level Select Soccer Academy B09,279297,U17,Male,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=167
+16UBCPYSA-515-Bridges,595291,U17,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=177
+Boys U17 HyperSonic,6036,U17,Male,GotSport Rankings,0,RI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=177
+U15-BELISLE702,174670,U17,Male,GotSport Rankings,0,RI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=188
+16UBC-BRISTOL-41-Matos - Bristol FC U16 Boys,48776,U17,Male,GotSport Rankings,0,RI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=204
+09G GA,19377,U17,Female,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=12
+09G GA,362780,U17,Female,GotSport Rankings,0,RI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=13
+Rhode Island Surf 09G DPL,19376,U17,Female,GotSport Rankings,0,RI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=43
+WFFSC G15U Byrd,174691,U17,Female,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=45
+RI Strikers FC 2009 Girls - Cost,276855,U17,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=46
+OSNK United - 2009 Girls - Sisco,168874,U17,Female,GotSport Rankings,0,RI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=47
+State Select 2009 Girls,565155,U17,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=50
+Rams FC Arsenal,142970,U17,Female,GotSport Rankings,0,RI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=59
+U16GREWG - PARISEAULT #282,600349,U17,Female,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=102
+"16UGC,SYSA,561,CHATELLE",593949,U17,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=109
+"16UGR,OSNK,466,NO FALL",168875,U17,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=123
+Strikers FC 2009/10 Girls - Cost,628584,U17,Female,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=129
+U19 MLS Next AD,363793,U18,Male,GotSport Rankings,0,RI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=14
+RI Strikers FC 2008 Boys Team - Tim Brown,276893,U18,Male,GotSport Rankings,0,RI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=39
+U19 MLS Next,363259,U18,Male,GotSport Rankings,0,RI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=44
+RAMS FC Norwich,5916,U18,Male,GotSport Rankings,0,RI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=44
+Rams FC Azzuri,575588,U18,Male,GotSport Rankings,0,RI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=49
+CLP United 08/09 Boys Giasson - CYSA,271691,U18,Male,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=73
+Forza Azzurri FC 2008 boys,385306,U18,Male,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=81
+U16 Providence Sharks Rosal,551742,U18,Male,GotSport Rankings,0,RI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=134
+Rams FC Leeds,42400,U18,Female,GotSport Rankings,0,RI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=24
+Beast Mode Bombers,628372,U18,Female,GotSport Rankings,0,RI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=30
+Rhode Island Surf G2008 Central (ARCHIVED),110982,U18,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=49
+Higher Level Select Soccer Academy G08/09,279304,U18,Female,GotSport Rankings,0,RI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=53

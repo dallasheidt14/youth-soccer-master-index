@@ -1,0 +1,386 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+U10 Boys Sunderland,25479,U10,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=64
+U10 Woodbrey,394254,U10,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=75
+Boys 2016 Black,581935,U10,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=89
+U10 Boys Simelero,506861,U10,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=145
+U9 Girls,54528,U10,Female,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=67
+2016 Girls,614540,U10,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=73
+U9/U10 Girls,507624,U10,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=93
+U10 O'Brien,352394,U10,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=93
+U10 Girls Hayes,506857,U10,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=93
+2015B Pre NAL,438276,U11,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=86
+2015B Pool Volt,323017,U11,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=121
+2015/16 Premier Boys Blue,448414,U11,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=122
+2015/16 Premier Boys Red,540235,U11,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=170
+2015/16 Premier Boys Red,540235,U11,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=171
+2015 Boys Regional Blue,451121,U11,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=180
+York U10 Boys Blue 24/25,161194,U11,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=185
+Kittery Fall 2025 U11 Boys,350989,U11,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=218
+2015 Boys Regional Gold,556077,U11,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=237
+2015/16 Boys Black,450474,U11,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=249
+Wells U10 Boys 24/25 Spring,598920,U11,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=263
+York U10 Boys White 24/25,120738,U11,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=267
+2015 Coed,54531,U11,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=297
+NEFC Maine Boys 2015 Red,495949,U11,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=304
+2015 Boys Regional White,556076,U11,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=335
+U10 Boys,227026,U11,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=345
+2015/16 Boys Green,450475,U11,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=358
+U11B- Yellow - Seelen,94377,U11,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+U11B Blue - Thompson,20600,U11,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=370
+U10B Doherty,391623,U11,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=378
+U11 Boys Girardin,506848,U11,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=380
+U10/11 Boys Red,380886,U11,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=380
+U10/U11 Boys White,520481,U11,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=380
+U11 Schlawin,394313,U11,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=383
+U11 Boys Redman/Martensen,384467,U11,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+U10B Boys Dasilva,521150,U11,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+U11 Lawrence/Lutte/Caron,279864,U11,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+U11 - Leeman,395957,U11,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+2015 Boys,582510,U11,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+PT U10B McManus,391627,U11,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+PT U10B Fernald,391626,U11,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+PT U10B LaBelle,391624,U11,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=384
+Boys U11-Frank,384609,U11,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=385
+Boys 2015 Black,581937,U11,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=395
+U11 Jean,521932,U11,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=397
+U11 BOYS Mourino,132172,U11,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=406
+NEFC Maine Girls 2015 Red,496438,U11,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=49
+2015/16 Girls,582481,U11,Female,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=91
+NEFC Maine Girls 2016 Red,495968,U11,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=95
+2015/16 Premier Girls,540238,U11,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=117
+Kittery Fall 2025 U11 Girls,350874,U11,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=139
+Girls 2015 Black,581945,U11,Female,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=154
+U11 Schaedler,227587,U11,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=184
+SUSC Maine 2015G DPL,323343,U11,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=189
+U11 Zamboni,395923,U11,Female,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=189
+2015 Girls,582509,U11,Female,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=201
+U11G Blue - Libonatti,94343,U11,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=216
+U11G-Yellow-Wadsworth,381590,U11,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=220
+2015 Girls State,556086,U11,Female,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=222
+U11 Girls Rice,384465,U11,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=227
+U11 Girls - Wincklhofer,386156,U11,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=227
+U11 Girls,380907,U11,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228
+U11 Girls - Baughman,393310,U11,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228
+PT U10G Edmunds,52564,U11,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228
+U10G Dwyer,391622,U11,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228
+U10G Bourke,52567,U11,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228
+U11 - Shiers,396201,U11,Female,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=229
+U11G Abbott/Cary,522456,U11,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=237
+2014B Pre NAL,195639,U12,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=61
+2014 Boys Regional Gold,331377,U12,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=83
+Boys 14/15 Black,602830,U12,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=97
+2014 Premier Boys,448413,U12,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=136
+2014 Boys Regional Blue,47257,U12,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=189
+U12 Eagles-Bachinski,474240,U12,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=219
+U12 Boys Schmidt,256550,U12,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=226
+York U11 Blue Boys 24/25,539659,U12,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=261
+Kittery Fall 2025 U12 Boys,350991,U12,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=270
+2014 Boys,330018,U12,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=275
+Boys 14/15 Black,450681,U12,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=292
+2014B Premier,195366,U12,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=299
+2014 Boys Regional White,450324,U12,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=318
+U12 - Mancini,273027,U12,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=340
+Boys 14/15 Green,450683,U12,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=360
+2014 Boys,450674,U12,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=396
+2014 Coed,352472,U12,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=397
+U12 - Phillips,228150,U12,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=414
+U12 Lagasse,521933,U12,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=414
+U12 - Vining,396200,U12,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=419
+U12 Valencia,127474,U12,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=419
+U12 Other,521931,U12,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=425
+U12B Yellow - Russo,94416,U12,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=427
+U12B Blue - Richio,94358,U12,Male,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=427
+U12B White-Furey,381548,U12,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=428
+U12 Boys Everhart,256551,U12,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=428
+U12 Boys - Franzoni,260902,U12,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=428
+U12 Boys,507622,U12,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=428
+U11 Boys - Sprague,263962,U12,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=428
+U12 Boys Kimball,272496,U12,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+U12 Boys - Gagnon,198285,U12,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+U12 Rauch,266073,U12,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+U11 Boys - Griffen,393306,U12,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+U11 Farrell,227605,U12,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+U11B Rioux,272245,U12,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429
+U11B Brook,272246,U12,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+U12 Boys - Snyder,246905,U12,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+U11 Boys,54530,U12,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=441
+2014/2015 Mourino,284263,U12,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=442
+U12 Arsenal,395180,U12,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447
+U12 BOYS,522130,U12,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447
+NEFC Maine Girls 2014 Red,495970,U12,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=11
+SUSC Maine 2014G DPL,322118,U12,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=40
+Kittery Fall 2025 U12 Girls,350875,U12,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=107
+Dirigo Eagles,609381,U12,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=109
+2014 Girls Regional Blue,556085,U12,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=115
+2014 Premier Girls,448412,U12,Female,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=144
+York U11 Girls 24/25,402553,U12,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=151
+Girls 2014,450680,U12,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=169
+2014 Girls,450675,U12,Female,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=215
+14G GA Navy-ME,647024,U12,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=224
+2014 Girls Regional Gold,451336,U12,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=234
+U12G-Blue - Hamel,28869,U12,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=235
+U12G Yellow-Goss,94341,U12,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=235
+U12 Girls Feinberg,256542,U12,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=235
+U12 Girls,263961,U12,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=236
+U12 Girls LaFrance,391383,U12,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=237
+U11 Girls,54529,U12,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253
+PT U11G Lafreniere,272241,U12,Female,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=256
+PT U11G Maurer,272243,U12,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258
+U12 Biedrzycki,394893,U12,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258
+U12 Thorns,265448,U12,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258
+U12 Reign,127632,U12,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=259
+U12 Girls Lambert,372538,U12,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=259
+U12 Girls Snyder,382345,U12,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=260
+U11G Chon,272239,U12,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+2013B NAL,131806,U13,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=50
+2013 Boys Regional Gold,329181,U13,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=69
+2013 Boys Regional Blue,329182,U13,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=111
+2013/14 Premier Boys,313894,U13,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=122
+2013B Premier,205646,U13,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=174
+Boys 13/14 Black,329589,U13,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=201
+U12S-Cary/Spiegel,347268,U13,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=245
+U13B-Brassbridge - D2,136410,U13,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=258
+2013 BOYS,329787,U13,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=258
+2013 Coed,54532,U13,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=263
+U13 Boys Verey D1,256553,U13,Male,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=264
+York U12 Boys 24/25,539658,U13,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=267
+U12B SPRING - CROTEAU,598443,U13,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=275
+U13 - Schmidt D2,587174,U13,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=279
+Boys U13 Sirois D1,20920,U13,Male,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=291
+Boys 13/14 Green,329588,U13,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=298
+U13 Edgar/Sutherland D2,96462,U13,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=304
+2013 Boys,287278,U13,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=308
+U13 Boys Crowley D1,118784,U13,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=334
+Boys U13-D2 Pinkham,136381,U13,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=337
+Dirigo Eagles,53679,U13,Male,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=341
+2013 Boys,450472,U13,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=348
+2013 Boys State,450325,U13,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=349
+DownEast Ballers u13 D1,522128,U13,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+U13 Real Madrid D1,127473,U13,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=403
+U13B Jaeger D2,133166,U13,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=410
+U13B Advani D1,133170,U13,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=411
+PT U11/12B Diroff,121903,U13,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+U12B Holmes,121901,U13,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+U13 - Bettinger D1,135319,U13,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+U12 Boys Howell,135318,U13,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+U13 Cary/Spiegel D1,20891,U13,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=413
+U12 Boys - Congdon,120184,U13,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=414
+U12 Boys - Inzerillo,128684,U13,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415
+U13 Boys - McLean/Inzerillo D1,112784,U13,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415
+U13 Boys - Scordino D1,271815,U13,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415
+Wells U12 Boys 24/25 Spring,598921,U13,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=422
+U12 - Bailey,599445,U13,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=433
+U13 Hinds D2,133415,U13,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=434
+U13B Gold Morse-D1,23441,U13,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=439
+2013 Girls Regional Blue,331397,U13,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=76
+2013G Premier,322117,U13,Female,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=122
+FC ME Rise U12G,543107,U13,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+U12G Rise Costable,601381,U13,Female,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=136
+U13 Spirit D1,127637,U13,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=140
+U12 Girls - Sargent,260906,U13,Female,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=140
+U13G-Skilling (D1),136409,U13,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=157
+U13 Girls Wedick D1,269330,U13,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=160
+U13G Sanford - Ericson,227059,U13,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=166
+2013 GIRLS,329788,U13,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=168
+U13 Gross D1,597281,U13,Female,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=169
+SUSC Maine 2013G DPL,205519,U13,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=171
+Kittery Fall 2025 U13 Girls,350876,U13,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=181
+U12G SPRING - HOOPER,598463,U13,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+Girls 13/14 Black,329594,U13,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+Wells U12 Girls 24/25 Spring,598922,U13,Female,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=188
+PT U12G Steed,121907,U13,Female,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=193
+U12GS Abbott/Caron,124927,U13,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=203
+U13 Girls Parke D1,25845,U13,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=205
+Girls U13-Walsh D2,136380,U13,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=208
+U13 Leigh D2,25475,U13,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=231
+U13 Girls Ellis D1,536504,U13,Female,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=241
+U13G Dugas D1,133171,U13,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=243
+2013 Girls Regional Gold,556083,U13,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=245
+U12G Jacek,52563,U13,Female,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=247
+Girls 13/14 Black,329595,U13,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=249
+U12G Mocciola,133172,U13,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=251
+U12 Girls - Gross,28755,U13,Female,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=254
+U12 Girls - Hildebrand,263960,U13,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255
+U13 Girls - D1,120220,U13,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255
+U13 Girls Graser D2,256556,U13,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=257
+U12 Girls Hart,129643,U13,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=260
+U13 Girls - Hadidian D1,112749,U13,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=260
+U13G-Pryse-D2,94344,U13,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=263
+2013 Girls,287273,U13,Female,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=264
+U13 Girls - Lyman D1,114260,U13,Female,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=267
+2012B NAL,131811,U14,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=79
+2012 Regional Boys,313890,U14,Male,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=135
+2012 Boys Regional White,451122,U14,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=160
+2012B Premier,131812,U14,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=176
+U14 Boys - D1,10938,U14,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=188
+U14 Boys Ha-Ngoc/Solotoff D1,129635,U14,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=193
+U14 Boys Berlin D2,25852,U14,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=204
+Boys 12/13,207946,U14,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=207
+2012 Boys Regional Blue,209296,U14,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=214
+2012 Boys,198293,U14,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=223
+U14 Boys Lunt D1,120230,U14,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=229
+U14 Roma D1,127470,U14,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=236
+U14 O'Banyel D2,27604,U14,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=243
+U14 - Wing D2 (Coed),135951,U14,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245
+U14 ZConlogue D1,135316,U14,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250
+2012/2013 Joy,28803,U14,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+2012 BOYS BLUE,204549,U14,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=268
+2012 Coed,452623,U14,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=272
+13U Boys,581236,U14,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=273
+2012 Premier Boys Red,448411,U14,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=286
+PT U13B Bains,29105,U14,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+Boys U14 Backus D2,135301,U14,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=317
+U14 D2 - Vining,273032,U14,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=334
+U14B - Downey D1,25192,U14,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=334
+U14 Boys Bradford D1,28345,U14,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=334
+U14 Boys Hagstrom D1,270677,U14,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=335
+U14 Boys - Hamilton D2,13347,U14,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=337
+U14 Boys Andrews/Fitzgerald D1,256555,U14,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=339
+U14 Nichols/Rauch D1,124928,U14,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=345
+Lake Region U13/U12 Co-ed,600497,U14,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=348
+U14 Boys - Hurley D1,25019,U14,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=354
+U14B Velazquez D1,133174,U14,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=355
+Boys U14-D1 Biggar,28883,U14,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=357
+U14 Boys D1,25462,U14,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=357
+U14 Boys Dominski D1,28036,U14,Male,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=359
+U13 Torino D1,127467,U14,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=361
+U14 Boys - Visco D1,24615,U14,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=362
+2012/13 Premier Girls,313893,U14,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=44
+SUSC Maine 2012G DPL,47938,U14,Female,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=46
+2012 Girls Regional Blue,331398,U14,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=46
+2012 Girls,198294,U14,Female,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=107
+U14 Thibodeau D1,21954,U14,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=125
+U14 Allen D1,227589,U14,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=135
+Girls U14 Wallace D2,20915,U14,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=144
+U14 Girls Kay D1,120401,U14,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=158
+U14 G Hopwood D2,25476,U14,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=159
+U14G-Kramlich (D2),273284,U14,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=161
+2012/2013 Terrill,28245,U14,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=164
+Girls 12/13,208094,U14,Female,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=173
+York U13 Girls 24/25,598664,U14,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=176
+U13 Girls,217482,U14,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=187
+2012G Premier,205518,U14,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=199
+U14 Girls - Kriste D1,25034,U14,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=208
+U14 Girls Murton D1,256548,U14,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=208
+U14 Girls Girardin D1,272486,U14,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+U13G Bassett D1,29103,U14,Female,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+Girls U14- DiRusso D1,10927,U14,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+U14G Robinson D1,133176,U14,Female,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+U14 Red Stars D1,127641,U14,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+U14 Girls - Bowie D1,13353,U14,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+U14 D2 - Seeley,273034,U14,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=217
+U14 Girls D2,25467,U14,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=218
+U14 Girls Smith D2,28342,U14,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=218
+U14G Twadelle/Caron/Lawrence D2,51343,U14,Female,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=218
+2011 Boys Regional Blue,329177,U15,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=27
+2011B NAL,131817,U15,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=31
+2011 Premier Boys,448409,U15,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=80
+2011 Boys Regional White,203468,U15,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=96
+2011B Premier,131819,U15,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=117
+Kittery Fall 2025 U14/U15 Boys - Gold,350995,U15,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=156
+U14S-Free/Twadelle,20884,U15,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=175
+2011 Boys Regional Gold,450326,U15,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=177
+Kittery Fall 2025 U14/U15 Boys - Navy,350996,U15,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=178
+U14 AC Milan D1,127464,U15,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=189
+2025 Visco u13/u14 Boys,586996,U15,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=189
+Boys U14 Parkin D2,395541,U15,Male,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=229
+Wells U14 Coed,539415,U15,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=233
+2011 Boys,42926,U15,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245
+2011 BOYS,204544,U15,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=252
+U14 Wells D2,51709,U15,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=255
+York U13/14 Boys 24/25,599447,U15,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=268
+U14B (D2),29131,U15,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=269
+2011/12 Boys,210092,U15,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=290
+2011 Boys,571148,U15,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=300
+Dirigo Eagles,20899,U15,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=306
+U14 Boys - Davis D1,13348,U15,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=315
+U14B Sharifipour D1,29110,U15,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=317
+Boys U14-D1,12434,U15,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=317
+U14 Boys Lynch D1,120222,U15,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=318
+U14 Free/Twadelle D2,20887,U15,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=318
+U14 Boys Saxe D1,28039,U15,Male,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=318
+U14B Sears D1,133180,U15,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=318
+U14 Boys Emery D1,269471,U15,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=318
+U14 Boys D1,522125,U15,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=324
+U14B - Gray,599518,U15,Male,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=324
+2011 - 2012 Girls,45541,U15,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=45
+2011 Girls Regional Blue,203469,U15,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=53
+2011G Premier,131848,U15,Female,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=57
+SUSC Maine 2011G DPL,131868,U15,Female,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=70
+U14G EaglesS-Coleman,474239,U15,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=111
+Girls 2011 Black,581947,U15,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=112
+dont use,25846,U15,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=115
+2011 Girls Regional Gold,451334,U15,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=118
+2025 Barnhorst U14 Girls,597513,U15,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=126
+U14 Girls Juers,120386,U15,Female,GotSport Rankings,0,ME,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=129
+U14 - Seeley,519218,U15,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=138
+Kittery Fall 2025 U14/15 Girls,350877,U15,Female,GotSport Rankings,0,ME,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=142
+U14 Red Stars,127634,U15,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+U14 GConlogue D2,521793,U15,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=147
+Girls-U14-WATERHOUSE-D2,15383,U15,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=155
+Girls U14,519838,U15,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=158
+2011 Girls,42927,U15,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=163
+2011/12 Girls,210093,U15,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=168
+U14GS-Bolduc/Sturtevant,211915,U15,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=189
+U14G (D2),136378,U15,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=190
+Girls 2011 Green,581948,U15,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=196
+U14G Brook D1,29108,U15,Female,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+U14G Parker D1,133184,U15,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+2011 GIRLS,204552,U15,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+U14 Girls Carlson D1,28163,U15,Female,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+U14 Girls - Barnhorst D1,24621,U15,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+U14 Girls - Franzoni D1,16152,U15,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=210
+2010B NAL,131821,U16,Male,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=48
+2010B NAL,131821,U16,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=49
+2010 Boys Regional Blue,26306,U16,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=59
+2010 Premier Boys,448408,U16,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=72
+2010 BOYS,45962,U16,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=88
+2010B Premier,221570,U16,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=106
+2010 Boys,42924,U16,Male,GotSport Rankings,0,ME,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=140
+2010 - 2011 Boys,45976,U16,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=142
+Boys 10/11 Black,208088,U16,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=189
+2010/2011 Boys Regional Gold,329183,U16,Male,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=213
+2010/2011 Solares,48129,U16,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=236
+Boys 10/11 Green,43773,U16,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=241
+SUSC Maine 2010G DPL,131851,U16,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=46
+FC ME Rise U15G,543106,U16,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=65
+FC ME Rise U15G,543106,U16,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=66
+2010 Girls Regional Blue,203467,U16,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=73
+2010/11 Premier Girls,540231,U16,Female,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=76
+Kittery Spring U14/U15 Girls,474542,U16,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=80
+Girls 10/11 Black,208095,U16,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=95
+2010G Premier,131864,U16,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=122
+Dalrymple 10/11,48598,U16,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=129
+2010 GIRLS,575582,U16,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=145
+2010 Girls,42925,U16,Female,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=149
+2010 Girls Regional Gold,451333,U16,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=158
+2009B NAL,113344,U17,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=2
+2009 Boys Regional Blue,47254,U17,Male,GotSport Rankings,0,ME,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=60
+2009 Boys,42922,U17,Male,GotSport Rankings,0,ME,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=60
+2009B Premier Blue,140957,U17,Male,GotSport Rankings,0,ME,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=70
+Boys 09,208090,U17,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=122
+2009 Boys Regional Gold,451332,U17,Male,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=137
+2009/10 Boys,330017,U17,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=166
+2009 BOYS,45963,U17,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=167
+2009 Boys,54527,U17,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=189
+2009/10 BOYS,445287,U17,Male,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=205
+2009 - 2010 Girls,324446,U17,Female,GotSport Rankings,0,ME,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=31
+Girls 09 Black,48460,U17,Female,GotSport Rankings,0,ME,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=47
+2009 Girls Regional,203466,U17,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=51
+2009 Girls,42923,U17,Female,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=58
+2009 GIRLS,323023,U17,Female,GotSport Rankings,0,ME,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=76
+Girls 09 Green,208096,U17,Female,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=83
+SUSC Maine 2009G DPL,131852,U17,Female,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=89
+2009 Girls State,331376,U17,Female,GotSport Rankings,0,ME,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108
+2008/07B NAL,113345,U18,Male,GotSport Rankings,0,ME,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=6
+2007/2008 Boys Regional Gold,203458,U18,Male,GotSport Rankings,0,ME,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=50
+2008B Premier Blue,131824,U18,Male,GotSport Rankings,0,ME,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=52
+2008 BOYS,45964,U18,Male,GotSport Rankings,0,ME,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=54
+2008 Boys State,451331,U18,Male,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=84
+Robertson 08/09,26729,U18,Male,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=88
+Boys 08/09,450682,U18,Male,GotSport Rankings,0,ME,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=91
+2008 Bennett,349478,U18,Male,GotSport Rankings,0,ME,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=113
+SUSC Maine 2007/2008G DPL,24931,U18,Female,GotSport Rankings,0,ME,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=27
+2008/2009 Ellis,210680,U18,Female,GotSport Rankings,0,ME,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=53
+2008/09 Premier Girls,313884,U18,Female,GotSport Rankings,0,ME,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=67
+2008G Premier,131854,U18,Female,GotSport Rankings,0,ME,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=67

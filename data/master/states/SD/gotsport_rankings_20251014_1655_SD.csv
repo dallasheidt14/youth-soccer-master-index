@@ -1,0 +1,250 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+BH Rapids BU10 Burgundy,579752,U10,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=6
+BH Rapids BU10 White,579753,U10,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=34
+Ignite U9/U10 Boys Red,480765,U10,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=44
+BH Rapids BU10 Sky,668009,U10,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=57
+BH Rapids BU10 Sky,668009,U10,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=58
+HCSC Blaze,394269,U10,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=60
+DASC Dynamo,614322,U10,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=61
+DASC Galaxy,614320,U10,Male,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=66
+Ignite U9/U10 Boys Yellow,371556,U10,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=86
+Sturgis U10,422219,U10,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=92
+Yankton United U10 Boys Red,658638,U10,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=100
+Vermillion Predators U10B,451539,U10,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=125
+BASA,655583,U10,Male,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=136
+BH Rapids 2016 Boys Burgundy,411413,U10,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=137
+WYSA U10B,657282,U10,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=143
+BH Rapids 2016 Boys White,411415,U10,Male,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=147
+Oahe Futbol Club U10,657854,U10,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=150
+BH Rapids GU10 Burgundy,579712,U10,Female,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=5
+BH Rapids GU10 White,579713,U10,Female,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=9
+DASC Flash,614321,U10,Female,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=16
+Ignite U9/U10 Girls Blue,371555,U10,Female,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=17
+BASA RED,598153,U10,Female,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=27
+DASC Pride,614319,U10,Female,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=34
+BH Rapids 2016 Girls Burgundy,385593,U10,Female,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=44
+BASA BLACK,598154,U10,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=51
+SoDak Spurs SC 2016 Girls,578882,U10,Female,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=55
+Ignite U9/U10 Girls Yellow,400357,U10,Female,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=63
+BH Rapids 2016 Girls White,411410,U10,Female,GotSport Rankings,0,SD,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=68
+Vermillion Predators U10G,451540,U10,Female,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=74
+Yankton United U10,655980,U10,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=88
+Ignite 2015 Boys Blue,371554,U11,Male,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=37
+BH Rapids 2015 Boys Burgundy,199769,U11,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=38
+HCSC Surge,394271,U11,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=77
+BASA RED,401571,U11,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=107
+DASC 2015 Black,640782,U11,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=127
+Sodak Spurs SC 2015 Boys Orange,450813,U11,Male,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=143
+DASC 2015 Silver,640790,U11,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=144
+Yankton United,657106,U11,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=186
+BH Rapids BU11 Burgundy,579755,U11,Male,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=189
+BH Rapids BU11 White,579756,U11,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=189
+DASC 2015B Blue,656863,U11,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=191
+DASC 2015B White,656860,U11,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=197
+BH Rapids BU11 Sky,579757,U11,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=206
+BASA BLACK,401572,U11,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=248
+DASC 2015B Black,656060,U11,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+BH Rapids U11 Boys Burgundy,162179,U11,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=266
+Belle Fourche U10 Boys,612806,U11,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=283
+BH Rapids U11 Boys White,152370,U11,Male,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=289
+DASC Whitecaps,417413,U11,Male,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=291
+OFC U10 Revolution Green,537790,U11,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=292
+DASC 2015B Silver,656850,U11,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=299
+Spearfish Soccer U10B Maroon,562084,U11,Male,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=302
+Atlas U11,412206,U11,Male,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=317
+BH Rapids 2015 Boys White,275952,U11,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=319
+Spearfish White,561845,U11,Male,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=323
+BH Rapids Raiders,565420,U11,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=326
+Spearfish Soccer U10B Gray,562088,U11,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=333
+BH Rapids 2015 Boys Sky,440276,U11,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336
+Rising Stars,658347,U11,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=373
+SoDak Spurs SC 2015 Boys,450814,U11,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=388
+BH Rapids Patriots,565415,U11,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=394
+Sturgis U10 Miller,612296,U11,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398
+Spearfish U10B Grey,589280,U11,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=408
+OFC Revolution - Grey,458877,U11,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=409
+Yankton United U10 Team 1,537906,U11,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=417
+BH Rapids 2015 Girls Burgundy,275953,U11,Female,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=23
+BH Rapids GU11 Burgundy,579714,U11,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=25
+HCSC Emeralds,394114,U11,Female,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=50
+SoDak Spurs SC 2015 Girls,406866,U11,Female,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=75
+DASC 2015 Lyon 1,656600,U11,Female,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=82
+DASC 2015 Lyon 2,656898,U11,Female,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=103
+Spearfish Soccer U10G Maroon,561817,U11,Female,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=105
+DASC Reign,614318,U11,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113
+BASA BLACK,401580,U11,Female,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=119
+Yankton United U11,653957,U11,Female,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+DASC 2015 Lyon 3,656913,U11,Female,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=148
+OFC Green Lightning U10,428585,U11,Female,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=151
+BASA RED,401575,U11,Female,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=167
+DASC Thorns,417416,U11,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=178
+SSA U10G White,610628,U11,Female,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=193
+BH Rapids 2015 Girls White,440279,U11,Female,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=194
+Wysa Pickles,327891,U11,Female,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=200
+Spearfish Soccer U10G White,562078,U11,Female,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=235
+Ignite U11/U12 Boys Blue,371549,U12,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=137
+BASA THUNDER,285276,U12,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=139
+BH Rapids BU12 Burgundy,579758,U12,Male,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=168
+SoDak Spurs SC 2014 Navy,328603,U12,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=189
+SoDak Spurs SC 14B,623981,U12,Male,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=196
+DASC 2014 BLACK,535732,U12,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=201
+Spearfish Soccer U12B Maroon,561846,U12,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=214
+DASC 2014 SILVER,535735,U12,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=214
+DASC 2014 SILVER,535735,U12,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=215
+BH Rapids BU12 White,579759,U12,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=219
+Belle Fourche U9/10,321654,U12,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=234
+DASC 14B Black,614311,U12,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=257
+Yankton United Red,415848,U12,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=273
+DASC 2014 WHITE,535736,U12,Male,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=315
+Vermillion Predators U12B,450455,U12,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=336
+Spearfish Soccer U12B White,562134,U12,Male,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=347
+Yankton United,657103,U12,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=349
+OFC Revolution 2014/2015 - White,456733,U12,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=351
+WYSA 14B Lightning,409480,U12,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=360
+HCSC Vipers 2014,394293,U12,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=364
+DASC 14B White,614312,U12,Male,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=377
+Dakota Young Stars FC Academy U11,537971,U12,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=378
+DASC 2014 GREY,578602,U12,Male,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=378
+Ignite U11/U12 Boys Yellow,371550,U12,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=380
+BH Rapids U12 Boys White,563645,U12,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=395
+BH Rapids U12 Boys Burgundy,461115,U12,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=416
+SoDak Spurs SC 2014 Orange,409650,U12,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=434
+BH Rapids GU12 Pre-NPL,579716,U12,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=85
+DASC 2014G White,538190,U12,Female,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=90
+DASC 2014G Black,534826,U12,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=105
+BH Rapids GU12 Burgundy,579718,U12,Female,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=117
+DASC 2014G Silver,538188,U12,Female,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=120
+HCSC Diamonds 2014,327829,U12,Female,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=124
+BASA,352710,U12,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=186
+Ignite U11/U12 Girls Blue,371552,U12,Female,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=189
+OFC Green Lightning,648826,U12,Female,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=204
+SoDak Spurs SC 2014 Girls,578463,U12,Female,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=211
+DASC 14G Silver,614314,U12,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=211
+BH Rapids 2014 Girls Sky,331567,U12,Female,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=227
+BH Rapids 2014 Girls White,162205,U12,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=228
+DASC 2013 Black,406843,U13,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=83
+BH Rapids BU13 NPL,579760,U13,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=113
+DASC 2013 Silver,406844,U13,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=157
+OFC Revolution 2013/2014B - Green,409759,U13,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=169
+OFC Revolution 2013/2014B - Green,409759,U13,Male,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=170
+DASC Academy Fire,192744,U13,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=205
+SoDak Spurs SC 2013 Boys Navy,172982,U13,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=237
+HCSC Cobras,284022,U13,Male,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=249
+OFC Revolution 2013/2014B - White,313069,U13,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=253
+DASC Academy Sounders,192746,U13,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=260
+Belle Fourche U12 Boys,321657,U13,Male,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=276
+DASC Academy Red Bulls,214544,U13,Male,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=307
+BH Rapids U12 Boys NPL,513161,U13,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=317
+BH Rapids U13 Boys Burgundy,513151,U13,Male,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=319
+BH Rapids BU13 Burgundy,579761,U13,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=339
+Sturgis U12 Boys,279213,U13,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=340
+DASC Academy Timbers,192747,U13,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=350
+DASC Academy Impact,214545,U13,Male,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=357
+DASC Academy Whitecaps,192745,U13,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=363
+WYSA Strikers,235310,U13,Male,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=370
+BASA,653211,U13,Male,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=372
+DASC 2013 White,406845,U13,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=427
+Rising Stars,658348,U13,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=436
+BH Rapids GU13 NPL,579719,U13,Female,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=50
+DASC 2013 Black,406699,U13,Female,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=51
+DASC 2013 Silver,406703,U13,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=66
+DASC 2013 White,605933,U13,Female,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=88
+BASA,285280,U13,Female,GotSport Rankings,0,SD,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=121
+Sturgis U12 Girls,279215,U13,Female,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=128
+SoDak Spurs SC 2012/13 Girls,296646,U13,Female,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=151
+DASC 2013 White,406707,U13,Female,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=159
+DASC Academy Courage,203488,U13,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=161
+Ignite U11/U12 Girls Yellow,371553,U13,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=162
+Spearfish Soccer U12G Maroon,561590,U13,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=190
+Yankton United,576623,U13,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+BH Rapids GU12 White,579741,U13,Female,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=216
+HCSC Comets,232825,U13,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=218
+DASC 2013 Blue,605936,U13,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=230
+HCSC Comets,284742,U13,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=235
+BH Rapids U12G White,562392,U13,Female,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=240
+Spearfish Soccer U12G White,561591,U13,Female,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=252
+DASC Academy Reign,203485,U13,Female,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=266
+DASC Academy Thorns,203486,U13,Female,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=266
+2012 Boys - Black 1 (SD),284793,U14,Male,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=64
+2012 Boys - Silver 2,286090,U14,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=148
+Sturgis U14,279211,U14,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=176
+BH Rapids BU14 Burgundy,579763,U14,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=189
+DASC Academy Union,214541,U14,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=208
+Ignite U13/U14 Boys,371536,U14,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=233
+Rushmore Premier FC 2012B,363853,U14,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=251
+2012 Boys - White 3,286093,U14,Male,GotSport Rankings,0,SD,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279
+DASC Academy Earthquakes,192749,U14,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=298
+DASC Academy Crew,214540,U14,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=300
+SoDak Spurs 2012 Boys,366031,U14,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=307
+BASA BLAZE,654880,U14,Male,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=307
+Spearfish Soccer U14B Maroon,561844,U14,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=316
+BASA BLAZE,532939,U14,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=317
+BH Rapids GU14 NPL,579742,U14,Female,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=39
+DASC 2012 Girls Dortmund 1 (SD),288952,U14,Female,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=50
+BH Rapids GU14 Burgundy,579743,U14,Female,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=69
+SDU Force,73371,U14,Female,GotSport Rankings,0,SD,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=132
+Ambush Soccer Academy U14,649394,U14,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=139
+DASC 2012 Girls Dortmund 2,288958,U14,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=153
+DASC Academy Gotham,203482,U14,Female,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=180
+DASC Academy Spirit,203483,U14,Female,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=181
+DASC Academy Dash,203481,U14,Female,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=181
+DASC 2012 Girls Dortmund 3,288963,U14,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=183
+Ignite U13/U14 Girls,371547,U14,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194
+BH Rapids U13 Girls Onyx 1,363266,U14,Female,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194
+BH Rapids U13 Girls Burgundy,411420,U14,Female,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=205
+DASC 2011B Black,194006,U15,Male,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=41
+DASC 2011B Silver,194007,U15,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=76
+SoDak Spurs SC 2011 Boys (SD),193523,U15,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=80
+BH Rapids BU15 NPL,579764,U15,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=173
+Spearfish U14B Apex,578696,U15,Male,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=211
+BH Rapids U14 Boys NPL,363107,U15,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=217
+South Dakota Stars,338514,U15,Male,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=230
+SoDak Spurs SC 2011 Boys Orange,193560,U15,Male,GotSport Rankings,0,SD,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=257
+HCSC Venom,285601,U15,Male,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=275
+Tempo Aftershock,356937,U15,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=275
+WYSA 11B Legends,409714,U15,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=283
+Sturgis U12 Boys White,279212,U15,Male,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=284
+BH Rapids U15 Boys NPL,513152,U15,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=310
+B11 CSA York Liga,681381,U15,Male,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=310
+Rushmore Premier FC 11/12B Mayer,571221,U15,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=321
+DASC 2011G Strikers Silver,200048,U15,Female,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34
+DASC 11G Strikers Black,198883,U15,Female,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=39
+2011G Tempo Surge (SD),122521,U15,Female,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=50
+SoDak Spurs SC 2011/2012 Girls,204010,U15,Female,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=74
+BASA,285285,U15,Female,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=103
+HCSC Silver Stars,285597,U15,Female,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=107
+DASC 11G Strikers Silver,614695,U15,Female,GotSport Rankings,0,SD,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=128
+SSA U14G Maroon,575434,U15,Female,GotSport Rankings,0,SD,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=159
+WYSA Impacto 1112,56299,U15,Female,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=208
+BH Rapids U16 Boys Burgundy,513164,U16,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=70
+DASC 2010 Boys Black 1 (SD),363631,U16,Male,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=92
+BH Rapids BU15 NPL,579765,U16,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=162
+DASC 2010 Boys Silver 2,193714,U16,Male,GotSport Rankings,0,SD,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=220
+Yankton United U15B,654580,U16,Male,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=244
+DASC 2010 Sparta 1 (SD),204258,U16,Female,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=1
+BH Rapids GU16 NPL,579745,U16,Female,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=28
+BH Rapids U16 Girls NPL,515865,U16,Female,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=44
+SDU Spirit,204474,U16,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=59
+BH Rapids GU15 Burgundy,579747,U16,Female,GotSport Rankings,0,SD,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=67
+BH Rapids U15 Girls NPL,363268,U16,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=79
+2010 Tempo Vortex,100590,U16,Female,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=133
+DASC 2010 Sparta 2 (SD),204273,U16,Female,GotSport Rankings,0,SD,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=142
+BH Rapids U15 Girls Burgundy,562382,U16,Female,GotSport Rankings,0,SD,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=177
+DASC 09 Team Black 1(SD),193071,U17,Male,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=43
+DASC 2009 Boys Black 1,251768,U17,Male,GotSport Rankings,0,SD,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=107
+SoDak Spurs SC 2009 Boys,561778,U17,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=121
+BH Rapids U17 Boys NPL,444222,U17,Male,GotSport Rankings,0,SD,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=124
+Tempo Heatwave,300584,U17,Male,GotSport Rankings,0,SD,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=127
+SoDak Spurs SC 09B,603192,U17,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=131
+DASC 09 Team Silver 2,193077,U17,Male,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=156
+Rushmore Premier FC 09/10 Boys,605594,U17,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=188
+Spearfish Stingrays,578698,U17,Male,GotSport Rankings,0,SD,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=192
+DASC 2009G Ambush 1 (SD),203426,U17,Female,GotSport Rankings,0,SD,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=16
+DASC Ambush 2,79776,U17,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=58
+SSA U16G,575435,U17,Female,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=69
+DASC 2008 Boys Silver II,193586,U18,Male,GotSport Rankings,0,SD,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=74
+BH Rapids BU17 NPL,603582,U18,Male,GotSport Rankings,0,SD,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=93
+DASC 08G Arsenal 1,82124,U18,Female,GotSport Rankings,0,SD,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=8
+DASC 08G Arsenal 1 (SD),203840,U18,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=8
+DASC 08G Arsenal 2 (SD),203851,U18,Female,GotSport Rankings,0,SD,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=39
+SoDak Spurs 2008G Navy (SD),610060,U18,Female,GotSport Rankings,0,SD,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=74

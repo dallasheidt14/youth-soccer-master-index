@@ -1,0 +1,604 @@
+team_name,age_group,gender,state,rank,points,source,provider,url
+BSC - U10 Girls - Red,U10,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=71
+Seacoast United Bedford 2016 Girls Navy,U10,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=65
+Lightning Soccer Club 2016 Girls Green,U10,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=42
+G2016 NH Carolina,U10,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=77
+Seacoast United Bedford 2016 Girls Carolina,U10,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=80
+Barrington Storm SC U10 (2016),U10,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=86
+G2016 NH Navy,U10,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39
+2016 Girls - Ercha,U10,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=95
+2016 NH Carolina,U10,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=37
+2016 NH Navy,U10,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=56
+Seacoast United Concord 2016 Boys Carolina,U10,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=37
+BU10 Blue-SP 25,U10,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=123
+Seacoast United Bedford 2016 Boys Navy,U10,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=111
+Seacoast United Bedford 2016 Boys Carolina,U10,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=97
+FAC 10U 2025-26,U10,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=78
+FC Bosna U10 (2016),U10,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=148
+U10B - Palencia,U10,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=37
+Red Hawks Coed U9,U10,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=69
+ROSO S.C. Boys U10,U10,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=83
+2016 NH Carolina,U10,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=36
+2016 NH Navy,U10,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=55
+2015 Girls Moody,U11,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=143
+G2015 NH Carolina,U11,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=78
+2015 Girls 1,U11,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=66
+Conval 2015 Girls U11,U11,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=158
+ORU 2015 Girls Blue,U11,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=175
+BSC U10 - Red,U11,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=202
+Exeter Spring Girls U10G Champ,U11,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=104
+G2015 NH Navy,U11,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=56
+LSC United Girls 2015 - Blue,U11,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=87
+Seacoast United Bedford 2015 Girls Carolina,U11,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+2015 Girls Championship 2,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=230
+BSC - U11 Girls - Blue,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203
+Exeter Girls U10 Champion,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=178
+LSC United Girls 2015 - B,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=103
+PCSC 2015 Girls Black,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=134
+RDP Girls 2015,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=231
+WSA Girls 2015 - GU11,U11,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=202
+2015 Girls 2,U11,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=148
+BSC U10 - Blue,U11,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=88
+Become Elite Soccer 2015/2016 Girls,U11,Female,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=95
+GU10 Tournament,U11,Female,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=233
+GU11-FA 25,U11,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=168
+BAC Bulldogs 2015 GU11 Premier,U11,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=126
+RYSA Girls U10 Wolfson,U11,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=163
+Strikers U10 Girls B 24/25,U11,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=136
+GU11 White-SP25,U11,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=157
+PCSC 2015 Girls Maroon,U11,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=229
+Strikers U10 Girls A 24/25,U11,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109
+2015 Girls Maroon,U11,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=110
+Exeter Spring Girls U10G Premier,U11,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=86
+FC Stars New Hampshire 2015 Girls Blue,U11,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=232
+HB Cavs GU11 Blue,U11,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=132
+Hudson 2015/2016G,U11,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=71
+Merrimack G2015,U11,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=111
+Not Current - Merrimack G2015 Blue,U11,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=117
+ORU 2015 Girls Gray,U11,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=56
+Timberwolves Girls U10 25/26,U11,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=118
+2015 ASC Girls Wildcats,U11,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=111
+Eagles u11 Girls,U11,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=121
+Nashua United SC U11 Girls - Blue,U11,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=105
+Lightning Soccer Club 2015 Girls Green,U11,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+2015 ASC Boys Coyotes,U11,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=202
+Rapids U11 Boys,U11,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=238
+Become Elite Soccer 2015/2016 Boys 3rd XI,U11,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=314
+WSA Boys 2015 Gold - BU11,U11,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=212
+2015 Boys - Roehm,U11,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=215
+ORU 2015 Boys Gray,U11,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=196
+Seacoast United Concord 2015 Boys Carolina,U11,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=161
+BU11 White 1-SP25,U11,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=263
+Suncook Spartans 15/16C,U11,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=350
+2015 Pre MLS Next Navy,U11,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=279
+Merrimack B2015 Blue,U11,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=400
+Select C15 Shea,U11,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=250
+2015 Boys 1,U11,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=145
+2015 NH Navy,U11,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=196
+2015 NH Premier Blue,U11,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=203
+BSC U10 - Blue,U11,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=371
+BU11 Blue-SP25,U11,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=260
+Become Elite Soccer U10 Boys,U11,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=401
+FAC 10U B 2024-25,U11,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=415
+Conval 2015 Boys U11,U11,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=179
+FC Stars New Hampshire 2015 Boys Green,U11,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=220
+Nashua United SC U11 Boys - Blue,U11,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=161
+PCSC 2015 Boys Maroon,U11,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282
+Red Hawks U11 Coed - Red,U11,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=182
+ISC 2015 Eagles,U11,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=194
+LSC United Boys 2015 - Blue,U11,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=269
+U10 Fall 2025,U11,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=222
+WSA Boys 2015/2016 White - BU11,U11,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=183
+Become Elite Soccer 2015/2016 Boys 1st XI,U11,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=287
+Become Elite Soccer 2015/2016 Boys 2nd XI,U11,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=358
+Exeter Spring Boys U10B Champ,U11,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=414
+HB Cavs BU11 White (2015),U11,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=197
+Tazmanian Devils FC Coed U10,U11,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=144
+ORU 2015 Boys Blue,U11,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=170
+PCSC 2015 Boys Black,U11,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=172
+RDP Boys 2015,U11,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=76
+Seacoast United Bedford 2015 Boys Carolina,U11,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=267
+BAC Bulldogs 2015 BU11 Premier,U11,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=229
+ISC 2015 Pride,U11,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=209
+Strikers U10 Boys A 24/25,U11,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=243
+Strikers U10 Boys B 24/25,U11,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=163
+2015 Boys 3,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=414
+2015 NH Carolina,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=158
+BAC Bulldogs 2015 BU11 Select,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=271
+BU11 Red-FA 25,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=277
+Goal King Academy - Rye Soccer 2015,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=203
+LSC United Boys 2015 - White,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=230
+Lightning Soccer Club 2015 Boys White,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=223
+Nashua United SC U11 Boys - Purple,U11,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=368
+2015 Boys 2,U11,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=298
+LRU U10 Beale,U11,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=262
+Timberwolves Boys U11 25/26,U11,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=150
+2015 Pinsonneault White,U11,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=175
+Become Elite Soccer Boys U10 T,U11,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=360
+Seacoast United Concord 2015 Boys Carolina,U11,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=160
+2015 NH Premier Volt,U11,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=265
+Eagles u11 Boys,U11,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=272
+Fremont FC 2015/2016 Boys,U11,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=240
+Lightning Soccer Club 2015 Boys Green,U11,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=225
+Merrimack B2015 White,U11,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=315
+Select 2015/2016 Salemi,U11,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=243
+Exeter Boys U10 Premier Blue,U11,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=271
+2015 Pre MLS Next Carolina,U11,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=117
+HBCavs BU11 Blue (2015),U11,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=138
+Red Hawks U11 Coed - Black,U11,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=255
+2015 Boys Black,U11,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+2015 Boys Maroon,U11,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=118
+BU10 Tournament,U11,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=196
+MV Thunder Spring U10 COED,U11,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=311
+Seacoast United Bedford 2015 Boys NEAL,U11,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=152
+BSC - U12 Girls - White,U12,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=254
+Exeter Girls U11 Champion,U12,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=247
+Lightning Soccer Club 2014 Girls Green,U12,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=89
+Merrimack G2014,U12,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=228
+14G GA Navy,U12,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=51
+NYSL G2014,U12,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=110
+ORU 2014 Girls Blue,U12,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=152
+PCSC 2014 Girls Black,U12,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160
+Seacoast United Bedford 2014 Girls Carolina,U12,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=41
+Select 2014/2015 Jordan,U12,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=161
+2014 Girls 1,U12,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=95
+Fremont FC 2014/2015 Girls,U12,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=140
+Exeter Spring Girls U11G Champ,U12,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=197
+LSC United Girls 2014 - White,U12,Female,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=214
+Become Elite Soccer Girls U11 T,U12,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=227
+Exeter Girls U11 Premier,U12,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=217
+LSC United Girls 2014 - Blue,U12,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=86
+Eagles u12 Girls,U12,Female,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=167
+FC Stars New Hampshire 2014 Girls Granite,U12,Female,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=251
+Rapids U12 Girls,U12,Female,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=133
+G2014 NH Carolina,U12,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=58
+G2014 NH Navy,U12,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=101
+HB Cavs GU12 Blue,U12,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=128
+WSA Girls 2014 - GU12,U12,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=153
+Seacoast United Bedford 2014 Girls Elite,U12,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=22
+U12 Stingers 14/15,U12,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=238
+Become Elite Soccer 2014 Girls,U12,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=177
+14G GA Carolina,U12,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=143
+2014 Dalrymple,U12,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=158
+2014 Girls,U12,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=172
+BAC Bulldogs 2014 GU12 Premier,U12,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=193
+FC Stars New Hampshire 2014 Girls Blue,U12,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=56
+GU12-SP25,U12,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=125
+Lightning Soccer Club 2014 Girls Green,U12,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=88
+2014 Girls Brown,U12,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=184
+RYSA Red Rebels - U12 Girls,U12,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=182
+LRU U11 Mosher,U12,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=282
+BAC Bulldogs 2014 BU12 Elite,U12,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=285
+BAC Bulldogs 2014 BU12 Select (Old),U12,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=313
+FC Stars New Hampshire 2014 Boys Blue,U12,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=100
+LHIFA 2015/2014(U12),U12,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=207
+ORU 2014 Boys Blue,U12,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=262
+WSA Boys 2014 Blue - BU12,U12,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=241
+2014 Boys Maroon,U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+BAC Bulldogs 2014 BU12 Premier (Old),U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=229
+BU12 Red-SP25,U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=243
+Exeter Boys U11 Premier,U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=402
+HBCavs BU12 Blue (2014),U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=271
+Lightning Soccer Club 2014 Boys White,U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=223
+Tazmanian Devils FC U11,U12,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=304
+BU11 Tournament,U12,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=148
+Exeter Spring Boys U11 Premier,U12,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=435
+Lightning Soccer Club 2014 Boys Green,U12,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=48
+2014 Pre MLS Next Carolina,U12,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=12
+BSC U11 - Blue,U12,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=181
+HBCavs BU12 White (2014),U12,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=334
+WSA Boys 2014 Gold - BU12,U12,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=286
+2014 NH Carolina,U12,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=156
+2014 NH Premier Volt,U12,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=295
+Become Elite Soccer 2014 Boys,U12,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=313
+Merrimack B2014 Blue,U12,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=216
+Rapids U12 Boys,U12,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=192
+Seacoast United Bedford 2014 Boys Carolina,U12,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=75
+Conval 2014 Boys U12,U12,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=225
+Eagles u11 Boys Sherwood,U12,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=357
+Exeter Boys U11 Champion Blue,U12,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=451
+Hudson United Soccer Club,U12,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=448
+PCSC 2014 Boys Black,U12,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=282
+2014 NH White,U12,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=388
+Goal King Academy - Rye Soccer 2014,U12,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=166
+Merrimack B2014 White,U12,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=196
+Seacoast United Bedford 2014 Boys NEAL,U12,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=59
+Eagles u12 Boys,U12,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=396
+Fremont FC 2014/2015 Boys,U12,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=321
+Maximum Velocity FC 2015 Boys,U12,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=374
+2014 Boys 1,U12,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=217
+LSC United Boys 2014 - Blue,U12,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=133
+PCSC 2014 Boys Maroon,U12,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=187
+Strikers U11 Boys B 24/25,U12,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=257
+U12 Storm Gustin 14/15,U12,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278
+BU12 Blue-FA 25,U12,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=179
+Red Hawks U12 Boys,U12,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=303
+2014 Boys,U12,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=213
+BSC U11 - Red,U12,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=443
+BU12 White-FA 25,U12,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278
+Exeter Spring Boys U11 Champ Red,U12,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=358
+Maximum Velocity FC 2014 Boys,U12,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=450
+2014 Boys Black,U12,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=252
+2014 Boys Hodge,U12,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=322
+U11 Boys Spring 2025,U12,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=406
+U12 Storm Cruz 14/15,U12,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=387
+Warriors FC Boys U11 - Fall 2024/Spring 2025,U12,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=220
+Become Elite Soccer 2014 Boys 1st XI,U12,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278
+Isc 2014,U12,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=355
+Raymond Rams U12 Boys Maccannell,U12,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=287
+Strikers U11 Boys A 24/25,U12,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=268
+2014 Boys 2,U12,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212
+2014 NH Navy,U12,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=73
+Exeter Spring Boys U11B Champ Blue,U12,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=346
+2014 Boys Championship 2,U12,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=316
+Become Elite Soccer 2014 Boys 2nd XI,U12,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=300
+Lightning Soccer Club 2014 Boys White,U12,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=222
+Raymond Rams U12 Boys Simard,U12,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=182
+Seacoast United Concord 2014 Boys Navy,U12,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=126
+2014 City Hosmer,U12,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=146
+2014 Pre MLS Next Navy,U12,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=127
+Nashua United SC U12 Boys - Blue,U12,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=194
+2014 Boys Blue,U12,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=222
+RYSA Boys U11 Woodward,U12,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=437
+Seacoast United Bedford 2014 Boys Navy,U12,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=202
+Seacoast United Concord 2014 Boys Carolina,U12,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=27
+WSA Boys 2015 Blue - BU11,U12,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=159
+ROSO S.C. Boys U12 Championship,U12,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=308
+13G Aspire,U13,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=89
+Red Hawks Girls U12,U13,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=132
+Strikers U12 Girls 24/25,U13,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=143
+Seacoast United Bedford 2013 Girls Elite,U13,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=221
+Become Elite Soccer 2013 Girls,U13,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=91
+GU13 Blue-SP25,U13,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=119
+GU13 White-FA 25,U13,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=74
+Girls 2013,U13,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=239
+BSC U12 - Blue,U13,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=162
+Maximum Velocity FC 2013 Girls,U13,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=47
+ORU 2013 Girls Zent,U13,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=150
+WSA Girls 2013 - GU12,U13,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=230
+2013 Girls Maroon,U13,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=119
+G2013 NH Carolina,U13,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=94
+NORTH HAMPTON SC U12 G,U13,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=139
+2013 Girls - Marlin,U13,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=95
+2013 Girls 1,U13,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=207
+BSC - U13 Girls - Blue,U13,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=191
+PCSC 2013 Girls Maroon,U13,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=239
+BSC U12 - Red,U13,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=187
+Conval Soccer 2013 Girls U12,U13,Female,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=170
+HB Cavs GU11/12,U13,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=149
+LSC United Girls 2013,U13,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=181
+Lightning Soccer Club 2013 Girls Green,U13,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=112
+Timberwolves Girls U14 25/26,U13,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=160
+2013/2014 ASC Girls,U13,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=234
+Exeter Spring Girls U12 Champion,U13,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=121
+BAC Bulldogs 2013 GU12 Premier,U13,Female,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=112
+PCSC 2013 Girls Black,U13,Female,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=148
+Raymond Rams U12 Girls 2014-15,U13,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255
+Raymond SC GU12 2013/14,U13,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=246
+2013 -2014 Girls Maroon,U13,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226
+13G GA,U13,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=44
+GU12 Blue-SP24,U13,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=192
+Seacoast United 2013 Girls NAL,U13,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=66
+GU12 Tournament,U13,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=61
+2013 NH South Navy,U13,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=107
+Maximum Velocity FC 2013 Boys,U13,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=328
+WSA Boys 2013 - BU13,U13,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=254
+2013 Boys Maroon,U13,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=401
+Goal King Academy - Rye Soccer 2013,U13,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=151
+HSC 2013/2014 Boys,U13,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=407
+Lightning Soccer Club 2013 Boys Green,U13,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=165
+Seacoast United Bedford 2013 Boys MLS NEXT Academy Division,U13,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=26
+BU13 Blue-FA 25,U13,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=310
+Become Elite Soccer 2013 Boys 2nd XI,U13,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=311
+ISC 2013 Pride,U13,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=211
+U13B - Casale,U13,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=174
+Exeter Boys U12 Premier Blue,U13,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371
+Lightning Soccer Club 2013 Boys Green South,U13,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=199
+BU13 White-FA 25,U13,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=140
+MV Thunder Spring U12 COED,U13,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=369
+Seacoast United Concord 2013 Boys Carolina,U13,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=135
+PCSC 2013 Boys Maroon,U13,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=345
+2013 Debreceni Red,U13,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=202
+Exeter Spring Boys U12B Champ,U13,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=216
+Fieldhouse AC 12U 2025,U13,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=177
+Red Hawks U12 Boys,U13,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=268
+Seacoast Express 2013 Boys Elite,U13,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=191
+Warriors FC Boys U12 - Gold Fall 2024/Spring 2025,U13,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=266
+2013 EDP NL Carolina,U13,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=53
+BU13 White-SP 25,U13,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=176
+FC Stars New Hampshire 2013 Boys Granite,U13,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=62
+Not Current - Merrimack B2013 White,U13,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=298
+BU12 Tournament,U13,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=302
+DUPLICATE ISC 2013 Eagles- DO NOT USE,U13,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=52
+Eagles u13 Boys,U13,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=340
+BAC Bulldogs 2013 BU13 Premier,U13,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=328
+Become Elite Soccer 2013 Boys 1st XI,U13,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=149
+ORU 2013 Boys Blue,U13,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=221
+Warriors FC Boys U12 - White Fall 2024/Spring 2025,U13,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=294
+2013 Blue,U13,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=358
+LSC United Boys 2013 - Blue,U13,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=310
+BAC Bulldogs 2013 BU13 Elite,U13,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=323
+FC Stars 2013 Boys Green/ABNH,U13,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=131
+ISC 2013 Eagles,U13,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=153
+Nashua United SC U13 Boys - Blue,U13,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=394
+Select 2014/2013 Martakos,U13,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=233
+2013 Boys 1,U13,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=302
+2013 Boys Black,U13,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=219
+Manchester Lightning FC - Dobson,U13,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=223
+2013 Boys 2,U13,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=240
+Become Elite Soccer Boys U12 T,U13,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=275
+Seacoast United Bedford 2013 Boys Carolina,U13,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=164
+FAC 12U B 2024-25,U13,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=324
+ORU 2013 Boys Gray,U13,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=305
+2013 NH South White,U13,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=189
+BSC U12 - Red,U13,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=246
+Outing Club U13 Boys,U13,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=252
+2013 NEAL White,U13,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=32
+LRU U12 Hough Coed,U13,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=274
+Not Current - Merrimack B2013 Blue,U13,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=353
+Seacoast United 2013 Boys NAL,U13,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=94
+2013 Boys - Burk,U13,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=235
+2013 NEAL Blue,U13,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=48
+Exeter Boys U12 Premier Red,U13,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=429
+ROSO FC Raiders Championship,U13,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=427
+Suncook Spartans 13/14,U13,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=322
+Timberwolves Boys U13 25/26,U13,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=133
+BAC Bulldogs 2012-2013 GU13 Select,U14,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=206
+Raymond Rams U14 Girls 2012-13,U14,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=92
+12G GA,U14,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=188
+Eagles u14 Girls,U14,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=178
+Merrimack Girls U14,U14,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=208
+2012 Girls NAL,U14,Female,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=161
+RYSA Girls U13 Kriete,U14,Female,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204
+12G Aspire,U14,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=9
+2012 Girls NAL,U14,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=65
+FC Stars New Hampshire 2012 Girls Blue,U14,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=80
+2012 ASC Girls Bobcats,U14,Female,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=168
+GU14 MWVSC Fall 2025,U14,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=98
+"Rapids U14 Girls- 2012, 2013's",U14,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=135
+Lightning Soccer Club 2012 Girls Green,U14,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=96
+Exeter Spring Girls U13G Champ,U14,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=163
+ORU 2012 Girls Gray,U14,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=78
+Seacoast United Bedford 2012 Girls Carolina,U14,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=53
+G2012 NH Carolina,U14,Female,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=58
+U14 Stingers 12/13,U14,Female,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=107
+2012 Girls 1,U14,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=127
+2012 City Girls,U14,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=126
+2012 Girls Goulet,U14,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=160
+Become Elite Soccer 2012 Girls,U14,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=180
+Exeter Girls U13 Premier,U14,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=193
+Northern Strikers Girls 2011/2012,U14,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=201
+WSA Girls 2012/2013 - GU14,U14,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=155
+Nashua United SC U14 Girls - Blue,U14,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=95
+U13G - Harrington,U14,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=160
+BU13 Tournament,U14,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320
+2012 Boys,U14,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=166
+FC Stars New Hampshire 2012 Boys Granite,U14,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=92
+LSC United Boys 2012 - Blue,U14,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=222
+Seacoast United Bedford 2012 Boys Carolina,U14,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199
+Eagles u14 Boys,U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=138
+FC Stars New Hampshire 2012 Boys Blue,U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=280
+HB Cavs BU13 Blue (2013),U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=231
+Lightning Soccer Club 2012 Boys Green,U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=91
+Maximum Velocity FC 2012 Boys Premier,U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=230
+Merrimack B2012,U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=208
+Rapids U14 Boys,U14,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=241
+Exeter Boys U13 Champion,U14,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=361
+ISC 2012,U14,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=166
+Loudon Freedom 2012,U14,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=272
+BAC Bulldogs 2012 BU14 Elite,U14,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=233
+BAC Bulldogs 2012 BU14 Premier,U14,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=353
+2012 NH South Navy,U14,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=73
+2012 City Boys,U14,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=193
+Lightning Soccer Club 2012 Boys Green South,U14,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=143
+Warriors FC Boys U13 - Fall 2024/Spring 2025,U14,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=177
+BSC U13,U14,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=189
+Exeter Boys U13 Premier,U14,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=361
+Seacoast United 2012 Boys NAL,U14,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=145
+2012 Boys St. Onge,U14,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=297
+Lightning Soccer Club 2012 Boys White,U14,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=157
+Strikers U13 Boys 24/25,U14,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=290
+Exeter Spring Boys U13B Premier,U14,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=236
+PCSC 2012 Boys Maroon,U14,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=180
+Seacoast United Bedford 2012 Boys MLS NEXT Academy Division,U14,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=50
+BU14-FA 25,U14,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=185
+Boys 2012,U14,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=354
+FAC 13U 2024-25,U14,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=126
+Timberwolves Boys SC U13,U14,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=128
+BU14 MWVSC Fall 2025,U14,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=229
+PCSC 2012 Boys Black,U14,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=309
+Conval 2012-13 Boys U14,U14,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=204
+Exeter Spring Boys U13B Champ Blue,U14,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=196
+LHIFA 2012/2013 (U14),U14,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=131
+2012 EDP NL Carolina,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=80
+2012 MLS Next,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=203
+Exeter Spring Boys U13B Champ Red,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=331
+LSC United Boys 2012 - White,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=311
+ROSO Rangers FC,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=228
+Red Hawks Boys U13,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=213
+Select 2012/2013 Lovejoy,U14,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=300
+2012 Boys 1,U14,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245
+Seacoast United Concord 2012 Boys Carolina,U14,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=101
+Warriors FC Boys U13 Blue - Spring 2025,U14,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=172
+2012 Boys,U14,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=270
+2012/2013 ASC Boys Panthers,U14,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=227
+ORU 2012 Boys Blue,U14,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=220
+ORU 2012 Boys Grey,U14,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=168
+2011 Girls RDP,U15,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=199
+2011/2012 Girls Maroon,U15,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=138
+2011 Girls NAL,U15,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=36
+Become Elite Soccer Girls U14,U15,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=57
+Eagles u15 Girls,U15,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=85
+2011 Girls,U15,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=124
+GU15 Blue-SP25,U15,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=158
+LSC United Girls 2011-2013,U15,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=141
+Newmarket (NYSA) U14 Girls,U15,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=156
+Become Elite Soccer 2011 Girls,U15,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=89
+Maximum Velocity FC 2011/12 Girls,U15,Female,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=71
+BSC U14,U15,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+Seacoast United Bedford 2011 Girls Carolina,U15,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=70
+11G Aspire,U15,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=21
+GU13/14 Tournament,U15,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=103
+FC Stars New Hampshire 2011 Girls Blue,U15,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=91
+2011 GU14 Russell/Hone,U15,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=110
+BAC Bulldogs 2011 GU14 Premier,U15,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=109
+GU15 White-Sp25,U15,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=84
+U14 Girls West Spring 2025,U15,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=127
+2011 Boys - Nunley,U15,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=304
+HBCavs BU13 Blue (2012),U15,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=222
+Lightning Soccer Club 2011 Boys Green,U15,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=137
+2011 MLS Next,U15,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=115
+BAC Bulldogs 2011 BU15 Elite,U15,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195
+FC Stars New Hampshire 2011 Boys Blue,U15,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=86
+NYSL Nashua United SC U15 Boys - Blue,U15,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=257
+2011 City,U15,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=290
+2011/12 Boys Maroon,U15,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=211
+BU15 Blue,U15,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=291
+FC Stars New Hampshire 2011 Boys Granite,U15,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=10
+ORU 2011 Boys Grey,U15,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=125
+Seacoast United Bedford 2011 Boys Navy,U15,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=91
+Suncook Spartans 11/12 (Boisvert),U15,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=289
+ORU 2011 Boys Blue,U15,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=218
+Tazmanian Devils FC Boys U13,U15,Male,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=155
+2011 NH Navy,U15,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=100
+Become Elite Soccer 2011 Boys,U15,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=137
+Seacoast United Bedford 2011 Boys Carolina,U15,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=69
+ISC 2011 Eagles,U15,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=90
+LSC United Boys 2011,U15,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=276
+Seacoast Express 2011 Boys,U15,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=48
+Select 2011/2012 Fontaine,U15,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=239
+ISC 2011 Pride,U15,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=126
+Maximum Velocity FC 2011 Boys,U15,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=105
+2011 Boys NAL,U15,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=36
+2011 Boys Maroon,U15,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=256
+BU15 White,U15,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212
+2011 Boys Hone,U15,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=268
+Red Hawks Boys U14,U15,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=260
+WSA Coed 2011/2012 - BU15,U15,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=163
+Eagles u15 Boys,U15,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=133
+2011 Boys,U15,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=156
+U14 Boys West Spring 2025,U15,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=182
+U15 Storm 11/12,U15,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=228
+BAC Bulldogs 2011 BU15 Premier,U15,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=234
+Lightning Soccer Club 2011 Boys Green,U15,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=136
+Seacoast United Bedford 2011 Boys MLS NEXT Academy Division,U15,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=9
+LHIFA 2011 (U15),U15,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=137
+Merrimack B2011,U15,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=235
+ROSO S.C. Boys U14/15 Championship,U15,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=278
+Rapids U15 Boys,U15,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=140
+2010 Girls,U16,Female,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=133
+NORTH HAMPTON SC U14/15 G,U16,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=123
+2010 NH Elite Blue,U16,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=106
+2010 NH Elite Volt,U16,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=131
+Exeter Spring Girls U15G Champ,U16,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=130
+ROSO S.C. Girls U15,U16,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=91
+FAC 15U Girls 2024-25,U16,Female,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=110
+2010 Girls Maroon,U16,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=77
+Maximum Velocity FC 2010 Girls,U16,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=62
+10G GA,U16,Female,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=43
+PCSC 2010 Girls U15 Black,U16,Female,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=152
+Conval Soccer 2011 Girls U15,U16,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=103
+10G Aspire,U16,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=12
+Exeter Girls U14/15 Premier Blue,U16,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=170
+Girls 2010,U16,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=121
+"Rapids U15 Girls- 2010, 2011, 2012's",U16,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=169
+2010 NH Elite Blue,U16,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=151
+NYSL G2011,U16,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=133
+WSA Girls 2010/2011 - GU15,U16,Female,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=69
+U15G-Meehan,U16,Female,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=161
+FC Stars New Hampshire 2010 Girls Blue,U16,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=44
+Exeter Girls U14/15 Premier Red,U16,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=124
+FC Stars New Hampshire 2010 Girls Granite,U16,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=25
+Seacoast United 2010 Girls NAL,U16,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=47
+WSA Boys 2010 Blue,U16,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=222
+Become Elite Soccer Boys 2010 T,U16,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208
+2010 NH South Navy,U16,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=111
+Eagles u16 Boys,U16,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=88
+2010/2011 ASC,U16,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=158
+NNHSC - U15,U16,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=266
+Become Elite Soccer 2010 Boys,U16,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=113
+LRU U15 Winchell Coed,U16,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=269
+Fremont FC 2010 Boys Premier,U16,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=130
+PCSC 2010 Boys,U16,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=133
+BAC Bulldogs 2010 BU15 Elite,U16,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=188
+FC Stars New Hampshire 2010 Boys Granite,U16,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=17
+2010 Boys NAL,U16,Male,NH,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=93
+FC Stars New Hampshire 2010 Boys Blue,U16,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=149
+Lightning Soccer Club 2010 Boys Green,U16,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=108
+2011 Boys,U16,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=199
+Seacoast United Bedford 2010 Boys Carolina,U16,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=139
+2010 Boys - Duprey,U16,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=123
+Conval Soccer 2010 Boys U15,U16,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=153
+FAC 15U 2024-25,U16,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=158
+FC Stars New Hampshire 2010 Boys Blue,U16,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=68
+ORU 2010 Boys Cassamas,U16,Male,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=182
+Seacoast United Bedford 2010 Boys MLS NEXT Academy Division,U16,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=36
+WSA Boys 2010 - BU15,U16,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=122
+Exeter Boys U14/15 Premier,U16,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=241
+Merrimack B2010,U16,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=136
+Exeter Spring Boys U15B Champ,U16,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=118
+Maximum Velocity FC 2010 Boys,U16,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=156
+Seacoast United Concord 2010 Boys Carolina,U16,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=109
+2010 Boys,U16,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=231
+FC Stars ECNL Skyblue RL Girls 2009,U17,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=29
+Maximum Velocity FC 2009 Girls,U17,Female,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=63
+FC Stars New Hampshire 2009 Girls Blue,U17,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=116
+Lightning Soccer Club 2009 Girls Green,U17,Female,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=117
+09G Aspire,U17,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=17
+GU17-SP25,U17,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=109
+09G GA,U17,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=32
+2009 Girls NAL,U17,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=71
+FC Stars New Hampshire 2009 Girls Granite,U17,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=88
+Become Elite Soccer 2009 Girls T,U17,Female,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=80
+Lightning Soccer Club 2009 Girls Green,U17,Female,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=72
+Seacoast United Bedford 2009 Girls,U17,Female,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=58
+Maximum Velocity FC 2009 Boys,U17,Male,NH,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=69
+LSC United Boys 2009,U17,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=108
+Seacoast United 2009B MLS,U17,Male,NH,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=47
+BU17-SP25,U17,Male,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=151
+FC Stars New Hampshire 2009 Boys Granite,U17,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=21
+RYSA Boys U16 Frechette/Smith,U17,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=203
+FC Stars New Hampshire 2009 Boys Blue,U17,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=99
+Lightning Soccer Club 2009 Boys Green South,U17,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=121
+NNH Soccer Club U14,U17,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=171
+NYSL B2009/10,U17,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=187
+Timberwolves SC 2009,U17,Male,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=202
+ISC 2009 Pride,U17,Male,NH,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=145
+2009 City Boys,U17,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=226
+Seacoast United 2009 Boys NAL,U17,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=48
+2009 NH Elite,U17,Male,NH,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=101
+Seacoast United Concord 2009 Boys Carolina,U17,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=42
+2009 Boys,U17,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=177
+Become Elite Soccer 2009 Boys,U17,Male,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=150
+Seacoast United Bedford 2009 Boys MLS NEXT Academy Division,U17,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=5
+ROSO S.C. Girls U17,U18,Female,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=62
+U17 Girls Spring 2025,U18,Female,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=41
+"Rapids U17 Girls- 2008, 2009, 2010's",U18,Female,NH,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=40
+Seacoast United 2008-07 Girls NAL,U18,Female,NH,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=13
+U17G - Suarez,U18,Female,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=88
+2008 NH Elite,U18,Female,NH,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=37
+Exeter Spring Girls High School,U18,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=32
+Not Current - Merrimack Girls U16/17,U18,Female,NH,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=31
+WSA Senior Girls 2008/2009 GU17,U18,Female,NH,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=58
+NNHSC - U17,U18,Male,NH,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=128
+Seacoast United Bedford 2008/07 Boys MLS NEXT Academy Division,U18,Male,NH,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=4
+2008/2009 ASC Boys,U18,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=70
+Exeter Spring Boys U17B HS,U18,Male,NH,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=76
+LRU U16 Clay/Hayes,U18,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=100
+U17 Boys Spring 2025,U18,Male,NH,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=45
+FAC 17U 2024-25,U18,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=65
+WSA Senior Boys - BU17,U18,Male,NH,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=51
+2008/09 NH South Carolina,U18,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=13
+Become Elite Soccer 2008/2009 Boys,U18,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=73
+ISC 08/09 Eagles,U18,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=72
+Tazmanian Devils FC Coed U17,U18,Male,NH,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=85
+Seacoast United Bedford 2008/07 Boys EDP,U18,Male,NH,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=32
+Seacoast United Concord 2008 Boys Carolina,U18,Male,NH,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=43
+Become Elite Soccer Boys 2008 T,U18,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=123
+Red Hawks Coed U16,U18,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99
+Timberwolves Soccer Club 2008B,U18,Male,NH,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=128
+Seacoast United Bedford High School,U18,Male,NH,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=64
+U11 Storm - 15/16,U11,Male,NH,19,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=142
+Timberwolves Boys U10 25/26,U11,Male,NH,3,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=199
+2013 Boys,U13,Male,NH,9,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=192
+Bow U14,U15,Male,NH,11,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195

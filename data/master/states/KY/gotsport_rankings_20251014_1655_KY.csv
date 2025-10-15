@@ -1,0 +1,997 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+LouCity South 16 Purple,396624,U10,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=24
+Lex Sporting Club 16B Green,517218,U10,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=32
+MUSA Flyers 2016 Boys Blue,497115,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=40
+LouCity South 16 Purple 2,402831,U10,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=41
+Nelson Elite 2016 Boys,505748,U10,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=42
+KH PreElite NKY B16-2,433614,U10,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=44
+IAM3rd PDA 2016 Boys Black,512063,U10,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=46
+CKFA 2016 Boys Sky,521770,U10,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=47
+KHPA NKY B16-3,432180,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=48
+MVP B16 Gold,389331,U10,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=48
+2016B Trident F.C. Black,636354,U10,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=51
+MVP B16 Grey,490943,U10,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=56
+FCSC 16 GOLD,493546,U10,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=57
+KHPA NKY B16-2,478365,U10,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=60
+CKY Storm 2016 Boys Black,639276,U10,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=61
+CKY Storm 2016 Boys Black,639276,U10,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=62
+2016B Trident F.C. Green Devils,644321,U10,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=62
+KHPA NKY B16-4,433358,U10,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=62
+2016B Trident F.C. Green Devils,644321,U10,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=63
+Georgetown FC U10 Timbers,563389,U10,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=68
+IAM3rd PDA 2016 Boys White,637795,U10,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=68
+KH PreElite NKY B16-1,433613,U10,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=69
+Owensboro United 2016 Boys White,529939,U10,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=86
+LouCity Oldham 16 Purple,434265,U10,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=89
+KY Elite 2016/2017,640536,U10,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=90
+LouCity Academy 16 Grey,430958,U10,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=97
+CKFA 2016 Boys Navy,521753,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=99
+LouCity Shelby 16 Purple,521169,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=101
+PFA Boys 2016,515579,U10,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=106
+MC Dynamo 2016 Boys,492951,U10,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=106
+FC Kentucky 2016 Boys,619996,U10,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=112
+2015-16 (U10) Red,531436,U10,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=116
+2015-16 (U10) White,531439,U10,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=116
+Javanon 2016 Boys White,526385,U10,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=119
+U10 SCSA Phoenix,531479,U10,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=120
+LouCity Academy 16 Purple2,469365,U10,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=124
+CSC U10B Lobaugh,623545,U10,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=125
+LouCity Shelby 16 Black,468626,U10,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=127
+BGFC Golden Lions Academy 2016 Gold,543671,U10,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129
+FCSC 16 GREEN,493547,U10,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129
+Owensboro United 2016 Boys Black,529940,U10,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129
+WKSA Academy Royal,498737,U10,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=134
+LouCity Academy 16 White,430962,U10,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=137
+Georgetown FC 2016 Boys,638259,U10,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=139
+LouCity Oldham 16 Grey,434267,U10,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=141
+MVP B16 White,432214,U10,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=141
+FCSC 16 WHITE,576313,U10,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=141
+LouCity Oldham 16 Black,434266,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=143
+Fusion FC B16 Green,507995,U10,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=144
+Golightly FC 2016/2017,557262,U10,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=148
+U10 SCSA Dragons,531464,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=149
+U10 SCSA Leprechauns,536044,U10,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=151
+U10M Blackhawks (Black/Gold),530336,U10,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=153
+LouCity Oldham 16 White,573552,U10,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=153
+Javanon 2016 Boys Red,522124,U10,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=155
+Nedo SC B2016 Gold,598470,U10,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=159
+Valor United FC 2016,535846,U10,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=159
+BSC 16B Lindsey,638214,U10,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=160
+LouCity Academy 16 Black,430954,U10,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=163
+Javanon 2016 Girls Black,514803,U10,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=8
+Fusion FC G16 Green,508519,U10,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=25
+KH PreElite NKY G16-1,433619,U10,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=25
+MCC Lady Revolution 2016G,520715,U10,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=26
+ISC G16 Dragons,507036,U10,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=27
+Fusion FC G16 White,639877,U10,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=29
+Racing South 16 Purple,396626,U10,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=36
+Owensboro United 2016 Girls,536092,U10,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39
+Lex Sporting Club 16G Green,517225,U10,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39
+CSC U10G Noll,623548,U10,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39
+IAM3rd PDA 2016 Girls Blue,502813,U10,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=40
+IAM3rd PDA 2016 Girls Black,502812,U10,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=40
+Lex Sporting Club 16G Gray,642898,U10,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=49
+MVP G16 White,490944,U10,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=53
+Lex Sporting Club 16G Black,517228,U10,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=57
+ISC G16 Sporting Jaguars,617686,U10,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=58
+WinCity United Girls 2016-17,617447,U10,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=60
+Nedo SC G2016 Gold,509355,U10,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=60
+Lex Sporting Club 16G White,517230,U10,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=62
+KHPA NKY G16-1,432185,U10,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=63
+MUSA Flyers 2016 Girls,497116,U10,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=65
+U10G4,507520,U10,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=67
+Racing Oldham 16 Purple,520733,U10,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=76
+WKSA Academy Girls,498742,U10,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=78
+Everton U10,512706,U10,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=86
+Racing Shelby 17 Purple,643360,U10,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=89
+Javanon 2016 Girls Red,642200,U10,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=91
+ISC G16 Roaring Thunder,617256,U10,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=95
+Nelson Elite 2016 Girls,505738,U10,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=98
+Ohio County 2016 Girls,573965,U10,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=99
+FC Kentucky 2016 Girls,619998,U10,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=99
+Lex Sporting Club 15B Green,417282,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=25
+IAM3rd PDA 2015 Boys Black,512058,U11,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=54
+MVP B15 Gold,343998,U11,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=74
+ISC B15 United Blue,508460,U11,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=76
+LouCity South 15 Purple,354771,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=81
+Javanon 2015 Boys Red,348571,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=89
+BSC 15B Smith,638209,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=89
+MVP B15 Grey,490947,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=90
+Valor United FC 2015,535843,U11,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=118
+MC Dynamo 2015 Boys,492950,U11,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=120
+MVP B15 Black,392366,U11,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=132
+Fusion FC B15 Green,414276,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=134
+KH PreElite NKY B15-1,514204,U11,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=140
+FCSC 15 GOLD,415376,U11,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=143
+KH PreElite NKY B15-2,510771,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=146
+LouCity Academy 15 Purple,330630,U11,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=147
+2015 Topeka Gunners,568985,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=148
+Nedo SC B2015 Blue,509345,U11,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=151
+FCSC 15 WHITE,416543,U11,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=152
+PFA Boys 2015,515577,U11,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=159
+LouCity Academy 15 Grey,330639,U11,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=159
+Fusion FC B15 Black,414277,U11,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=162
+LouCity Academy 15 KPL,520491,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=165
+CSC U11B Ireland,623552,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=173
+IAM3rd PDA 2015 Boys Blue,512061,U11,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=174
+KH Classic B15 McIver,519899,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=177
+CSC GALACTICOS,567396,U11,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=188
+KHPA NKY B15-2,306943,U11,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=197
+ISC B15 Green Hornets,508473,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=197
+SKY Academy Select 2015 Boys Black,490586,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=203
+FC Kentucky 2015 Boys,493533,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=207
+LouCity South 15 Black,354772,U11,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=209
+Tiburones FC 2015 Boys Pulisic,521420,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=209
+CSC U11B Kafel,623553,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=212
+Anderson County,608672,U11,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=216
+MCC Revolution 2015/2016 Boys Blue,382477,U11,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=216
+BGFC Golden Lions Academy 2015 Gold,543669,U11,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=217
+LouCity Shelby 15 Purple,465798,U11,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=219
+LouCity Academy 15 State League,643413,U11,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=228
+Georgetown FC 2015 Boys Black,507150,U11,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=229
+Owensboro United 2015 Boys Black,310065,U11,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=229
+LouCity Oldham 15 Purple,330638,U11,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=232
+SKY Academy Select 2015 Boys Blue,537719,U11,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=233
+KHPA NKY B15-3,412847,U11,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=242
+Nedo SC B2015 White,509347,U11,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=242
+CKY Storm 2015 Boys White,491433,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=260
+Javanon 2016 Boys Black,400764,U11,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=261
+2015 Springboks Boys,541503,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=261
+LouCity Oldham 15 Grey,411210,U11,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=263
+LSA '15 Black,422773,U11,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=266
+MVP B15 White,392360,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=268
+KHPA NKY B15-1,521839,U11,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=275
+LSA '15 Red,520747,U11,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=277
+KH Classic B15 Ireland,522623,U11,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282
+Javanon 2015 Boys Black,543463,U11,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=290
+KHP1 Union B15,412048,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=292
+Owensboro United 2015 Boys White,299853,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=293
+Lex Sporting Club 15B Black,417284,U11,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=314
+AC United 2015 Boys,508889,U11,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=315
+HCSC U11 Boys,642666,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=318
+LouCity Academy 15 Black,520493,U11,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=322
+LouCity Oldham 15 White,520717,U11,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=322
+FCSC 15 BLACK,625023,U11,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=327
+CSC U11B Kramer Jaguars,612368,U11,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=332
+U10 FCO Blue Bananas,604441,U11,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339
+Lex Sporting Club 15B White,417287,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339
+Fern Creek FC 2015 Boys,647595,U11,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=342
+Eastern Elite 2015B Blue,539699,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=343
+LouCity Oldham 15 Black,340983,U11,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=347
+West Louisville Soccer 2014 Boys,569965,U11,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=350
+Nedo SC B2015 Grey,646709,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=352
+LouCity Shelby 15 Black,465800,U11,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=354
+Nedo SC B2015 Gold,509346,U11,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=356
+Georgetown FC 2015 Boys Blue,507152,U11,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=359
+MUSA Flyers 2015 Boys Orange,581183,U11,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=361
+Rizzlers,604775,U11,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=380
+JYSA U10 Cyclones,604744,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=381
+LouCity Academy 15 White,330641,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=386
+LouCity South 15 Grey,354783,U11,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=387
+LouCity Academy 15 Black,468263,U11,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=387
+CKY Storm 2016 Boys White,639277,U11,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=395
+MUSA Flyers 2015 Boys Blue,497114,U11,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=395
+Etown FC 2014 Boys Black,615832,U11,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=399
+JYSA U10 Scorch,604746,U11,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=411
+Lex Sporting Club 15G Black,470274,U11,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=27
+Lexington Sporting Club Pre ECNL 15G,417348,U11,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=30
+KH PreElite NKY G15-1,514216,U11,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=30
+Fusion FC G15 Green,414283,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=44
+Javanon 2015 Girls Black,389691,U11,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=46
+KHPA NKY G15-1,510692,U11,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=49
+MCC Lady Revolution 2015G,520723,U11,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=53
+Racing Oldham 15 Purple,340979,U11,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=67
+ISC G15 Green Dragons,511444,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=72
+CKY Storm 2015 Girls Black,491557,U11,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=75
+Racing South 15 Purple,354769,U11,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=76
+KH PreElite NKY G15-2,510691,U11,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=79
+Lex Sporting Club 15G Gray 2,517203,U11,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=88
+Racing Academy 15 Purple,332371,U11,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=91
+Lex Sporting Club 15G Gray,517197,U11,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=93
+FC Kentucky 2015 Girls Blue,488864,U11,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=93
+IAM3rd PDA 2015 Girls,512055,U11,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=95
+Racing Oldham15 Purple,340976,U11,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=96
+SKY Academy Select 2015 Girls,490585,U11,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=103
+SKY Academy Select 2015 Girls,490585,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=104
+KH Classic G15 Griffith Jaguars,522801,U11,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=105
+Nelson Elite 2015 Girls - White,527949,U11,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=115
+Racing Academy 15 Black,332395,U11,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=120
+Lady Valor United FC 2015,535842,U11,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=120
+Fusion FC U10G (Archived),609154,U11,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=131
+MVP G15 White,392378,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=132
+KHP1A WILDER G15,412082,U11,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=135
+Racing South 15 Black,354770,U11,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=135
+Racing Shelby 15 Purple,468648,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=137
+MVP G15 Gold,392373,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=138
+Nelson Elite 2015 Girls - Blue,527950,U11,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=152
+KY Lady Elite 2015/2016,546323,U11,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=153
+Elizabethtown FC 2015 Girls White,396080,U11,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=155
+2014 Girls Springboks,541632,U11,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=161
+ISC G15 United,511573,U11,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=164
+Lex Sporting Club 15G Black 2,417351,U11,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=170
+Owensboro United 2015 Girls,354095,U11,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=171
+ISC G15 Jaguars FC,617685,U11,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=175
+Javanon 2015 Girls Red,514800,U11,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=179
+KHP1 Lexington G15,514906,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=182
+FC Kentucky 2015 Girls White,493528,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=190
+MC Dynamo 2015 Girls,492943,U11,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=193
+Georgetown FC 2015 Girls,507149,U11,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=195
+FCSC 15G GOLD,477396,U11,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=195
+BSC 15G Evans,638190,U11,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=197
+CKY Storm 2016 Girls White,639279,U11,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=204
+Fusion FC G15 Black,441121,U11,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=208
+MUSA Flyers 2015 Girls,497113,U11,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=210
+CKY Storm 2016 Girls Black,639278,U11,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=214
+'15 LSC,551469,U11,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=215
+ISC G15 Gold,616906,U11,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=218
+Racing Academy 15 Grey,520475,U11,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228
+Pumas 14 Black IL,516726,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=46
+Javanon 2014 Boys Pre-MLS Next,290234,U12,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=47
+MC Dynamo 2014 Boys,492949,U12,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=94
+Javanon 2014 Boys Red,335541,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=94
+LSA '14 Red,519985,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=100
+Nedo SC B2014 Gold,509343,U12,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=100
+MVP B14 Black,282335,U12,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=101
+MVP B14 White,282333,U12,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=102
+Louisville City Academy Pre ECNL B13,575398,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=104
+Owensboro United 2014 Boys Black,520966,U12,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=105
+Tiburones FC 2014 Boys Mbappe,478280,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=112
+Fusion FC B14 Black,441115,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=126
+FCSC 14 GOLD,277115,U12,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=128
+IAM3rd PDA 2014 Boys Black,512056,U12,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=131
+ISC B14 Wolves,508759,U12,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=132
+Pumas 14,451350,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=141
+LouCity South 14 Purple,337626,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=142
+Fusion FC B14 Green,330086,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=143
+Nelson Elite 2014 Boys,505753,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=144
+Pumas 14 White,516728,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=151
+CKY Storm 2014 Boys Black,491552,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=151
+Tiburones FC 2014 Boys Messi,478277,U12,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=153
+BGFC Golden Lions Academy 2014 Gold,520022,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=153
+LouCity Oldham 14 Purple,304228,U12,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=158
+MVP B14 Grey,392442,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=159
+Valor United FC 2014,535849,U12,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=160
+FCSC 14 GREEN,277121,U12,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=165
+Lex Sporting Club 14B Green,281493,U12,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=166
+Chivas Lex 2014,507281,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=166
+IAM3rd PDA 2014 Boys Blue,512057,U12,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=170
+LouCity Academy 14 KPL,304214,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=170
+LouCity Academy 14 KPL,304214,U12,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=171
+MVP B14 Gold,282332,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=171
+LouCity Shelby 14 Purple,468627,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=192
+Javanon 2014 Boys White,431932,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=200
+Eastern Elite 2014B Blue,523382,U12,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=204
+LouCity South 14 Black,336236,U12,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=204
+Eastern Elite SA 2014B,358128,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+SKY Academy Select 2014 Boys Black,333503,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=207
+KHPA NKY B14-1,285660,U12,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=223
+KHA3 Cincinnati South B14,521871,U12,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=224
+LouCity Oldham 14 Black,304229,U12,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=224
+SYSA 2014B Valor,486426,U12,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=237
+KH Classic B14 Stammen,408524,U12,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=241
+Fusion FC B14 White,507989,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=243
+KH Classic B14 Stammen,533905,U12,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=243
+LouCity Academy 14 Grey,304217,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245
+KY Elite 2014,542858,U12,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=246
+FC Kentucky 2014 Boys,493532,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=255
+LouCity Academy 14 Purple,304210,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=261
+KY Rush 2014B West,520568,U12,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=262
+KHA1 Lexington B14,509608,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=264
+LouCity Oldham 14 Grey,410660,U12,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=265
+Owensboro United 2014 Boys White,324701,U12,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=274
+Bluegrass SC Boys 2014,490423,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=277
+SKY Academy Select 2014 Boys Blue,333505,U12,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=281
+KHPA NKY B14-2,412858,U12,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+ISC B14 Warrior FC,614641,U12,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=288
+Chivas Lex U11 (2013-2014) Boys,569966,U12,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=290
+U12 SCSA Banshee,528994,U12,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=296
+GFC FKT 2014B Black,521411,U12,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=297
+Lex Sporting Club 14B Black,281497,U12,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=302
+MUSA Flyers 2014 Boys Orange,497112,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=307
+MUSA Flyers 2014 Boys Blue,581182,U12,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=309
+Fern Creek FC 2014 Boys,555049,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=312
+KHPA NKY B14-4,412874,U12,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=322
+LouCity Shelby 14 Black,468628,U12,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=323
+CSC U12B Chaos 14/15,623561,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=326
+BSC 14B,638206,U12,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=328
+CKY Storm 2014 Boys White,491554,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=345
+LouCity Oldham 14 White,644774,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=347
+KH Classic B14 Collier Bad Boys,521779,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=349
+KHPA NKY B14-3,413337,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=356
+GFC FKT 2014/15 Boys,521417,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=357
+Trident FC U12 Boys,484449,U12,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=359
+FCSC 14 WHITE,277120,U12,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=361
+Nedo SC B2014 Blue,509342,U12,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=368
+Lex Sporting Club 14/15B Gray,647816,U12,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=375
+LYSA U12M Swarm (Power Yellow/Black),530391,U12,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=378
+LSA '14 White,547305,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=379
+KHPA NKY B14-A,628777,U12,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=381
+KHP1 Lexington B14,274525,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=390
+Nedo SC B2014 White,646710,U12,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=391
+WKSA 2014/15B,585795,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=392
+Tiburones FC 2014 Boys Pele,478279,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=394
+CKFA 2014 Boys,521773,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=406
+SKY Academy Select 2013 Boys (OOA),569967,U12,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=406
+Elizabethtown FC 2013 Boys,569968,U12,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=406
+SKY Boys 2014 Blue,682914,U12,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=406
+LSA '14 Black,543576,U12,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=407
+Golightly FC 2015/2014,557173,U12,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=416
+LYSA U12M Eclipse (Columbia/Navy),530393,U12,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=422
+2014 BGEFC,463318,U12,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=424
+U12 SCSA Basilisk,528980,U12,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=424
+GFC Frankfort 2013 Boys,615835,U12,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=425
+Fire Eagles,490802,U12,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=426
+Lex Sporting Club 14B White,281499,U12,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=432
+KY United 2014/2015 Boys,616091,U12,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=442
+Nedo Sports Academy U12 Blue,478568,U12,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=442
+FCSC 14 BLACK,625025,U12,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=449
+Lexington Sporting Club Pre ECNL 14G,470277,U12,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=42
+KH PreElite NKY G14-1,286386,U12,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=44
+Racing South 14 Purple,338793,U12,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=55
+KH PreElite NKY G14-2,405516,U12,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=59
+ISC G14 United Blue,514597,U12,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=65
+Nelson Elite 2014 Girls,400515,U12,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=79
+Racing South 14 Black,396585,U12,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=82
+SKY Academy Select 2014 Girls,498506,U12,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=86
+Racing South 14 Grey,332390,U12,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=92
+IAM3rd PDA 2014 Girls Black,512054,U12,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=99
+Owensboro United 2014 Girls,299842,U12,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=99
+Racing Academy 14 Pre-ECNL,403191,U12,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=101
+CSC U12G Duke Red Pandas,623556,U12,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=109
+MVP G14 White,282350,U12,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=116
+Lex Sporting Club 14G Gray,281516,U12,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=117
+Fusion FC G14 Green,330072,U12,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=118
+Georgetown FC 2014 Girls,414409,U12,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=125
+KHPA NKY G14-2,413367,U12,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=127
+Lex Sporting Club 14G Black,281514,U12,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=129
+KHA1 Lexington G14,509677,U12,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=130
+Lady Valor United FC 2014,535851,U12,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=131
+Lady Valor United FC 2014,535851,U12,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=132
+GFC FKT 2014G,521413,U12,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=137
+FC Kentucky 2014 Girls White,493531,U12,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=139
+KHPA NKY G14-1,405518,U12,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=143
+Fusion FC G14 Black,427037,U12,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=143
+MUSA Flyers 2014 Girls Orange,497111,U12,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=147
+Racing Louisville Academy Pre ECNL G13,575422,U12,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=150
+MVP G14 Gold,282348,U12,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=157
+FCSC 14G GOLD,277124,U12,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=159
+LYSA U12G Blue Angels (Columbia/Navy),530376,U12,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=164
+ISC G14 Rising Fury,513918,U12,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=170
+CKY Storm 2014 Girls - Black,405739,U12,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=173
+Lex Sporting Club 14G Black 2,637236,U12,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=173
+KHPA NKY G14-3,412117,U12,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=174
+MUSA Flyers 2014 Girls,497117,U12,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181
+Racing Academy 14 Black,303487,U12,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=183
+Eastern Elite 2014G Blue,417158,U12,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=183
+ISC G14 Rebels,615379,U12,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=185
+KH Classic G14 Duke Red Pandas,425036,U12,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=185
+Eastern Elite 2014G Orange,637009,U12,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=187
+Racing Oldham 14 Purple,296678,U12,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=199
+Javanon 2014 Girls Black,317084,U12,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=199
+Georgetown FC U12 Dash,563393,U12,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=200
+ISC G14 Gators,511950,U12,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=202
+FC Kentucky 2014 Girls,620017,U12,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=203
+Racing Academy 14 Grey,403189,U12,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=203
+CKY Storm 2014 Girls White,491432,U12,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=206
+Racing Shelby 14 Purple,350488,U12,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=207
+Nedo SC G2014 Gold,646708,U12,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=210
+Fusion FC G14 White,508488,U12,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=212
+FC Kentucky 2014 Girls Blue,493530,U12,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=215
+'14 LSC,521415,U12,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=217
+KH Classic G14,522767,U12,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=225
+U11G Purple Carter,608889,U12,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=230
+Bluegrass SC Girls 2014,490424,U12,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=234
+U12G Trident F.C. Blue,529394,U12,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=236
+MC Dynamo 2014 Girls,652235,U12,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=244
+Racing Oldham 14 Black,410664,U12,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=245
+Paris Springboks 2013 Girls,616150,U12,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=247
+Elizabethtown FC 2014 Girls Premier 2,292942,U12,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=257
+CSC U12G Ripberger,623564,U12,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+ISC G14 Green Geckos,613491,U12,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=262
+Racing Academy 14 Grey,548960,U12,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=264
+Lex Sporting Club 13B Green MLS Next 2,281520,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=51
+Javanon 2013 Red,165996,U13,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=56
+Pumas 13,203398,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=81
+Fusion FC B13 Green,330087,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=94
+LouCity Academy 13 ECNL,304230,U13,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=94
+CKY Storm 2013 Boys Black,304426,U13,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=106
+LSA '13 Red,476231,U13,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=121
+IAM3rd PDA 2013 Boys Black,484233,U13,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=128
+MVP B13 Gold,282324,U13,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=133
+LouCity Academy 13 ECNL-RL,304231,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=141
+Nedo SC B2013 Gold,509341,U13,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=144
+FCSC 13 GOLD,277104,U13,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=150
+GFC FKT 2013 Boys,296196,U13,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=151
+WKSA 2013B,498731,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=152
+WKSA 2013B,498731,U13,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=153
+Nedo SC B2013 Blue,509340,U13,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=153
+LouCity Shelby 13 Purple,306194,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=157
+LouCity Shelby 13 Purple,306194,U13,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=158
+LouCity Academy 13 KPL,304235,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=159
+United 96 Fc 2013/14 Gold,422932,U13,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=160
+IAM3rd PDA 2013 Boys Blue,484445,U13,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=164
+ISC B13 United Blue,221490,U13,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=167
+Eastern Elite 2013B Blue,523380,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=172
+Owensboro United 2013 12U Gray,606786,U13,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=175
+MVP B13 Black,282330,U13,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=176
+SKY Academy Select 2013 Boys Blue,470177,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=177
+LouCity South 13 Purple,332425,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=183
+KHA1 Cincinnati South B13,286393,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=186
+Louisville City Academy ECNL B12,576734,U13,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=188
+Lex Sporting Club 13B Gray,333275,U13,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=195
+Fern Creek FC 2013 Boys,555048,U13,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=199
+LouCity Oldham 13 Purple,304239,U13,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=200
+Owensboro United 2013 Boys,199622,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=202
+SYSA 2013B Valor,396142,U13,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=202
+Louisville City Academy RL B11,479026,U13,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=203
+KY United 2013 Boys,616088,U13,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=204
+Nedo SC B2013 White,549996,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=222
+KY Rush 2013B West KPL,520506,U13,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=230
+FCSC 13 GREEN,210103,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=231
+MVP B13 Grey,450002,U13,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=234
+LouCity Shelby 13 Black,410671,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=234
+Bowling Green FC - BGFC Golden Lions Academy 2013 Gold,477531,U13,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=245
+KHA NKY B13-1,287334,U13,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=250
+MVP B13 White,282327,U13,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=256
+FCSC 13 SWINDLER,210115,U13,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=261
+Tiburones FC 2013 Boys Yamal,521419,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=291
+KHA NKY B13-2,412859,U13,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=291
+Javanon 2013 Boys White,282770,U13,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=292
+U12 Hagerdash/Hart,597276,U13,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+LouCity Oldham 13 Grey,538272,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=295
+LouCity Oldham 13 Black,304240,U13,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=295
+CKFA 2013 Boys,521771,U13,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=296
+Paris Springboks 2013 boys,426087,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=297
+Rebels - Blue 2013,639246,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=305
+SKY Academy Select 2013 Boys Black,411344,U13,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=306
+KHP1 Union B13,510806,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=310
+Elizabethtown FC '12 Boys Pink,646231,U13,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=310
+Lex Sporting Club 13B Black NAL,281521,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=312
+FCSC 13 MOMOH,416145,U13,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=313
+MUSA Flyers 2013 Boys,496927,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=316
+Arsenal: IA3 PDA 2013 Boys Black,189490,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=316
+Elizabethtown FC 2013 Boys Black,332429,U13,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=323
+Fusion FC B13 Black,330088,U13,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=323
+Lex Sporting Club 13B Gray 2,581554,U13,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=343
+West Louisville Soccer 2013,589527,U13,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=348
+KHP2 Wilder B13,413385,U13,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=348
+Fusion FC B13 White,507986,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=354
+LSA '13 Black,350917,U13,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=354
+Nelson Elite Boys 2013,348659,U13,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=355
+Bluegrass SC Boys 2013 - Hill,490425,U13,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=362
+United 96 FC 13/14 Blue,484446,U13,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=372
+BSC 13B Hill,638202,U13,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=376
+Lex Sporting 13B Black NAL,662003,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=376
+U12 BOYS SELECT,592618,U13,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378
+Eastern Elite SA 2012 Boys,569969,U13,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=379
+CKY Storm 2013 Boys White,313055,U13,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=386
+MUSA Flyers 2013,423621,U13,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=397
+Georgetown FC 2013 Boys,396126,U13,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=399
+Travel Win-City Thunder,609274,U13,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=405
+BSC 13B Praria,638204,U13,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=406
+MCC Revolution 2013B,520727,U13,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=423
+West Louisville Soccer 2012 Boys,569970,U13,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=435
+Chivas Lex 2012 Boys,615836,U13,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+Etown FC 2012 Boys White,615838,U13,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+Lexington Sporting Club ECNL-RL 13G,281527,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=36
+13G Aspire NKY,514202,U13,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=45
+IAM3rd PDA 2013 Girls Black,484723,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=48
+Lady Pumas 13,387777,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=58
+Nelson Elite 2013 Girls,400787,U13,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=61
+ISC G13 United Blue,511964,U13,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=67
+13G Aspire,183168,U13,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=72
+Nedo SC G2013 Gold,509354,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=74
+Georgetown FC 2013 Girls Black,291332,U13,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=80
+KY Elite 2013/2014,649063,U13,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=87
+Racing South 13 Purple,338795,U13,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=101
+Owensboro United 2013 Girls,228464,U13,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=105
+Lex Sporting Club 13G Black NL (KY),281528,U13,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=105
+KY Rush Hardin 2013 Girls,576603,U13,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=105
+KH Classic G13 Ruschman Fury,522787,U13,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=112
+Fusion FC G13 Green,330074,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=112
+KHA NKY G13-1,630899,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=116
+MUSA Flyers 2013 Girls,404724,U13,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=122
+Racing Shelby 13 Purple,427006,U13,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=123
+KHA NKY G13-2,630900,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=131
+MC Dynamo 2013/2014 Girls,492940,U13,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=133
+FCSC 13G GOLD,210117,U13,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+Invictus '13/14 Girls,437855,U13,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+KHP1 Union G13,412124,U13,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=143
+IAM3rd PDA 2013 Girls Blue,512053,U13,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=143
+KY Rush 2014G East,557165,U13,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=144
+FCSC 13G GREEN,495273,U13,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=153
+CKY Storm 2013 Girls Black,281041,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=155
+Bluegrass SC Girls 2013,490426,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=156
+Fusion FC G13 Black,330075,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=158
+CKFA 2013 Girls,521752,U13,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=168
+MVP G13 White,282346,U13,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=170
+Racing Academy 13 KPL,548965,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=170
+Fusion FC G13 White,410416,U13,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+Racing Shelby 13 Black,542020,U13,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=186
+ISC G13 Jaguars,511975,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=186
+West Bluegrass Soccer Club - Fillies (2013),543738,U13,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=190
+KHP1 Wilder G13,413397,U13,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197
+Racing Oldham 13 Purple,296697,U13,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=199
+SKY Academy Select 2013 Girls Black,342476,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=203
+Racing Academy 13 ECNL-RL,402699,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=207
+Nedo SC G2013 Blue,509353,U13,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=217
+Lex Sporting Club 13G White,281531,U13,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=223
+Racing Academy 13 ECNL,402698,U13,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=224
+BSC 13G Lindsey,638189,U13,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225
+Racing Oldham 13 Black,296698,U13,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226
+MVP G13 Gold,282345,U13,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=233
+MC Dynamo 2013 Girls,333553,U13,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=233
+South Nelson Dinos,608800,U13,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=238
+CSC U13G Cobras,623565,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=240
+WKSA 2014/15G,498740,U13,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=241
+Nedo SC G2013 White,646707,U13,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=243
+Racing Louisville Academy ECNL RL G12,587355,U13,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=250
+MSC U12 GIRLS TRAVEL,592658,U13,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=254
+CSC U13G Kremer,623567,U13,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255
+CSC U13G Fury Hildebrand,623566,U13,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=259
+CKY Storm 2013 Girls White,410573,U13,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=264
+Lex Sporting Club 12B Green MLS Next 2,281537,U14,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=17
+MVP B12 Gold,172651,U14,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=27
+Javanon 2012 Boys Red,155597,U14,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=36
+KH Cincinnati B12 MLS Next AD,297604,U14,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=52
+CKFA 2012 Boys,521775,U14,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=72
+MVP B12 White,172666,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=79
+Eastern Elite 2012B Blue,272676,U14,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=89
+FCSC 12 GOLD,277101,U14,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=90
+Fern Creek FC 2012 Boys,555045,U14,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=90
+IAM3rd PDA 2012 Boys,512030,U14,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=96
+Fusion FC B12 Green,414278,U14,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=97
+Javanon NAL u13,509527,U14,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=100
+LouCity Academy 12 KPL,304252,U14,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=116
+FCSC 12 GREEN,277130,U14,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=122
+Nedo SC B2012 Gold,509348,U14,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=122
+LSA '12 Red,408224,U14,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=134
+Javanon 2013 MLS NEXT AD,165990,U14,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=134
+Owensboro United 2012 Boys,199623,U14,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=139
+LouCity Shelby 12 Purple,304658,U14,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=142
+MVP B12 Black,282322,U14,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=144
+LouCity South 12 Purple,332161,U14,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=150
+Nelson Elite 2012/13 Boys,505755,U14,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=152
+SKY Academy Select 2012 Boys Black,495799,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=153
+United 96 FC 2012 Boys Gold,422941,U14,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=157
+LouCity Oldham 12 Purple,304253,U14,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=167
+2012 BGEFC,463795,U14,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=170
+Dynamo 2013,288064,U14,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=182
+GFC FKT 2012B,549490,U14,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=185
+Lex Sporting Club 12B Black NAL,281552,U14,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=188
+KHP1 Wilder B12,412861,U14,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=192
+Lex Sporting Club 12B Black 2,281556,U14,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=193
+ISC B12 Hawks,508775,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=195
+FCSC 12 WHITE,211354,U14,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=200
+LouCity Shelby 12 Black,347882,U14,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=202
+WKSA 2012B,499118,U14,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=203
+West Louisville Soccer 2012,589506,U14,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=209
+KHA NKY B12-2,304601,U14,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=218
+LouCity South 12 Black,332164,U14,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=219
+SYSA 2012B Valor,661929,U14,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=227
+Georgetown FC 2012 Boys Black,334965,U14,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=230
+ISC B12 The Player's Watch,313313,U14,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=234
+CKY Storm 2012 Boys Black,391349,U14,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=242
+Nedo SC B2012 White,509337,U14,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245
+ISC B12 The Player's Watch,579969,U14,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=245
+LouCity Oldham 12 Black,304256,U14,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=252
+Louisville City Academy ECNL RL B11,584260,U14,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=259
+FC Kentucky 2012Boys,349150,U14,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262
+LouCity Academy 12 ECNL-RL,304251,U14,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=263
+GFC FKT 2012 Boys (Archived),278220,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+Owensboro United 2012 Boys Black,199624,U14,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=268
+KHA NKY B12-1,297602,U14,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=273
+MUSA Flyers 2012 Boys Blue,196821,U14,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=278
+MUSA Flyers 2012 Boys Orange,451348,U14,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=280
+Lex Sporting Club 12B Blue,644680,U14,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=281
+Nedo SC B2012 Blue,509334,U14,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=283
+BGFC Golden Lions Academy 2012 Gold,519887,U14,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=283
+Tiburones FC 2012 Boys Ronaldinho,478273,U14,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=291
+KHP2 Wilder B12,413399,U14,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=300
+KY Elite 2012,542859,U14,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=303
+LouCity Oldham 12 Grey,310099,U14,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=303
+AC United 2012 Boys,633711,U14,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=308
+MC Dynamo 2012/2013 Boys,492947,U14,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=308
+KHA1 Lexington B12,509607,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=312
+FCSC Trapped DiPalma,672767,U14,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=315
+FCSC TRAPPED THOMAS,672766,U14,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=319
+Elizabethtown FC 2012 Boys White,396602,U14,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320
+FC Kentucky 2012 Boys,493613,U14,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=326
+KH Classic B12 Trenkamp,522781,U14,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=327
+CSC U14B McGrath,623568,U14,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=329
+LSA '12 Black,539492,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=330
+Lex Sporting Club 12/13B Gray,470519,U14,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=334
+Javanon 2012 MLS NEXT AD,146881,U14,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=334
+KHA NKY B12-3,630888,U14,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=339
+SKY Academy Select 2012/2013 Boys Blue,622861,U14,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=340
+Georgetown FC U14 Rapids,608908,U14,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=345
+Pumas 12B,646237,U14,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=349
+LSA '12,484448,U14,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=349
+KHP1 Union B12,510805,U14,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=350
+LSA 2011 Boys Black,615844,U14,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=357
+LSA 2011 Boys Red,615839,U14,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=357
+12G Aspire NKY,512327,U14,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=12
+Lex Sporting Club 12G Black NL (KY),281664,U14,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=41
+12G Aspire,154896,U14,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=43
+2012 CKY Storm Girls Black,272429,U14,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=44
+MVP G12 Gold,282341,U14,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=55
+Nelson Elite 2012 Girls,294420,U14,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=62
+Lexington Sporting Club ECNL-RL 12G,281655,U14,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=67
+KHA NKY G12-1,274968,U14,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=68
+Fusion FC G12 Green,330076,U14,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=68
+Racing Academy 12 ECNL,297159,U14,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=82
+12G GA,274949,U14,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=87
+KHA NKY G12-2,274985,U14,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=90
+KHA NKY G12-2,274985,U14,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=91
+MVP G12 White,282344,U14,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=94
+Lex Sporting Club 12G Black 2,281666,U14,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=99
+SKY Academy Select 2012 Girls Black,219291,U14,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=100
+Elizabethtown FC 2012 Girls Pink,338799,U14,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=104
+Elizabethtown FC 2012 Girls Pink,338799,U14,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=105
+KHP1 Wilder G12,412867,U14,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=119
+KY Rush 2012G,520543,U14,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=127
+IAM3rd PDA 2012 Girls Black,279368,U14,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=129
+Racing Oldham 12 Purple,298503,U14,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=129
+BSC 12G Hall,638183,U14,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=131
+Racing Academy 12 ECNL-RL,297160,U14,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=143
+MUSA Flyers 2012 Girls,349119,U14,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=148
+FCSC 12G GOLD,210150,U14,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=151
+Racing Shelby 12 Purple,647769,U14,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=153
+Academy Select Black,630030,U14,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=153
+Racing Shelby 12 Pink,298523,U14,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=157
+KHA1 Lexington G12,509659,U14,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=157
+IAM3rd PDA 2012 Girls Blue,484746,U14,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=160
+Bluegrass SC 2011/2012 Girls,569986,U14,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=168
+ISC G12 United Regulators,512683,U14,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169
+Fusion FC G12 Black,330077,U14,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=174
+FCSC 2011 Girls - Huffman,569977,U14,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=175
+Fc Kentucky U12 Girls,465676,U14,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=176
+Nedo SC G2012 Gold,509352,U14,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=182
+Racing Shelby 12 Black,529380,U14,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=182
+CKFA 2012 Girls,521768,U14,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=187
+Fillies (2012),601467,U14,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=187
+Fusion FC G12 White,508512,U14,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=192
+Lady Valor United FC 2012,535854,U14,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194
+Nedo SC 2012G,479783,U14,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=198
+Racing Louisville Academy Pre-ECNL G12,487037,U14,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=208
+ISC G12 Vipers,512908,U14,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=216
+FC Kentucky 2012 Girls,493616,U14,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+2012 Paris springboks girls,557808,U14,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=220
+Lex Sporting Club 11B Green MLS Next 2,281669,U15,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=46
+SKY Academy Select 2011 Boys Black,480526,U15,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=53
+Owensboro United 2011 Boys,199625,U15,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=56
+MVP B11 Gold,172670,U15,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=56
+Lex Sporting Club 11B Black NAL,281671,U15,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=58
+WKSA 2011B,498892,U15,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=75
+Lex Sporting Club 11B Black 2,281677,U15,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=77
+Fusion FC B11 Green,330089,U15,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=83
+ISC B11 Phoenix FC,614888,U15,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=97
+KHA NKY B11-2,283914,U15,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=100
+MVP B11 Black,500673,U15,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=102
+KH Elite Cincinnati B11-R,296345,U15,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=103
+Nedo SC B2011 Gold,509329,U15,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=107
+MC Dynamo 2011/2012 Boys,394203,U15,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=112
+ISC B11 United Blue,270001,U15,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=113
+MVP B11 White,185355,U15,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=116
+FCSC 11 GOLD,276283,U15,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=118
+ISC B11 Falcons,511435,U15,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=118
+LouCity Shelby 11 Purple,304266,U15,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=119
+LouCity South 11 Black,570256,U15,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=120
+2011B Louisville City Academy ECNL,456924,U15,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=140
+KH Elite Cincinnati B11 N,304643,U15,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=141
+LSA '11 Central,410663,U15,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=145
+IAM3rd PDA 2011 Boys,299251,U15,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=146
+Javanon 2011 Boys Red,161187,U15,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=150
+ISC B11 Tigers,514491,U15,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=155
+MUSA Flyers 2011 Boys,276784,U15,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=160
+LouCity South 11 Purple,338812,U15,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=169
+FCSC 11 GREEN,210123,U15,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=182
+LouCity Academy 11 ECNL-RL,304260,U15,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=194
+Fusion FC B11 Black,414279,U15,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=200
+United 96 FC 2011 Gold,433917,U15,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=209
+LouCity Oldham 11 Purple,304265,U15,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212
+BGFC Golden Lions Academy 2011 Gold,262397,U15,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=214
+SKY Connectors,608925,U15,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=222
+CKY Storm 2011 Boys White,420896,U15,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=225
+LouCity Oldham 11 Black,310100,U15,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=229
+Georgetown FC 2011 Boys Black,480237,U15,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=230
+LouCity Academy 11 KPL,304262,U15,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=235
+SYSA 2011B Valor,271048,U15,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=239
+FC Kentucky 2011 Boys,493611,U15,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245
+KY Rush Hardin 2011 Boys,312548,U15,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=248
+Nelson Elite 2011/12 Boys,212584,U15,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=252
+LouCity Oldham 11 Grey,538430,U15,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+CKY Storm 2011 Boys Black,291076,U15,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=268
+KHA1 Lexington B11,509604,U15,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=279
+Bluegrass SC Boys 2011,490429,U15,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=282
+FCSC 11 WHITE,277100,U15,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=282
+Georgetown FC 2011 Boys Blue,312001,U15,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=284
+LouCity Shelby 11 Black,347888,U15,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=289
+Javanon 2011 MLS NEXT AD,148136,U15,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=290
+KY Rush 2011 Boys White (Old Archived),520537,U15,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=291
+KHA NKY B11-3,418005,U15,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=295
+Chivas Lex 2011,507285,U15,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302
+KY Rush 2011 Boys (U14),520533,U15,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302
+Golightly FC 2013/2011,557171,U15,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=312
+GFC 2010 Boys Black,615846,U15,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=314
+MUSA Flyers 2010 Boys,615845,U15,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=314
+Lex Sporting Club 11B B2B,574549,U15,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=321
+PFA Boys 2011,515567,U15,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=323
+Fusion FC B11 White (Archived),507985,U15,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=331
+11G Aspire,146657,U15,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=6
+Eastern Elite 2011G Blue,293427,U15,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=26
+11G GA,206848,U15,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=31
+Racing Academy 11 ECNL,298490,U15,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=33
+Fusion FC G11 Green,272921,U15,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=42
+Lex Sporting Club 11G Black NL (KY),281680,U15,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=46
+MVP G11 Gold,185431,U15,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=54
+MVP G11 White,501389,U15,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=55
+KHA NKY G11-1,274997,U15,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=56
+KHA NKY G11-2,290326,U15,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=61
+ISC G11 United Blue Elite,405041,U15,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=63
+11G Aspire NKY,274988,U15,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=69
+Fusion FC G11 Black,410426,U15,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=78
+ISC G11 United Green Playerswatch Lady Legends,429633,U15,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=83
+Javanon 2011 Girls Red,144058,U15,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=84
+U14 Fern Creek FC Panthers,403338,U15,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=88
+Georgetown FC 2011 Girls,348269,U15,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=92
+Owensboro United 2011 Girls,286698,U15,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=93
+ISC G11 Lucky Girls,513176,U15,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=94
+KH Classic G11 Owen Lightning,549953,U15,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=95
+Javanon 2011 Girls Trap,671185,U15,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=103
+KHA1 Lexington G11,509654,U15,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=109
+Racing Shelby 11 Purple,337155,U15,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113
+Racing South 11 Purple,338797,U15,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=114
+West Bluegrass Soccer Club - Fillies,558474,U15,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=116
+Racing Oldham 11 Purple,298517,U15,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=124
+MUSA Flyers 2011 Girls,497106,U15,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=126
+CKY Storm 2011 Girls Black,299498,U15,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=128
+KHP1 Wilder-Union G11,518117,U15,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=136
+'11 LSC East,484753,U15,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+2011 Nelson Elite Girls,263474,U15,Female,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=146
+Racing Louisville Academy RL G11,483915,U15,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=147
+KH Classic G11 Kramer,522784,U15,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+'11 LSC Central,553817,U15,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=151
+FCSC 11G GOLD,276898,U15,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=152
+Racing Academy 11 ECNL-RL,298492,U15,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=152
+Fern Creek FC 2011 Girls Purple,299502,U15,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=155
+Bluegrass SC Girls 2011,490430,U15,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=155
+HCSC U14G,552203,U15,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=163
+Lex Sporting Club 11G Gray,281681,U15,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=164
+Racing Shelby 11 Black,542026,U15,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=166
+Nedo SC 2011G,479786,U15,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=170
+KY Rush Hardin 2011 Girls,300888,U15,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=181
+WKSA 2011/12/13G,499182,U15,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=183
+Fern Creek FC 2011 Girls,529935,U15,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=192
+2011G Racing Louisville Academy ECNL,451282,U15,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+MC Dynamo 2011/2012 Girls,311039,U15,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=201
+Nedo 2010/2011 Girls Blue,616152,U15,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=204
+MVP B10 Gold,172774,U16,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=10
+Lex Sporting Club 10B Green MLS Next AD,261179,U16,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=35
+Lex Sporting Club 10B Black NAL,261198,U16,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=49
+FCSC 10 GOLD,164580,U16,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=52
+KH Elite Cincinnati B10 N,304608,U16,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=53
+Javanon 2010 MLS NEXT AD,280095,U16,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=58
+KHA NKY B10-2,510735,U16,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=68
+Pumas 10,567252,U16,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=72
+KHA NKY B10-1,304636,U16,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=72
+LouCity South 10 Purple,338816,U16,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=78
+ISC B10 Raiders,549622,U16,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=79
+KHA NKY B10-3,510737,U16,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=86
+MUSA Flyers 2010 Boys Blue,484522,U16,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=87
+KHA1 Lexington B10,509601,U16,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=109
+Lex Sporting Club 10B Black 2,304465,U16,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=121
+LouCity Academy 10 KPL,428440,U16,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=130
+MVP B10 Black,185357,U16,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=134
+Owensboro United 2010 Boys,215360,U16,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=139
+WKSA 2010B,499129,U16,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=146
+BGFC Golden Lions Academy 2010 Boys Gold,385963,U16,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=149
+MUSA Flyers 2010 Boys Orange,484526,U16,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=153
+IAM3rd PDA 2010 Boys,475416,U16,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=154
+LouCity Academy 10 ECNL-RL,291080,U16,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=160
+LouCity Shelby 10 Purple,304275,U16,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=163
+LSA '10 Central,583376,U16,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=165
+Pumas 2010,450876,U16,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=167
+Javanon 2010 Boys Red,155580,U16,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=174
+MVP B10 White,173170,U16,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=174
+FCSC 10 GREEN,210127,U16,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=176
+Fern Creek FC Legacy 2010 Boys,401960,U16,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=186
+2010 BGEFC,328185,U16,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=189
+SKY Academy Select 2010 Boys Black,341568,U16,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=189
+2010B Louisville City Academy ECNL,458382,U16,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=190
+KH Classic B10 Stammen Hustle FC,533904,U16,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=191
+KH Elite Cincinnati B10-R,452939,U16,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=201
+LSA '10 East,583375,U16,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=213
+CKY Storm 2010 Boys Black,473538,U16,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=225
+LouCity Oldham 10 Black,410661,U16,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=227
+Chivas Lex 2010,507288,U16,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=229
+Nedo SC B2010 Blue,509325,U16,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=229
+SKY Academy Select Logan Co. 2010 Boys,570274,U16,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=233
+Georgetown FC 2010 Boys,334755,U16,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=234
+LouCity Shelby 10 Black,410717,U16,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=238
+MC Dynamo 2010/2011 Boys,583473,U16,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=238
+Lex Sporting Club 10B Gray,480596,U16,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=241
+United 96 FC 2010 Gold,312597,U16,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=244
+KY Rush 2010 Boys (U15),589482,U16,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=251
+LSA '10 East,300088,U16,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=251
+LSA '10 Central,475709,U16,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=251
+LSA '10 South,583377,U16,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=251
+KY Rush Hardin 2010,576606,U16,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=258
+Elizabethtown FC 2010 Boys Pink,646247,U16,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=265
+10G Aspire,151018,U16,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=10
+Fusion FC G10 Green,330101,U16,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=30
+Lex Sporting Club 10G Black NL (KY),261224,U16,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=41
+ISC G10 United (Green Dragons),514650,U16,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=49
+Fusion FC G10 Black,330100,U16,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=53
+SKY Academy Select 2010/2011 Girls Black,283683,U16,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=77
+Owensboro United 2010 Girls,215361,U16,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=84
+MVP G10 Gold,185429,U16,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=94
+MUSA Flyers 2010 Girls,198526,U16,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=95
+West Bluegrass Soccer Club - Fillies,321335,U16,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=97
+FCSC 10G GOLD,210176,U16,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=99
+Fusion FC G10 White,400127,U16,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=105
+MC Dynamo 2010 Girls,492935,U16,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=119
+10G GA,285506,U16,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=121
+Georgetown FC 2010 Girls,211563,U16,Female,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=124
+Racing Academy 10 KPL,560587,U16,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=129
+CKY Storm Girls 2010 Black,300266,U16,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=131
+Racing Louisville Academy RL G10,484262,U16,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=144
+Nelson Elite 2010,401390,U16,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=148
+10G Aspire NKY,275009,U16,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=149
+'10 LSC,352737,U16,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=151
+Bowling Green FC - BGFC Golden Lady Lions Academy 2010 Gold,476062,U16,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=152
+CKY Storm 2010 Girls,586368,U16,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=157
+Paris Springboks 2010 Girls,484763,U16,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=158
+Nelson Elite 2010 Girls,481462,U16,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=158
+KHA1 Lexington G10,509642,U16,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=160
+Elizabethtown FC 2009 Girls Premier 2,645534,U16,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=161
+2010G Racing Louisville Academy ECNL,451997,U16,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=162
+Nedo SC G2011 Gold,509350,U16,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=171
+Nedo SC G2010 Gold,589589,U16,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=174
+Nedo SC G2010 Blue,589594,U16,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=174
+Nedo SC 2010G,339540,U16,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=175
+Fern Creek FC 2010 Girls,555047,U16,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=177
+Paris Springboks 2010 Girls,562971,U16,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=177
+KH Elite Cincinnati B09-R,301957,U17,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=19
+MVP B09 Gold,111067,U17,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=21
+Javanon 2009 MLS NEXT AD,141302,U17,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=24
+Lex Sporting Club 09B Green MLS Next AD,261216,U17,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=30
+KH Elite Cincinnati B09 N,304657,U17,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=41
+LouCity Academy 09 ECNL-RL,120135,U17,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=48
+Owensboro United 2009 Boys White (KY),251247,U17,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=50
+KHA NKY B09-2,510733,U17,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=53
+KHA1 Cincinnati South B09,428469,U17,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=54
+MVP B09 White,173174,U17,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=54
+BGFC Golden Lions Academy 2009 Gold,543739,U17,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=62
+Pumas 09,101191,U17,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=66
+WKSA 2009B,499133,U17,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=79
+LouCity Academy 09 KPL,434525,U17,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=80
+Lex Sporting Club 09B Black NAL,261220,U17,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=81
+LouCity Oldham 09 Purple,304276,U17,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=84
+FCSC 09 WHITE,210130,U17,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=89
+MVP B09 Black,185426,U17,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=94
+KHA NKY B09-1,428525,U17,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=94
+B2009 Louisville City Academy ECNL,459064,U17,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=97
+Lex Sporting Club 09B Black 2,304466,U17,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=101
+LouCity South 09 Purple,332158,U17,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=102
+CKY Storm 09 Boys Black,296489,U17,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=105
+United 96 FC 09 Gold,197268,U17,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=110
+United 96 FC 09 Gold,197268,U17,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=111
+Fusion FC B09 Black,414280,U17,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=111
+Owensboro United 2009 Boys Black,199627,U17,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=121
+KHP1 Wilder-Union B09,435868,U17,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123
+LouCity Shelby 09 Purple,304277,U17,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=123
+Eastern Elite 2009B Blue,567955,U17,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=127
+FCSC 09 GOLD,111411,U17,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=134
+MUSA Flyers 2009 Boys Blue,452868,U17,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=145
+KHA1 Lexington B09,509599,U17,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=146
+PFA Boys 09/10,591321,U17,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=148
+FCSC 09 GREEN,277132,U17,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=162
+SYSA 2009B Valor,270386,U17,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=163
+2009 BGEFC,422884,U17,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=166
+Nelson Elite 2009 Boys,450932,U17,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=167
+LouCity Oldham 09 Black,435365,U17,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=168
+Lex Sporting Club 09B Gray,434368,U17,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=173
+LouCity Oldham 09 Grey,569857,U17,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=174
+Nelson Elite 2009 Boys- Harrison,466448,U17,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=178
+LouCity Shelby 09 Grey,585753,U17,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=180
+Fusion FC B09 White,507984,U17,Male,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=182
+CKY Storm 09 Boys White,296491,U17,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=182
+LouCity Shelby 09 Black,468632,U17,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=186
+KHP1 Lexington B09,524269,U17,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=195
+BGFC Golden Lions Academy 2009/10 Black,543741,U17,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=196
+Georgetown FC 2009 Boys,249180,U17,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199
+GFC 2007 Boys,484681,U17,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=206
+U15 Springboks,302379,U17,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=210
+CKFA 2009 Boys,521777,U17,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=211
+United 96 FC 2008 Boys International,615854,U17,Male,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=214
+LSA '09,465264,U17,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=224
+09G Aspire,98938,U17,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=22
+KHA1 Lexington G09,509634,U17,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=31
+Racing South 09 Purple,338807,U17,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=33
+KHA NKY G09-2,421563,U17,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=33
+Nelson Elite 2009 Girls,484779,U17,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=47
+MVP G09 Gold,185433,U17,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=56
+KHA NKY G09-1,216586,U17,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=61
+ISC G09 United,564311,U17,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=73
+Lady Pumas 09,442075,U17,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=74
+Racing Shelby 09 Purple,410723,U17,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=82
+Fusion FC G09 Green,330079,U17,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=84
+FCSC 09G GOLD,277129,U17,Female,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=85
+Racing South 09 Black,338809,U17,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=87
+Racing Louisville Academy ECNL RL G08,588064,U17,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=88
+Lex Sporting Club 09G Black NL (KY),261261,U17,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=89
+Fusion FC G09 Black (Archived),283436,U17,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=93
+09G Aspire NKY,275011,U17,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=96
+ISC G09 Dragons,222608,U17,Female,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=98
+Racing Oldham 09 Purple,298519,U17,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=100
+BSC Boyle Elite 09G,431734,U17,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=106
+MCC Lady Revolution 2009G,520731,U17,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=107
+Racing Shelby 09 Purple,347987,U17,Female,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=111
+09G GA,285507,U17,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=114
+KHP1 Wilder-Union G09,290333,U17,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=114
+FCSC 09G GREEN,279072,U17,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=115
+'09 LSC,583342,U17,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=120
+Bluegrass Boyle Girls 2009/2010,560289,U17,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122
+MUSA Flyers 2009 Girls,351155,U17,Female,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122
+KY Rush U17 Girls,484801,U17,Female,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=124
+2009G Racing Louisville Academy ECNL,452529,U17,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=126
+Racing Louisville Academy RL G09,485169,U17,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=135
+BGFC Golden Lions Academy 2008 Gold,417999,U18,Male,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=31
+MVP B07/08 Gold,173194,U18,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=33
+MVP B08 White,185420,U18,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=33
+KHA1 Cincinnati South B08,42534,U18,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=37
+KHSC Classic B08/09 Green - FC Bayern,577214,U18,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=39
+KHA1 Lexington B08,525187,U18,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=40
+LouCity Oldham 08 Black,435364,U18,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=45
+Javanon 2008 Boys Red,456086,U18,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=52
+Owensboro United 2008 Boys,199629,U18,Male,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=53
+Javanon 2008 MLS NEXT AD,31211,U18,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=54
+MC Dynamo 2008/2009 Boys,492946,U18,Male,GotSport Rankings,0,KY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=56
+MC Dynamo 2008/2009 Boys,492946,U18,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=57
+MVP B08 Black,501387,U18,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=62
+Elizabethtown FC 2008 Boys Pink,568354,U18,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=62
+KH Elite Cincinnati B07/08 N,314249,U18,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=64
+WKSA 2008B Royal,499131,U18,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=64
+WKSA 2008B Royal,499131,U18,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=65
+CKY Storm 08 Boys Black,334630,U18,Male,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=66
+MUSA Flyers 2008 Boys,328318,U18,Male,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=68
+Pumas 08,113433,U18,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=71
+Fusion FC B08 Black,330055,U18,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=72
+Nelson Elite 2008 Boys,214673,U18,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=73
+LouCity Academy 08 ECNL,319204,U18,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=73
+United 96 FC 08 Gold,355248,U18,Male,GotSport Rankings,0,KY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=75
+Fusion FC B08 Green (Archived),330094,U18,Male,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=76
+LouCity Academy 08 ECNL-RL,314064,U18,Male,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=88
+Elizabethtown FC 2008 Boys Black,396619,U18,Male,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=92
+Lex Sporting Club 08B B2B,480581,U18,Male,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=94
+Georgetown FC 2008 Boys Blue,591911,U18,Male,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=98
+Georgetown FC 2008 Boys Black,313017,U18,Male,GotSport Rankings,0,KY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=102
+Travel U18 Win-City Wolves,609268,U18,Male,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=105
+SKY Academy Select Logan Co. 2008 Boys,570272,U18,Male,GotSport Rankings,0,KY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=118
+WEST LOUISVILLE SOCCER 2008,592859,U18,Male,GotSport Rankings,0,KY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=125
+FC Kentucky 2009 Boys,498712,U18,Male,GotSport Rankings,0,KY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=133
+KY Rush 2008 Boys (U17),589478,U18,Male,GotSport Rankings,0,KY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=135
+Nedo SC B2008 Gold,589586,U18,Male,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=135
+Eastern Elite 08/09G Blue,294467,U18,Female,GotSport Rankings,0,KY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=9
+KH ECRL G08,313090,U18,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=12
+FCSC 08G GOLD,302375,U18,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=30
+SKY Academy Select 2008/2009 Girls Black,345300,U18,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=50
+CKY Storm 2008 Girls Black,465891,U18,Female,GotSport Rankings,0,KY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=52
+08G GA,285508,U18,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=53
+FC Kentucky 2009 Girls,557257,U18,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=54
+Owensboro United 2007 Girls,598542,U18,Female,GotSport Rankings,0,KY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=56
+2008G Racing Louisville Academy ECNL,453186,U18,Female,GotSport Rankings,0,KY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=59
+Lex Sporting Club 08G Black,282116,U18,Female,GotSport Rankings,0,KY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=61
+08/07G Aspire,98637,U18,Female,GotSport Rankings,0,KY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=63
+KHA2 Lexington G08/09,509684,U18,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=64
+SKY Academy Select 2008/2009 Girls Blue,337437,U18,Female,GotSport Rankings,0,KY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=65
+KHP1 Wilder-Union G08,477769,U18,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=66
+Vine Grove Galaxy 2008 Girls,601916,U18,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=69
+Racing Shelby 08 Purple,347994,U18,Female,GotSport Rankings,0,KY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=70
+MVP G08 Gold,185432,U18,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=75
+MVP 2007 Girls Gold,616167,U18,Female,GotSport Rankings,0,KY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=80
+Nedo SC G2008 Gold,590723,U18,Female,GotSport Rankings,0,KY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=85
+CKFA 2008 Girls,521749,U18,Female,GotSport Rankings,0,KY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=85
+FC Kentucky 2008 Girls White,582638,U18,Female,GotSport Rankings,0,KY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=85
+FC Kentucky U17 Girls,466042,U18,Female,GotSport Rankings,0,KY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=85

@@ -1,0 +1,211 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+HSC Bulls 16B-II,433878,U10,Male,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65
+HSC Bulls 16B-I,433600,U10,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=78
+Kona Super Sonics 2016B,628977,U10,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=113
+Hawaii Rush 16B Nero,434247,U10,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=132
+OA B16 Academy,438665,U10,Male,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=150
+Hawaii Rush 16B,434241,U10,Male,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=155
+Rush Mililani 16B,437207,U10,Male,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=164
+Hawaii Soccer Academy 16G HK,630407,U10,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=17
+HSC Bulls 16G - I,443190,U10,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=31
+Hawaii Soccer Academy 2016G,648521,U10,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=70
+Hawaii Rush East 15B,319507,U11,Male,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=191
+RUSH Mililani 15B,437206,U11,Male,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=196
+Hawaii Rush East 15B White,569347,U11,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=198
+Kona Super Sonics 2015B,633649,U11,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=232
+Kipuupuu United SC U11 Boys,556254,U11,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=245
+Universal SC 15B,600859,U11,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=251
+OA B15 Academy I,568555,U11,Male,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+Hawaii Soccer Academy 2015 Boys Black,396869,U11,Male,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=257
+HSC Bulls 15B - I,315092,U11,Male,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=280
+Lightning FC 2015B,510433,U11,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=317
+Hawaii Rush Mililani 15B,310308,U11,Male,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=340
+ATHENS UNITED 15B Black,675000,U11,Male,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=370
+Hawaii RUSH 15B Azul,310307,U11,Male,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+Hawaii RUSH 15B Nero,310306,U11,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=383
+HSC Bulls 15B-II,391117,U11,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=391
+Surf Hawaii 15B Academy I,632736,U11,Male,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=399
+OA B15 Academy,438664,U11,Male,GotSport Rankings,0,HI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=412
+15G Nero,315104,U11,Female,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=14
+15G,314962,U11,Female,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=23
+Hawaii RUSH 15G Nero,321517,U11,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=29
+Leahi 2015 Blue,409955,U11,Female,GotSport Rankings,0,HI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=39
+Hawaii RUSH 15G,321516,U11,Female,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=44
+Hawaii Rush 15G Azul,529830,U11,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=46
+Hawaii Rush 15G East,443735,U11,Female,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109
+Universal SC 15G,515301,U11,Female,GotSport Rankings,0,HI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=175
+Inter Ohana CF - 15G Blanco,568519,U11,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=187
+OA G15 Academy,568236,U11,Female,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=198
+Leahi '15 West Blue,569711,U11,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=199
+OA G15 Premier,568237,U11,Female,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+MIA Elite Academy,654519,U12,Male,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=34
+14B,443736,U12,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=47
+Hawaii Soccer Academy 2014 Boys Black,396857,U12,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=113
+Hawaii RUSH 15B,310305,U12,Male,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=151
+HSC Bulls 14B,367469,U12,Male,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=232
+Inter Ohana CF - 14B Rosa,568520,U12,Male,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=247
+FC Hawaii 14B,353749,U12,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=273
+Na Koa 2014B,529399,U12,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=303
+OA B14 Academy,359907,U12,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=305
+FC Hawaii 14B Red,398606,U12,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=309
+Hawaii Rush 14B,235294,U12,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=351
+Inter Ohana CF - 14B Blanco,568521,U12,Male,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=351
+BVB IA Hawaii 2014B Black,559208,U12,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=365
+U11,580064,U12,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=370
+14B Azul,440179,U12,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=370
+Surf Hawaii 14B Academy I,511206,U12,Male,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=381
+Hawaii Rush 14B Nero,310678,U12,Male,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=410
+Inter Ohana CF - 14B Gris,568522,U12,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=427
+FC Hawaii 14B Blue,398607,U12,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=431
+Hawaii Rush 14B Azul,440180,U12,Male,GotSport Rankings,0,HI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=432
+Hawaii Rush 14G Nero (Black),317444,U12,Female,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=27
+Hawaii Rush 14G (Blue),317442,U12,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=36
+Surf Hawaii 14G Academy I,607503,U12,Female,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=78
+Leahi Windward,640037,U12,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=132
+Hawaii Rush 14G Azul (White),435078,U12,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=137
+Hawaii Rush 14G East,319509,U12,Female,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=138
+ALBION SC Hawaii OA G14 Academy,320365,U12,Female,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=142
+Lightning FC 2014G Black,605590,U12,Female,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=150
+HSC Bulls 14G,381760,U12,Female,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=201
+Inter Ohana CF - 14G Rosa,568523,U12,Female,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=202
+Kauai Rush 14G,303411,U12,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=206
+Leahi '14 Blue,532743,U12,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=222
+BI RUSH 2014,509483,U12,Female,GotSport Rankings,0,HI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=229
+BVB IA Hawaii 14G,520674,U12,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253
+HSC Bulls 15G,404717,U12,Female,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=264
+HSC Bulls 13B - I,386258,U13,Male,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=25
+B13 Academy,168633,U13,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=77
+Hawaii Rush Kauai 2013B,428758,U13,Male,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=196
+Leahi Na Koa '13B Blue,517853,U13,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=204
+OA B13 Academy,380581,U13,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=229
+Inter Ohana CF - 13B Rosa,568524,U13,Male,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=303
+Hawaii RUSH 13B Azul,309670,U13,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=303
+Edinburgh travel 2025,543177,U13,Male,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=304
+Ballistic 12B Speed,650739,U13,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=361
+BVB IA HI 2013B Black,565513,U13,Male,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371
+2013B,517897,U13,Male,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=389
+OA B13 Academy I,380591,U13,Male,GotSport Rankings,0,HI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=391
+Hawaii Rush 13B East,567207,U13,Male,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=401
+OA B13 Premier,567702,U13,Male,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=425
+Hawaii Rush 13G,299563,U13,Female,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=5
+Leahi 13 West Green,407773,U13,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=41
+Whitfield 13G Royal,420702,U13,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=69
+BVB IA Hawaii 2013G,572557,U13,Female,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=119
+Hawaii Rush 13G,435077,U13,Female,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=139
+OA G14 Academy,402799,U13,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=153
+Leahi '13 Blue,407777,U13,Female,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=160
+FC Hawaii 13G,398612,U13,Female,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=176
+Surf Hawaii 13G Academy I,607445,U13,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=248
+Hawaii Rush 13G Nero,317254,U13,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=251
+Inter Ohana CF - 13G Rosa,568525,U13,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=255
+OA B12 Academy,291504,U14,Male,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=62
+FC Hawaii 12B,106503,U14,Male,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=110
+Hawaii RUSH 12B East,298199,U14,Male,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=143
+OA B12 Academy I,355737,U14,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=215
+Kipuupuu United SC U15 Boys,558613,U14,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=237
+Hawaii United 2012 Gold,658634,U14,Male,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=238
+Hawaii Soccer Academy 2012 Boys,298138,U14,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=276
+Arsenal FC 12B,567763,U14,Male,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=300
+FC Hawaii 12/13B,398603,U14,Male,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=308
+HSC Bulls 12B - I,305664,U14,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=313
+OA B12 Premier,438549,U14,Male,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=326
+Na Koa 2012 West,644036,U14,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=348
+Leahi '12 Premier Green,434989,U14,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=7
+Leahi '12 Premier Blue,407768,U14,Female,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=21
+ALBION SC Hawaii G12 Academy,168646,U14,Female,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=34
+Shockers 2012,315320,U14,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=44
+OA G12 Academy,348088,U14,Female,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=73
+Mililani Rush 12G,438470,U14,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=104
+FC Hawaii 12G Red,398610,U14,Female,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+Surf Hawaii 12G Academy I,305823,U14,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=153
+Leahi '12 Maile Blue,407775,U14,Female,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=158
+Hawaii Rush 12G East,317255,U14,Female,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=174
+KEAHI SC 13UG,598099,U14,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=215
+Hawaii Soccer Academy 2012 Girls,397875,U14,Female,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=221
+Millani Rush 12G,440797,U14,Female,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=222
+FC Hawaii 11B,158664,U15,Male,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=20
+Mililani Rush 11B,388840,U15,Male,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=21
+Hawaii RUSH 11B,153474,U15,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=94
+Hawaii Soccer Academy 2011 Boys,298126,U15,Male,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=113
+Mililani Rush 11B Blue,391180,U15,Male,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=131
+B11 Academy,239206,U15,Male,GotSport Rankings,0,HI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=160
+Hawaii Rush 12B,234264,U15,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=176
+HSC Bulls 12B - II,407497,U15,Male,GotSport Rankings,0,HI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=184
+Hawaii RUSH 12B Nero,298205,U15,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=215
+Hawaii Rush 11B East,310644,U15,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=243
+KEAHI SC 14UB,423358,U15,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=263
+Hawaii RUSH 11B Nero,166604,U15,Male,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=271
+Surf Hawaii 11B Academy I,196091,U15,Male,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=280
+Leahi '11 Premier,532947,U15,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=5
+Hawaii RUSH 11G,153508,U15,Female,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=12
+ALBION SC Hawaii G11 Academy,168645,U15,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=24
+Hawaii RUSH 12G,220101,U15,Female,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=33
+Whitfield SC 2011G,578579,U15,Female,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34
+Hawaii Rush 11G Nero,242449,U15,Female,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=56
+Hawaii Soccer Academy 2011 Girls Black,168824,U15,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=69
+Kipuupuu United SC U15 Girls,313924,U15,Female,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=106
+OA G11 Academy,438544,U15,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=137
+Shockers 2011 Black,267633,U15,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=156
+BI Rush 2011G,568707,U15,Female,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=156
+Hawaii Soccer Academy 2011 Girls,298139,U15,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=170
+Leahi '12 Maile Green,570702,U15,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=178
+FC Hawaii 11G Red,278048,U15,Female,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=179
+FC Hawaii - 11G,684300,U15,Female,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+Surf Hawaii 11G Academy I,391567,U15,Female,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+FC Hawaii 10B Red,158660,U16,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=96
+FC Hawaii 10B Red,158660,U16,Male,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=97
+Hawaii Rush 10B East,508362,U16,Male,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=101
+Whitfield 10B Royal,318388,U16,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=132
+HSC Bulls 11B I,313684,U16,Male,GotSport Rankings,0,HI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=136
+Hawaii RUSH 10B,153482,U16,Male,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=196
+HSC Bulls 11B - II,313685,U16,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=196
+Mililani Rush 10B,391179,U16,Male,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208
+OA B10 Academy,291513,U16,Male,GotSport Rankings,0,HI,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=222
+HSC Bulls 10B - I,152805,U16,Male,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=226
+Surf Hawaii 10B Academy,607446,U16,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=233
+U14 Celtic,423139,U16,Male,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=239
+Hawaii Soccer Academy 2010 Boys,168826,U16,Male,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=245
+Hawaii RUSH 10B Nero,169652,U16,Male,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=256
+Hawaii RUSH 10G,153510,U16,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=27
+Surf Hawaii 10G Academy I,391568,U16,Female,GotSport Rankings,0,HI,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=48
+Hawaii RUSH 10G Blue,571313,U16,Female,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=55
+Whitfield SC 10G Royal,228345,U16,Female,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=68
+Maui Strikers Mixed Plate Girls 2010,491491,U16,Female,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=77
+Hawaii RUSH 10G Nero,326557,U16,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=101
+Hawaii RUSH 10G East,170582,U16,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=104
+Surf Hawaii 10G Academy II,391569,U16,Female,GotSport Rankings,0,HI,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=147
+Leahi '10 Premier Blue,282696,U16,Female,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=153
+Hawaii Soccer Academy 2010G HK,302264,U16,Female,GotSport Rankings,0,HI,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=157
+Hawaii Rush Kauai 10G,310373,U16,Female,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=157
+Leahi '10 Maile,634672,U16,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=161
+Leahi '10 Premier,430323,U16,Female,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=166
+MISO Elite Hawaii G09,583602,U16,Female,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=178
+Hawaii RUSH 09B East,164143,U17,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=23
+FC Hawaii 09B,158659,U17,Male,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=30
+Albion B09 Academy Hawaii,580929,U17,Male,GotSport Rankings,0,HI,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=77
+Leahi Na Koa 2009B,388571,U17,Male,GotSport Rankings,0,HI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=111
+OA B09 Academy,291508,U17,Male,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=120
+Hawaii RUSH 09B,153485,U17,Male,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=138
+Hawaii Rush 09B Nero,406251,U17,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=220
+ALBION SC Hawaii G09 Academy 1,583953,U17,Female,GotSport Rankings,0,HI,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=19
+09GA,312879,U17,Female,GotSport Rankings,0,HI,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=61
+Surf Hawaii 09G Academy I,160831,U17,Female,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=65
+Leahi '09 Windward,419112,U17,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=71
+Leahi 09 Maile,582855,U17,Female,GotSport Rankings,0,HI,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=85
+ALBION SC Hawaii G09 Academy,168643,U17,Female,GotSport Rankings,0,HI,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=86
+FC Hawaii 09G Red,158663,U17,Female,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=91
+Hawaii Soccer Academy 2009 Girls,235435,U17,Female,GotSport Rankings,0,HI,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=109
+Na Alapa Hawaii 16 Wahine,112404,U17,Female,GotSport Rankings,0,HI,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=110
+Hawaii RUSH 10G Blue,321602,U17,Female,GotSport Rankings,0,HI,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=113
+Hawaii RUSH 09G,153512,U17,Female,GotSport Rankings,0,HI,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=117
+08B East,303181,U18,Male,GotSport Rankings,0,HI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=9
+08B,228328,U18,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=25
+Hawaii United 09/10B,656541,U18,Male,GotSport Rankings,0,HI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=77
+Na Alapa Hawaii 17 Kane,112403,U18,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=100
+Na Hoa o Puna 17UB,320127,U18,Male,GotSport Rankings,0,HI,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=119
+Hawaii Rush 08B,563301,U18,Male,GotSport Rankings,0,HI,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=133
+08B East Blue,573930,U18,Male,GotSport Rankings,0,HI,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=136
+Hawaii Rush 08G,77973,U18,Female,GotSport Rankings,0,HI,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=5
+08GA,312878,U18,Female,GotSport Rankings,0,HI,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=41
+Surf Hawaii 08G Academy,160829,U18,Female,GotSport Rankings,0,HI,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=57
+Leahi 08 Maile,75637,U18,Female,GotSport Rankings,0,HI,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=73

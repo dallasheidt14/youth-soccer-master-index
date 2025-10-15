@@ -1,0 +1,731 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+WSA 16 Boys White,299889,U10,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=14
+ESC ACADEMY 2016 BOYS GOLD,302861,U10,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=17
+OKC 405 FC 2016 B - Fuego,579091,U10,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=27
+ESC ACADEMY 2016 BOYS WHITE,302864,U10,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=28
+EFC Strikers U10 Academy,170984,U10,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=34
+Apex Academy,532299,U10,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=37
+ESC ACADEMY 2016 BOYS RED,302865,U10,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=46
+OKC 405 FC 2015B Yellow,555530,U10,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=48
+Sonic,313969,U10,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=52
+OKC 405 FC 2016 B - Pumas,524855,U10,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=53
+Arsenal,33017,U10,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=54
+LSC Academy 2016 Blue,401470,U10,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=55
+FC Tulsa Academy 16 Boys Yellow,525968,U10,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=72
+Steelers,298334,U10,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=118
+OKC Crew '16,524170,U10,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=118
+Western Oklahoma F.C. 16/17 B,425640,U10,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=123
+CNP ROGUE 16B,590511,U10,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=128
+NWO FC 2016 black,396783,U10,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129
+PC United 2016B,522774,U10,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=130
+Oklahoma Cosmos Academy 16B Premier,387933,U10,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=131
+Titans,180674,U10,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=139
+NOKC 2016 Boys White,286964,U10,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=142
+ESC ACADEMY 2016 GIRLS BLACK,302901,U10,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=21
+OKC 405 FC 2016 G - Sanchez,404816,U10,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=28
+EFC Strikers (Black) U10,170933,U10,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=29
+OKC 405 FC 2016 G - Elite,643624,U10,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=38
+LSC Academy 2016 Blue,523330,U10,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=41
+PC United 2016G,522775,U10,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=42
+NWO FC 2016 G,585683,U10,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=48
+Enid Academy Red U10G Liddell,552057,U10,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=57
+ESC ACADEMY 2016 GIRLS WHITE,302869,U10,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=58
+NOKC 2015 Girls White,563969,U10,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=61
+2016G Celtic Green,610479,U10,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=67
+NOKC 2016 Girls Black,348519,U10,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=70
+Oklahoma Cosmos Academy 16G Premier,387925,U10,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=82
+Oklahoma Cosmos Academy 16G Select,631977,U10,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=83
+PURPLE REIGN 2016,47465,U10,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=87
+BA Express 2016G Elite,580254,U10,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=95
+NEOFC 16 Girls Blue,410628,U10,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=98
+Greenwood 2015 Pre-MLS Next,489101,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=6
+WSA South Arsenal 2015B,11924,U11,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=15
+OK Energy FC 15B Pre-ECNL,622852,U11,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=32
+ESC ELITE ACADEMY 2015 BOYS GOLD,164423,U11,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=42
+NWO Green Monsters 2015 B,177714,U11,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=63
+PC United SA United 2015B,522771,U11,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=64
+Oklahoma Cosmos 15B Elite,254551,U11,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=71
+NEOFC Bartlesville 15 Boys Gray,409586,U11,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=76
+Sporting Oklahoma 15B,158083,U11,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=87
+NEOFC 15 Boys Blue NPL,208920,U11,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=90
+WSA OKC 15 Boys Integrity,525319,U11,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=90
+WSA 15 Boys White (Romo),283104,U11,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=91
+Tulsa SC Pre-ECNL RL B15,186077,U11,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=117
+GOAT'd Guys,412685,U11,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=121
+Elite Football Academy 2015 black,512762,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=136
+OK Energy FC 15B Black,622856,U11,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=141
+Oklahoma Cosmos 16B Elite,387932,U11,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=146
+Sporting Oklahoma 15B White,158089,U11,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=150
+Enid Tornados Gutierrez,26801,U11,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=151
+ESC ELITE ACADEMY 2015 BOYS BLACK,420784,U11,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=166
+WSA OKC 15 Boys (Ferlaino),525320,U11,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=172
+Apex 2015 Boys,148259,U11,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=175
+WSA South 15 Boys (Pedro Colina),525341,U11,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=177
+FC Tulsa Academy 15 Boys Black,247488,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=183
+Sporting Oklahoma 15B Blue,158086,U11,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=211
+Sporting Oklahoma 15B Red,266618,U11,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=216
+WSA OKC 16 Boys (Thomas),525321,U11,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=216
+WSA 15 Boys (Keck),527138,U11,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=219
+OKC 405 FC 2015B Green,404819,U11,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=223
+OEFC 14B Navy,635044,U11,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235
+NEOFC Bartlesville 15 Boys White,409642,U11,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=238
+NOKC 2016 Boys Red,224220,U11,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=248
+EFC U11 BOYS,639760,U11,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=255
+OK Energy FC 15B White,622855,U11,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+NWO FC 16 Elite,582368,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=270
+Elite Football Academy 2015 Pink,522431,U11,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=272
+ESC 2015 BOYS TIGERS,295312,U11,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=276
+WSA OKC 15 Boys (Zepeda),536619,U11,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=285
+Oklahoma Cosmos 15B Premier,291229,U11,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=292
+Oklahoma Cosmos 15B Select,291231,U11,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=292
+ESC ACADEMY 2015 BOYS RED,420801,U11,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=297
+OK Energy FC 15B Gold,622858,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=299
+Tulsa SC 15B Red,403561,U11,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=302
+ESC 2015 BOYS COLLARD,31185,U11,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=305
+2015 B Green,659635,U11,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=306
+BA Express 2015B Elite,505870,U11,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=306
+OK Energy FC 15B Grey,622863,U11,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=307
+ESC ACADEMY 2015 BOYS BLUE,220280,U11,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=314
+OK Energy FC 15B Red,622857,U11,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=327
+OK Energy FC 15B Silver,622860,U11,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=328
+FC Tulsa Academy 15 Boys Premier,247484,U11,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=332
+Mini-Miami Inter,33023,U11,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336
+OK Energy FC 15B Pre-ECRL,622853,U11,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=342
+Westminster United,608959,U11,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=351
+PC Dragons,559661,U11,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=357
+Oklahoma Celtic 2015B White,609106,U11,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=360
+SSC U10 Academy Boys-Black,34660,U11,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=360
+ESC ACADEMY 2015 BOYS GREEN,420799,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=362
+Royals,648466,U11,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=392
+OK Energy FC 15B Green,622869,U11,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=395
+Strikers,592136,U11,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=415
+ESC ACADEMY 2015 BOYS ORANGE,593774,U11,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=417
+*FC Tulsa Academy 15 Girls Elite,57276,U11,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=3
+FC Tulsa Academy 15 Girls Pre ECNL RL,638115,U11,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=15
+OK Energy FC 15G Pre-ECNL,622870,U11,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=24
+NWO FC 2015 G,545079,U11,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=36
+ESC ELITE ACADEMY 2016 GIRLS GOLD,420804,U11,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=39
+LSC Legacy Buffaloes 2015,523326,U11,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=42
+Sporting Oklahoma 15G,266612,U11,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=44
+Tulsa SC 15G Pre GA,317438,U11,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=46
+Oklahoma Cosmos 16G Elite,387923,U11,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=46
+NOKC 2016 Girls Red,233685,U11,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=47
+Oklahoma Cosmos 15G Premier,307564,U11,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=53
+Oklahoma Celtic Pre ECNL RL G15,47842,U11,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=53
+Oklahoma Cosmos 15G Elite,254552,U11,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=54
+WSA 15 Girls Gold,318474,U11,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=57
+NEOFC Bartlesville 15 Girls Gray,291125,U11,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=70
+NOKC 2015 Girls Black,588999,U11,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=73
+Greenwood OKC 2015 Girls,657130,U11,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=80
+ESC ELITE ACADEMY 2015 GIRLS BLACK,164421,U11,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=85
+NEOFC 15 Girls Blue,291123,U11,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=91
+FC Tulsa Academy 15 Girls Premier,247586,U11,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=97
+WSA OKC 15 Girls (Franklin),536618,U11,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=98
+Sparklers--Anderson,176023,U11,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=106
+OKC 405 FC 2015G Yellow,459354,U11,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=111
+OK Energy FC 15G White,622874,U11,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=136
+OK Energy FC 15G Pre-ECRL,622871,U11,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=148
+BA Express 2015G Premier,451569,U11,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=158
+ESC ACADEMY 2015 GIRLS RED,164422,U11,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=171
+Apex 2014 Girls,659108,U11,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=173
+FC Tulsa Academy 15 Girls Black,204307,U11,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=176
+SSC U10 Academy Girls,295776,U11,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=185
+Oklahoma Cosmos 15G Select,552867,U11,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=193
+ESC ACADEMY 2015 GIRLS GREEN,154188,U11,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=193
+OK Energy FC 15G Red,622877,U11,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=193
+Oklahoma Celtic G15 White,155418,U11,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203
+Tulsa SC 15G Navy,317565,U11,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=206
+Enid SC Lady Knights Leddy Blue,300711,U11,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=207
+OK Energy FC 15G Black,622875,U11,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=212
+OK Energy FC 15G Pre-ECRL2,622872,U11,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=216
+NEOFC 15 Girls Red,291124,U11,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=232
+OK Energy FC 14B Pre-ECNL,499339,U12,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=7
+NWO FC 2015 Elite,395471,U12,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=32
+OK Energy FC 14B Pre-ECRL,499341,U12,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=39
+FC Tulsa Academy 14 Boys Pre ECNL RL,65708,U12,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=47
+OK Energy FC 14B Pre-ECRL2,499342,U12,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=50
+OK Energy FC 14B Black,499347,U12,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=52
+OK Energy FC 14B Red,499348,U12,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=55
+NWO Villanos FC,515975,U12,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=72
+Greenwood 2014 Pre-MLS Next,491754,U12,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=74
+CNP ROGUE 14/15B,282175,U12,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=87
+Vision 2014B Orsi,254031,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=89
+Tulsa SC Pre-ECNL RL B14,42010,U12,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=92
+OKC 405 FC 2014 B - Real Lions,367286,U12,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=103
+OKC 405 FC 2014 B - Real Lions,367286,U12,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=104
+Oklahoma Cosmos 14B Premier,159645,U12,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=106
+OEFC - ESC 2015 Boys Gold Elite,519729,U12,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=107
+OK Energy FC 14B Gold,499350,U12,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=108
+OEFC - ESC 14 Oklahoma Sounders White,511096,U12,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=109
+OK Energy FC 14B White,499346,U12,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=109
+OK Energy FC 14B White,499346,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=110
+Greenwood Pre-MLS Next 2 2014 B,491755,U12,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=110
+Oklahoma Cosmos 14B Elite,97046,U12,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=117
+FC Tulsa Academy 14 Boys Yellow,204305,U12,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=118
+OK Energy FC 14B Grey,499352,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=124
+Tulsa SC Pre-ECNL B14,42011,U12,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=126
+Oklahoma Celtic Pre ECNL RL B14,292547,U12,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=133
+OK Energy FC 14B Silver,499351,U12,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=137
+*FC Tulsa Academy 15 Boys Pre ECNL RL,247482,U12,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=142
+FC Tulsa Academy 14 Boys Black,47928,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=163
+OEFC - NOKC 15 Boys Red,518331,U12,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=164
+Oklahoma Celtic B14 Black,47855,U12,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=167
+NWO Green Monsters 2014 B,317389,U12,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=171
+OEFC - ESC 2015 Boys White Elite,527695,U12,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+WSA Pre-ECNL RL B14,40812,U12,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=182
+OK Energy FC 14B Emerald,499356,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=190
+Enid Roadrunners Reynolds,454765,U12,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=190
+Enid Roadrunners Reynolds,454765,U12,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=191
+FC Tulsa Academy 14 Boys Premier,65709,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=205
+Tulsa SC 14B Red,403673,U12,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+BA Express 2014B Premier,391738,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212
+Sporting Oklahoma 14B,39098,U12,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=213
+Oklahoma Celtic B14 Gold,47856,U12,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=219
+Oklahoma Cosmos 14B Classic,519588,U12,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=222
+Oklahoma Cosmos 14B Classic,519588,U12,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=223
+WSA 2008 Boys Tulsa,582396,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=228
+Western Oklahoma F.C. 14/15B,284365,U12,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=229
+WSA OKC 14 Boys (Zepeda),524929,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=231
+United U11 Blue,526910,U12,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=238
+Sheffield Rise 2014/15B,259847,U12,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=238
+BA Express 2014B Classic,265713,U12,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=248
+NWO FC 2014 Elite,512763,U12,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=257
+Oklahoma Cosmos 14B Select,159646,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=257
+tecnico 10 2014 black,588151,U12,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=258
+Cyclones,420757,U12,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=262
+OEFC - ESC 14 Oklahoma Sounders Black,643421,U12,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=263
+Vision 2014B Stockwell,48162,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=269
+WSA 14 Boys Navy (Nano),419509,U12,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=272
+OKC 405 FC 2014 B - Villanos,642883,U12,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=279
+Oklahoma Celtic B14 White,47854,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=284
+Enid Elite 14B,552054,U12,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=304
+BA Express 2014B Elite,504026,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=304
+OK Energy FC 14B Blue,499354,U12,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=308
+NOKC 2015 Boys White,158237,U12,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=326
+NEOFC 14 Boys Blue,145773,U12,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=339
+NWO FC 2014 premier,522433,U12,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=355
+Enid Barcelona Huerta,50688,U12,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=360
+Oklahoma Celtic Pre ECNL RL B15,155451,U12,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=371
+z - OK Energy FC 14B Orange,499359,U12,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=386
+Revolution FC 2014,252153,U12,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=393
+WSA South 14 Boys (Holt),525336,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=395
+NOKC 2015 Boys Black,164148,U12,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=396
+OKC 405 FC 2014B Green,158271,U12,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=396
+APEX FC 14 Boys Black,526373,U12,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=408
+Stillwater SC U12 Boys Team 3-Sadler,187705,U12,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=409
+U12 Moskal,47950,U12,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=417
+APEX FC 14 Boys Black,582789,U12,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=431
+WSC Elite U12,373790,U12,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=440
+14 Red Bulls,208584,U12,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=443
+NOKC 2015 Boys Green,224007,U12,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=447
+WSA 14 Girls White (Waylon),11895,U12,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=8
+FC Tulsa Academy 14 Girls Elite,65702,U12,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=40
+OEFC - NOKC 15 Girls Red,519725,U12,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=51
+APEX FC 14 Girls Orange,455278,U12,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=56
+Oklahoma Cosmos 14G Elite,97047,U12,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=62
+OK Energy FC 14G Pre-ECNL,499360,U12,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=62
+ESC ELITE ACADEMY 2015 GIRLS GOLD,49684,U12,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=70
+Western Oklahoma F.C. 14/15G,36105,U12,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=76
+FC Tulsa Academy 14 Girls Premier,235057,U12,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=77
+Oklahoma Celtic G14 White,419906,U12,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=80
+WSA 2014G SOUTH (AUSTIN),527124,U12,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=85
+OEFC - ESC 2015 Girls Gold Elite,519728,U12,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=86
+NEOFC Bartlesville 14 Girls Gray,145780,U12,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=90
+ElevateFC 14 Girls,42115,U12,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=93
+WSA OKC 14 Girls (Castellanos),524930,U12,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=94
+WSA OKC 14 Girls (Castellanos),524930,U12,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=95
+Sheffield Rise 2014/15G,514946,U12,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96
+OK Energy FC 14G Pre-ECRL2,499365,U12,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96
+OK Energy FC 14G Black,499367,U12,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=98
+Northwest Oklahoma FC 2014G,533514,U12,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=99
+ERSC 2014G,31989,U12,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=99
+OK Energy FC 14G Pre-ECRL,499364,U12,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=102
+Express 2014G Premier,291050,U12,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=103
+Tulsa SC 14G Navy,223864,U12,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=103
+OK Energy FC 14G White,499366,U12,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=108
+BA Express 2014G Classic,505816,U12,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=111
+NEOFC 14 Girls Blue,145711,U12,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=115
+Vision 2014G Owen,48163,U12,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=116
+OEFC - ESC 2015 Girls White Elite,581786,U12,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=124
+WSA 14 Girls South Navy (Young),524909,U12,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=130
+NWOFC 14,447430,U12,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=137
+Tulsa SC 14G Red,223865,U12,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=140
+APEX FC 14 Girls Black,526370,U12,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=141
+BA Express 2014G Archive,505834,U12,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=144
+Oklahoma Celtic Pre ECNL RL G14,419905,U12,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=145
+Oklahoma Cosmos 14G Premier,159647,U12,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=151
+14G Pre GA,165085,U12,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=153
+WSA 15 Girls Navy (Campbell),563642,U12,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=154
+Select FC 14G,643663,U12,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=163
+Apex 2014 Girls,22042,U12,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=165
+FGSC 1824 2014G,525996,U12,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=169
+WSA 14 Girls Silver (King),533223,U12,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=174
+LSC Legacy U11G,526905,U12,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=175
+WSA 14 Girls Blue (Emo),524907,U12,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=184
+Oklahoma Celtic G14 Black,461653,U12,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=190
+WSA 14 Girls Gold (King),527134,U12,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=191
+OKC 405 FC Premier 2014G,585588,U12,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=192
+WSA 14 Girls (Miguel),524906,U12,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=196
+NWOFC 2014G,559798,U12,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=196
+OEFC - ESC 14G DIAMONDBACKS,31658,U12,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=201
+ESC ELITE ACADEMY 2015 GIRLS WHITE,49685,U12,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=210
+Sporting Oklahoma 14G,158079,U12,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=212
+Oologah Riptide,408429,U12,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=214
+Enid Vipers Chavez,466948,U12,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=214
+BA Express 2014G Elite,505837,U12,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=216
+WSC Elite U12 Girls,373787,U12,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=218
+14/15 FKSC + Stauffer,25220,U12,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=231
+z - OEFC - NOKC 14G Red,395814,U12,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=245
+Tulsa SC 14G Red,41814,U12,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253
+Fusion 2014G,543730,U12,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+OK Energy FC 13B ECNL,363822,U13,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=6
+OK Energy FC 13B ECRL,363823,U13,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=19
+OK Energy FC 13B ECRL2,363824,U13,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=34
+Greenwood U13 MLS Next,489104,U13,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=41
+Oklahoma Celtic ECNL RL B13,36167,U13,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=72
+OK Energy FC 13B Red,363827,U13,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=81
+Vision 2013B Crowell,17754,U13,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=89
+OK Energy FC 13B Gold,363829,U13,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=89
+NWO FC 2013 Elite,225786,U13,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=93
+BA Express 2013B Premier,526720,U13,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=101
+z - OK Energy FC 13B Emerald,363832,U13,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=104
+Oklahoma Cosmos ECNL RL B13,11092,U13,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=107
+Enid Elite 13 Boys,527061,U13,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=115
+WSA 13 Boys Pre ECRL (Levi),40813,U13,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=118
+WSA OKC 13 Boys (Thomas),389607,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=123
+OK Energy FC 13B Silver,363830,U13,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=125
+Sporting Oklahoma 13B,28937,U13,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=135
+APEX FC 13 Boys Orange,372381,U13,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=137
+NWO FC 2013 Premier,374571,U13,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=141
+WSA OKC 13 Boys (Da Silva),521351,U13,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=141
+Tulsa SC ECNL B13,134126,U13,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=141
+OK Energy FC 13B Grey,499375,U13,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=143
+NEOFC 13 Boys Blue,346659,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=144
+WSA 13 Boys East (Abner),527133,U13,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=147
+OK Energy FC 13B Black,363826,U13,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=151
+Oklahoma Cosmos 13B Premier,33821,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=166
+Enid Super Campeónes Herrera,25082,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=167
+OK Energy FC 13B Blue,363831,U13,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=170
+OK Energy FC 13B Blue,363831,U13,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=171
+FC Tulsa Academy 13 Boys Premier,320786,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=176
+WSA 13 Boys (Blanco),527129,U13,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=178
+Oklahoma Celtic B13 White,372626,U13,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=179
+WSA 2013B South (Trent),75448,U13,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=180
+NEOFC Bartlesville 13 Boys Gray,385499,U13,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=181
+WSA 13 Boys (Phillips),524905,U13,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=184
+PC United 2013B,522769,U13,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=192
+WSA 13 Boys (Branan),11897,U13,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=192
+Western Oklahoma F.C. 13B,138920,U13,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=195
+Oklahoma Celtic B13 Black,372629,U13,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=200
+BA Express 2013B Select,526721,U13,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=204
+WSA 13 Boys (Darrion),283103,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=216
+OK Energy FC 13B White,363825,U13,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=226
+BA Express 2013B Classic,394850,U13,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=233
+FC Tulsa Academy 13 Boys ECNL RL,263908,U13,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=233
+WSA 13 Boys Axolotls,452946,U13,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=269
+WSA 13 Boys Red (Tom),527140,U13,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=286
+ESC 2013 BOYS BOMBERS,31178,U13,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=295
+Tulsa SC ECNL RL B13,42008,U13,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=303
+APEX FC 13 Boys Black,526369,U13,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=326
+OKC Crew '13,372332,U13,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=329
+OKC Crew '13/14,519008,U13,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=331
+ESC 2013 BOYS AND GIRLS CLUB,666520,U13,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=346
+NEOFC 13 Boys Red,453468,U13,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+Arsenal,29769,U13,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=357
+z - OK Energy FC 13B Orange,363833,U13,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=361
+CNP ROGUE 13B,163934,U13,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=366
+FGSC 1824 SHROPSHIRE,525977,U13,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=383
+ESC 2013 BOYS STEALTH FC,589787,U13,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=406
+EFC U13 BOYS,639758,U13,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=439
+Oklahoma Celtic ECNL RL G13,47833,U13,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=5
+OK Energy FC 13G ECNL,363835,U13,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=8
+OK Energy FC 13G ECRL,363836,U13,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=14
+Tulsa SC Pre ECNL G13,576390,U13,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=15
+BA Express 2013G Premier,504025,U13,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=22
+WSA OKC 14 Girls (Perkins),383571,U13,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=27
+FC Tulsa Academy 13 Girls ECNL RL,65706,U13,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=35
+WSA 2013 Girls ECNL,173089,U13,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=50
+OK Energy FC 13G ECRL2,363837,U13,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=51
+FC Tulsa Academy 13 Girls Premier,65707,U13,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=59
+OK Energy FC 13G Black,363839,U13,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62
+Tulsa SC 13G OPL,165089,U13,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62
+Oklahoma Cosmos ECNL RL G13,11088,U13,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=68
+Sporting Oklahoma 13G DPL,280582,U13,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=79
+NWO FC 13/14 G,586001,U13,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=80
+Tulsa SC 13G NPL,41856,U13,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=83
+OK Energy FC 13G Red,363840,U13,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=88
+Oklahoma Celtic G13 Black,372620,U13,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=94
+BA Express 2013G Elite,388460,U13,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=107
+WSA 13 Girls (Rhein),283100,U13,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=120
+Sheffield Rise 2013G,514947,U13,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=123
+NEOFC 13 Girls Blue,291121,U13,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=124
+OK Energy FC 13G Gold,363842,U13,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+OK Energy FC 13G White,363838,U13,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+Select 13G,29214,U13,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+APEX FC 13 Girls,372383,U13,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=138
+WSA OKC 13 Girls (Cruz),390204,U13,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=149
+Oklahoma Celtic G13 White,292540,U13,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=153
+WSA South 13 Girls (Cobler),45709,U13,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=153
+WSA OKC 13 Girls (Meier),293429,U13,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=166
+Express 2013G Classic,461040,U13,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=175
+Vision 2013G Yell,17755,U13,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=179
+WSA 13 Girls Blue (Kally),393257,U13,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=179
+z - OK Energy FC 13G Silver,363843,U13,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=189
+"Enid ""The Wolves"" Barton",26821,U13,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=189
+BA Express 2013G Classic,388462,U13,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=206
+ESC 2013 GIRLS CORKEN PANTHERS,31664,U13,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=232
+West Side Alliance RL NTX G11 Red,483719,U13,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=233
+Oklahoma Cosmos 13G Premier,51255,U13,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=234
+Galaxy Girls - Reynolds,15719,U13,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=258
+OK Energy FC 12B ECNL,253919,U14,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=17
+Tulsa SC ECNL B12,492283,U14,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=36
+OK Energy FC 12B ECRL,253920,U14,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=38
+Oklahoma Cosmos ECNL RL B12,11094,U14,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=50
+Oklahoma Cosmos 12B Select,159643,U14,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=53
+NWO Green Monsters 2012 B,181933,U14,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=65
+OK Energy FC 12B Black,253924,U14,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=69
+OK Energy FC 12B Red,253925,U14,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=75
+Enid Elite 12,266021,U14,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=76
+OK Energy FC 12B White,253923,U14,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=77
+WSA 12 Boys East Red (Taylor),277075,U14,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=77
+WSA 12 Boys East,18315,U14,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=78
+Oklahoma Celtic ECNL RL B12,47851,U14,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=100
+Oklahoma Cosmos 12B Premier,11091,U14,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=102
+OK Energy FC 12B RL FL,253921,U14,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=106
+WSA 12 Boys Blue (Justin & Emo),527125,U14,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=107
+BA Express 2012B Premier,255039,U14,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=108
+Sporting Oklahoma 12B,28936,U14,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=112
+Vision 2012B Casler,278604,U14,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=116
+OKC 405 FC 2012 B - Galaxy,412839,U14,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=118
+Union FC Blue Lions,124631,U14,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=119
+OKC 405 FC 2012 B - Real Lions,331708,U14,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=120
+Tulsa SC-RB7 12B Black,648473,U14,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=133
+NEOFC 12 Boys Blue,16400,U14,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=136
+WSA South United12 Boys (Rahmani),525334,U14,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=139
+WSA South United12 Boys (Rahmani),525334,U14,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=140
+United 2012,293741,U14,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=143
+NWO FC 2012 Elite,365909,U14,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=151
+Oklahoma Celtic B12 Black,270675,U14,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=153
+BA Express 2012B Classic,398837,U14,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=154
+Tulsa SC 12B OPL,117026,U14,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=161
+APEX FC 12 Boys Orange,259328,U14,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=165
+APEX FC 2012 Boys Orange,527696,U14,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=170
+NWO FC 2012 premier,374574,U14,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=176
+Bravos fc 2012,36403,U14,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=180
+WSA OKC 12 Boys (Da Silva),390174,U14,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=187
+OK Energy FC 12B Gold,253926,U14,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199
+FC Tulsa Academy 12 Boys ECNL RL,62907,U14,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199
+Fusion 12/13B,181381,U14,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=205
+PC United 2012B,522765,U14,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=205
+APEX FC 12 Boys Black,288425,U14,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=208
+OK Energy FC 12B Silver,367004,U14,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=212
+BA Express 2012B Select,503976,U14,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=217
+LSC Legacy U13B,523051,U14,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=254
+BA Express 2012B Elite,255047,U14,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+WSC Elite U13,373788,U14,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=267
+Sporting Oklahoma 12B Blue,158058,U14,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=277
+Tulsa SC ECNL RL B12,120669,U14,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=284
+FC Tulsa Academy 12 Boys Premier,54466,U14,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=293
+Oklahoma Celtic B12 White,270674,U14,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=325
+ESC 2012 BOYS EDMOND UNITED,31132,U14,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=335
+OK Energy FC 12B Grey,501008,U14,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=340
+OKC 405 FC 2012 B - Real Lions Rec,529514,U14,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=346
+BOOMERS U13,590064,U14,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=359
+OK Energy FC 12G ECRL,253928,U14,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=15
+Oklahoma Celtic G12 White,47788,U14,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=31
+OK Energy FC 12G ECNL,253927,U14,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=32
+OK Energy FC 12G ECRL2*,253929,U14,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=41
+Oklahoma Celtic ECNL RL G12,47787,U14,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=43
+NWO FC 2012/2013 G,38689,U14,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=44
+OK Energy FC 12G White,253930,U14,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=60
+FC Tulsa Academy 12 Girls Premier,65703,U14,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=64
+Oklahoma Cosmos 12G Premier,11090,U14,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=68
+Oklahoma Cosmos ECNL RL G12,11089,U14,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=70
+Vision 2012G Karnes,11269,U14,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=73
+NEOFC ECNL-RL G12,16402,U14,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=74
+LSC Legacy U13G,415213,U14,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=76
+Oklahoma Celtic G12 Black,270673,U14,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=77
+West Side Alliance ECNL RL G12,11956,U14,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=82
+NEOFC 12 Girls Red,16403,U14,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=84
+NEOFC Bartlesville 12 Girls Gray,16463,U14,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=91
+OK Energy FC 12G Black,253931,U14,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=98
+FC Tulsa Academy 12 Girls ECNL RL,62906,U14,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=99
+Sporting Oklahoma 12G DPL,28944,U14,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=103
+Oklahoma Cosmos 12G Select,51844,U14,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=113
+12G GA,22971,U14,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=115
+Tulsa SC 12G NPL,268524,U14,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=117
+BA Express 2012G Premier,388287,U14,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=121
+CNP ROGUE 12G,25738,U14,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=128
+WSA 12 Girls Navy,392052,U14,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=138
+BA Express 2012G Classic,255037,U14,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=142
+WSA South 11 Girls (Sherwood),637868,U14,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=142
+WSC Elite U14,382285,U14,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=147
+OK Energy FC 12G Red,253932,U14,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=148
+Sheffield Rise 2012G,514950,U14,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=151
+WSA 12 Girls (Smith),580290,U14,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=156
+West Side Alliance Tulsa ECNL RL G12,533990,U14,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169
+ESC 2012 GIRLS TIE DYE DRAGONS,152030,U14,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=180
+WSA OKC 12 Girls (Meier),279418,U14,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=195
+Tulsa SC ECNL RL G12,24177,U14,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=196
+FC Tulsa Academy 12 Girls Black,65704,U14,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=200
+ESC 2012 GIRLS WILD DAISIES,343618,U14,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204
+West Side Alliance OKC ECNL RL G12,576411,U14,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+U14G VALKYRIE,539545,U14,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=225
+Greenwood U15 MLS Next,491757,U15,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=49
+Sporting Oklahoma 11B White,163987,U15,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=51
+OK Energy FC 11B ECNL,99871,U15,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=53
+OK Energy FC 11B ECRL2,99874,U15,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=63
+OK Energy FC 11B ECRL,99873,U15,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=66
+OKC 405 FC 2011 B - Brazil,268472,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=66
+FC Tulsa Academy 11 Boys ECNL RL,642335,U15,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=72
+Sporting Oklahoma 11B,28932,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=74
+NEOFC 11 Boys NPL,16397,U15,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=77
+OK Energy FC 11B White,99875,U15,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=82
+Tulsa Nationals 2011 Boys Black,116258,U15,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=82
+APEX FC 2011 Boys,372379,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=84
+BA Express 2011B Premier,255036,U15,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=85
+WSA OKC 11 Boys NPL (Brucker),247347,U15,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=86
+Oklahoma Celtic ECNL RL B11,45981,U15,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=94
+Enid Elite 11,20685,U15,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=95
+NWO FC 2011 Elite,388175,U15,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=96
+OKC 405 FC 2011B Yellow,60298,U15,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=110
+OK Energy FC 11B Black,99908,U15,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=120
+OK Energy FC 11B Red,99943,U15,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=120
+NEOFC 11 Boys Red,125633,U15,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=131
+West Side Alliance 11 Boys NPL,219182,U15,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=135
+WSA 2011 Boys RL,107498,U15,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=139
+Western Oklahoma F.C. 11/12B,56684,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=139
+NWO FC 2011 2fast2furious,643733,U15,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=142
+Oklahoma Cosmos ECNL RL B11,11095,U15,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=144
+WSA South 11 Boys (Miguel),525331,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=152
+BA Express 2011B Classic,275982,U15,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=152
+Oklahoma Cosmos 11B Premier,11097,U15,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=161
+Oklahoma Celtic B11 White,47846,U15,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=163
+FC Tulsa Academy 11 Boys Yellow,265672,U15,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=163
+Tulsa SC ECNL B11,23497,U15,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=167
+FC Tulsa Academy 11 Boys Black,60202,U15,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=174
+Tulsa SC 11B OPL,34276,U15,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=182
+OEFC - ESC 11 Legends,511094,U15,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+Sporting Oklahoma 11B Blue,124881,U15,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=187
+OEFC - ESC 11 Crew,511095,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195
+BA Express 2011B Elite,255048,U15,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=205
+Express 2011B Premier,461039,U15,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212
+WSA OKC 11 Boys (Santos),521370,U15,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=225
+OK Energy FC 11B Gold,99944,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=227
+Tulsa SC ECNL RL B11,28907,U15,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=232
+WSC Elite U15,647583,U15,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=237
+NEOFC Bartlesville 11 Boys Gray,126443,U15,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=240
+Oklahoma Celtic B11 Black,372667,U15,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=255
+Vision 2011B,395012,U15,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=264
+*FC Tulsa Academy 11 Boys Elite,60197,U15,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+WSA 11 Boys Blue (Brent),524900,U15,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=269
+Oklahoma Cosmos 11B Select,624318,U15,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=275
+CNP ROGUE 11B,636698,U15,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=305
+OKC Crew '11,519007,U15,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=317
++ 11 Revolution-Arnold/Jones,48659,U15,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=321
+OK Energy FC 11G ECRL,100986,U15,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=18
+OK Energy FC 11G Navy,100989,U15,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=24
+Sporting Oklahoma 11G,28938,U15,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=34
+Oklahoma Celtic ECNL RL G11,45978,U15,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=36
+Mustang United 2011 G,501423,U15,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=39
+WSA 2011G ECNL RL TX,520464,U15,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=39
+FC Tulsa Academy 11 Girls Premier,247980,U15,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=45
+OK Energy FC 11G ECNL,100984,U15,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=47
+OK Energy FC 11G White,100990,U15,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=50
+NEOFC 2011G ECNL-RL,331023,U15,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=56
+FC Tulsa Academy 11 Girls ECNL RL,388890,U15,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=59
+Mustang Waves FC 2011 G,384436,U15,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=62
+Oklahoma Celtic G11 Black,47761,U15,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=64
+Vision 2011G Karnes,11270,U15,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=80
+z - OK Energy FC 11G Boreham,585558,U15,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=90
+BA Express 2011G Premier,398944,U15,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=90
+BA Express 2011G Premier,398944,U15,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=91
+WSA South 11 Girls (Sherwood),11920,U15,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=103
+NEOFC 11 Girls NPL,16399,U15,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=110
+Enid FC Hinderliter,556184,U15,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=110
+BA Express 2011G Classic,502238,U15,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=122
+CNP ROGUE 11G,25734,U15,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=124
+ESC 2011 GIRLS SOL FC,460703,U15,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=134
+Tulsa SC ECNL RL G11,22985,U15,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=134
+Oklahoma Celtic G11 White,372627,U15,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=142
+Tulsa SC 11G ECNL OLD,22966,U15,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+Tornadoes,27290,U15,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=148
+Oklahoma Cosmos ECNL RL G11,11096,U15,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=157
+West Side Alliance OKC ECNL RL G11,87314,U15,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=167
+Sheffield Rise 2011G Red,374019,U15,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=172
+PC United 2011G,522757,U15,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=183
+Oklahoma Cosmos 11G Premier,11359,U15,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=186
+SLSC Oklahoma Cosmos 10G United,636140,U15,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=193
+T-Town Slayers,565053,U15,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=194
+Tulsa SC ECNL B10,23494,U16,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=16
+Blitz Academy FC 10 Boys AFC,247998,U16,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=22
+OK Energy FC 10B RL FL,12250,U16,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=31
+OK Energy FC 10B ECNL,12248,U16,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=32
+FC Tulsa Academy 10 Boys Premier,60194,U16,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=32
+Sporting Oklahoma 10B,12665,U16,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=33
+Union FC Tulsa Broncos 11/10,126763,U16,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=47
+Oklahoma Cosmos ECNL RL B10,11051,U16,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=48
+Oklahoma Cosmos 10B Vipers FC,519591,U16,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=61
+OK Energy FC 10B ECRL,12249,U16,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=62
+CNP ROGUE 10B,25750,U16,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=64
+WSA 10 Boys Red ECNL-RL,11457,U16,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=82
+OK Energy FC 10B Red,12252,U16,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=85
+Sporting Oklahoma 10B Blue,124874,U16,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=90
+OK Energy FC 10B Black,12253,U16,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=92
+APEX FC 2010 Boys Orange,527694,U16,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=94
+NEOFC 10 Boys Red,270211,U16,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=100
+Tulsa SC ECNL RL B10,23182,U16,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=102
+Sheffield Rise 2010B,115566,U16,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=109
+OK Energy FC 10B White,12251,U16,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=117
+FC Tulsa Academy 10 Boys Black,271094,U16,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=123
+Oklahoma Celtic B10 White,28801,U16,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=129
+Tulsa SC 10B OPL White,522091,U16,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=130
+Tulsa SC 10B OPL,28905,U16,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=136
+WSA OKC 10 Boys (Santos),11887,U16,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=137
+WSA 2010 Boys ECNL-RL,239316,U16,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=141
+Oklahoma Cosmos 10B Premier,11098,U16,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=149
+WSA 2010 Boys RL,611366,U16,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=152
+Oklahoma Celtic ECNL RL B10,28800,U16,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=156
+LSC Legacy 2011,279984,U16,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=157
+WSA 10 Boys Blue (Xander),11456,U16,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=163
+OKC 405 FC 2010B Green,388647,U16,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=166
+Ok Energy FC 10B Gold,385509,U16,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=170
+FC Tulsa Academy 10 Boys ECNL RL,334149,U16,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=171
+Enid Elite 2010,266033,U16,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=190
+Oklahoma Cosmos 10B Select,11099,U16,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=200
+BA Express 2010B Classic,505797,U16,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208
+Sheffield Rise 2010B Red,257929,U16,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=222
+Vision 2010B Davila,18111,U16,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=228
+Fusion FC - 10/11 Boys,510312,U16,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=241
+OKC Crew '10,374576,U16,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=265
+PC United 2010B,522754,U16,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=266
+OK Energy FC 10G ECRL,12426,U16,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=20
+Oklahoma Celtic ECNL RL G10,28818,U16,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=25
+West Side Alliance RL G10,388962,U16,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=26
+WSA OKC ECNL RL G10,559473,U16,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=26
+Mustang United 2010 G,246620,U16,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=36
+WSA South 10 Girls (Jason),525329,U16,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=43
+FC Tulsa Academy 10 Girls ECNL RL,266904,U16,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=50
+Oklahoma Cosmos ECNL RL G10,11067,U16,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=57
+Vision 2010G McCoy,11271,U16,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=63
+NEOFC ECNL-RL G10,11707,U16,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=64
+OK Energy FC 10G ECNL,12425,U16,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=68
+WSA 10 Girls NPL (King),11459,U16,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=68
+OK Energy FC 10G White,12429,U16,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=74
+OK Energy FC 10G ECRL2,12427,U16,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=76
+Oklahoma Cosmos 10G Premier,11100,U16,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=77
+Elite Football Academy 10/11,117838,U16,Female,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=80
+FC Tulsa Academy 10 Girls Premier,60198,U16,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=81
+BA Express 2010G Premier,255041,U16,Female,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=90
+WSA OKC 10 Girls NPL (Goveia),271534,U16,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=99
+Oklahoma Celtic G10 White,28817,U16,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=102
+Oklahoma Celtic G10 Black,528094,U16,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=109
+NWO FC 2010 G,624484,U16,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=112
+WSA 2010 GIRLS ECNL-RL Frontier RED,450398,U16,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=113
+PC United 2010G,522752,U16,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=114
+NWO FC 2010 G,363582,U16,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=114
+LSC Legacy 2010,169567,U16,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=122
+Sheffield Rise 10G,120281,U16,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=123
+Tulsa SC ECNL RL G10,23185,U16,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=130
+10G GA,22951,U16,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=131
+BA Express 2010G Classic,255043,U16,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=135
+Revolution U16G,27000,U16,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=143
+WSA 2010 Girls ECNL-RL NTX White,355321,U16,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=146
+Ardmore City,590349,U16,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=148
+ESC 2011 GIRLS RUSH,48562,U16,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=150
+West Side Alliance Tulsa ECNL RL G09,584480,U16,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=162
+Bad Wolf + Clark,452692,U16,Female,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=177
+OKC 405 FC 2009 B - Genesis,388635,U17,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=9
+OKC 405 FC 2009 B - Preciado,258879,U17,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=10
+OK Energy FC 09B ECRL,12187,U17,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=13
+Oklahoma Celtic ECNL RL B09,28810,U17,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=32
+OKC 405 FC 2010 B - Brazil,383468,U17,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=39
+Bravos fc 11/10,18802,U17,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=41
+FC Tulsa Academy 09 Boys Premier,60192,U17,Male,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=45
+OK Energy FC 09B ECNL,12185,U17,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=50
+OKC 405 FC 2009 B - Luna,388634,U17,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=58
+OK Energy FC 09B RL2,12188,U17,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=63
+Tulsa SC ECNL B09,23496,U17,Male,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=64
+Oklahoma Cosmos 09B United,519594,U17,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=73
+OEFC - ESC Rush 09,128154,U17,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=88
+Oklahoma Cosmos ECNL RL B09,11052,U17,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=103
+OK Energy FC 09B Black,12190,U17,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=108
+Fusion FC - 09 Boys,510303,U17,Male,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=109
+FC Tulsa Academy 09 Boys Black,400823,U17,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=110
+FC Tulsa Academy 09 Boys Black,400823,U17,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=111
+WSA 2009 Boys ECNL-RL,239317,U17,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=117
+OK Energy FC 09B White,12189,U17,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=118
+PC United 2009B,522749,U17,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=119
+FC Tulsa Academy 09 Boys Yellow,513812,U17,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=129
+Oklahoma Cosmos 09B Vipers FC,519592,U17,Male,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=134
+BA Express 2009B Premier,255044,U17,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=144
+WSA 09 Boys East (Luis),219241,U17,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=145
+Oklahoma Cosmos 09B Premier North,624322,U17,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=155
+Sporting Oklahoma 09B Blue,394849,U17,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=168
+NEOFC 09 Boys Blue,389892,U17,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=169
+Bravos 10/09,454633,U17,Male,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=172
+WSA 09 Boys White (Sergio),389462,U17,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=176
+WSA South 09 Boys (Phillip),525327,U17,Male,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=186
+FC Tulsa Academy 09 Boys ECNL RL,60191,U17,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199
+Oklahoma Celtic B09 White,24585,U17,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=214
+OKC Crew '09 B,518475,U17,Male,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=217
+Tulsa SC ECNL RL B09,23043,U17,Male,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=222
+FC Tulsa Academy 09 Girls ECNL RL,60066,U17,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=28
+OK Energy FC 09G ECRL2,12423,U17,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=34
+OK Energy FC 09G ECRL,12422,U17,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=43
+WSA OKC 09 Girls (Persson),524927,U17,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=45
+Oklahoma Celtic ECNL RL G09,140266,U17,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=49
+BA Express 2009G Archive,393630,U17,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=52
+BA Express 2009G Premier,255038,U17,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=56
+Sporting Oklahoma 09G,14427,U17,Female,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=68
+Oklahoma Celtic G09 White,23184,U17,Female,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=72
+Elite FA 2010,528843,U17,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=74
+Oklahoma Cosmos ECNL RL G09,11068,U17,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=76
+Tulsa SC 09G RL,25504,U17,Female,GotSport Rankings,0,OK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=77
+*FC Tulsa Academy 10 Girls Elite,60196,U17,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=77
+NEOFC ECNL-RL G09,11687,U17,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=78
+West Side Alliance Tulsa ECNL RL G09,583594,U17,Female,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=79
+OK Energy FC 09G ECNL,12421,U17,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=80
+WSA G09 Red,388132,U17,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=105
+West Side Alliance Tulsa Blue ECNL RL G08,635129,U17,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=107
+NEOFC 09 Girls Blue,11688,U17,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108
+WSC Elite U17G,373789,U17,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122
+Oklahoma Cosmos 09G Premier,11069,U17,Female,GotSport Rankings,0,OK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=124
+APEX FC 09G,97492,U17,Female,GotSport Rankings,0,OK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=134
+09G GA,25291,U17,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=134
+WSA RL G09,11959,U17,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=135
+OK Energy FC 08/07B ECNL,12255,U18,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=17
+OK Energy FC 08/07B ECRL,12256,U18,Male,GotSport Rankings,0,OK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=34
+WSA OKC 08 BOYS NPL (Coady),132921,U18,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=35
+OK Energy FC 08/07B ECRL2,12257,U18,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=36
+Western Oklahoma F.C. 08/09B,19657,U18,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=49
+Tulsa SC ECNL B08/07,86065,U18,Male,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=59
+BA Express 2009B Classic,388306,U18,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=84
+NWO United,271220,U18,Male,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=91
+Bravos. Fc 09/08,18954,U18,Male,GotSport Rankings,0,OK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=96
+NEOFC Bartlesville 08 Boys Gray,11697,U18,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=98
+Blitz Academy FC 08 Boys Black,268673,U18,Male,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=98
+Tulsa SC ECNL RL B08/07,329440,U18,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=102
+NWO Aztecas 08/09,513598,U18,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=102
+Old Blitz Academy FC 08 Boys AFC,268778,U18,Male,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=106
+Vision 2008B Davila,99251,U18,Male,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=108
+OKC Crew '08/09,333530,U18,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=111
+WSA 08 Boys NPL (Rogers),11889,U18,Male,GotSport Rankings,0,OK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=112
+WSA 08 Boys North (Justin),11913,U18,Male,GotSport Rankings,0,OK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=121
+2008 ECNL-RL,239318,U18,Male,GotSport Rankings,0,OK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=130
+Sporting Oklahoma 08B,25103,U18,Male,GotSport Rankings,0,OK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=137
+WSA OKC 08 Boys (Franklin),524925,U18,Male,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=137
+OK Energy FC 08/07G ECRL,12418,U18,Female,GotSport Rankings,0,OK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=14
+Oklahoma Celtic ECNL RL G08/07,140267,U18,Female,GotSport Rankings,0,OK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=15
+BA Express 2008G Premier,255055,U18,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=18
+OK Energy FC 08/07G ECNL,12417,U18,Female,GotSport Rankings,0,OK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=23
+Mustang United 2008 G,242197,U18,Female,GotSport Rankings,0,OK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=41
+Tulsa SC ECNL RL G08,24291,U18,Female,GotSport Rankings,0,OK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=46
+Elite FA,383901,U18,Female,GotSport Rankings,0,OK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=49
+Elite Football Academy 09/08,117835,U18,Female,GotSport Rankings,0,OK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=53
+WSA RL G08,11960,U18,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=54
+WSA South 08 Girls (Chance),75435,U18,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=55
+WSA RL NTX White G09,266795,U18,Female,GotSport Rankings,0,OK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=60
+Blitz Academy FC 08/09 Girls Premier,60179,U18,Female,GotSport Rankings,0,OK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=72
+OK Energy FC 08/07G ECRL2 FL,12419,U18,Female,GotSport Rankings,0,OK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=75
+WSA OKC 08 Girls ECRL Red,11878,U18,Female,GotSport Rankings,0,OK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=89

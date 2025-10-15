@@ -1,0 +1,355 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+ARFC 2016B Jurgenson,394394,U10,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=11
+2016B Paragould Predators,507236,U10,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=55
+ARFC 2016 B Heckendorf,665409,U10,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=95
+870FC 2016 Boys,600285,U10,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=96
+NEA SC 2016 Boys- Black,554933,U10,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129
+SS ACADEMY 2016G BLACK PRE SELECT,420045,U10,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=43
+ARFC 2016G Loebach,394392,U10,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=59
+ARFC 2016 G Humphries,667811,U10,Female,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=61
+F.C. Horizon 2015 Boys Green,264220,U11,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=44
+Arkansas Comets 2015B Pre ECNL,262024,U11,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=76
+Advantage Academy 2015 Boys Elite,417408,U11,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=91
+Little Rock Rangers 2015 Boys Red,523025,U11,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=92
+Sporting Arkansas 2015B AFC Richmond,267364,U11,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=179
+AFC Benton Wolverines 2015 Boys,419236,U11,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=179
+Arkansas Rising 2015 Boys - Pre-RL,517141,U11,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=196
+ARFC 2015B Pina,394396,U11,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=213
+ARFC 2015B Martinez,394399,U11,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=215
+Tigres 2015,523158,U11,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=232
+SS Academy 2014B Select,569018,U11,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=258
+Sporting Arkansas 2015B Santos,267375,U11,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=277
+AR Rising 2014B Pre-RL,645542,U11,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282
+Sporting Arkansas 2015B Porto,518340,U11,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339
+Sporting Arkansas 2015B Newcastle,341581,U11,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339
+Sporting Arkansas 2015B Leeds United,267374,U11,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=339
+SS ACADEMY 2015B PRE SELECT BLACK,276876,U11,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=365
+SS ACADEMY 2015B PRE SELECT GREY,420197,U11,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=379
+Arkansas Comets 2015B Navy,338296,U11,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=401
+Spa City FC 2015,658514,U11,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=411
+ARFC 2015G Westbrook,394395,U11,Female,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=51
+ARFC 2015G Chism,454091,U11,Female,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=52
+Texarkana SC 15G,52889,U11,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=68
+Mbb 2015 Girls,419663,U11,Female,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=77
+Arkansas Lady Legends 2015/14,651936,U11,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=104
+Sporting Arkansas 2015G Sydney FC,267390,U11,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=118
+SS ACADEMY 2015G PRE SELECT,276878,U11,Female,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=133
+Advantage Academy 2015 Girls Elite,417441,U11,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=134
+SS Academy 2014G Select,569551,U11,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=137
+Arkansas Comets 2015G Pre ECNL,262029,U11,Female,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=165
+870FC 2015 Girls,657205,U11,Female,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=188
+Sporting Arkansas 2015G AS Roma,519103,U11,Female,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=190
+F.C. Horizon 2015 Girls Green,264222,U11,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=210
+2015-16 TLG/NASA Girls,400681,U11,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=224
+River Valley Football Club Academy,602587,U11,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=225
+AZ Arsenal Pre-ECNL RL B14,163424,U12,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=21
+F.C. Horizon 2014 Boys Green,153429,U12,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=67
+Little Rock Rangers 2014 Boys Black,296893,U12,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=78
+ARFC 2014B Armah,275876,U12,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=80
+Sporting Arkansas 2014B Wrexham,518238,U12,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=89
+Advantage Academy 2014 Boys Elite,290483,U12,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=93
+Sporting Arkansas 2014B Aston Villa,518230,U12,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=104
+SS ACADEMY 2014B SELECT,137076,U12,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=116
+Little Rock Rangers 2015 Boys Black,523026,U12,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=125
+Arkansas Comets 2014B Pre ECNL,46843,U12,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=144
+Arkansas Comets Ft Smith 2014B Premier,578558,U12,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=153
+MBB 2014/2015 Boys,277209,U12,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=153
+ARFC 2014 Boys Williams,275877,U12,Male,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=175
+Cabot FC - 2014 Red,517132,U12,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=181
+2014B Paragould Predators,280837,U12,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=184
+Tigres Academy 2014,21331,U12,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=198
+CASC 2014B Gunners,581373,U12,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=203
+Little Rock Rangers 2014 Boys Red,523021,U12,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=204
+Arkansas Rising 2014 Boys - Pre-RL,382459,U12,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=225
+CASC 2014B Arsenal,519050,U12,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=253
+Texarkana SC 14 B,536522,U12,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=254
+Arkansas Comets 2014B Navy,410656,U12,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=256
+AVSA 2014 Boys Comp,523637,U12,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=275
+Arkansas Rising 2014 Boys - ACSL,517143,U12,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278
+FC Horizon 2014B Green,457452,U12,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=278
+Sporting Arkansas 2014B Dortmund,518233,U12,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=290
+Tigres Academy 2014 Premier,296120,U12,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=299
+WYA 2014 Boys,522990,U12,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=314
+NEA SC 2014 Boys - Red,535872,U12,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=345
+870FC 2014 Boys,563782,U12,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=358
+Arkansas Rising 2014 Boys - Gold,517147,U12,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=359
+F.C. Horizon 2014 Boys Grey,388150,U12,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=388
+Tigres 2014 Azul,543752,U12,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=399
+Arkansas Rising 2014 Boys - Navy,517146,U12,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=414
+ARFC 2014B Navy,638985,U12,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=448
+Texarkana SC 14G,520524,U12,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=41
+Arkansas Rising Pre ECNL G13,604050,U12,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=42
+Sporting Arkansas 2014G Barcelona,518242,U12,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=46
+Little Rock Rangers 2014 Girls,523030,U12,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=46
+Arkansas Rising 2015 Girls - Pre-RL,517142,U12,Female,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=47
+CASC 2014G - Lions,519049,U12,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=53
+SS ACADEMY 2014G SELECT,137078,U12,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=66
+F.C. Horizon 2014 Girls Green,153436,U12,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=94
+870FC 2014 Girls,649583,U12,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=101
+FC Arkansas 14G Wright,161017,U12,Female,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=113
+Sporting Arkansas 2014G Valencia,518244,U12,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=119
+AFC Benton 2014 Classic Girls,575836,U12,Female,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=133
+Arkansas Comets 2014G Pre ECNL,146987,U12,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=144
+Arkansas Rising 2014 Girls - Navy,517163,U12,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=151
+Advantage Academy 2014 Girls,417415,U12,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=181
+Arkansas Rising 2014/15 Girls - Gold,517164,U12,Female,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=210
+AVSA 2014 Girls Comp,523620,U12,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=223
+NEA SC 2014/15/16 Girls - White,535885,U12,Female,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=229
+2014/2015 G Paragould Predators,128105,U12,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=231
+Bentonville Prodigy FC 14/15 Girls,391781,U12,Female,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=245
+ARFC 2014G Brown/Humphries,650822,U12,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=249
+Tigres 2013 Premier,523160,U13,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=39
+Advantage Academy 2013 Boys Elite,290487,U13,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=50
+Sporting Arkansas 2013B PSG,173624,U13,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=56
+Arkansas Comets 2013B ECNL RL,17227,U13,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=89
+Little Rock Rangers 2013 Boys Black,523016,U13,Male,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=111
+CASC 2013B Royals,384054,U13,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=120
+F.C. Horizon 2013 Boys Green,21463,U13,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=129
+Little Rock Rangers 2013 Boys Red,296892,U13,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=144
+Mighty Bluebirds 2013 Boys,154558,U13,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=160
+NEA SC 2013 Boys - Black,535870,U13,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=160
+FC Horizon 2013 Boys White,267966,U13,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=164
+Searcy Rangers 2013-14 Boys,392866,U13,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=167
+Arkansas Rising 2013 Boys - Pre-RL,266565,U13,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=174
+River Valley FC 2013B Inter,145823,U13,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=184
+SSFC Canales 2013 Boys (U12),520861,U13,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=204
+Sporting Arkansas 2013B Southampton,175909,U13,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=206
+Spa City FC 2013,155847,U13,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=220
+Sporting Arkansas 2013B A.C. Milan,173630,U13,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=230
+ASC Edson U10 boys,284821,U13,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=240
+Advantage Academy 2013/2014 Boys Premier,519075,U13,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=248
+SSFC Striking 2014B (Castaneda),520864,U13,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=257
+FC Horizon 2013 Boys Grey,520178,U13,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=265
+SS ACADEMY 2013B SELECT,47262,U13,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=265
+Dream Wave FC 2013/14 Boys,529118,U13,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=279
+Tigres 2013 Azul,523161,U13,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=281
+Arkansas Rising 2013/14 Conway - ACSL,382461,U13,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=294
+2012/2013 B Paragould Predators,128108,U13,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=304
+Arkansas Rising 2013 Boys - ACSL,382460,U13,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=323
+River Valley FC 2013-2014 Boys,294576,U13,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=323
+ARFC 2013 B Belinello,226205,U13,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=339
+SS ACADEMY 2013/2014B SELECT,461468,U13,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=343
+Texarkana SC 13B,383719,U13,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=344
+FC Arkansas 2013/2014B,158001,U13,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=347
+Sporting Arkansas 2013B Brighton,518227,U13,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=352
+Cabot FC - 2013/14 White,519249,U13,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=357
+NWA Dragons 2013 / 2014 Boys,539643,U13,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=367
+ARFC 2013B Navy,639247,U13,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=423
+Searcy Rangers 2013-14 Girls,523399,U13,Female,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=53
+ARFC 2013G Meir,139660,U13,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=58
+Arkansas Rising 2014 Girls - Pre-RL,383024,U13,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=58
+ARFC 2013 Girls Zaharopoulos,275873,U13,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=59
+Arkansas Rising 2013 Girls - ACSL,383027,U13,Female,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=60
+Sporting Arkansas 2013G Ajax,173476,U13,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=63
+Sporting Arkansas 2013G Arsenal,173481,U13,Female,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=69
+Texarkana SC 13G,318882,U13,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=99
+AFC Benton 2013 Classic Girls,523043,U13,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=102
+River Valley FC 2013/14 Girls,523407,U13,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=125
+SSFC Palmer 2013/14 Girls (U12),521030,U13,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=149
+Mbs girls 2013/2014,47499,U13,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=161
+870FC 2013 Girls,649584,U13,Female,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=166
+Arkansas Comets 2013G ECNL RL,17383,U13,Female,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=169
+Advantage Academy 2013 Girls Elite,519074,U13,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=170
+AVSA 2013 Girls - Comp,402266,U13,Female,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=175
+ARFC 2013G Red,639268,U13,Female,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=181
+CASC 2013G Nightmares,383741,U13,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=184
+Texarkana SC 13/14G,638272,U13,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=227
+NEA SC 2013 Girls - White,535876,U13,Female,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=257
+Arkansas Comets 2013G Premier,393372,U13,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=262
+Siloam Springs FC 13/14G (Palmer),265913,U13,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=263
+Little Rock Rangers 2012 Boys Black,276109,U14,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=27
+SS ACADEMY 2012B SELECT,27890,U14,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=32
+Arkansas Comets 2012B ECNL RL,17270,U14,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=68
+AFC Chaos - White,268682,U14,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=71
+Arkansas Rising 2012 Boys ECNL-RL,266564,U14,Male,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=88
+AVSA 2012 Boys Comp,281464,U14,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=97
+FC Arkansas 12/13B Gunners,188482,U14,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=109
+Little Rock Rangers 2012 Boys Red,276110,U14,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=113
+Searcy Rangers 2012 Boys,276145,U14,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=116
+DQSC U13B Prodigy Warriors,527242,U14,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=116
+Tigres 2012,523159,U14,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=118
+Arkansas Comets Ft Smith 2012B Premier,382419,U14,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=121
+Sporting Arkansas 2012B Tigres,149226,U14,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=123
+Arkansas Comets 2012B NPL,382413,U14,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=125
+Bentonville FC Prodigy 2012/13 Boys,22028,U14,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=148
+F.C. Horizon 2012/13 Boys Green,15279,U14,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=181
+Arkansas Comets 2012/2013B Navy,32588,U14,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=201
+AVSA 2013 Boys - Elite,546099,U14,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=205
+Sporting Arkansas 2012B Monterrey,149225,U14,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=216
+Cabot FC - 2012/13,517131,U14,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=234
+ARFC 2012 Boys,50566,U14,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262
+F.C. Horizon 2012/2013 Boys White,388125,U14,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=264
+NWA Dragons 2012/2013 Boys,404881,U14,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=284
+FC Arkansas 12B Rapids,23331,U14,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=298
+SSFC 12/13B (Canales),374418,U14,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=306
+AFC Chaos - Black,575834,U14,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=323
+Arkansas Comets 2012G ECNL RL,17384,U14,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=38
+Little Rock Rangers 2012 Girls,276129,U14,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=49
+CASC 12G Thunder,519034,U14,Female,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=49
+ARFC 2012 Girls,29855,U14,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=63
+Sporting Arkansas 2012G Lyon,149231,U14,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=65
+Arkansas Lady Legends 13/12,664401,U14,Female,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=73
+Arkansas Rising 2013 Girls - Pre-RL,272371,U14,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=85
+AVSA 2012 Girls Comp,281448,U14,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=88
+Texarkana SC 12G,279299,U14,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=96
+Arkansas Rising 2012 Girls - RL,272215,U14,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+AFC Benton 2012 Classic Girls,455667,U14,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=113
+Advantage Academy 2012 Girls,327897,U14,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=113
+FC Arkansas 12/13G Bailey,145161,U14,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=114
+SS ACADEMY 2012G SELECT,529353,U14,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=123
+Sporting Arkansas 2012G Hearts,173159,U14,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=160
+CASC 2012G Thundercats,276269,U14,Female,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=161
+2012G Paragould Predators,128107,U14,Female,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=167
+Searcy Rangers 2012 Girls,276138,U14,Female,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=174
+SS ACADEMY 2012/2013G SELECT II,405734,U14,Female,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=178
+Arkansas Rising 2012G - ACSL,272218,U14,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=183
+SS ACADEMY 2012/2013G SELECT,137072,U14,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=183
+Arkansas Rising 2012G ACSL,563933,U14,Female,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=192
+Sporting Arkansas 2011B Atletico,126107,U15,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=28
+Little Rock Rangers 2011 Boys Black,276117,U15,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=48
+Arkansas Comets Ft Smith 2011B San Rafael,327896,U15,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=67
+NEA SC 2011 Boys - Black,535873,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=80
+2011/12 Bentonville Prodigy FC Prodigy,574714,U15,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=94
+Tigres Academy 2011 Azul,278845,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=96
+Sporting Arkansas 2011B Wolfsburg,515165,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=107
+Tigres Academy 2011 Amarillo,20562,U15,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=116
+Searcy Rangers 2011/12 Boys,276148,U15,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=122
+Searcy Rangers 2011/12 Boys,276148,U15,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=123
+Texarkana SC 11/12B,278143,U15,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=124
+AVSA 2011 Boys,151331,U15,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=135
+SSFC Lackey/Trinidad 2011/2012 Boys,520843,U15,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=142
+Advantage Academy 2011 Boys,290469,U15,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=146
+CASC 2011B Tigres,393256,U15,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=149
+Arkansas Rising 2011 Boys - RL,132015,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=152
+Arkansas Rising 2011 Boys - RL,132015,U15,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=153
+Tigres Academy 2011 Premier,278841,U15,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=156
+Bentonville Prodigy 2011,391659,U15,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=158
+Arkansas Comets 2011B NPL,499011,U15,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=158
+AVSA 2013 Boys Olson,174448,U15,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=177
+Arkansas Comets 2011B ECNL RL,262141,U15,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=186
+SS Academy 2020B Select,612609,U15,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=190
+Little Rock Rangers 2011 Boys Red,665759,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192
+River Valley FC 2011/12 Boys,279474,U15,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=201
+Sporting Arkansas 2011B Chelsea,126105,U15,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=219
+2011B Paragould Predators,128106,U15,Male,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=225
+SS Academy 2010B Elite,569166,U15,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=250
+F.C. Horizon 2011 Boys Green,26093,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=250
+Arkansas Rising 2011/12 Boys - ACSL,21069,U15,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=251
+Spa City FC 2011,658511,U15,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=261
+Siloam Springs FC 11/12 Boys (Aguilar),265907,U15,Male,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=308
+SS ACADEMY 2011B SELECT,405719,U15,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=308
+Arkansas Rising 2011G - RL,132012,U15,Female,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=31
+FC Arkansas 11G Impact,27020,U15,Female,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=46
+Advantage Academy 2011/2012 Girls Elite,290468,U15,Female,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=68
+Arkansas Rising 2011/12G - ACSL,132013,U15,Female,GotSport Rankings,0,AR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=88
+SSFC Castaneda 2011/12 Girls,520865,U15,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=89
+Little Rock Rangers 2011 Girls,392582,U15,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=97
+CASC 2011G Keene,47554,U15,Female,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=98
+Arkansas Comets Ft Smith 2012G Premier,520474,U15,Female,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=117
+Arkansas Comets 2011G ECNL RL,51624,U15,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=141
+F.C. Horizon 2011 Girls Green,15278,U15,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=143
+Sporting Arkansas 2011G Real Madrid,265761,U15,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=145
+SS ACADEMY 2011G SELECT,529352,U15,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+Tigres 2011 Girls,523166,U15,Female,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=156
+Siloam Springs FC 11/12 Girls (Castaneda),40868,U15,Female,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=172
+River Valley FC 2011/12 Girls,392600,U15,Female,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=184
+Sporting Arkansas 2011G Sevilla,126110,U15,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=191
+NEA SC 2011/2012/2013 Girls - White,535875,U15,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=194
+Sporting Arkansas 2010B Benfica,126113,U16,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=19
+FC Arkansas 10B LeMaster,27015,U16,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=29
+CASC 2010 Boys Lightning,21557,U16,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=45
+Arkansas Comets Ft Smith 2010B Premier,205336,U16,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=50
+Little Rock Rangers 2010 Boys Red,276112,U16,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=71
+Tigres Academy 2010 Premier,278839,U16,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=77
+Little Rock Rangers 2010 Boys Black,170065,U16,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=102
+Arkansas Comets 2010B ECNL RL,17374,U16,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=116
+AFC Greyhounds,455662,U16,Male,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=147
+Arkansas Rising 2010B - RL,21067,U16,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=149
+Comets UFA 2010B,422326,U16,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=161
+Arkansas Rising 2010 Boys Composite,521245,U16,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=167
+Sporting Arkansas 2010/2011B FC Lorient,386212,U16,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=179
+Sporting Arkansas 2010B Inter Milan,644554,U16,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=184
+Arkansas Comets 2010B NPL,382408,U16,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=192
+Bentonville FC prodigy 2010 Boys,142610,U16,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=195
+ARFC 2010/2011 Boys,29831,U16,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=212
+SS Academy 2010B ELITE,22640,U16,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=219
+Cabot FC - 2010/11,517128,U16,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=220
+River Valley FC 10/11B,29648,U16,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=239
+Arkansas Comets VanBuren 2010B Premier,578375,U16,Male,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=241
+NWA Dragons 2010/2011 Boys,404891,U16,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=249
+Arkansas Rising 2010 Boys ASCL,656972,U16,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=251
+Paragould Predators 2010/2011,676550,U16,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=261
+CASC 2010B All-Starz,418490,U16,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=264
+Arkansas Rising Soccer Club 10G RL,32442,U16,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=2
+Sporting Arkansas 2010G Bayern Munich,126102,U16,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=24
+2010G Paragould Predators,28582,U16,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=35
+Arkansas Comets 2010G ECNL RL,17386,U16,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=35
+Arkansas Comets 2010/2011G Navy,262004,U16,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=53
+Little Rock Rangers 2009-10 Girls,276126,U16,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=54
+SS ACADEMY 2010G SELECT,22639,U16,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=58
+Searcy Rangers 2010-11 Girls,276152,U16,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=94
+Arkansas Rising 2010 Girls ACSL,32443,U16,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=109
+ARFC 2010/11 Girls,29851,U16,Female,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=113
+Texarkana SC 10/11G,25778,U16,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=117
+CASC 2010G Strikers,140373,U16,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=144
+Sporting Arkansas 2010/2011G Manchester United,385989,U16,Female,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=156
+SS Academy 2009/2010G Elite,569800,U16,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=178
+Sporting Arkansas 2009B Villarreal,126093,U17,Male,GotSport Rankings,0,AR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=17
+Tigres Academy 2009 Premier,26484,U17,Male,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=28
+Little Rock Rangers 2009 Boys Black,276119,U17,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=62
+Arkansas Rising 2009B Composite,449385,U17,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=65
+Tigres 2009 Amarillo,523174,U17,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=68
+Texarkana SC 09/10B,25787,U17,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=70
+Searcy Rangers 2009-10 Boys,276155,U17,Male,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=74
+Searcy Rangers 2009-10 Boys,276155,U17,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=75
+Tigres Academy 2009 Azul,20185,U17,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=80
+CASC 2009 Thunder,15063,U17,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=82
+El Dorado FC,51668,U17,Male,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=82
+Sporting Arkansas 2009B Liverpool,266754,U17,Male,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=82
+Arkansas Comets 2009B ECNL RL,17375,U17,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=96
+Arkansas Rising 2009B ECNL-RL,32430,U17,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=102
+CASC 2009 Thunder White,519210,U17,Male,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=103
+Conway Boys 09B,674147,U17,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=105
+AVSA 09 Boys,21459,U17,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=108
+Spa City FC 09,101117,U17,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=120
+Spa City FC 2009,658510,U17,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=131
+Arkansas Comets Ft Smith 2009B Cruz Azul,364522,U17,Male,GotSport Rankings,0,AR,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=160
+Arkansas Crew 09B,373382,U17,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=164
+LRR 09B Black,677123,U17,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=164
+FC Arkansas 09/10,523189,U17,Male,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=168
+Little Rock Rangers 2009 Boys Red,276120,U17,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=169
+Sporting Arkansas 2009/10B Boca Juniors,126088,U17,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=173
+2009B Paragould Predators,48001,U17,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=183
+Arkansas Rising 2009 Boys - ACSL,32424,U17,Male,GotSport Rankings,0,AR,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=184
+NEA SC 2009/10 Boys - Black,535874,U17,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=186
+LRRA 09 Red,677125,U17,Male,GotSport Rankings,0,AR,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=194
+SHERWOOD SC 09/10,524841,U17,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=214
+Siloam Springs FC 09/10B (Gonzalez),20432,U17,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=223
+Arkansas Rising 2009 Girls - RL,32441,U17,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=26
+Sporting Arkansas 2009G Celtic,126096,U17,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=30
+Sporting Arkansas Showcase Girls,570278,U17,Female,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=41
+Arkansas Rising 2009G Composite,473173,U17,Female,GotSport Rankings,0,AR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=43
+SS ACADEMY 2009G ELITE,529335,U17,Female,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=59
+Arkansas Comets 2009G ECNL RL,382386,U17,Female,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=60
+Spa City FC 09G,388616,U17,Female,GotSport Rankings,0,AR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=96
+2009G Paragould Predators,34314,U17,Female,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=102
+Arkansas Comets 2009G Navy,17387,U17,Female,GotSport Rankings,0,AR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=104
+Sporting Arkansas 2009G DPL,616498,U17,Female,GotSport Rankings,0,AR,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=114
+Arkansas Comets Ft Smith 2009G Premier,393903,U17,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=124
+Tigres 2009/2010 Girls,523169,U17,Female,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=124
+Sporting Arkansas 2008B Flamengo,126089,U18,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=8
+Arkansas Rising 2008 Boys - RL,21043,U18,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=35
+Little Rock Rangers 2008 Boys Black,29822,U18,Male,GotSport Rankings,0,AR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=62
+CASC 08 Force,122540,U18,Male,GotSport Rankings,0,AR,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=68
+Bentonville FC Prodigy 08/09 Boys,517798,U18,Male,GotSport Rankings,0,AR,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=72
+SS ACADEMY 2008/2009B ELITE,529349,U18,Male,GotSport Rankings,0,AR,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=84
+Spa City FC 2008B,528965,U18,Male,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99
+Little Rock Rangers 2008 Boys Red,522994,U18,Male,GotSport Rankings,0,AR,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=102
+SS ACADEMY 2009B SELECT,47266,U18,Male,GotSport Rankings,0,AR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=135
+Arkansas Comets 2007/2008G ECNL RL,17388,U18,Female,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=5
+CASC 08/09 Wildcats,15065,U18,Female,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=19
+Searcy Rangers 2008-10 Girls,392855,U18,Female,GotSport Rankings,0,AR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=23
+Little Rock Rangers 2008 Girls,523033,U18,Female,GotSport Rankings,0,AR,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=52
+Bentonville FC Prodigy 08/09 Girls,391335,U18,Female,GotSport Rankings,0,AR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=56
+Arkansas Rising 2008 Girls - RL,32440,U18,Female,GotSport Rankings,0,AR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=57
+ARFC 08/09G,275882,U18,Female,GotSport Rankings,0,AR,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=59

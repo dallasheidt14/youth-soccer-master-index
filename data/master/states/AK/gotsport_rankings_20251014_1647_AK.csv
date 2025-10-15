@@ -1,0 +1,125 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+2016B Alaska Rush Blue,321766,U10,Male,GotSport Rankings,0,AK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=66
+2015 Cook Inlet SC Boys RED,566715,U11,Male,GotSport Rankings,0,AK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=88
+2015B Alaska Rush Goldstrikers,360268,U11,Male,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=111
+2015B AK Timbers,358777,U11,Male,GotSport Rankings,0,AK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=161
+2015 Cook Inlet SC Boys Premier,566709,U11,Male,GotSport Rankings,0,AK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=277
+Alaska Eclipse 15B,425269,U11,Male,GotSport Rankings,0,AK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=327
+2015B CSC Riptide,435786,U11,Male,GotSport Rankings,0,AK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=362
+VR 2015 Boys,435907,U11,Male,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=363
+KPSC 2015B,488305,U11,Male,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=409
+2015G Alaska Rush Blue,440046,U11,Female,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=44
+2015 Cook Inlet SC Girls,322203,U11,Female,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=65
+2015G CSC Storm Blue,433383,U11,Female,GotSport Rankings,0,AK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=153
+2015G Alaska Rush White,321768,U11,Female,GotSport Rankings,0,AK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=167
+2015 Girls Cook Inlet SC Scarlet,374306,U11,Female,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=194
+KPSC 15/16G,490374,U11,Female,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=234
+15/16G AK Thorns,199109,U11,Female,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=235
+Alaska Eclipse 14B,310135,U12,Male,GotSport Rankings,0,AK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=97
+VR 2014 Boys,563526,U12,Male,GotSport Rankings,0,AK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=193
+2014 Boys Cook Inlet SC Elite WYNALDA,238572,U12,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=228
+KPSC 2014B,470262,U12,Male,GotSport Rankings,0,AK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=230
+VR 2015 Boys,563344,U12,Male,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=233
+2014B Alaska Rush White,195346,U12,Male,GotSport Rankings,0,AK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=267
+2014B CSC Avalanche,435785,U12,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=290
+Alaska Eclipse 14B Tango,310137,U12,Male,GotSport Rankings,0,AK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=327
+2014B AK Timbers,357080,U12,Male,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=349
+2016 Boys Cook Inlet SC Red,322207,U12,Male,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=350
+2014B CSC Avalanche Blue,435780,U12,Male,GotSport Rankings,0,AK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=352
+2014B CSC Avalanche Gold,435538,U12,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=356
+2014B Alaska Rush Blue,238409,U12,Male,GotSport Rankings,0,AK,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=426
+2014G Alaska Rush White,255562,U12,Female,GotSport Rankings,0,AK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=106
+2014G CSC Lightning,360283,U12,Female,GotSport Rankings,0,AK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=108
+2014 Girls Cook Inlet SC Elite,314500,U12,Female,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=149
+2014G Alaska Rush,238413,U12,Female,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=158
+Alaska Eclipse 14G,310136,U12,Female,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=208
+2013 Boys Cook Inlet SC Elite,314355,U13,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=113
+2013B CSC Wildfire,360290,U13,Male,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=114
+Alaska Eclipse 13B,46167,U13,Male,GotSport Rankings,0,AK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=124
+2013B Alaska Rush Dempsey,238389,U13,Male,GotSport Rankings,0,AK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=181
+Cook Inlet SC U-12 Boys,616780,U13,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=241
+VR 2013 Boys,563524,U13,Male,GotSport Rankings,0,AK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=286
+Juneau Rush 2013B,580847,U13,Male,GotSport Rankings,0,AK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=291
+Cook Inlet SC U-11 Boys 1,616777,U13,Male,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=342
+2013 Boys Cook Inlet SC Premier,314365,U13,Male,GotSport Rankings,0,AK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371
+2013 Boys Cook Inlet SC Elite Red,182995,U13,Male,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=373
+Homer United 2014 Tutka,501001,U13,Male,GotSport Rankings,0,AK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378
+2014 Boys Cook Inlet SC Premier,480767,U13,Male,GotSport Rankings,0,AK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=402
+Alaska Eclipse,16214,U13,Male,GotSport Rankings,0,AK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=428
+KPSC 2013B,608061,U13,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+ALASKA SELECT CHICAS 2013,578026,U13,Female,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=62
+2013 Girls Cook Inlet SC,39967,U13,Female,GotSport Rankings,0,AK,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=67
+VR 2013 Girls,563519,U13,Female,GotSport Rankings,0,AK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=132
+Alaska Eclipse 13 Girls,16227,U13,Female,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=140
+VR 2013 Girls,321758,U13,Female,GotSport Rankings,0,AK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=163
+VR 2015 Girls,563518,U13,Female,GotSport Rankings,0,AK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=190
+2013G Alaska Rush Lloyd,195341,U13,Female,GotSport Rankings,0,AK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=195
+KPSC 13/14G,256021,U13,Female,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=227
+2013G CSC Aftershock,562065,U13,Female,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=229
+13G AK Thorns,199795,U13,Female,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=235
+Alaska Eclipse 12B,57598,U14,Male,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=91
+2012B CSC Firestorm Blue,360289,U14,Male,GotSport Rankings,0,AK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=101
+2012B Alaska Rush Gold,39592,U14,Male,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=101
+2012 Boys Cook Inlet SC Elite,181585,U14,Male,GotSport Rankings,0,AK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=129
+12B AK Timbers,199796,U14,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=209
+2012B Alaska Rush Silver,563734,U14,Male,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=253
+2012B CSC Firestorm Gold,435808,U14,Male,GotSport Rankings,0,AK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=269
+VR 2012 Boys,358637,U14,Male,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=325
+VR 2012 Boys,321743,U14,Male,GotSport Rankings,0,AK,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=335
+KPSC 2012B,488345,U14,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=358
+2012G Alaska Rush,57264,U14,Female,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=61
+2012 Girls Cook Inlet SC Blue,39969,U14,Female,GotSport Rankings,0,AK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109
+KPSC 2012G,269432,U14,Female,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109
+KPSC 2012G,269432,U14,Female,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+Alaska Eclipse 12G,97354,U14,Female,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=163
+12G Polar Vortex,560826,U14,Female,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=220
+2011B Alaska Rush,35311,U15,Male,GotSport Rankings,0,AK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=156
+VR 2011 Boys,563523,U15,Male,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=196
+Juneau Rush 2011 Boys,22310,U15,Male,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=224
+2011B CSC Tornado,360288,U15,Male,GotSport Rankings,0,AK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=237
+Homer United 2012 Augustine,257546,U15,Male,GotSport Rankings,0,AK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=247
+CSC Firestorm 2012B-BLUE,435800,U15,Male,GotSport Rankings,0,AK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=278
+VR 2011 Boys Green,435904,U15,Male,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=301
+2011 Boys Cook Inlet SC Premier -O'Brian,314207,U15,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=314
+Alaska Eclipse 11B,39195,U15,Male,GotSport Rankings,0,AK,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=319
+2011 Girls Cook Inlet SC Elite,365551,U15,Female,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=30
+2011G Alaska Rush,314298,U15,Female,GotSport Rankings,0,AK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=52
+VR 2011/12 Girls,435911,U15,Female,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=110
+2011G CSC Tsunami,606710,U15,Female,GotSport Rankings,0,AK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=168
+11G AK Thorns,393824,U15,Female,GotSport Rankings,0,AK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=189
+Alaska Eclipse 11G,39196,U15,Female,GotSport Rankings,0,AK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=208
+2010B Alaska Rush,314281,U16,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=32
+Alaska Rush 2010 Boys White,39591,U16,Male,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=34
+2011 Boys Cook Inlet SC Elite,181596,U16,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=66
+Alaska Eclipse 10 Boys Tango,611569,U16,Male,GotSport Rankings,0,AK,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=74
+CISC 10B Elite,40583,U16,Male,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=132
+Alaska Eclipse 10 Boys,50096,U16,Male,GotSport Rankings,0,AK,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=144
+2010B CSC Hurricane,435266,U16,Male,GotSport Rankings,0,AK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=153
+2010B Alaska Rush White,568336,U16,Male,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=205
+KPSC 10/11B,56199,U16,Male,GotSport Rankings,0,AK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=219
+2010 Girls Cook Inlet SC Elite,40464,U16,Female,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=5
+Alaska Select Chicas 2010,569779,U16,Female,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=69
+2010G CSC Earthquake,39210,U16,Female,GotSport Rankings,0,AK,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=85
+Alaska Eclipse 10G,51613,U16,Female,GotSport Rankings,0,AK,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=138
+2010 Girls Cook Inlet SC Premier,39971,U16,Female,GotSport Rankings,0,AK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=144
+KPSC 10/11G,63685,U16,Female,GotSport Rankings,0,AK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=163
+2009 Boys Cook Inlet SC Nu,321294,U17,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=40
+2009B Alaska Rush,35309,U17,Male,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=69
+VR 2009/10 Boys,435919,U17,Male,GotSport Rankings,0,AK,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=143
+AK Timbers 08B,40504,U17,Male,GotSport Rankings,0,AK,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=158
+09B AK Timbers,184166,U17,Male,GotSport Rankings,0,AK,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=211
+VR High School Boys,563521,U17,Male,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=225
+Cook Inlet SC Elite 09G (AK),545590,U17,Female,GotSport Rankings,0,AK,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=7
+2009 Girls Cook Inlet SC Elite,40622,U17,Female,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=12
+VR 2009/10 Girls,358655,U17,Female,GotSport Rankings,0,AK,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=42
+AK Thorns 2009G,184163,U17,Female,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=110
+2008B Alaska Rush,39590,U18,Male,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=15
+CSC High School Boys,360286,U18,Male,GotSport Rankings,0,AK,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=48
+2008 Boys Cook Inlet SC,39974,U18,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=63
+Alaska Eclipse 08B,66325,U18,Male,GotSport Rankings,0,AK,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=70
+Alaska Eclipse 08B Tango,46173,U18,Male,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=103
+2008 Girls Cook Inlet SC Elite,40772,U18,Female,GotSport Rankings,0,AK,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=7
+Alaska Select Chicas 2008,361840,U18,Female,GotSport Rankings,0,AK,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=28
+Alaska Rush HS Girls,39598,U18,Female,GotSport Rankings,0,AK,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=63
+Alaska Rush 2008 Girls,183162,U18,Female,GotSport Rankings,0,AK,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=72
+09G AK Thorns,563342,U18,Female,GotSport Rankings,0,AK,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=74

@@ -294,3 +294,4 @@ if __name__ == "__main__":
     if not deltas['removed'].empty:
         print("Removed teams:")
         print(deltas['removed'][['team_name', 'age_group', 'gender', 'state']])
+

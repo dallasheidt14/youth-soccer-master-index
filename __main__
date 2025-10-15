@@ -1,0 +1,219 @@
+2025-10-14 17:00:52,461 - INFO - 📂 Using latest file: data\master\master_team_index_USAonly_20251014_1655.csv
+2025-10-14 17:00:52,461 - INFO - 🧹 Starting master index cleanup...
+2025-10-14 17:00:52,461 - INFO - 📂 Loading data from: data\master\master_team_index_USAonly_20251014_1655.csv
+2025-10-14 17:00:52,718 - INFO - 📊 Original data: 175,416 rows
+2025-10-14 17:00:52,753 - INFO - 🔍 Found 168,487 duplicate rows
+2025-10-14 17:00:52,754 - INFO - 🧹 Removing duplicates (keeping latest entry)...
+2025-10-14 17:00:52,790 - INFO - 📊 After cleanup: 88,707 rows
+2025-10-14 17:00:52,790 - INFO - 🗑️ Removed: 86,709 duplicate rows
+2025-10-14 17:00:52,790 - INFO - 🆔 Teams with team_id: 46,111
+2025-10-14 17:00:52,790 - INFO - ❌ Teams without team_id: 42,596
+2025-10-14 17:00:52,791 - INFO - 💾 Saving cleaned data to: data\master\master_team_index_clean_20251014_1700.csv
+2025-10-14 17:00:53,066 - INFO - ✅ Master index cleanup completed!
+2025-10-14 17:00:53,066 - INFO - 📁 Clean file: data\master\master_team_index_clean_20251014_1700.csv
+2025-10-14 17:00:53,071 - INFO - 🎉 Cleanup completed successfully!
+2025-10-14 17:05:06,044 - INFO - 📂 Using latest file: data\master\master_team_index_USAonly_20251014_1655.csv
+2025-10-14 17:05:06,044 - INFO - 🧹 Starting master index cleanup...
+2025-10-14 17:05:06,044 - INFO - 📂 Loading data from: data\master\master_team_index_USAonly_20251014_1655.csv
+2025-10-14 17:05:06,326 - INFO - 📊 Original data: 175,416 rows
+2025-10-14 17:05:06,358 - INFO - 🔍 Found 168,487 duplicate rows
+2025-10-14 17:05:06,358 - INFO - 🧹 Removing duplicates (keeping entries with team_id)...
+2025-10-14 17:05:06,417 - INFO - 📊 After cleanup: 88,707 rows
+2025-10-14 17:05:06,418 - INFO - 🗑️ Removed: 86,709 duplicate rows
+2025-10-14 17:05:06,418 - INFO - 🆔 Teams with team_id: 87,202
+2025-10-14 17:05:06,418 - INFO - ❌ Teams without team_id: 1,505
+2025-10-14 17:05:06,418 - INFO - 💾 Saving cleaned data to: data\master\master_team_index_clean_20251014_1705.csv
+2025-10-14 17:05:06,707 - INFO - ✅ Master index cleanup completed!
+2025-10-14 17:05:06,707 - INFO - 📁 Clean file: data\master\master_team_index_clean_20251014_1705.csv
+2025-10-14 17:05:06,716 - INFO - 🎉 Cleanup completed successfully!
+2025-10-14 17:16:22,322 - INFO - 📂 Using clean file: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:16:22,323 - INFO - 🔄 Starting master index migration to new schema...
+2025-10-14 17:16:22,323 - INFO - 📂 Loading data from: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:16:22,489 - INFO - 📊 Original data: 88,707 rows, 10 columns
+2025-10-14 17:16:22,489 - INFO - 📋 Original columns: ['team_name', 'team_id', 'age_group', 'gender', 'source', 'points', 'state', 'rank', 'url', 'provider']
+2025-10-14 17:16:22,489 - INFO - 🔄 Step 1: Renaming team_id → provider_team_id
+2025-10-14 17:16:22,501 - INFO - ✅ Renamed team_id column to provider_team_id
+2025-10-14 17:16:22,501 - INFO - 🔄 Step 2: Generating deterministic team_id
+2025-10-14 17:16:24,638 - WARNING - ⚠️ Failed to generate team_id for 30 rows:
+2025-10-14 17:16:24,639 - WARNING -    Row 3659: State must be 2 characters, got: USA
+2025-10-14 17:16:24,639 - WARNING -    Row 18740: State must be 2 characters, got: USA
+2025-10-14 17:16:24,639 - WARNING -    Row 18741: State must be 2 characters, got: USA
+2025-10-14 17:16:24,639 - WARNING -    Row 18742: State must be 2 characters, got: USA
+2025-10-14 17:16:24,639 - WARNING -    Row 18755: State must be 2 characters, got: USA
+2025-10-14 17:16:24,639 - WARNING -    ... and 25 more
+2025-10-14 17:16:24,641 - INFO - ✅ Generated team_id for 88,677 teams (100.0%)
+2025-10-14 17:16:24,641 - INFO - 🔄 Step 3: Extracting numeric age_u from age_group
+2025-10-14 17:16:26,112 - INFO - ✅ Extracted age_u for 88,707 teams (100.0%)
+2025-10-14 17:16:26,112 - INFO - 🔄 Step 4: Normalizing gender to M/F
+2025-10-14 17:16:27,417 - INFO - ✅ Normalized gender for 88,707 teams (100.0%)
+2025-10-14 17:16:27,417 - INFO - 🔄 Step 5: Adding missing schema fields
+2025-10-14 17:16:27,417 - INFO - ✅ Added club_name column (null)
+2025-10-14 17:16:27,418 - INFO - ✅ Added created_at timestamp: 2025-10-15T00:16:27.418288
+2025-10-14 17:16:27,418 - INFO - 🔄 Step 6: Reordering columns to match schema
+2025-10-14 17:16:27,419 - ERROR - ❌ Migration failed: "['source_url'] not in index"
+2025-10-14 17:16:40,680 - INFO - 📂 Using clean file: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:16:40,681 - INFO - 🔄 Starting master index migration to new schema...
+2025-10-14 17:16:40,681 - INFO - 📂 Loading data from: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:16:40,835 - INFO - 📊 Original data: 88,707 rows, 10 columns
+2025-10-14 17:16:40,835 - INFO - 📋 Original columns: ['team_name', 'team_id', 'age_group', 'gender', 'source', 'points', 'state', 'rank', 'url', 'provider']
+2025-10-14 17:16:40,835 - INFO - 🔄 Step 1: Renaming team_id → provider_team_id
+2025-10-14 17:16:40,840 - INFO - ✅ Renamed team_id column to provider_team_id
+2025-10-14 17:16:40,840 - INFO - 🔄 Step 2: Generating deterministic team_id
+2025-10-14 17:16:42,868 - WARNING - ⚠️ Failed to generate team_id for 30 rows:
+2025-10-14 17:16:42,869 - WARNING -    Row 3659: State must be 2 characters, got: USA
+2025-10-14 17:16:42,869 - WARNING -    Row 18740: State must be 2 characters, got: USA
+2025-10-14 17:16:42,869 - WARNING -    Row 18741: State must be 2 characters, got: USA
+2025-10-14 17:16:42,869 - WARNING -    Row 18742: State must be 2 characters, got: USA
+2025-10-14 17:16:42,869 - WARNING -    Row 18755: State must be 2 characters, got: USA
+2025-10-14 17:16:42,869 - WARNING -    ... and 25 more
+2025-10-14 17:16:42,871 - INFO - ✅ Generated team_id for 88,677 teams (100.0%)
+2025-10-14 17:16:42,871 - INFO - 🔄 Step 3: Extracting numeric age_u from age_group
+2025-10-14 17:16:44,342 - INFO - ✅ Extracted age_u for 88,707 teams (100.0%)
+2025-10-14 17:16:44,342 - INFO - 🔄 Step 4: Normalizing gender to M/F
+2025-10-14 17:16:45,612 - INFO - ✅ Normalized gender for 88,707 teams (100.0%)
+2025-10-14 17:16:45,613 - INFO - 🔄 Step 5: Adding missing schema fields and renaming existing ones
+2025-10-14 17:16:45,625 - INFO - ✅ Renamed 'url' column to 'source_url'
+2025-10-14 17:16:45,625 - INFO - ✅ Added club_name column (null)
+2025-10-14 17:16:45,626 - INFO - ✅ Added created_at timestamp: 2025-10-15T00:16:45.626312
+2025-10-14 17:16:45,626 - INFO - 🔄 Step 6: Reordering columns to match schema
+2025-10-14 17:16:45,635 - INFO - ✅ Reordered columns: ['team_id', 'provider_team_id', 'team_name', 'age_group', 'age_u', 'gender', 'state', 'provider', 'club_name', 'source_url', 'created_at', 'source', 'points', 'rank']
+2025-10-14 17:16:45,635 - INFO - 🔄 Step 7: Validating with MasterTeamSchema
+2025-10-14 17:16:53,496 - ERROR - ❌ Schema validation failed: non-nullable series 'team_id' contains null values:
+3659     None
+18740    None
+18741    None
+18742    None
+18755    None
+19286    None
+32410    None
+32411    None
+32414    None
+33769    None
+33950    None
+35895    None
+44019    None
+48424    None
+48693    None
+48721    None
+52496    None
+54983    None
+58926    None
+62377    None
+65212    None
+70318    None
+72001    None
+72242    None
+77423    None
+82577    None
+84079    None
+85568    None
+88561    None
+88562    None
+Name: team_id, dtype: object
+2025-10-14 17:16:53,496 - ERROR - ❌ Migration failed: non-nullable series 'team_id' contains null values:
+3659     None
+18740    None
+18741    None
+18742    None
+18755    None
+19286    None
+32410    None
+32411    None
+32414    None
+33769    None
+33950    None
+35895    None
+44019    None
+48424    None
+48693    None
+48721    None
+52496    None
+54983    None
+58926    None
+62377    None
+65212    None
+70318    None
+72001    None
+72242    None
+77423    None
+82577    None
+84079    None
+85568    None
+88561    None
+88562    None
+Name: team_id, dtype: object
+2025-10-14 17:17:08,506 - INFO - 📂 Using clean file: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:17:08,506 - INFO - 🔄 Starting master index migration to new schema...
+2025-10-14 17:17:08,506 - INFO - 📂 Loading data from: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:17:08,669 - INFO - 📊 Original data: 88,707 rows, 10 columns
+2025-10-14 17:17:08,669 - INFO - 📋 Original columns: ['team_name', 'team_id', 'age_group', 'gender', 'source', 'points', 'state', 'rank', 'url', 'provider']
+2025-10-14 17:17:08,669 - INFO - 🔄 Step 1: Renaming team_id → provider_team_id
+2025-10-14 17:17:08,673 - INFO - ✅ Renamed team_id column to provider_team_id
+2025-10-14 17:17:08,673 - INFO - 🔄 Step 2: Filtering invalid states and generating deterministic team_id
+2025-10-14 17:17:08,693 - WARNING - ⚠️ Found 30 rows with invalid state codes:
+2025-10-14 17:17:08,693 - WARNING -    USA: 30 rows
+2025-10-14 17:17:08,717 - INFO - 🗑️ Removed 30 rows with invalid state codes
+2025-10-14 17:17:08,717 - INFO - 📊 Remaining data: 88,677 rows
+2025-10-14 17:17:10,814 - INFO - ✅ Generated team_id for 88,677 teams (100.0%)
+2025-10-14 17:17:10,814 - INFO - 🔄 Step 3: Extracting numeric age_u from age_group
+2025-10-14 17:17:12,221 - INFO - ✅ Extracted age_u for 88,677 teams (100.0%)
+2025-10-14 17:17:12,221 - INFO - 🔄 Step 4: Normalizing gender to M/F
+2025-10-14 17:17:13,502 - INFO - ✅ Normalized gender for 88,677 teams (100.0%)
+2025-10-14 17:17:13,502 - INFO - 🔄 Step 5: Adding missing schema fields and renaming existing ones
+2025-10-14 17:17:13,516 - INFO - ✅ Renamed 'url' column to 'source_url'
+2025-10-14 17:17:13,517 - INFO - ✅ Added club_name column (null)
+2025-10-14 17:17:13,518 - INFO - ✅ Added created_at timestamp: 2025-10-15T00:17:13.518139
+2025-10-14 17:17:13,518 - INFO - 🔄 Step 6: Reordering columns to match schema
+2025-10-14 17:17:13,526 - INFO - ✅ Reordered columns: ['team_id', 'provider_team_id', 'team_name', 'age_group', 'age_u', 'gender', 'state', 'provider', 'club_name', 'source_url', 'created_at', 'source', 'points', 'rank']
+2025-10-14 17:17:13,526 - INFO - 🔄 Step 7: Validating with MasterTeamSchema
+2025-10-14 17:17:14,230 - ERROR - ❌ Schema validation failed: non-nullable series 'team_name' contains null values:
+88513    NaN
+Name: team_name, dtype: object
+2025-10-14 17:17:14,230 - ERROR - ❌ Migration failed: non-nullable series 'team_name' contains null values:
+88513    NaN
+Name: team_name, dtype: object
+2025-10-14 17:17:38,602 - INFO - 📂 Using clean file: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:17:38,603 - INFO - 🔄 Starting master index migration to new schema...
+2025-10-14 17:17:38,603 - INFO - 📂 Loading data from: data\master\master_team_index_USAonly_clean_20251014.csv
+2025-10-14 17:17:38,756 - INFO - 📊 Original data: 88,707 rows, 10 columns
+2025-10-14 17:17:38,757 - INFO - 📋 Original columns: ['team_name', 'team_id', 'age_group', 'gender', 'source', 'points', 'state', 'rank', 'url', 'provider']
+2025-10-14 17:17:38,757 - INFO - 🔄 Step 1: Renaming team_id → provider_team_id
+2025-10-14 17:17:38,760 - INFO - ✅ Renamed team_id column to provider_team_id
+2025-10-14 17:17:38,761 - INFO - 🔄 Step 2: Filtering invalid data and generating deterministic team_id
+2025-10-14 17:17:38,763 - WARNING - ⚠️ Found 1 rows with null team names
+2025-10-14 17:17:38,791 - WARNING - ⚠️ Found 30 rows with invalid state codes:
+2025-10-14 17:17:38,792 - WARNING -    USA: 30 rows
+2025-10-14 17:17:38,816 - INFO - 🗑️ Removed 31 rows with invalid data
+2025-10-14 17:17:38,816 - INFO - 📊 Remaining data: 88,676 rows
+2025-10-14 17:17:40,899 - INFO - ✅ Generated team_id for 88,676 teams (100.0%)
+2025-10-14 17:17:40,899 - INFO - 🔄 Step 3: Extracting numeric age_u from age_group
+2025-10-14 17:17:42,380 - INFO - ✅ Extracted age_u for 88,676 teams (100.0%)
+2025-10-14 17:17:42,380 - INFO - 🔄 Step 4: Normalizing gender to M/F
+2025-10-14 17:17:43,755 - INFO - ✅ Normalized gender for 88,676 teams (100.0%)
+2025-10-14 17:17:43,755 - INFO - 🔄 Step 5: Adding missing schema fields and renaming existing ones
+2025-10-14 17:17:43,769 - INFO - ✅ Renamed 'url' column to 'source_url'
+2025-10-14 17:17:43,769 - INFO - ✅ Added club_name column (null)
+2025-10-14 17:17:43,770 - INFO - ✅ Added created_at timestamp: 2025-10-15T00:17:43.770225
+2025-10-14 17:17:43,770 - INFO - 🔄 Step 6: Reordering columns to match schema
+2025-10-14 17:17:43,780 - INFO - ✅ Reordered columns: ['team_id', 'provider_team_id', 'team_name', 'age_group', 'age_u', 'gender', 'state', 'provider', 'club_name', 'source_url', 'created_at', 'source', 'points', 'rank']
+2025-10-14 17:17:43,781 - INFO - 🔄 Step 7: Validating with MasterTeamSchema
+2025-10-14 17:17:44,505 - INFO - ✅ Schema validation passed!
+2025-10-14 17:17:44,505 - INFO - 💾 Saving migrated data to: data\master\master_team_index_migrated_20251014_1717.csv
+2025-10-14 17:17:44,505 - INFO - Writing CSV to temporary file: data\master\master_team_index_migrated_20251014_1717.tmp
+2025-10-14 17:17:44,906 - INFO - Successfully wrote CSV: data\master\master_team_index_migrated_20251014_1717.csv (21,614,340 bytes, MD5: 5090ef033d8c9de3ff247b0f116d2e7c)
+2025-10-14 17:17:44,906 - INFO - ✅ Migration completed successfully!
+2025-10-14 17:17:44,906 - INFO - 📁 Migrated file: data\master\master_team_index_migrated_20251014_1717.csv
+2025-10-14 17:17:44,906 - INFO - 📊 Final data: 88,676 rows, 14 columns
+2025-10-14 17:17:44,906 - INFO - 🔐 File checksum: 5090ef033d8c9de3ff247b0f116d2e7c
+2025-10-14 17:17:44,906 - INFO - 📏 File size: 21,614,340 bytes
+2025-10-14 17:17:44,910 - INFO - 🎉 Migration completed successfully!
+2025-10-14 17:17:44,910 - INFO - 📁 Migrated file: data\master\master_team_index_migrated_20251014_1717.csv
+2025-10-14 17:17:45,103 - INFO - 📊 Migration Summary:
+2025-10-14 17:17:45,103 - INFO -    Total teams: 88,676
+2025-10-14 17:17:45,105 - INFO -    Teams with team_id: 88,676
+2025-10-14 17:17:45,106 - INFO -    Teams with provider_team_id: 87,174
+2025-10-14 17:17:45,106 - INFO -    Teams with age_u: 88,676
+2025-10-14 17:17:45,108 - INFO -    Teams with normalized gender: 88,676
+2025-10-14 17:17:45,110 - INFO -    Unique states: 50
+2025-10-14 17:17:45,112 - INFO -    Age groups: ['U10', 'U11', 'U12', 'U13', 'U14', 'U15', 'U16', 'U17', 'U18']
+2025-10-14 17:17:45,114 - INFO -    Genders: ['F', 'M']

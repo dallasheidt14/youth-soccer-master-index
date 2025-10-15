@@ -36,10 +36,15 @@ from src.scraper.utils.file_utils import (
     safe_write_csv,
     list_csvs,
 )
-from src.scraper.utils.metadata_registry import MetadataRegistry, create_build_entry
+from src.registry.metadata_registry import MetadataRegistry, create_build_entry
 from src.scraper.utils.state_normalizer import normalize_states
 from src.scraper.utils.delta_tracker import compare_builds, save_deltas_to_csv
-from src.scraper.utils.history_registry import update_history_registry
+from src.registry.history_registry import update_history_registry
+from src.validators.verify_master_index import validate_master_index_with_schema, ValidationError
+from src.utils.metrics_snapshot import write_metrics_snapshot
+from src.utils.state_summary_builder import build_state_summaries
+from src.utils.multi_provider_merge import merge_provider_data
+from src.io.safe_write import safe_write_csv as atomic_write_csv
 
 
 def ensure_data_tree() -> None:
@@ -53,6 +58,10 @@ def ensure_data_tree() -> None:
     - data/master/states/
     - data/logs/
     - data/temp/
+    - data/metrics/
+    - data/aliases/
+    - data/archive/
+    - tests/fixtures/
     """
     base_dirs = [
         "data",
@@ -60,7 +69,11 @@ def ensure_data_tree() -> None:
         "data/master/sources",
         "data/master/states",
         "data/logs",
-        "data/temp"
+        "data/temp",
+        "data/metrics",
+        "data/aliases",
+        "data/archive",
+        "tests/fixtures"
     ]
     
     for dir_path in base_dirs:
@@ -249,7 +262,7 @@ def save_incremental_master(df_all: pd.DataFrame, logger: logging.Logger) -> Pat
         timestamp = get_timestamp()
         master_path = Path(f"data/master/master_team_index_USAonly_incremental_{timestamp}.csv")
         
-        safe_write_csv(df_all, master_path, logger=logger)
+        atomic_write_csv(df_all, master_path, logger=logger)
         logger.info(f"✅ Incremental master index saved: {master_path}")
         
         return master_path
@@ -274,7 +287,7 @@ def save_national_master(df_all: pd.DataFrame, logger: logging.Logger) -> Path:
         timestamp = get_timestamp()
         master_path = Path(f"data/master/master_team_index_USAonly_{timestamp}.csv")
         
-        safe_write_csv(df_all, master_path, logger=logger)
+        atomic_write_csv(df_all, master_path, logger=logger)
         logger.info(f"✅ National master index saved: {master_path}")
         
         return master_path
@@ -454,12 +467,36 @@ def main(incremental_only: bool = False):
             logger.error(f"❌ Stage 2 failed: {e}")
             return
         
-        # Stage 3: Save National Master CSV
+        # Stage 3: Schema Validation
+        logger.info("=" * 60)
+        logger.info("🔍 STAGE 3: Schema Validation")
+        logger.info("=" * 60)
+        
+        try:
+            logger.info("📊 Running comprehensive validation...")
+            validation_results = validate_master_index_with_schema(df_all, logger)
+            
+            if validation_results['overall_status'] == 'failed':
+                logger.error("❌ Schema validation failed - stopping build")
+                return
+            elif validation_results['overall_status'] == 'warnings':
+                logger.warning("⚠️ Schema validation passed with warnings")
+            else:
+                logger.info("✅ Schema validation passed")
+                
+        except ValidationError as e:
+            logger.error(f"❌ Stage 3 failed - Validation error: {e}")
+            return
+        except Exception as e:
+            logger.error(f"❌ Stage 3 failed: {e}")
+            return
+        
+        # Stage 4: Save National Master CSV
         logger.info("=" * 60)
         if incremental_only:
-            logger.info("💾 STAGE 3: Saving Incremental Master CSV")
+            logger.info("💾 STAGE 4: Saving Incremental Master CSV")
         else:
-            logger.info("💾 STAGE 3: Saving National Master CSV")
+            logger.info("💾 STAGE 4: Saving National Master CSV")
         logger.info("=" * 60)
         
         try:
@@ -468,19 +505,57 @@ def main(incremental_only: bool = False):
             else:
                 master_path = save_national_master(df_all, logger)
         except Exception as e:
-            logger.error(f"❌ Stage 3 failed: {e}")
+            logger.error(f"❌ Stage 4 failed: {e}")
             return
         
-        # Stage 4: Save Per-State CSV Files
+        # Stage 5: Save Per-State CSV Files
         logger.info("=" * 60)
-        logger.info("🌎 STAGE 4: Saving Per-State CSV Files")
+        logger.info("🌎 STAGE 5: Saving Per-State CSV Files")
         logger.info("=" * 60)
         
         try:
             saved_states = save_per_state_csvs(df_all, logger)
         except Exception as e:
-            logger.error(f"❌ Stage 4 failed: {e}")
+            logger.error(f"❌ Stage 5 failed: {e}")
             return
+        
+        # Stage 6: Generate Metrics and State Summaries
+        logger.info("=" * 60)
+        logger.info("📊 STAGE 6: Generate Metrics and State Summaries")
+        logger.info("=" * 60)
+        
+        try:
+            # Generate metrics snapshot
+            timestamp = get_timestamp()
+            metrics_data = {
+                'build_id': timestamp,
+                'team_count': len(df_all),
+                'states_covered': len(df_all['state'].unique()) if not df_all.empty else 0,
+                'data_quality_score': validation_results.get('data_quality_score', 0),
+                'build_duration_seconds': int(time.time() - start_time),
+                'providers': df_all['provider'].unique().tolist() if not df_all.empty else [],
+                'age_distribution': df_all['age_group'].value_counts().to_dict() if not df_all.empty else {},
+                'gender_distribution': df_all['gender'].value_counts().to_dict() if not df_all.empty else {},
+                'state_distribution': df_all['state'].value_counts().to_dict() if not df_all.empty else {}
+            }
+            
+            if incremental_only and 'deltas' in locals():
+                metrics_data.update({
+                    'new_teams': len(deltas["added"]),
+                    'removed_teams': len(deltas["removed"]),
+                    'renamed_teams': len(deltas["renamed"])
+                })
+            
+            write_metrics_snapshot(metrics_data, logger)
+            logger.info("✅ Metrics snapshot generated")
+            
+            # Generate state summaries
+            build_state_summaries(df_all, timestamp, logger)
+            logger.info("✅ State summaries generated")
+            
+        except Exception as e:
+            logger.warning(f"⚠️ Stage 6 failed: {e}")
+            logger.info("🔄 Continuing without metrics...")
         
         # Final Summary
         end_time = time.time()

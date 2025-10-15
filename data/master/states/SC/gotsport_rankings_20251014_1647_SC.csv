@@ -1,0 +1,737 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+SCUFC 16 Boys Futures 1,685089,U10,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65
+CASA Pride 2015 Boys,607045,U10,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65
+CESA 2016B Black 1,681126,U10,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=162
+FMU 2016 Boys EPL,623371,U10,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=167
+CESA 2016 B Black 2,681143,U10,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=167
+CESA 2016B Pre ECNL 1,685086,U10,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=168
+MP 15 Blue,566275,U11,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=10
+TFC 15B Ibis I GA,336964,U11,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=156
+JIYSC 2015 Boys Red Moody,623743,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=164
+CASC 14/15 Rangers,649280,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=213
+CISC 15 Pre MLS Academy South Blue,671462,U11,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=224
+CSC 15 Boys Navy North E,685253,U11,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235
+Alpha SA 2015,502339,U11,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=242
+TSC 2014 Boys,629348,U11,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=243
+2014 Boys Augusta Arsenal Navy,629336,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=243
+JIYSC 2015 Boys Red Chambers,623787,U11,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=245
+CESA Pachuca 2015B Black,681066,U11,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=245
+LUFC BOYS U11 (2015) BLUE,404933,U11,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=246
+BISA 14B PANTHERS,633038,U11,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=247
+Coast B15 Black,675507,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=251
+BUFC Crew 15 Boys CPL,685259,U11,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=266
+CCFC 2015 Green,607046,U11,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=271
+CSC 14 Boys Yellow North,601514,U11,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=276
+TFC 15B Ibis II GA,453925,U11,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=278
+Coast 2015 Red,558757,U11,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=281
+FCC 2013/2014 Boys Gold,632394,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=281
+CESA 2015B Pre ECNL-RL 2,685251,U11,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282
+CESA 2015B Pre-USYS-NL #2,677842,U11,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282
+CISC 15 Pre MLS Academy South Tan,671463,U11,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=286
+United FC 15B White,679157,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=287
+FCC 2014 Boys Gold 2,633051,U11,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=288
+CESA 2015B Pre-USYS-NL #1,677851,U11,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=366
+Spartanburg United 14 Boys White,633050,U11,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+Bulls 2015 Boys Red,641858,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+MPFC 2014B Kryptonite,633055,U11,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+FMU 2015 Boys EPL,488491,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+FCC 2015 Boys Gold GR,632485,U11,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=381
+Lexington SA 15 Red,632483,U11,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=381
+JIYSC 2014 Boys Red Kifer,632466,U11,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=381
+Lexington SA 15 Black,632413,U11,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=381
+CASC 2014 Golden Gators,633046,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=382
+Coast B15 White,675511,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=386
+JIYSC 2014 Boys Red Cepeda,601190,U11,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=388
+CESA 2016B Pre ECNL 2,685252,U11,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=389
+SCUFC 2016 Boys Futures 2,685254,U11,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=389
+SC Surf MP 14 White,633043,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=389
+SC Surf MP 14 Black,623728,U11,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=390
+Shaw Futbol Club - 11U (2014) - Select,629337,U11,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=390
+SCUFC 15 Boys Futures 3,629338,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=390
+Shaw Futbol Club - 11U (2014) - Academy,629346,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=391
+Bulls Rush 2015 Boys Red U11,678316,U11,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=394
+CEFC 2015 Boys Navy,371194,U11,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=395
+JIYSC 2014 Boys Black MOODY,601022,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=396
+Charleston City CCFC U11 2014 Boys,629321,U11,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398
+SCUFC 15 Boys Futures 2,629322,U11,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398
+FCC 2014 Boys White,629350,U11,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398
+Coast 15 Red,436354,U11,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=399
+FCC 2014 Boys Navy 2,633047,U11,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=401
+2014 Boys Augusta Arsenal Green,629353,U11,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=403
+CASA Pride 2014 Boys (A),607043,U11,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=407
+CCFC Argentina 2015B,607056,U11,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=407
+JIYSC 16 Boys Red Watt,681130,U11,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=412
+JIYSC 15 Boys Red Brisson,681124,U11,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=414
+CESA Spartanburg 2015B,679160,U11,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=414
+United FC 15B Gold,679158,U11,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=414
+Lexington SA 15 Girls,679016,U11,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=101
+CRFC 15G EPL 1,680468,U11,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=132
+FCC 2015 Girls Gold,676090,U11,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=134
+Coast 14G Red,601558,U11,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=145
+FMU 2015 Girls Navy,486979,U11,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=156
+CISC 15 Pre Academy South Tan G,627793,U11,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=156
+CESA 2015G Black,633830,U11,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=159
+SCUFC 2014 Girls Premier,630047,U11,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=159
+SCUFC 15 Girls Red,630043,U11,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=159
+Spartanburg United 14 Girls Green,633828,U11,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=160
+Land United 2015 Girls South,676091,U11,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=160
+CISC 15 Pre Academy North Blue G,627788,U11,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=160
+CESA 2015G Pre-ECNL/RL - 2,678141,U11,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=161
+CISC 15 Pre Academy South Blue G,627789,U11,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=209
+BUFC Flash 15 Girls CPL,685421,U11,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=209
+Spartanburg United 2014 White,641956,U11,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+United FC Furman 14G Black,628679,U11,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+SC Surf MP 14 Black,628683,U11,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+JIYSC 2014 Girls Black,628743,U11,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+CSC 2011 Navy South,641952,U11,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+LCGSA Tsunami 2014/2015G,630037,U11,Female,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=212
+CASC 14/15 Blue,630044,U11,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=212
+SCUFC 2015 Girls Blue,630045,U11,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=212
+CESA 2015G Pre-ECNL/RL-1,678122,U11,Female,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=229
+Coast FA 2014 Red,558721,U12,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=145
+CISC 14 Pre MLS Academy South Tan,564544,U12,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=165
+Coast FA 14 Black,601515,U12,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=199
+SC Surf 13 Pre Elite,618194,U12,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+SCUFC 14 Boys Pre-ECNL 3,601236,U12,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=239
+FCC 2014 Boys Gold,574244,U12,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=240
+SCUFC 14 Boys Pre-ECNL 2,601182,U12,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=251
+CUSC 13B Blue,629372,U12,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=256
+TFC 14B Ibis I SC,333867,U12,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=277
+MP 14 Blue,552622,U12,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+SCUFC 14 Boys Pre-ECNL 1,601179,U12,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=284
+Alpha SA 2014,502338,U12,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=290
+CESA Spartanburg 2014G pre USYS- NL2,679162,U12,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=294
+SCUFC 14 Boys Premier 1,629325,U12,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=295
+FCC 2014 Boys Navy,188330,U12,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=296
+CASC 13/14B Cannons,629432,U12,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=296
+2014 Bulls Boys Red,678747,U12,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=317
+United FC-Furman - 2014B Black,623713,U12,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=324
+Carolina FC 2013 Boys Blue,629385,U12,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=334
+DISA 2013B Jr. Academy,633071,U12,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=334
+CESA 2014 Boys White 1B,601235,U12,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=334
+AFC 2014 Boys Elite,629319,U12,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=335
+SCUFC 14 Boys Premier 2,629326,U12,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=335
+ICFC 2014 Boys,404349,U12,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=335
+United FC Oconee 2014G,679161,U12,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=336
+CUSC 13/14B Red,633079,U12,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=336
+ESC 2013/14 Boys White,642021,U12,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=337
+TFC 14B Ibis II SC,453924,U12,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=357
+FSCG Speedstreet 13B,617538,U12,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=358
+FSA 2014 Boys Blue,640088,U12,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=399
+United FC 14B Purple,679163,U12,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=401
+FSA 2014 Boys White,679165,U12,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=401
+Coast 14 Black,682069,U12,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=404
+CESA Pachuca U12 Boys 2013 Red,629411,U12,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=407
+ESC 2014 Boys Black,642027,U12,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=413
+ESC 2013/14 Boys Green,642032,U12,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=413
+Spartanburg United 13 Boys Green,633060,U12,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=417
+MPFC 2013B Force,633062,U12,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=417
+KOSA 2013 Boys NOSA,633068,U12,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=418
+CEFC 2014 Boys Gray,371181,U12,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=418
+JIYSC 2013B Black Cooper,633072,U12,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=419
+FCC 2013 Boys White,633086,U12,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420
+CESA 2014B Pre USYS-NLSC Split 2,685447,U12,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=421
+SSC Destroyers 2013B,601518,U12,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=422
+Coast B14 Red South,675514,U12,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=423
+Spartanburg United 13 Boys,629379,U12,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+Sumter Galaxy 2013B,629394,U12,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+Blythewood 2013,618233,U12,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+Bulls SC 13 Boys White,630017,U12,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+MPFC 2013B Vipers,633058,U12,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=431
+SC Surf NA 13/14,633059,U12,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=431
+CISC 14 Pre MLS Academy South Blue,564543,U12,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=438
+JIYSC 2014 Boys Red,188289,U12,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=438
+BISA 14B Sharks,550697,U12,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=440
+United FC-Furman - 2014B White,623767,U12,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=441
+Carolina FC 2014 Boys Blue,629328,U12,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=443
+CSC 14 Boys Navy South,187487,U12,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=443
+2014 Bulls Boys Black,629339,U12,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=443
+SCUFC 14 Boys Classic Red,629344,U12,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=444
+SCUFC 14 Boys Classic Blue,629345,U12,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=444
+Coast 14 red,436350,U12,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=445
+CSC 14 Boys Navy North,187484,U12,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=445
+FMU 2014 Boys EPL,488482,U12,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=446
+CEFC 2014 Boys Navy,371183,U12,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=446
+BUFC Tiempo 2013,650911,U12,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=446
+JIYSC 2014 Boys Black CHAMBERS,63706,U12,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=451
+MP 14 Blue,552672,U12,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=39
+CISC 14 Pre Academy South Blue G,565969,U12,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=98
+SCUFC 14 Girls pre-ECNL 1,591425,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=111
+Coast FA 2014 Girls Red,560363,U12,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=116
+LCGSA Earthquakes 2013,618271,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=135
+SCUFC 14 Girls Pre-ECNL 2,630035,U12,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=143
+CESA 2014G ECNL-RL,678146,U12,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=147
+14 CSA Huntersville Liga,685817,U12,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=162
+CRFC !4G EPL 1,680474,U12,Female,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=163
+CESA 2014G Red,591483,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=167
+Augusta Arsenal 14 Girls - Navy,591384,U12,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=168
+Lexington SA 14,633829,U12,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=168
+JIYSC 2014 Girls Red,63691,U12,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=186
+ESC 2013 Girls,641992,U12,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=190
+FSA 2014 Girls,640994,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=190
+SC Surf MP 14 Blue,450395,U12,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=191
+Spartanburg United 2013 Girls Green,633833,U12,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=194
+SC Surf MP 13 Blue,628757,U12,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=194
+Bulls 2014 Girls,675205,U12,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=195
+FMU 2014 Girls EPL,489182,U12,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=195
+Lowcountry United SA 2014 Girls,188064,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=195
+CESA 2014 G White 1,591746,U12,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=213
+Augusta Arsenal 2014 Girls - Green,591761,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=213
+Land United 2014 Girls,675207,U12,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=236
+Lexington SA 14 Red,591724,U12,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=250
+CEFC 2014 Girls,371187,U12,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=254
+FC Charleston 2014/15 Girls,630038,U12,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=255
+CESA 2014G Black,633824,U12,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=256
+Alpha SA 2014,502344,U12,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+CESA 2014G Pre USYS-NL Split 2,685823,U12,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+CESA 2014G Pre USYS-NL Split 1,685824,U12,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=261
+SC Surf MP 13 Black,633836,U12,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=263
+CASA Pride 2013/14 Girls,630065,U12,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=263
+JIYSC 2013 Girls Black Hitchman,630063,U12,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=263
+2013/2014 G AFC Purple,630059,U12,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=264
+CCFC 2013 Girls,630093,U12,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=264
+LCGSA Riptide 13G,628783,U12,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=264
+CISC 13 B Pre-ECNL South Blue,564547,U13,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=99
+13 Pre ECNL,552615,U13,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=125
+TFC 13B Pre-MLS Next,333830,U13,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=209
+JIYSC 2013 Boys Red,575574,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=210
+CESA B2014 Pre-ECNL,680115,U13,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=213
+Coast FA 13 Black,601517,U13,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=216
+Spartanburg United 2012B Elite,617887,U13,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=216
+TFC 13B Ibis,145426,U13,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=238
+CESA Pachuca 2013B Piedmont,683383,U13,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=245
+CESA 2013B Pre-E64 RL,626364,U13,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=257
+ESC 2012 Boys Elite,617900,U13,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=264
+Beach United FC Wolves,617916,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=272
+CESA 2013B Pre-R,554468,U13,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=276
+Coast FA 2013 NL,558756,U13,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277
+SCUFC 13 Boys ECNL RL,679840,U13,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=278
+Lexington SA B2013 Classic,680129,U13,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=278
+Coast 13 NL Piedmont,682314,U13,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=283
+CSC 12 Boys Yellow South,601522,U13,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=290
+FCC 2012 Open,633117,U13,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=292
+FCC 2013 Boys Gold,630019,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+CASC Raptors,193751,U13,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+Lexington SA 13B Select,675184,U13,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+MPRD Lightning,485925,U13,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+KOSA 2012 Boys Yellow,618241,U13,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+Bulls 2013 Boys Black U12,618234,U13,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+CESA 2013B Pre-R (13U),617898,U13,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+JIYSC 2013 Boys Red Pehlivan,63707,U13,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=295
+Coast 13 Red,436345,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=303
+Lexington SA 13 Black,618220,U13,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=307
+Bulls 2012 Boys Black U12,485769,U13,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=315
+FC Charleston 2012 Boys Open 1,618242,U13,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=315
+12B CISC Boys YC Blue,618222,U13,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=318
+SCUFC 13 Boys Pre-ECNL 2,434225,U13,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=319
+Mitchell Road Soccer Club 13U,618214,U13,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=321
+Bulls 2012 Boys Red U13,617907,U13,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=322
+Charleston United 12/13 Boys Blue,618247,U13,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=325
+AASC 12 Boys Blue,618236,U13,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=325
+CASA 2012 Boys Select,618215,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=330
+AFC 2013 Boys Silver,629456,U13,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=334
+FCC 2013 Boys Gold 2,633104,U13,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=335
+FCC 2013 Boys Gold NL,675516,U13,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=335
+GMFC-U13 BLACK,481321,U13,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=336
+JIYSC 2013 Boys Black Thomas,63708,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=336
+United FC Oconee 2013 Boys,629420,U13,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=336
+MPFC U13 Bulldogs,618249,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=338
+FC Charleston 2012 Boys Open 2,618252,U13,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=338
+CRFC Sky 12 EPL,618196,U13,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=341
+Spartanburg United 2012B Green,485731,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=342
+SCUFC 13 Boys Premier,618229,U13,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=342
+CRFC EPL 13 Boys,618230,U13,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+Lakelands Toros 2012/13 Boys,617903,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+CRFC B12 Gray,618239,U13,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=355
+GOAL-LEVANTE UD. U12 Boys,143540,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=355
+AASC 12 Boys Gold,618198,U13,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+Carolina FC 2012 Boys Gold,618217,U13,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+CRFC B12 Black,618231,U13,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+United FC 13B Academy,618218,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378
+CASC 13 Vipers,189605,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=382
+2013 Bulls Boys Red,342233,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=382
+SCUFC 13 Boys Classic Red,630018,U13,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=392
+Lexington SA 13 Boys Silver,629454,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+SCUFC 13 Boys Classic Blue,629435,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+SCUFC 13 Boys Premier 2,629424,U13,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+CESA Pachuca Black U12 2013,629377,U13,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+Carolina FC 2013 Boys Gold,629357,U13,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+Aiken FC 2013 Boys,629355,U13,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=393
+BISA 13B Vipers,550700,U13,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=394
+CESA U12 Select Black,601346,U13,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=398
+CSC 13 Boys Navy North,187483,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=402
+CRFC Boys 2013 Sky,685759,U13,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=403
+13 CISC Regional Academy South,626601,U13,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=403
+Lexington SA 13 Red,331171,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=404
+Augusta Arsenal 2012B Blue,601521,U13,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+MPFC 2012B Coyotes,633119,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+CUSC Boys 2012,633102,U13,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+MPRD Landsharks,178970,U13,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=413
+Blythewood Green Boys 2013,630021,U13,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=413
+2013 Bulls Boys Red Team,328107,U13,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=413
+SCUFC 13 Boys Pre-ECNL 1,434224,U13,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=413
+United FC-Furman - B2013 Elite,680123,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415
+Lexington SA 13 White,633089,U13,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=416
+ESC 2013B,675008,U13,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=417
+Charlotte Independence South ECNL RL B12,582515,U13,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=419
+TSC 2013 Boys,497345,U13,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=423
+Augusta Arsenal 2013 Boys NAL,626319,U13,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=425
+Augusta Arsenal 13' Navy,349598,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=425
+Lexington SA 13B Elite,681362,U13,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=429
+Coast 13 Red South,633056,U13,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=430
+Lexington SA 13 Grey,633057,U13,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=430
+FMU 2013 Boys EPL,489285,U13,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=431
+AFC 2013 Boys Classic,675185,U13,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=434
+CCFC 2012 Boys,618251,U13,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=438
+KOSA 2012/2013 Boys CBDF,617922,U13,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=438
+CASA Pride 2012/13 Boys Elite,618219,U13,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=438
+Ninety Six PUMAS - 01 - B13U,618240,U13,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=438
+Land United FC 2013 Boys Gold,272838,U13,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=439
+SCUFC 13 Girls Pre-ECNL,555774,U13,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=96
+13 Pre GA,552670,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=126
+13 Pre GA,552670,U13,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=127
+FSA 2012 Girls Blue,612847,U13,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+LCGSA Wake - 2012G,618265,U13,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=142
+SCUFC 13 Girls Challenge Red,680492,U13,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=143
+SCUFC 13G Pre 1 (SC) (SC),620994,U13,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=143
+CESA 2013G Pre-ECNL,576754,U13,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=151
+CASA Pride 2012 Girls,485991,U13,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=154
+SC Surf 12 Blue MP,485993,U13,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=160
+CSC 13 Girls Navy North,618008,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=162
+Carolina FC 2012 Girls Blue,618004,U13,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=166
+JIYSC 2012 Girls D,618203,U13,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=176
+United FC 13G Academy,618270,U13,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=177
+ESC 2012 Girls Elite,617998,U13,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=177
+CESA 2013 12U G Legends,630083,U13,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=178
+Bluffton United 2013G,363618,U13,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=178
+CESA 2013G Pre-ECNL-RL,599630,U13,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=180
+MPFC U13 Black Panthers,618267,U13,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=187
+Beach United FC Fusion,612846,U13,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=192
+Charleston United SC '12 Girls Blue,618167,U13,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=193
+JIYSC 2013 Girls Red,63692,U13,Female,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197
+AASC 12 Girls Blue,618272,U13,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197
+CEFC 2013 Girls Navy,529172,U13,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+13G Aspire South,430542,U13,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=202
+CESA 2013G Black,633838,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=203
+Alpha SA 2013/14,502343,U13,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=204
+CASA Pride 2012/13 Girls Elite,618000,U13,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=205
+CRFC Girls 2013 EPL Sky,685811,U13,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=205
+CSC 12 Girls Navy South,481383,U13,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=205
+FMU 2013 Girls EPL,489107,U13,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=205
+SCUFC 13 Girls Pre-ECNL 2,599652,U13,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=207
+AASC 13 Girls Academy,618273,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=207
+Coast 12G Red,601572,U13,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=214
+CRFC G13 Black,618269,U13,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=214
+SCUFC 13 Girls Premier,618274,U13,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=217
+South Carolina United ECNL RL G12,587377,U13,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=223
+CESA 2013G White I,599631,U13,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=241
+Land United 2013 Girls Gold,636360,U13,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=244
+2013 Bulls Girls,643321,U13,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=246
+CRFC !3G EPL Black,680484,U13,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=246
+SCUFC 2013G Lady Strikers,630094,U13,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=249
+South Carolina United ECNL G12,576345,U13,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=254
+SCUFC 13 Girls Premier 1,651706,U13,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=256
+Mitchell Road Soccer Club 2012G,618275,U13,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=257
+SCUFC 2013 Girls Blue,630097,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=258
+United FC 12G Elite,618006,U13,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=260
+United FC Furman 13G Black,629351,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=261
+Charleston United 2012 Girls,633839,U13,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=262
+CCLNC - CLOVER ELITE FC 2013 GIRLS,253507,U13,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=262
+JIYSC 2012 Boys NPL,63709,U14,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=48
+12 ECNL,566289,U14,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=50
+Carolina FC 2012 Boys Blue,576747,U14,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=73
+SCUFC 12 Boys ECNL RL,679839,U14,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=78
+12 CISC Regional Academy South,521113,U14,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=81
+CSC 12 Boys NPL,515666,U14,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=118
+Bluffton Rush 2011B,240687,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=157
+Coast 12 Red E64 Piedmont,436344,U14,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=179
+FC Charleston 2012 Boys NL,618191,U14,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=186
+CESA Triumph ECNL RL B12,583465,U14,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=194
+Bulls Rush 2012 Boys Red,680452,U14,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=196
+CESA Triumph ECNL B12,576738,U14,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199
+SC Surf 11 Blue,618202,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=203
+Coast FA 12B BLACK,601525,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=207
+FSA 2012 Boys Blue,549100,U14,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=208
+JIYSC 2012 Boys Red,269502,U14,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=213
+2011B CESA Asheville,565958,U14,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=219
+SCUFC 12 Boys Classic Blue,618223,U14,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=220
+SCUFC 12 Boys ECNL,565052,U14,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=223
+United FC 12B Fusion,618210,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=225
+Land United FC 2012 Boys Gold,257254,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=225
+CASA Pride 2012 Boys Premier,405571,U14,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=225
+ICFC 2011s Blue,617941,U14,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=226
+12 ECRL,573769,U14,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=231
+FSCG Speedstreet 14,617923,U14,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=242
+Blythewood 2011-12 Green,618257,U14,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=249
+BISA 11B Jaguars,618259,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250
+MPFC U14 Lightning,618263,U14,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250
+CESA 2011B Select,618253,U14,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250
+JIYSC 2012 Boys Black,63710,U14,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=259
+CESA 2012B Select Black,618211,U14,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=259
+Bluffton Rush 2012 Boys,192519,U14,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=259
+SCUFC 12 Boys Challenge Blue,618197,U14,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262
+SCUFC 12 Boys Team 1,612844,U14,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262
+Bulls 2012 Boys E64 U13,481323,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=263
+Bulls 2011 Boys E64 U14,612845,U14,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=263
+CESA 2012B Pre (13U) Red,481126,U14,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=263
+CESA Spartanburg 2012B Select,617535,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+United FC 12B Select 2,618212,U14,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+ICFC 2012/2013 Boys,371348,U14,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+Beach United FC 2011B Storm,618260,U14,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+CESA 2012B Elite 64 RL,498652,U14,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=266
+CSC 12 Boys Navy North,187676,U14,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=269
+CSC 12 Boys Yellow North,187677,U14,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+CESA 2012B Ponto,617534,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+Augusta Arsenal 2012 Boys NAL,626320,U14,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+CASA 2011 Boys,630029,U14,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+ICFC 2011s Black,618261,U14,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+CESA 2012B USYS Select 1,685768,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279
+CEFC 2012 Boys Gray,253512,U14,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=282
+KOSA 2011 Boys Yellow,617938,U14,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=282
+MPFC 2011B Bandits,618262,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=285
+SCUFC 12B Boys Challenge Red,617537,U14,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=285
+Lexington SA 12 Classic,618238,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=286
+CESA Pachuca 2012B Select,618216,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=296
+DUSC 10/11B,485983,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+CASA Pride 2011 Boys Elite,618255,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+CESA 2012B NLSC (13U),485428,U14,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+United FC 12B Select,617905,U14,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=306
+Bulls 2011 Boys NA U14,618258,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=307
+Lexington 12 Elite NL,515934,U14,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=317
+Charleston United '11 Boys Blue,617937,U14,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321
+Lexington SA 12 Select,618232,U14,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321
+CESA 2012B Select Red,601345,U14,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321
+FC Charleston 2011 Boys PMSL,617943,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=322
+Lexington SA 12 Red,650946,U14,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=331
+TSC 2012 Boys,497750,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=333
+FC Charleston 2011B,633137,U14,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=337
+United FC 12B Elite 64RL,519236,U14,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=337
+CSC 12 Boys Navy South E64RL,524491,U14,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=341
+FMU 2012 Boys EPL,489168,U14,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=341
+Lowcountry United SA 2012 Boys Gold,609148,U14,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=343
+CESA Spartanburg 2012B USYS Select 1,685769,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=344
+Beach United FC - Riptide,481644,U14,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=345
+CASA Pride 2012/2013 Boys Academy,433596,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=348
+Bulls SC 12B Red,185321,U14,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=349
+CASA Pride 2013 Boys Premier,617909,U14,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=351
+Coast 12 NL Piedmont,682329,U14,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=352
+JIYSC 2012 Boys White,63711,U14,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=352
+Lexington SA 12B Black,680449,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=354
+CISC 12 B Pre-ECNL North Blue,274731,U14,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=354
+SCUFC 2012B ECNL RL,601029,U14,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=354
+Ebony City Cosmos 2011B,618264,U14,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=356
+CCFC U14 2011 Boys,485984,U14,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=356
+Alpha SA 2012,502336,U14,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=359
+CEFC 2012 Boys,634282,U14,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=362
+LUFC BOYS U14 (2012) GOLD,531005,U14,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=364
+Tormenta FC 12G DPL,145423,U14,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=33
+CESA Liberty ECNL G12,576782,U14,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=44
+Congaree Rapid G12 EPL (SC) (NL-P),576854,U14,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=72
+CSC 12 Girls DPL,515667,U14,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=77
+Lowcountry United SA 12G DPL,63694,U14,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=84
+SCUFC 12 Girls Pre-ECNL 1,434188,U14,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=102
+CESA 2012G NLSC,449585,U14,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+DISA U13 Classic,481388,U14,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=125
+JIYSC 2012 Girls NPL,514809,U14,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=146
+Spartanburg United 2011G Elite,618243,U14,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=146
+SCUFC 12 Girls Red,187687,U14,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=155
+BUFC Fusion 12 Girls NLSC,683996,U14,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=155
+CESA Liberty ECNL RL G12,587373,U14,Female,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=155
+CESA 2012 Girls,679189,U14,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=156
+United FC 13G Elite,679178,U14,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=156
+KOSA 2011/2012 Girls Yellow,618276,U14,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=161
+CRFC G12 Black,618268,U14,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=168
+CCLNC - FMU (2012 NAVY),536544,U14,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=170
+MPFC 2011G Springers,618278,U14,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=170
+12G GA,523825,U14,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=170
+CESA 2012G Pre ECNL-RL (13U),481336,U14,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=175
+Augusta Arsenal 2012 DPL,679183,U14,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=175
+CISC 12 G Pre-Ecnl N Blue,433788,U14,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=175
+CASC 12 Hurricanes,618180,U14,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=182
+SCUFC 12 Girls Challenge Red,618182,U14,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=188
+CASC 12 Blue,618204,U14,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=189
+JIYSC 2012 Girls Black,63695,U14,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=189
+CASC 12B Cougars,618206,U14,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=198
+TSC 2012 Girls,506681,U14,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+Lexington SA 12 Select,618184,U14,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=209
+Dorchester United 12/13G,676110,U14,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=210
+Lexington SA 12 Red,424239,U14,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=211
+Bulls Elite 64 12G (SC),433847,U14,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=214
+CCLNC - CLOVER ELITE FC 2012 GIRLS,371191,U14,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+Beach United FC - Menace,486001,U14,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=223
+Lowcountry United SA 2011 Boys MLS Next AD,381494,U15,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=16
+CSC 11 Boys NPL,384354,U15,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=32
+Augusta Arsenal 11B Gold,500569,U15,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=51
+2011B CESA Triumph ECNL,456937,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=70
+KOSA 2011 Boys Black,545207,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=73
+Charleston United '11/'12 Boys Red,481326,U15,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=82
+SCUFC 11 Boys ECNL RL,434212,U15,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=140
+Lexington SA 11 Elite NL,421675,U15,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=146
+SCUFC 11 Boys ECNL,434211,U15,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=148
+FSA 2011 Boys,577153,U15,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=155
+2010B CISC GC Blue,600937,U15,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=159
+CESA Triumph RL B11,444461,U15,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=168
+CASC 11 Chaos,481329,U15,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=187
+SCUFC 11 Boys Classic Blue,485753,U15,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=189
+CESA Pachuca 2011B Piedmont,481062,U15,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=189
+Coast 11 Red E64 Piedmont,436342,U15,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=190
+CESA 2011B Elite 64 RL,498650,U15,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=191
+SCUFC 11 Boys Challenge Red,485750,U15,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=196
+BISA 11B Scorpions,485929,U15,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=202
+KOSA 2011 Boys CBDF,481332,U15,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=203
+Augusta Arsenal 2011 Boys NAL,626321,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=215
+11 ECNL,566290,U15,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=215
+Spartanburg United 2011B Elite,481012,U15,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=217
+CASA Pride 2011 Boys Premier,395128,U15,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=223
+CESA 2011B NLSC,485429,U15,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=228
+2011 Bulls Boys Red,178698,U15,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=232
+Coast 11 Black,485942,U15,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=233
+AASC 11 Boys NAL,490937,U15,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=234
+ESC 2011 Boys Select,485726,U15,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=237
+CSC 11 Boys Yellow,187478,U15,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=237
+11 CSA York King,485758,U15,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=238
+Bulls 2011 Boys Black,485768,U15,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=242
+JIYSC 2011 Boys Black,481328,U15,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=246
+AikenFC 2011 Boys Elite,532724,U15,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=246
+Spartanburg United 2011B Green,485742,U15,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=246
+Bulls 2011 Boys E64 U14,383813,U15,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=249
+United FC Furman 11B Elite,624635,U15,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=249
+Carolina FC 2011 Boys Blue,617926,U15,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=250
+CASC 11 Titans,481333,U15,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=254
+CISC 11 B YC Blue,485747,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=254
+Lexington SA 11 Select,315048,U15,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=256
+CRFC Sky 11 Boys,481324,U15,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=257
+CASC 11 Thunder,188292,U15,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=257
+United FC 11B Fusion,618254,U15,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=258
+TFC 11B Ibis Statesboro,408774,U15,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+Lakelands Toros 2011 Boys,481071,U15,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=267
+JIYSC 2011 Boys White,433607,U15,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=269
+AASC 11 Boys Blue,485766,U15,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=269
+2011 CISC ECNL Boys,559549,U15,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=288
+United FC 11B Select,481085,U15,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=291
+Alpha SA 2011,502335,U15,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=300
+SC Surf 10/11B Spring,642643,U15,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302
+SC Surf RL B11,479243,U15,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=305
+SC Surf 11 ECNL,189452,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=305
+FSA 2011 Boys Blue,481325,U15,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=308
+11 ECRL,573768,U15,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=310
+FMU 2011 Boys Navy,245326,U15,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=310
+CESA Spartanburg 2011B USYS Select,681379,U15,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=310
+CESA 2011B USYS Select 3,681375,U15,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=310
+Augusta Arsenal 2011B Gold,433598,U15,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=311
+SFC 10B Green,607702,U15,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=314
+FSA 2011 Boys Blue,605734,U15,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=314
+CCFC U15 Boys White,601542,U15,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=315
+Land United FC 2011B,209947,U15,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=315
+CISC 2010B YC Blue,601089,U15,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=315
+FSA 2011 Boys White,624637,U15,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=319
+AikenFC 2011 Boys,485767,U15,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=320
+Carolina FC 2011 Boys Gold,618256,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=320
+TFC 11B Ibis,145409,U15,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=320
+Alpha Soccer Academy 2011 Black Boys,685773,U15,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=322
+FSA 2011 Boys White,485936,U15,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=323
+FMU 2011 Boys EPL,489255,U15,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=330
+JIYSC 11 Girls D (SC) (SC),621001,U15,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=25
+Lowcountry United SA 11G DPL,63696,U15,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=43
+CSC 11 Girls DPL,273605,U15,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=57
+Tormenta FC 11G DPL,380488,U15,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=74
+MP 11 Blue,498998,U15,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=81
+JIYSC 2011 Girls NPL,381507,U15,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=91
+SCUFC 11 Girls ECNL,434192,U15,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=96
+CESA 2011G ECNL,539979,U15,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=99
+SC Surf MP 11 Blue,511729,U15,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=100
+Bulls Rush 2011G NL (SC),383815,U15,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=103
+2011G CESA Liberty ECNL,451277,U15,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=106
+United FC 11G NL Elite,448039,U15,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=119
+SCUFC 11 Girls Challenge Red,618190,U15,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=121
+CISC 11 G YC Blue,481352,U15,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=125
+FC Charleston 2011 Girls PMSL,618185,U15,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=126
+SCUFC 11 Girls ECNL RL,434172,U15,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=133
+Augusta Arsenal 2011 Girls DPL,514448,U15,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=133
+CESA 2011G NLSC,485688,U15,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=134
+Coast 11G Red,481392,U15,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=141
+CESA 2011G Smith,612848,U15,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=143
+CESA 2011G Select Black,618244,U15,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=143
+CASC 11 Riptide,187931,U15,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+CRFC Sky 11 Girls,481341,U15,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=153
+CESA Liberty RL G11,483918,U15,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=153
+CESA 2011G Select Red,599673,U15,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=154
+CESA 2011G USYS Select,685797,U15,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=161
+LUFC GIRLS U14& U15,257246,U15,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=163
+Lakelands Toros 2011/12 Girls Red,481369,U15,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=164
+SCUFC 11 Girls Classic Blue,485989,U15,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=165
+CASC 11G Storm,618279,U15,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=170
+Bulls Rush 2011 Girls Red,155027,U15,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=176
+Spartanburg United 2011 Girls,680597,U15,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=197
+FMU 2011 Girls EPL,485910,U15,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=200
+Bulls SC 2011G Red,433852,U15,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=200
+CEFC 2011 Girls,253516,U15,Female,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=204
+United FC Furman 11G Elite,679190,U15,Female,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=205
+CSC 11 Girls Navy North,187681,U15,Female,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=206
+CSC 11 Girls Navy,485992,U15,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+SCUFC 10 Boys ECNL,434205,U16,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=20
+10 CISC Regional Academy South,521111,U16,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=90
+CSC 10 Boys MLS Next,187544,U16,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=94
+Coast 10 E64 Piedmont,373491,U16,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=99
+SCUFC 10 Boys ECNL RL,434210,U16,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=119
+CCLNC - CLOVER ELITE FC (2010),253519,U16,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=145
+CESA Pachuca 2010B NLSC,485522,U16,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=153
+2010B CESA Triumph ECNL,458383,U16,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=168
+FSA 2010 Boys,485685,U16,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=177
+CISC-SC 09B YC Blue,600940,U16,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=184
+Lakelands Toros 2010 Boys,481638,U16,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=185
+CEFC 2010 NPL,685778,U16,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=185
+Augusta Arsenal 10 Boys Gold,511439,U16,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=189
+CESA Triumph RL B10,480470,U16,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=199
+JIYSC 2010 Boys NPL,381497,U16,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=199
+SCUFC 10 Boys Team 1 (SC) (SC),620995,U16,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=203
+MPRD 2010 Hurricanes,182144,U16,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=204
+SC Surf 10 ECNL,312045,U16,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=225
+JIYSC 2010 Boys Red,63714,U16,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=245
+CESA 2010- 12B,630031,U16,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=245
+SC Surf RL B10,480471,U16,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=246
+AASC 10 Boys Gold,485516,U16,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=247
+CESA Spartanburg 2010B USYS NLSC,685776,U16,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=249
+CISC 10 B YC Blue,481631,U16,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=249
+Alpha SA 2010,502334,U16,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=251
+CESA 2010B NLSC,485518,U16,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=252
+KOSA 2010 Boys Black,435302,U16,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=253
+Augusta Arsenal 2010 Boys NAL,626322,U16,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=254
+LUFC BOYS U16 (2010),257259,U16,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=256
+United FC 10B Elite,485505,U16,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=256
+CESA 2010B Elite 64 RL,498645,U16,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=257
+Spartanburg United 2010B Elite,485507,U16,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=259
+Coast 10 Black,481642,U16,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=261
+CASA Pride 2010/11 Boys Elite,485975,U16,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=262
+SC Surf 10 ECRL,552613,U16,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=266
+United FC 10B Select,481625,U16,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=271
+CISC 10 ECNL RL South G,323125,U16,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=30
+Lowcountry United SA 10G DPL,381506,U16,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=58
+Bulls Elite 64 10G (SC),383811,U16,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=61
+SCUFC 10 Girls ECNL RL,434171,U16,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=67
+SCUFC 10 Girls ECNL,324485,U16,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=110
+JIYSC 2010 Girls NPL,514815,U16,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=118
+Coast 10G Red,392616,U16,Female,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=118
+United FC 10G Elite,481418,U16,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=119
+SCUFC 10 Girls Challenge Red,481420,U16,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=121
+ESC 10/11 Girls Elite,618815,U16,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=131
+CISC 10 G YC Blue,485999,U16,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=133
+CSC 10 Girls DPL,515663,U16,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=135
+Augusta Arsenal 2010 Girls DPL,514446,U16,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=137
+CESA Liberty RL G10,484265,U16,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=140
+2010G CESA Liberty ECNL,452010,U16,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=143
+DUSC 10/11G,486000,U16,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=156
+10G GA,265896,U16,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=165
+CASA Pride 2010 Girls Premier (SC),367169,U16,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=167
+CESA 2010G NLSC,485693,U16,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=167
+CRFC Sky 10 Girls,485696,U16,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=167
+Bulls Rush SC 10G NL,325322,U16,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=168
+CEFC 2010 Girls,634281,U16,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=169
+CESA Spartanburg 2010G Select,679187,U16,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=170
+Alpha SA 2010,502341,U16,Female,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=170
+United FC 09G Elite,575791,U16,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=171
+CRFC Black 10 Girls,481431,U16,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=175
+Cainhoy Athletic 10G Strikers,676116,U16,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=176
+JIYSC 2009 Boys NPL,381499,U17,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=18
+SCUFC 09 Boys ECNL,434468,U17,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=25
+CSC 09 Boys MLS Next,106347,U17,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=38
+FSA 2009 Boys Blue - U17 NLSC,618837,U17,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=42
+09 CISC Regional Academy South,493952,U17,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=58
+KOSA 2009 Boys Black,387834,U17,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=58
+CESA 09B Elite 64 RL (SC) (SC),498643,U17,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=78
+SCUFC 09 Boys ECNL RL,434470,U17,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=106
+SC Surf 09 ECNL,121743,U17,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=116
+Augusta Arsenal 09 Boys Gold,505660,U17,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=129
+CESA Pachuca 09B Piedmont Black,273067,U17,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=130
+CESA Spartanburg 09 NLSC,679169,U17,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=136
+ESC 09/10,541933,U17,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=147
+FMU 2009 Boys EPL,490614,U17,Male,GotSport Rankings,0,SC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=148
+B2009 CESA Triumph ECNL,459088,U17,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=164
+BUFC Lions (SC),366882,U17,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=165
+Alpha SA 2009,502333,U17,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=169
+Augusta Arsenal 2009 Boys NAL,626323,U17,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=175
+Spartanburg United 09 Boys,679170,U17,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=175
+CESA B09 Select 2,681418,U17,Male,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=175
+SC Surf 09 ECNL,552580,U17,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199
+CESA Triumph 2009 RL,480712,U17,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199
+CSC 09 Boys Navy E64RL,292802,U17,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=206
+Bluffton Rush 2009 Boys BLACK,192518,U17,Male,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=207
+SCUFC 09 Boys Challenge Blue,518743,U17,Male,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=207
+Charleston United 09 boys,626385,U17,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=207
+Coast 09 E64 Piedmont,198337,U17,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=209
+Spartanburg United 09/10 Boys Green,679173,U17,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=210
+CSC 09B Navy Premier,675020,U17,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=210
+SC Surf 09 ECRL,552609,U17,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=213
+United FC 09B Elite. 64RL,197810,U17,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=214
+CESA 09B Asheville,607708,U17,Male,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=214
+CESA Pachuca 09B Piedmont White,499290,U17,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=218
+SC Surf 09ECRL,433621,U17,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=223
+09G Aspire South,564884,U17,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=14
+SC ODP,651712,U17,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=28
+Carolina FC 2009 Girls Blue (SC) (SC),402953,U17,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=29
+MP 09 Blue,196265,U17,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=39
+SCUFC 09 Girls ECNL RL,434230,U17,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=40
+Lowcountry United SA 09G DPL,63700,U17,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=41
+CEFC 2009 Girls,261299,U17,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=49
+CASC 09 Breakers,199709,U17,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=63
+2009G CESA Select Black,452530,U17,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=69
+Lakeland Toros 9/10 Girls,493954,U17,Female,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=72
+CESA 09G NLSC,575790,U17,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=86
+09 GA,57747,U17,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=87
+Augusta Arsenal 09 Girls DPL,514440,U17,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=87
+SCUFC 09 Girls ECNL,324456,U17,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=97
+FSA 2009 Girls Blue - U17,685791,U17,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=97
+ESC 09/10 Girls,679191,U17,Female,GotSport Rankings,0,SC,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=101
+Tormenta FC 09G DPL,128857,U17,Female,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=118
+CSC 09 Girls DPL,106371,U17,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=120
+SCUFC 09 Girls Challenge Red,680990,U17,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=126
+Dorchester United 2009G,680997,U17,Female,GotSport Rankings,0,SC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=126
+Spartanburg United 09G Green,679193,U17,Female,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=128
+Bulls Elite 64 09G (SC),383808,U17,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=133
+SCUFC 09 Girls Challenge Blue,575784,U17,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=133
+CASC 09 Fury,575788,U17,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=133
+CASA Pride 2008 Boys Premier,45331,U18,Male,GotSport Rankings,0,SC,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=10
+CESA Triumph RL B08,481377,U18,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=17
+SCUFC 08 Boys ECNL RL,434459,U18,Male,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=20
+SCUFC 08 Boys ECNL,434421,U18,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=25
+CESA Pachuca 08B NLSC (SC) (SC),575774,U18,Male,GotSport Rankings,0,SC,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=44
+SCUFC 08 Boys Piedmont,255008,U18,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=53
+SC Surf 08 ECNL,55465,U18,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=54
+JIYSC 2008 Boys NPL,381501,U18,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=54
+SC Surf 08 ECRL,552607,U18,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=69
+TFC 08B Ibis,408769,U18,Male,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=71
+Coast 08 Red E64 Piedmont,541938,U18,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=77
+B2008 CESA Triumph ECNL,460588,U18,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=80
+Alpha SA 2008,502332,U18,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=87
+CESA 2008B Select,679174,U18,Male,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=90
+CSC 08 Boys NPL,106345,U18,Male,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=93
+Bulls 2008 Boys E64 U17,250703,U18,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=95
+CUSC 08 Boys Blue,601548,U18,Male,GotSport Rankings,0,SC,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=117
+United FC 08B Elite 64RL,435346,U18,Male,GotSport Rankings,0,SC,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=129
+CFC08/09 Boys,433968,U18,Male,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=129
+Cainhoy Athletic 08B Crusaders,433967,U18,Male,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=130
+Alpha Soccer Academy 2009,627227,U18,Male,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=130
+SCUFC 08 Boys Challenge Blue,575773,U18,Male,GotSport Rankings,0,SC,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=131
+Bluffton Rush 2008 Boys,192521,U18,Male,GotSport Rankings,0,SC,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=131
+Carolina Spartans,484798,U18,Male,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=134
+ESC 08/09B,675059,U18,Male,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=136
+Tormenta FC 07/08G DPL,206211,U18,Female,GotSport Rankings,0,SC,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=8
+2008G CESA Liberty ECNL,453200,U18,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=16
+SC Surf MP 08 Blue (SC) (SC),93702,U18,Female,GotSport Rankings,0,SC,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=25
+SC Surf MP 08 Blue (SC) (SC),93702,U18,Female,GotSport Rankings,0,SC,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=26
+2008G SC United ECNL,453203,U18,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=28
+Coast 08 Girls Red (SC),370342,U18,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=35
+CASA Pride 2008 Girls Premier,45333,U18,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=41
+JIYSC 2008 Girls NPL,514810,U18,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=42
+Bulls Elite 64 08G (SC),383805,U18,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=45
+SCUFC 08 Girls ECNL RL,434228,U18,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=61
+08 GA,57746,U18,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=61
+CRFC G08 Sky,618817,U18,Female,GotSport Rankings,0,SC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=67
+Augusta Arsenal 07/08 Girls DPL,252118,U18,Female,GotSport Rankings,0,SC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=77
+TSC 2010 Girls,626102,U18,Female,GotSport Rankings,0,SC,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=81
+CESA 08G NLSC,575795,U18,Female,GotSport Rankings,0,SC,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=82
+SCUFC 08 Girls Challenge Blue,575794,U18,Female,GotSport Rankings,0,SC,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=82
+CASA Pride 2009 Girls Premier,630621,U18,Female,GotSport Rankings,0,SC,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=82
+Bluffton Rush 08 Girls,493955,U18,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=82
+CRFC 08G Black,679109,U18,Female,GotSport Rankings,0,SC,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=85
+CESA Liberty RL G08,371837,U18,Female,GotSport Rankings,0,SC,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=90

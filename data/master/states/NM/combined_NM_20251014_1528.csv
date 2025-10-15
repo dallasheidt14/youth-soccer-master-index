@@ -1,0 +1,373 @@
+team_name,age_group,gender,state,rank,points,source,provider,url
+CSL Cavegirls,U10,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=80
+Classic FC Celestial Blues,U10,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=33
+Krew,U10,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=137
+Guadalajara Scorpions 2016,U10,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=58
+Chargers,U10,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=106
+Classic FC Lightning Coyotes 2016 Boys Red,U10,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=25
+Wildcats,U10,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=150
+Classic FC Soles 2016 RED,U10,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=159
+LAFC 2016B,U10,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=80
+Thunder F.C. 2016,U10,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=53
+Artesia United '16B,U10,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=103
+Svsc Shalke new mexico,U10,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=63
+Fire monkeys,U10,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=135
+Alianza FC 2016 Gold,U10,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=106
+Southern Elite,U10,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=103
+NM Lightning - Black,U10,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=46
+Gallup Youth Soccer League - 24/25 U10G team 2,U11,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=237
+NMSA Teal 2015 Girls,U11,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=165
+LAFC Lasers U12G,U11,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=167
+Classic FC Cyclones,U11,Female,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=224
+ECFC Cool Cats,U11,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=71
+Northern 15 G Red,U11,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=126
+LC ANGELS FC SELECT G 15/16,U11,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=44
+AYSO United 15WhiteG,U11,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=32
+NM Rapids 15G Gotham,U11,Female,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=213
+Atletico 2015/2016 G,U11,Female,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=168
+Farmington Soccer Club Firebirds Black,U11,Female,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=97
+24/25 U10G Thunderbirds Team A,U11,Female,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=90
+DRSC 15G Avalanche,U11,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=180
+NM Rapids 2015G Aztecs,U11,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=201
+Regulators 2015G,U11,Female,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=115
+NMSA '15 Black,U11,Female,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=90
+Artesia Elite F.C. 2015,U11,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=72
+Wild Fire,U11,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=227
+LAFC,U11,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=221
+Royals West Las Cruces 16 Mata,U11,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=146
+ECFC Crew,U11,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=359
+NM Rapids ROMA 2015,U11,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=165
+Nido Aguila Hobbs,U11,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=349
+Zia elite fc,U11,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=412
+LC Strikers,U11,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=211
+AYSO United 15WhiteB,U11,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=241
+Crash City FC,U11,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=244
+Juventus,U11,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=243
+NM Rapids 15B Predators,U11,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=206
+NMSA 2015 Boys Black,U11,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=165
+Eagles Academy SC,U11,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=221
+NM Rapids Barracudas,U11,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=371
+NM Rapids Raptors,U11,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341
+WSUSC Roadrunners,U11,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235
+GSC Guadalajara 15,U11,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=412
+NM Rapids 2015B Wolfpack,U11,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=204
+Rangers,U11,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=240
+South Valley Soccer Club Scorpions,U11,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=67
+24/25 U10B Thunderbirds,U11,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=261
+Rapids Scorpions,U11,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341
+Alianza FC,U11,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=335
+LC United,U11,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=258
+Locomotive 2015,U11,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=159
+FC United Sockers,U11,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=233
+RSL EP (LT 2015),U11,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=105
+LAFC U10 Boys Comp,U11,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=338
+NM Rapids Gladiators,U11,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=192
+SV Raptors,U11,Male,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=329
+Vamos DUKES,U11,Male,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=28
+Corrales Commandos Elite,U11,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=205
+Ninja Strike F.C. U10,U11,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=255
+Outlaws Obsidian 2015B,U11,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=416
+U10 Thunder,U11,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=403
+Westside United Scorpions,U11,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=137
+AYSO United 15BlueB,U11,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=390
+Nido Aguila Hobbs,U11,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=225
+Guadalajara 2015 boys,U11,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=68
+Roadrunners,U11,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=391
+NMSA 2015 Boys,U11,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=20
+Atletico U11B,U11,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=257
+SuperSonics,U11,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=51
+NMSA 2014 G Turquoise,U12,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=157
+AYSO United 14BlueG,U12,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=115
+Aztec Fierce,U12,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=246
+Barcelona FC,U12,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=202
+Rapids '14G Pride,U12,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=41
+Royals West Las Cruces Mata,U12,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=35
+Cosmocitos,U12,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=217
+NM Rapids 14G Crush White,U12,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=143
+NMSA14G Pre-GA Black,U12,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=199
+Crash City FC 2014,U12,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=136
+BYSC Pumas,U12,Female,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=113
+LAFC 2014 Green,U12,Female,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=207
+NMSA 2014 G,U12,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=99
+NM Rapids Courage,U12,Female,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96
+Westside United Soccer Club Lady Lobos,U12,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=170
+Ravens,U12,Female,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=252
+Alianza FC 14/15 Girls,U12,Female,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=243
+ALIANZA 2014G GOLD,U12,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=68
+AYSO United 14WhiteG,U12,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=109
+Northern 14 G Red,U12,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=229
+Northern 14 B Red,U12,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=107
+Wildcats,U12,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=440
+Classic FC Outlaws,U12,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=348
+Vamos 2014,U12,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=369
+NM Rapids 14B Chiles,U12,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=231
+Alianza FC Blue 2013,U12,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=248
+Classic FC Santos 2014 Pre MLS Next,U12,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=231
+DRSC- 2014B Fusion,U12,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+NM Rapids SC 14B Dukes,U12,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=107
+Outlaws 2014B,U12,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+Deming United 2014,U12,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=410
+14B Pre-RL,U12,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=143
+Northern 14B Black,U12,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=448
+Black Mambas,U12,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=198
+NMSA 2014 Black,U12,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=260
+SVSC Scorpions,U12,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=164
+elite 2014,U12,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=335
+LC Wolfpack,U12,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=273
+Guardians,U12,Male,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=194
+Jaguares Classic FC,U12,Male,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=430
+AYSO United 14WhiteB,U12,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=310
+Los Alamos Soccer League,U12,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=271
+14B Pre-ECNL,U12,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=139
+Cruces Chaos,U12,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=131
+ECFC CHELSEA 14,U12,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=79
+Thunder F.C. 2014,U12,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=114
+Wolfpack,U12,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=372
+2014B Locomotive EPPL Del Rio-LC,U12,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=298
+Alianza 2014 FC,U12,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=135
+Classic FC Soles Black,U12,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=266
+LC Eagles FC,U12,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=388
+AYSO United 14BlueB,U12,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=281
+FSC Blizzard,U13,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226
+LAFC Lasers 2013,U13,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=154
+LC United 2013,U13,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=77
+24/25 U12G Thunderbirds,U13,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=55
+AYSO United NM 13WhiteG,U13,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=103
+Roswell Aliens FC13,U13,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=95
+NM Rapids 13G DPL,U13,Female,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=249
+Roadrunners,U13,Female,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=151
+AYSO United NM 13BlueG,U13,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=168
+FSC Galaxy ‘12/'13G,U13,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225
+NMSA Santa Fe Strikers,U13,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=195
+SV Stars,U13,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=254
+FC Roswell 2013 Girls,U13,Female,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=220
+NMSA 2013G,U13,Female,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=81
+NMSA 2013G Teal,U13,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=185
+PYS Rangers U12G,U13,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+LC Lady Eagles FC Black,U13,Female,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=228
+Goal Crushers,U13,Female,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=248
+NM Rio Rapids (Riot),U13,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+13G GA,U13,Female,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=74
+LC United 2013,U13,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=76
+ECFC Chromium,U13,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=327
+Guadalajara Tapatio,U13,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=283
+NM Flash,U13,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=249
+PYS Rangers U15,U13,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=291
+Guadalajara 2013,U13,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=247
+LC Angels FC,U13,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=120
+Westside United Lobos,U13,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=91
+Classic Fc Soles 2013 Red,U13,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=352
+NMSA 13 Pre EA Boys,U13,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=31
+VSA- Vamos Unidos,U13,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=108
+Westside United SC Fury U12B,U13,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=342
+Alianza FC 13 Gold Boys,U13,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=40
+Alianza Fc,U13,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=95
+LC Angels White,U13,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=304
+NM Rapids EA Cashmere,U13,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=404
+NMSA Reds 13,U13,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=366
+Nido Aguila Hobbs,U13,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=96
+Rio Rapids NM 2013 Boys,U13,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=390
+old 24/25 U12B Thunderbirds,U13,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=298
+Athletico NM 2013B,U13,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=143
+NM Rapids 2013B Pre-EA Cashmere,U13,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=358
+Nido Águila Hobbs - gold,U13,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=245
+Northern 13B Black,U13,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=348
+Prime fc,U13,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=229
+Wolfpack,U13,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=385
+NM Rapids PreECNL Cashmere,U13,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=46
+NMSA Timbers,U13,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=315
+Northern SC Premier,U13,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=54
+Rio Rapids 2013 Pre ECNL,U13,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415
+AYSO United 13B,U13,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=271
+Bloomfield outlaws,U13,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=433
+Golden Eagles FC,U13,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=407
+RSL Las Cruces 2013,U13,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=335
+Ravens,U13,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=388
+Thunderbirds,U13,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=377
+NM Rapids U12 - Desert Sons,U13,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=406
+Gallup Youth Soccer League - 24/25 U12B,U13,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=372
+LOS MARIACHIS,U13,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=412
+Mariachis,U13,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=357
+NMSA Torpedoes,U13,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=406
+Wildcats,U13,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=335
+NMSA Red,U13,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=268
+FC United Regulators,U13,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=284
+Mustangs FC,U13,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=359
+NMSA 13 Force,U13,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=229
+12G GA,U14,Female,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=198
+AYSO United 12 BlueG,U14,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=195
+Westside United Phoenix,U14,Female,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=185
+Classic FC Raptors,U14,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169
+AYSO United 12WhiteG,U14,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=36
+Bayern Munich,U14,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=62
+NM Rapids 2012 G GA,U14,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=18
+Atletico U13 Red 12/13,U14,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=138
+Guadalajara Girls 12,U14,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=170
+12G GA,U14,Female,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=71
+Atletico NM 12/13 girls,U14,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=183
+Classic FC Falcons,U14,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=138
+Classic FC Hawks,U14,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109
+FC United Strikers 12/13G,U14,Female,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=71
+Northern 12G Red,U14,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=141
+ICFC Cottleville 2012/13G Blue,U14,Female,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=112
+NM Rapids 12G DPL,U14,Female,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=74
+Atletico U13 girls,U14,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=193
+Golden Eagles FC,U14,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=278
+Rio Rapids 12 Pre-ECNL,U14,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=96
+AYSO United 12BlueB,U14,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=347
+NMSA COYOTES,U14,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=120
+Westside United Dynamo,U14,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292
+LAFC 2012 Raptors,U14,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=228
+NMSA '12 Armada Boys,U14,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=298
+Southern Elite,U14,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=163
+FC Roswell,U14,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=181
+NM Rapids ECNL B12,U14,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=288
+GUADALAJARA 2012,U14,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=136
+Alianza FC 12 - Black,U14,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=72
+United FC,U14,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=302
+Alianza FC 2012 White,U14,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=93
+Stingrays,U14,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=363
+Arsenal,U14,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=184
+Atletico NM U14B,U14,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=219
+Stingrays,U14,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=289
+24/25 U13B Thunderbirds,U14,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=148
+AYSO United 12WhiteB,U14,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=213
+NMSA Boys '12 Armada,U14,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=311
+New Mexico Soccer Academy - SFU Strikers,U14,Male,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=248
+NMSA 12 EA Boys,U14,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=86
+Killjoys,U14,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=199
+La U Alianza,U14,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=189
+Full Force FC,U14,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=336
+NMSA 12 Boys Black,U14,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=313
+ECFC Centaurs,U14,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292
+Elite CFC 12/13,U14,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+12B EA NM Rapids,U14,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279
+NM Rapids 2012 Killjoys,U14,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=265
+Rio Rapids 12 Pre-ECNL,U14,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=95
+Rio Rapids 2013 Pre ECNL,U14,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=292
+AYSO United NM 2011G White,U15,Female,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=39
+FC Roswell Pink Lightning,U15,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=78
+NM Rapids 11G DPL,U15,Female,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=57
+Alameda Azul,U15,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=179
+11G GA,U15,Female,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=5
+Venom FC 11/12/13 G,U15,Female,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=209
+AYSO United NM 2011G Blue,U15,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=47
+Farmington Scorpions,U15,Female,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=83
+FSC Scorps,U15,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=204
+Rapids Sparks,U15,Female,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=157
+Wildcats,U15,Female,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=206
+AYSO United NM 2011G Blue,U15,Female,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=141
+RSL Royals EP (LT 11-13),U15,Female,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=181
+SVSC Storm,U15,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=164
+CF Dynamites,U15,Female,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=126
+11G GA,U15,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=28
+CFC Blaze,U15,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=177
+NMSA Storm,U15,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=174
+AYSO United 11WhiteB,U15,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=207
+Next One Rapids 2011B,U15,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=203
+Southern Elite 11,U15,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=116
+Hobbs United FC,U15,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=258
+LC Rising,U15,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=280
+Rapids 2011 Boys EA,U15,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=142
+AYSO United 11BlueB,U15,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=186
+Artesia United,U15,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=263
+NMSA 11 EA Boys,U15,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=106
+FSC United Dragon Blaze,U15,Male,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=316
+GUADALAJARA 2011,U15,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=165
+Southern Elite 2011,U15,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=187
+Classic FC Ambush,U15,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=181
+Westside United Sharks,U15,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=100
+NM Rapids 11B ECNL RL,U15,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=31
+NM Rapids 2011B ECNL,U15,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=100
+NMSA 2011 Red,U15,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=282
+Classic Fc Soles,U15,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=228
+LC Academy 11,U15,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=116
+Rio Rapids Durango SC '11/12 B,U15,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=89
+Nido Águila Hobbs u14,U15,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=330
+Santos - Kings 2011,U15,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=53
+Wildcats,U15,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=178
+Alianza FC 2011 Gold,U15,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212
+Zia elite fc,U15,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=258
+Coyotes,U15,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=213
+LAFC Lasers 2010/11/12,U16,Female,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=108
+Cruces Bruisers 10,U16,Female,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=169
+NM Rapids 10G White,U16,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=23
+AYSO United NM '10G White,U16,Female,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=37
+Atletico East 2010G,U16,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=50
+NM Rapids 10G DPL,U16,Female,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=37
+Chivas Blue 2010,U16,Female,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=125
+24/25 U15G Thunderbirds,U16,Female,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=149
+Farmington Scorpions,U16,Female,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=152
+Atletico 2010G,U16,Female,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=153
+Bruisers G2010,U16,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=39
+Rio Rapids 10B Santitos,U16,Male,NM,1,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=223
+Northern SC Red 2010/11,U16,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=176
+NM Rapids 10B EA,U16,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=236
+Nido Aguila Hobbs,U16,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=248
+DC NUTMEG,U16,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=258
+NMSA 2010 Boys,U16,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=110
+Ninja Strike F.C Ambu,U16,Male,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=255
+Classic FC Scorpions,U16,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=16
+FC Roswell 2010 Boys,U16,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=143
+LAFC Raptors U13/14/15,U16,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=209
+24/25 U15B Thunderbirds,U16,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=132
+New Mexico Rapids Impact 10B,U16,Male,NM,12,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=215
+AYSO United 10B,U16,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=187
+Classic FC Predators,U16,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=123
+Rio Rapids 2010 ECNL,U16,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=7
+UDA Soccer Academy '10's,U16,Male,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=164
+COBRA,U16,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=253
+09G GA,U17,Female,NM,7,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=94
+Atletico 09/10 girls,U17,Female,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=37
+Northern '09/10 Red,U17,Female,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=119
+FC United Fierce 2009,U17,Female,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=94
+Rio Rapids Durango SC '09/'10 Girls,U17,Female,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=10
+NM Rapids 09G DPL,U17,Female,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=105
+AYSO United NM 09G White,U17,Female,NM,16,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=74
+Rio Rapids SC 09 ECNL,U17,Male,NM,2,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=24
+Northern SC Red - Thunder,U17,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=177
+SVSC Volcanoes Soccer Team,U17,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=105
+Taos united,U17,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=219
+NM Rapids 09B EA,U17,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=84
+NM Rapids 09B Rise,U17,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=162
+Cruces Bruisers FCB,U17,Male,NM,10,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=60
+09B Burgundy,U17,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=210
+Artesia United.,U17,Male,NM,11,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=148
+NMSA 09 Boys,U17,Male,NM,13,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=60
+Gallup Youth Soccer League - 24/25 U16B,U17,Male,NM,15,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=189
+Guadalajara 09 boys,U17,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=52
+Tapatio 09,U17,Male,NM,17,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=45
+NM Soccer Academy 2009 Heat,U17,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=188
+NMSA 2009 Boys Red,U17,Male,NM,18,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=187
+NM Rapids 08G GA,U18,Female,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=38
+08 WhiteG,U18,Female,NM,8,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=75
+NM Rapids SC 08/09G Lady United,U18,Female,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=68
+08G GA,U18,Female,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=78
+NMSA 08 Boys EA,U18,Male,NM,3,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=45
+Guadalajara 08 NM,U18,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=101
+Juventus 09-08,U18,Male,NM,4,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=80
+AYSO United NM u17B,U18,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=62
+COBRA.,U18,Male,NM,5,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=41
+COBRA,U18,Male,NM,6,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=59
+Guadalajara nm 08 boys,U18,Male,NM,9,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=61
+Atletico U17B,U18,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=108
+UDA Soccer 08's,U18,Male,NM,14,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=97
+Rio Rapids 08B ECNL,U18,Male,NM,19,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=78
+Atletico 08/09B Blue,U18,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=126
+SF Lobos Classic FC,U18,Male,NM,20,0,GotSport Rankings,GotSport,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=110
+La U FC 2015- Luis,U10,Male,NM,20,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=72
+Lumbre,U11,Male,NM,19,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=202
+Lumbre,U11,Male,NM,3,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=203
+Pachuca FC U10,U11,Male,NM,20,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=368
+NM Rapids Wave,U11,Female,NM,10,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113
+Alpha SA 2015/16,U11,Female,NM,17,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=209
+Vamos 14,U12,Male,NM,1,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=185
+NM GALAXY FC,U13,Male,NM,14,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=168
+RSL Royals EP (LT 13-15),U13,Female,NM,16,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=77
+NM Rapids 2013 Pre-GA,U13,Female,NM,9,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=130
+Santos 2011G,U15,Female,NM,20,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=99
+Pachuca FC U14 Girls,U15,Female,NM,14,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=191
+Bruisers White,U17,Male,NM,8,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=193
+CP - RSL Royals EP (LT) 2011,U17,Female,NM,12,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=90
+GUADALAJARA 08 NM,U18,Male,NM,5,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=50
+CP RSL EP (LT 09),U18,Male,NM,7,0,GotSport Rankings,,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=67

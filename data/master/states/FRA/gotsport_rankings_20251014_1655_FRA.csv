@@ -1,0 +1,2 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+LA Selection B09,602602,U17,Male,GotSport Rankings,0,FRA,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=16

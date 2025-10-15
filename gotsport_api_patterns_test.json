@@ -1,0 +1,2292 @@
+{
+  "https://system.gotsport.com/api/v1": {
+    "teams": {
+      "test_1": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_2": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_3": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_4": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_5": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_6": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_7": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_8": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      }
+    },
+    "team": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "matches": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "games": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "results": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "history": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "schedule": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "fixtures": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "events": {
+      "test_1": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_2": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_3": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_4": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_5": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_6": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_7": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      },
+      "test_8": {
+        "status": "http_error",
+        "status_code": 401,
+        "reason": "Unauthorized"
+      }
+    },
+    "tournaments": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "competitions": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "leagues": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    }
+  },
+  "https://api.gotsport.com/v1": {
+    "teams": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "team": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "matches": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "games": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "results": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "history": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "schedule": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "fixtures": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "events": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "tournaments": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "competitions": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "leagues": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    }
+  },
+  "https://rankings.gotsport.com/api/v1": {
+    "teams": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "team": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "matches": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "games": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "results": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "history": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "schedule": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "fixtures": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "events": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "tournaments": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "competitions": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    },
+    "leagues": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "<!DOCTYPE html>\n<html class=\"bg-white text-gray-600\" lang=\"en\">\n  <head>\n    <!-- OneTrust Cookies Consent Notice start for http://rankings.gotsport.com  -->\n    <script src=https://cdn.cookielaw.org/"
+      }
+    }
+  },
+  "https://system.gotsport.com/api": {
+    "teams": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "team": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "matches": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "games": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "results": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "history": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "schedule": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "fixtures": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "events": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "tournaments": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "competitions": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    },
+    "leagues": {
+      "test_1": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_2": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_3": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_4": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_5": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_6": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_7": {
+        "status": "not_found",
+        "status_code": 404
+      },
+      "test_8": {
+        "status": "not_found",
+        "status_code": 404
+      }
+    }
+  },
+  "https://api.gotsport.com": {
+    "teams": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html",
+        "sample_content": "\r\n\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n<head>\r\n<title>GotSoccer"
+      }
+    },
+    "team": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "matches": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "games": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "results": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "history": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "schedule": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "fixtures": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "events": {
+      "test_1": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_2": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_3": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_4": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_5": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_6": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_7": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      },
+      "test_8": {
+        "status": "json_error",
+        "status_code": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sample_content": "No Event ID specified."
+      }
+    },
+    "tournaments": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "competitions": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    },
+    "leagues": {
+      "test_1": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_2": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_3": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_4": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_5": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_6": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_7": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      },
+      "test_8": {
+        "status": "request_error",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      }
+    }
+  }
+}

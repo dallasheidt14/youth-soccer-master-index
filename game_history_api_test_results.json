@@ -1,0 +1,254 @@
+{
+  "https://system.gotsport.com/api/v1/team_matches": {
+    "test_1": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_2": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_3": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_4": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_5": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_6": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_7": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_8": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    }
+  },
+  "https://system.gotsport.com/api/v1/team_games": {
+    "test_1": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_2": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_3": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_4": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_5": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_6": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_7": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_8": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    }
+  },
+  "https://system.gotsport.com/api/v1/matches": {
+    "test_1": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_2": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_3": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_4": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_5": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_6": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_7": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_8": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    }
+  },
+  "https://system.gotsport.com/api/v1/games": {
+    "test_1": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_2": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_3": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_4": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_5": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_6": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_7": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_8": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    }
+  },
+  "https://system.gotsport.com/api/v1/team_history": {
+    "test_1": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_2": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_3": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_4": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_5": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_6": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_7": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_8": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    }
+  },
+  "https://system.gotsport.com/api/v1/team_results": {
+    "test_1": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_2": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_3": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_4": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_5": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_6": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_7": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    },
+    "test_8": {
+      "status": "http_error",
+      "status_code": 404,
+      "reason": "Not Found"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+team_name,age_group,gender,source,points,state,rank,url
+The W Academy 2015,U11,Male,GotSport Rankings,0,GBR,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=393
+The W Academy 2013,U13,Male,GotSport Rankings,0,GBR,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=72

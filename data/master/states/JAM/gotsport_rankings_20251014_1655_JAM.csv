@@ -1,0 +1,6 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+Jamaica Top Strikers Football Academy,626684,U11,Male,GotSport Rankings,0,JAM,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398
+Jamaica Top Strikers Football Academy,626686,U15,Male,GotSport Rankings,0,JAM,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=330
+Excelsior HS Eagles,506453,U18,Male,GotSport Rankings,0,JAM,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=23
+Jamaica Top Strikers Football Academy,626689,U18,Male,GotSport Rankings,0,JAM,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=134
+Jamaica Top Strikers Football Academy,626690,U18,Female,GotSport Rankings,0,JAM,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=82

@@ -1,0 +1,29 @@
+team_name,age_group,gender,source,points,state,rank,url
+Strykers,U10,Female,GotSport Rankings,0,USA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=37
+Avalanche 16G White DW,U10,Female,GotSport Rankings,0,USA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=72
+Stellar FC 2015/2016B,U11,Male,GotSport Rankings,0,USA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=115
+Twisters,U11,Male,GotSport Rankings,0,USA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=280
+Ohio Elite Pre-ECNL B15,U11,Male,GotSport Rankings,0,USA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=293
+Stellar FC 2015B,U11,Male,GotSport Rankings,0,USA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=350
+Ohio Elite Pre-ECNL G15,U11,Female,GotSport Rankings,0,USA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=50
+Ohio Elite Pre-ECNL RL G15,U11,Female,GotSport Rankings,0,USA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=176
+United,U12,Male,GotSport Rankings,0,USA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=200
+Ohio Elite Pre-ECNL B14,U12,Male,GotSport Rankings,0,USA,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=253
+Ohio Elite Pre-ECNL G14,U12,Female,GotSport Rankings,0,USA,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=126
+Pachuca fc 2013,U13,Male,GotSport Rankings,0,USA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=331
+13 Coyotes FC Navy,U13,Male,GotSport Rankings,0,USA,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=337
+FCC 2013 Boys Navy,U13,Male,GotSport Rankings,0,USA,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=407
+Ohio Elite ECNL B13,U13,Male,GotSport Rankings,0,USA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=436
+Allstars,U13,Female,GotSport Rankings,0,USA,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=176
+Astra 12/13/14,U13,Female,GotSport Rankings,0,USA,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=202
+Ohio Elite ECNL B12,U14,Male,GotSport Rankings,0,USA,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=86
+Sparta B12 EP,U14,Male,GotSport Rankings,0,USA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=216
+LIverpool FC IA Denver,U14,Male,GotSport Rankings,0,USA,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=313
+Stellar FC 2011/2012B,U15,Male,GotSport Rankings,0,USA,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192
+Ohio Elite ECNL B11,U15,Male,GotSport Rankings,0,USA,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=209
+KC Athletics Academy Premier 11G,U15,Female,GotSport Rankings,0,USA,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=57
+Ohio Elite ECNL Regional League B10,U16,Male,GotSport Rankings,0,USA,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=169
+KC Athletics Academy Premier 10G,U16,Female,GotSport Rankings,0,USA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=157
+Towngate sc,U17,Male,GotSport Rankings,0,USA,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=182
+VCF 2009,U17,Male,GotSport Rankings,0,USA,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=226
+Ohio Elite ECNL G08/07,U18,Female,GotSport Rankings,0,USA,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=46

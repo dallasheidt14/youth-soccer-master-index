@@ -1,0 +1,307 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+MUSC U10 BOYS Burrows,46585,U10,Male,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=16
+Far Post U10 Boys Utrecht,454019,U10,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=27
+Williston SC 2016-2017 Boys Timbers,34589,U10,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=47
+Nordic 2016 Boys Bayern,459178,U10,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=50
+Far Post Fall U9/U10 Boys PSV,45954,U10,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=51
+Nordic 2016 Boys Dortmund,480066,U10,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=58
+Queen City FC U10 Boys Red,305523,U10,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=58
+Queen City FC U10 Boys Black,305521,U10,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=62
+Queen City FC U10 Boys Black,305521,U10,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=63
+MUSC U10 BOYS Cowles,42366,U10,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65
+U10 Boys Blue,152861,U10,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=69
+Patenaude U10 boys,300545,U10,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=73
+MUSC U10 BOYS Long,206695,U10,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=81
+Queen City FC U9/10 Boys White,211778,U10,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=111
+U10 Boys Gold,222199,U10,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=136
+MUSC U10 BOYS Sunset,42365,U10,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=140
+Nordic 2016 Boys Leverkusen,547014,U10,Male,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=164
+Islands U10,416053,U10,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=164
+Nordic 2016/17 Girls Courage,208167,U10,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=15
+U10 Girls Blue,152863,U10,Female,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=17
+MUSC U10 GIRLS Chin,46592,U10,Female,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=23
+MRVSA Travel Girls U10D3 Teal Tigers,48263,U10,Female,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=23
+Queen City FC U10 Girls Black,48941,U10,Female,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=40
+Williston SC 2016-2017 Girls Reign,30776,U10,Female,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=42
+MUSC U10 GIRLS Hellbrook,46593,U10,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=43
+Williston SC 2016-2017 Girls Dash,168185,U10,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=50
+Far Post U10 Girls Courage,592737,U10,Female,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=87
+MUSC U10 GIRLS Hasselton,540204,U10,Female,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=95
+Nordic 2015 Boys Milan,415828,U11,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=133
+VT Northern United U10 Boys Gold,595455,U11,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=138
+Capital U10 Boys,42972,U11,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=161
+AU 2015-2016 Boys,336953,U11,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=166
+Barre Boys 2015,452789,U11,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=169
+Vermont Fusion U10 Green,333603,U11,Male,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=169
+VTUSA U10 Boys,459086,U11,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=170
+u10 Boys Blue,47029,U11,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=173
+Caledonia Flood Thunder (10B),589694,U11,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=177
+Iroquois U10 1,461325,U11,Male,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=179
+VT Northern United U10 Boys Green,51416,U11,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=194
+Barre Boys 2015/2016 2,335146,U11,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=204
+MRVSA Travel Boys U10D3 Avalanche,48266,U11,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=205
+MRVSA Travel Boys U10D3 Avalanche,48266,U11,Male,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=206
+EUSC U10 Boys Morgan,569496,U11,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=206
+MSC U10 Boys,594150,U11,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=211
+VT Northern United U10 Boys Blue,51418,U11,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=212
+EUSC U10 Boys Sunderland,569497,U11,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=213
+Soccer Roots CF U10B White,464735,U11,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=214
+U10 Arctic Wolves,296494,U11,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=214
+U10 Boys - Northfield SC - 2025,593095,U11,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=217
+u10 Boys Sky,344847,U11,Male,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=217
+Nordic 2015 Boys Napoli,415826,U11,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=219
+Colchester S25 U10B Black,587919,U11,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=225
+U10 NEK Warriors,46825,U11,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=240
+Colchester S25 U10B Green,587920,U11,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=251
+u10 Boys Silver,223126,U11,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=261
+Far Post U10 Boys Ajax,24309,U11,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=268
+Queen City FC U11 (2015) Boys Premier,198029,U11,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=273
+Georgia United U10 Blue,394975,U11,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=274
+Onion River SC U10B Yellow,47561,U11,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=275
+Soccer Roots CF U10B Navy,464731,U11,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=280
+U10 Boys White,460366,U11,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=288
+CYS/Lancer U10 Boys,46969,U11,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=289
+Iroquois U10 2,470395,U11,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=290
+BFC U10 BOYS WHITE,548421,U11,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=296
+Vermont Fusion U10 White,51879,U11,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=313
+Summit FC u10,575713,U11,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=323
+Barre Boys 2015/2016 3,582678,U11,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=347
+U10 Boys Gold,47776,U11,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=348
+Colchester S25 U10B GREY,595899,U11,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=352
+BFC U10 BOYS GREEN,552391,U11,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=363
+BFC U10 BOYS BLUE,548418,U11,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=363
+Slate Valley United U10,597804,U11,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=368
+Spring 25 U10 Boys,595793,U11,Male,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=369
+Nordic 2015 Girls Thorns,344672,U11,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=74
+Spring 25 U10 Girls,595792,U11,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=74
+U10 Girls Blue,47030,U11,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=86
+AU 2014-2015 Girls,336952,U11,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=88
+u10 Girls Sky,595499,U11,Female,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=103
+EUSC U10 Girls Morgan,569501,U11,Female,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=116
+Caledonia Flood Rapids (10G),589695,U11,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=117
+VT Northern United U10 Girls,51420,U11,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=117
+U10 Girls Gold,47773,U11,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=118
+U10 Girls - Northfield SC - 2025,593094,U11,Female,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=121
+EUSC U10 Girls Sunderland,569502,U11,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=121
+Barre Girls 2015/2016 LAX,582690,U11,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=123
+U10 Girls Green,597873,U11,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=124
+Colchester S25 U10G Green,587921,U11,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=143
+CYS/Lancer U10 Girls,46970,U11,Female,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=145
+Onion River SC U10G Yellow,47562,U11,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=149
+Barre Girls 2015/2016 2,335137,U11,Female,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=152
+U10 Wolves,46390,U11,Female,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=152
+Vermont Fusion U10,214958,U11,Female,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=153
+MSC U10 Girls,594147,U11,Female,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=167
+BFC U10 GIRLS WHITE,548950,U11,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=201
+Barre Girls 2015/2016 1,335135,U11,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=203
+BFC U10 GIRLS BLUE,548946,U11,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=223
+VTUSA U10 Girls,595779,U11,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=232
+Nordic 2014 Boys Arsenal Pre-National,46265,U12,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=58
+Giroux U12 D2 Boys,360782,U12,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=150
+Nordic 2014 Boys Newcastle,46602,U12,Male,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=171
+Williston SC 2014-2015 Boys Reds,168188,U12,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=201
+MRVSA Travel Boys U12D2 Badgers,48262,U12,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=201
+MRVSA Travel Boys U12D2 Badgers,48262,U12,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=202
+MUSC U12 BOYS Butler,168000,U12,Male,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=210
+U12 Boys Gold,297730,U12,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=221
+Williston SC 2014-2015 Boys Spurs,27257,U12,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=228
+Nordic 2014 Boys Chelsea,336193,U12,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=254
+Queen City FC U12 Boys Silver,426633,U12,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=258
+U12 Boys Blue,152864,U12,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=275
+MUSC U12 BOYS Taft,42364,U12,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=283
+Georgia United U10 White,394973,U12,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=313
+Georgia United u10 Boys Red,546861,U12,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=331
+Far Post Fall U11/U12 Boys Orange,574886,U12,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=331
+Queen City FC U12 (2014) Boys Premier,228662,U12,Male,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=332
+Peak FA- New England 2014,421591,U12,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=357
+Nordic Lightning,607903,U12,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=375
+Queen City FC U12 Boys Red,48933,U12,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=380
+Fair Haven Freedom,465230,U12,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=380
+Queen City FC U11 Boys White,305532,U12,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=381
+Nordic 2014 Girls Reign,433219,U12,Female,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=108
+Far Post Fall U11/12 Girls Orange,454020,U12,Female,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=108
+Northeast FC Wildcats McKenny U12 Girls,47581,U12,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=122
+Northeast FC Wildcats McKenny U12 Girls,47581,U12,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=123
+Far Post U11/U12 Girls Blue,575130,U12,Female,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=138
+U12 Girls Blue,152866,U12,Female,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=142
+MUSC U12 GIRLS Frost,42369,U12,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=149
+Williston SC 2014-2015 Girls Pride,174387,U12,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=166
+MUSC U12 GIRLS Cliff,42368,U12,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=169
+MRVSA Travel Girls U12D2 River Rats,48257,U12,Female,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=172
+Georgia United u10 Blue,546951,U12,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=173
+Georgia United u10 White,546964,U12,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=223
+Far Post 2013 Boys Premier,454023,U13,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=84
+Capital 2013 Boys Premier,42863,U13,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=85
+Nordic 2013 Premier Boys,85243,U13,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=105
+Nordic 2013 Boys White,419605,U13,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=153
+Northeast FC Wildcats- Sicotte U12 Boys,47572,U13,Male,GotSport Rankings,0,VT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=156
+VT Northern United U12 Boys - Green,211518,U13,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=168
+Queen City FC U13 (2013) Boys Premier,238252,U13,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=175
+VT Northern United U12 Boys - Blue,161132,U13,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=194
+U12 Boys Blue,47031,U13,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=200
+u12 Boys Sky,480080,U13,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=203
+U12 Boys Silver,227864,U13,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=212
+Vermont Fusion U12,51881,U13,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=215
+Summit FC U12 Blue,594270,U13,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=219
+U12 Loups,296493,U13,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=227
+VT Northern United U12 Boys Blue,599257,U13,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=227
+U12 Lobos,46391,U13,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=252
+AU 2013-2014 Boys,211719,U13,Male,GotSport Rankings,0,VT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=254
+Caledonia Flood Storm (12B),589696,U13,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=263
+VTUSA U12 Boys,459077,U13,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=263
+MRVSA Travel Boys U12D3 Sharks,168515,U13,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=266
+Summit FC u12 White,575714,U13,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=270
+Caledonia Flood Strike (12B),595503,U13,Male,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=278
+Onion River SC U12B Black,460458,U13,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=283
+Capital 2013/14 Boys Premier,42965,U13,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=285
+Onion River SC U12B Yellow,47563,U13,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=298
+Colchester S25 U12B Black,587924,U13,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=300
+EUSC U12 Boys Alder,563760,U13,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=307
+Soccer Roots U12B Navy,599265,U13,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=308
+Rivers Edge U12 Boys,459703,U13,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=314
+Soccer Roots CF U12B White,464737,U13,Male,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=329
+Colchester S25 U12B Green,587926,U13,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=343
+CYS/Lancer U12 Boys,46967,U13,Male,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=343
+U12 Alphas,46387,U13,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=352
+BFC U12 BOYS BLUE,548951,U13,Male,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=354
+Far Post 2013 Boys Club,575132,U13,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=365
+Spring 25 U12 Boys,595795,U13,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=369
+BFC U12 BOYS WHITE,548953,U13,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=369
+EUSC U12 Boys,546818,U13,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=382
+EUSC U12 Boys Morgan,563761,U13,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=434
+U12 Boys - Northfield SC - 2025,593098,U13,Male,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=435
+U12 NEK Warriors,337793,U13,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=435
+Barre Boys 2013/2014,335140,U13,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=437
+Nordic 2013 Premier Girls,46603,U13,Female,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=35
+Summit FC U12 Blue,594266,U13,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=74
+Vermont Fusion U12 Green,51887,U13,Female,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=118
+EUSC U12 Girls Alder,569494,U13,Female,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=119
+Summit FC U12 White,575706,U13,Female,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=119
+Vermont Fusion U12 White,330558,U13,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=128
+Caledonia Flood Rush (12G),589697,U13,Female,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=128
+VT Northern United U12 Girls,51421,U13,Female,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=130
+Queen City FC U13 (2013) Girls Black,238253,U13,Female,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+Capital 2013/14 Girls Premier,574068,U13,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=138
+U12 Girls Blue,47032,U13,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=139
+MSC Girls U12 Gold,45770,U13,Female,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=141
+BFC U12 GIRLS BLUE,579526,U13,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=150
+Girls U12 Green,47588,U13,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=162
+Onion River SC U12G Yellow,47564,U13,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=164
+U12 Girls Sky,472875,U13,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=165
+Barre Girls 2013/2014,335134,U13,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=170
+Onion River SC U12G Black,460457,U13,Female,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=187
+EUSC U12 Girls,548130,U13,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197
+CYS/Lancer U12 Girls,46968,U13,Female,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+U12 Girls Silver,342059,U13,Female,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=201
+MRVSA Travel Girls U12D3 Storm,48267,U13,Female,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=209
+Far Post 2013/14 Girls Club,575137,U13,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=213
+U12 Girls Gold,48175,U13,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=214
+BFC U12 GIRLS WHITE,548956,U13,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=215
+Soccer Roots CF U12G,464740,U13,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=223
+Spring 25 U12 Girls,595794,U13,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=225
+AU 2013-2014 Girls,211717,U13,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=232
+Colchester S25 U12G Green,587923,U13,Female,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=236
+Caledonia Flood Torrents (12G),595504,U13,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=236
+Onion River U12G Black,607253,U13,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=237
+U12 Girls - Northfield SC - 2025,593096,U13,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=239
+Queen City FC U11/12 (2013-2014) Girls White,48940,U13,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=259
+U12 Arlington Girls Spring 25,604019,U13,Female,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=264
+Burlington FC 2012 Boys Premier,533897,U14,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=69
+Queen City FC U14 (2012) Boys Premier,48934,U14,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=79
+Far Post 2012 Boys Premier,30778,U14,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=93
+Peak FA- New England 2012,9352,U14,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=152
+MUSC U14 BOYS Profanity,50200,U14,Male,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=208
+Nordic 2012 Premier Boys,46264,U14,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=210
+Queen City FC U13/14 (2012-2013) Boys Fall,461300,U14,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=258
+Capital 2012 Boys Premier,203375,U14,Male,GotSport Rankings,0,VT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=265
+Fairfax Fletcher Soccer Club U12 Boys,335425,U14,Male,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+Williston SC 2012G,364585,U14,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=71
+Far Post 2012 Girls Premier,199491,U14,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=72
+MRVSA Travel Girls U14D2 Rapids,48264,U14,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=84
+Nordic 2012 Premier Girls,581766,U14,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=87
+MUSC U14 GIRLS Sterling,46595,U14,Female,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=123
+Fairfax Fletcher SC U12 Girls,460738,U14,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=178
+Far Post 2011 Boys Premier,206138,U15,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=83
+BFC U14 BOYS PREMIER,382327,U15,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=117
+Summit FC U14 Blue,575715,U15,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=134
+VTUSA U14 Boys,459079,U15,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=144
+Nordic 2011 Premier Boys White,420946,U15,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=145
+Nordic 2011 Premier Boys Green,168410,U15,Male,GotSport Rankings,0,VT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=160
+MSC U14 Boys,594165,U15,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=173
+Caledonia Flood Surge (14B),592708,U15,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=175
+Capital 2011 Boys Premier,42133,U15,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=176
+U14 Arlington Boys Spring 25,604017,U15,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=179
+Vermont Fusion U14,51888,U15,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=181
+AU 2011-2012 Boys,211735,U15,Male,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=188
+EUSC U14 Boys Alder,569499,U15,Male,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=194
+VT Northern United U14 Boys,55095,U15,Male,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197
+Far Post 2012/2013 Boys Club,575135,U15,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=205
+Summit FC U14 White,575717,U15,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=208
+Onion River SC U14B Yellow,47565,U15,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=224
+u14 Boys Sky,594084,U15,Male,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=249
+U14 Boys Blue,47033,U15,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=251
+BFC U14 BOYS WHITE,571520,U15,Male,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=273
+Rivers Edge U14 Boys,460510,U15,Male,GotSport Rankings,0,VT,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=294
+Spring 25 U14 Boys,595796,U15,Male,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=299
+Far Post 2011 Girls Premier,211526,U15,Female,GotSport Rankings,0,VT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=43
+Caledonia Flood Cyclones (14G),606552,U15,Female,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=78
+AU 2011-2012 Girls,52129,U15,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=93
+Caledonia Flood White Caps (14G),592707,U15,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=93
+Vermont Fusion U14,51889,U15,Female,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=102
+Stowe Soccer Club U14 Girls,577395,U15,Female,GotSport Rankings,0,VT,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=107
+EUSC U14 Girls Alder,569503,U15,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=111
+BFC U14 GIRLS,568431,U15,Female,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=128
+MRVSA Travel Girls U14D3 Magic,48265,U15,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=132
+Barre Girls 2011/2012,335132,U15,Female,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=140
+VTUSA U14 Girls,459078,U15,Female,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=140
+VT Northern United U14 Girls,55101,U15,Female,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=144
+U14 Girls Blue,212253,U15,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+u14 Girls Sky,594081,U15,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=155
+MRVSA Girls U14D2 Rapids,48255,U15,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=158
+U14 Girls Blue,47034,U15,Female,GotSport Rankings,0,VT,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=161
+Summit FC U14,575708,U15,Female,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=162
+Far Post 2011/12 Girls Club,575136,U15,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=164
+MSC U14 Girls,594161,U15,Female,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=195
+Capital 2011/12 Girls Premier,441995,U15,Female,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=198
+Rivers Edge U14 Girls,460508,U15,Female,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=199
+Far Post 2010 Boys Premier,30760,U16,Male,GotSport Rankings,0,VT,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=87
+Nordic 2010 Premier Boys,295784,U16,Male,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=90
+Queen City FC U14/15 (2010-2011) Boys Premier,56146,U16,Male,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=146
+MUSC U16 BOYS Nebraska,46587,U16,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=177
+Far Post 2010 Girls Premier,30761,U16,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=9
+Nordic 2010 Premier Girls,406835,U16,Female,GotSport Rankings,0,VT,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=41
+VTUSA U15 Girls,593816,U16,Female,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=70
+Nordic 2010/11 Premier Girls,46275,U16,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=86
+MUSC U16 GIRLS Bruce,46596,U16,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=113
+Queen City FC U14/15 (2010/2011) Girls Red,48937,U16,Female,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=127
+Capital 2010/2011 Girls Premier,42137,U16,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=133
+Queen City FC U14/15 (2010-2011) Girls Premier,48938,U16,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=136
+Far Post 2009 Boys Premier,30762,U17,Male,GotSport Rankings,0,VT,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=40
+U16 Boys,47035,U17,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=114
+Caledonia Flood Tsunami (16B),588967,U17,Male,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=115
+VTUSA U16 Boys,459082,U17,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=119
+Summit FC u16,575718,U17,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=135
+BFC U16 BOYS BLUE,579527,U17,Male,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=137
+Onion River U16B Yellow,609084,U17,Male,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=150
+Onion River SC U16B Yellow,460462,U17,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=158
+Vermont Fusion U16,214956,U17,Male,GotSport Rankings,0,VT,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=159
+2009/10 Boys Club,574418,U17,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=167
+Capital 2009/10 Boys Premier,42969,U17,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=168
+BFC U16 BOYS WHITE,579547,U17,Male,GotSport Rankings,0,VT,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=205
+MRVSA Travel Boys U16D3 Strikers,48256,U17,Male,GotSport Rankings,0,VT,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=208
+Far Post 2009 Girls Premier,30764,U17,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=34
+Capital 2009 Girls Premier,42135,U17,Female,GotSport Rankings,0,VT,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=52
+Caledonia Flood Cyclones (14G),592709,U17,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=54
+AU 2009-2010 Girls,43036,U17,Female,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=60
+Caledonia Flood Hurricanes (16G),589691,U17,Female,GotSport Rankings,0,VT,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=64
+Nordic 2009 Premier Girls,304086,U17,Female,GotSport Rankings,0,VT,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=69
+Far Post 2009/10 Girls Club,575134,U17,Female,GotSport Rankings,0,VT,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=71
+VT Northern United U16 Girls,55100,U17,Female,GotSport Rankings,0,VT,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=79
+Summit FC U16,575709,U17,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=89
+MRVSA Travel Girls U16D2 Force,462283,U17,Female,GotSport Rankings,0,VT,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=93
+BFC U16 GIRLS,579554,U17,Female,GotSport Rankings,0,VT,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=103
+Vermont Fusion U16,214957,U17,Female,GotSport Rankings,0,VT,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=114
+Arlington U18 Girls Spring 2025,616981,U17,Female,GotSport Rankings,0,VT,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=115
+U16 Girls,47036,U17,Female,GotSport Rankings,0,VT,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=122
+Queen City FC U15-17 (2009-2010) Boys Red,478423,U18,Male,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=106
+Queen City FC U16/17 (2008/2009) Girls Red,211779,U18,Female,GotSport Rankings,0,VT,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=62

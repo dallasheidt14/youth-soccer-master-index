@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> f3847d0018e5e7844bd33a8076aa59c075788905
 pandas==2.2.2
 requests==2.32.3
 beautifulsoup4==4.12.3
 tqdm==4.66.4
 rapidfuzz==3.9.6
+pandera==0.20.0
+pytest==7.4.3

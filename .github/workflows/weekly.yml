@@ -1,0 +1,202 @@
+name: Build Master Index
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 12 * * 1"  # every Monday noon UTC
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run tests
+        run: |
+          pytest -q --tb=short
+          
+      - name: Run sample build
+        run: |
+          python src/scraper/build_master_team_index.py --sample
+          
+      - name: Validate schema
+        run: |
+          python src/validators/verify_master_index.py
+          
+      - name: Upload build metrics
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-metrics-${{ github.run_number }}
+          path: |
+            data/metrics/*.json
+            data/master/state_summaries.json
+            data/master/history/history_registry.json
+          retention-days: 30
+          
+      - name: Upload logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-logs-${{ github.run_number }}
+          path: |
+            data/logs/*.log
+          retention-days: 7
+          
+      - name: Comment on PR (if applicable)
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            // Try to read build metrics
+            let comment = '## 🏗️ Build Results\n\n';
+            
+            try {
+              const metricsFiles = fs.readdirSync('data/metrics').filter(f => f.endsWith('.json'));
+              if (metricsFiles.length > 0) {
+                const latestMetrics = JSON.parse(fs.readFileSync(`data/metrics/${metricsFiles[0]}`, 'utf8'));
+                comment += `### 📊 Build Metrics\n`;
+                comment += `- **Total Teams**: ${latestMetrics.team_count?.toLocaleString() || 'N/A'}\n`;
+                comment += `- **States Covered**: ${latestMetrics.states_covered || 'N/A'}\n`;
+                comment += `- **New Teams**: ${latestMetrics.new_teams || 'N/A'}\n`;
+                comment += `- **Data Quality**: ${latestMetrics.data_quality_score || 'N/A'}%\n\n`;
+              }
+            } catch (e) {
+              comment += '⚠️ Could not read build metrics\n\n';
+            }
+            
+            comment += '### ✅ Validation Results\n';
+            comment += '- Schema validation: ✅ Passed\n';
+            comment += '- Data quality checks: ✅ Passed\n';
+            comment += '- Sample build: ✅ Completed\n\n';
+            comment += 'Build completed successfully! 🎉';
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: comment
+            });
+
+  security-scan:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install bandit safety
+          
+      - name: Run security scan
+        run: |
+          bandit -r src/ -f json -o bandit-report.json || true
+          safety check --json --output safety-report.json || true
+          
+      - name: Upload security reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: security-reports-${{ github.run_number }}
+          path: |
+            bandit-report.json
+            safety-report.json
+          retention-days: 30
+
+  data-quality-check:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Run full validation
+        run: |
+          python src/validators/verify_master_index.py
+          
+      - name: Generate data quality report
+        run: |
+          python -c "
+          import pandas as pd
+          import json
+          from pathlib import Path
+          
+          # Find latest master index
+          master_files = list(Path('data/master').glob('master_team_index_*.csv'))
+          if master_files:
+              latest_file = max(master_files, key=lambda x: x.stat().st_mtime)
+              df = pd.read_csv(latest_file)
+              
+              # Generate quality report
+              report = {
+                  'file': str(latest_file),
+                  'total_teams': len(df),
+                  'unique_states': df['state'].nunique() if 'state' in df.columns else 0,
+                  'age_groups': sorted(df['age_group'].unique().tolist()) if 'age_group' in df.columns else [],
+                  'providers': sorted(df['provider'].unique().tolist()) if 'provider' in df.columns else [],
+                  'data_completeness': {
+                      'team_name': df['team_name'].notna().sum() / len(df) * 100 if 'team_name' in df.columns else 0,
+                      'team_id': df['team_id'].notna().sum() / len(df) * 100 if 'team_id' in df.columns else 0,
+                      'state': df['state'].notna().sum() / len(df) * 100 if 'state' in df.columns else 0,
+                      'age_group': df['age_group'].notna().sum() / len(df) * 100 if 'age_group' in df.columns else 0,
+                      'gender': df['gender'].notna().sum() / len(df) * 100 if 'gender' in df.columns else 0
+                  }
+              }
+              
+              # Save report
+              with open('data-quality-report.json', 'w') as f:
+                  json.dump(report, f, indent=2)
+              
+              print('Data quality report generated')
+          else:
+              print('No master index files found')
+          "
+          
+      - name: Upload data quality report
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-quality-report-${{ github.run_number }}
+          path: data-quality-report.json
+          retention-days: 30

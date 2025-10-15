@@ -1,0 +1,752 @@
+team_name,age_group,gender,source,points,state,rank,url
+OUSC 2015B BLACK,U10,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=27
+INTER 16B,U10,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=43
+Omaha United 2016B White,U10,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=45
+Omaha-EVO-2016B-Orange,U10,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=47
+Diablos FC 2016B Black,U10,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=50
+Sting NE B16 Ausenbaugh,U10,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=60
+Sting NE B16 Waldoch Brave,U10,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=70
+Schuyler Unstoppables 2,U10,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=79
+CSC 2016B - VONASEK,U10,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=98
+Omaha United 2016B Black,U10,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=108
+WNFC U10 Boys Select Black,U10,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=120
+WNFC U10 Boys Select White,U10,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=120
+WNFC 2016 Boys Select Black,U10,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=146
+Diablos FC 2016B Yellow,U10,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=171
+GEA PRE ECNL G16 1,U10,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=32
+Xtra Soccer Academy 2016G Gold,U10,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=40
+Omaha Surf 2016G White,U10,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=80
+WNFC U10 Girls Select Black,U10,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=92
+UNITED FC GRAND ISLAND 15B,U11,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=89
+Sting Pre-ECNL Ausenbaugh,U11,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=171
+Sting Pre-ECNL Ausenbaugh,U11,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=172
+Sting NE B15 Pre-Elite Amdor,U11,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=184
+EVO-U11B-Black-2014,U11,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=185
+Sting NE B15 Dotson,U11,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=194
+EVO-Orange-EJ-2015,U11,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=195
+Sting NE B15 Waldoch 24 ARCHIVE,U11,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=201
+WNFC U11 Boys Select Black,U11,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=208
+Omaha United SC 2014B Black,U11,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=221
+LCFC 2015B Elite,U11,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=227
+GEA Academy Pre-ECNL 15B I,U11,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=234
+DASC 2014 BOYS BLACK NL,U11,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235
+KSC 2015 Boys,U11,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=235
+Omaha United 2015B,U11,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=239
+Syracuse Soccer Club - 11U Boys Rockets,U11,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=247
+Sting NE B15 Tungland,U11,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=251
+UFA Siouxland 2014 Elite,U11,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=252
+GI United FC U11,U11,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=256
+Omaha-EVO-2015B-Orange,U11,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=261
+GEA Gold 14B I,U11,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=266
+Diablos FC 2015B,U11,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=278
+Lincoln Surf 15B Blue,U11,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=279
+Nebraska Roots 2014B 1,U11,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=282
+Sporting NE B Academy Watford 2015,U11,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=288
+HFC Sidekicks 2015/16,U11,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=307
+402 DA 2015 Boys Black,U11,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=312
+ISC - B11U Blue,U11,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=313
+Nebraska Roots,U11,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=318
+KSC 2015 Boys Academy,U11,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=322
+Scrappers,U11,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=325
+WNFC 2015 Boys Select Black,U11,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=336
+GEA Academy Pre-ECNL 15B II,U11,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=346
+OUSC 2015-14B BLACK II,U11,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=349
+402 DA 2015B Premier,U11,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=349
+FSC United U11 Gold (S),U11,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=350
+Lightning,U11,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=363
+Sporting Nebraska B LNK 2015,U11,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=364
+Destroyers,U11,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=377
+SNFC B Academy Leeds 2015,U11,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=396
+Eagles Football Club - B11U,U11,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=398
+402 DA 2015 Boys White,U11,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=401
+UFA Siouxland 2014 Competitive,U11,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=402
+EAA Roots 2015B I,U11,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=403
+LCFC 2015B Premier,U11,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=404
+Sporting Nebr B Acad Ipswich 2015,U11,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=408
+GEA Pre ECNL I,U11,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=90
+Omaha United SC 2015G Black,U11,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=94
+Sting NE Pre ENCL G15,U11,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=94
+GEA Pre ECNL II,U11,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=95
+WNFC 2015-2016 Girls Select White,U11,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=105
+EVO-U11G-Orange-2014,U11,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109
+EVO-U11G-Orange-2014,U11,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=110
+NE ROOTS 2015G II,U11,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=111
+402DA 2015G Premier,U11,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=113
+WI Surf U11G Black,U11,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+Xtra Soccer Academy Gold - G11U,U11,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+Sting NE 2015G Nelson,U11,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=128
+Sporting Nebr G Acad Celtic 2015,U11,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=131
+Sting NE G15 Elite Nelson,U11,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=134
+WNFC U12 Girls White,U11,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=136
+Sting NE G15 Sutton,U11,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=138
+WNFC U11 Girls Select White,U11,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=146
+GEA Pre_ECNL G15 II,U11,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=161
+LSC Phoenix Rising,U11,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=180
+402 DA 2015 Girls Gold,U11,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=183
+LSC Mighty Kickers,U11,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=209
+GEA Pre-ECNL G15 I,U11,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=211
+Omaha-EVO-2015 G Orange,U11,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=235
+NE ROOTS 2015G I,U11,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=235
+Sting NE B14 Pre-ECNL Davis,U12,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=81
+Lincoln Surf 14B White,U12,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=156
+Sting NE Pre-Elite B14 Beckmann,U12,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+KSC 2014 Boys- Navy,U12,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=177
+DASC 2014 BOYS SILVER NL,U12,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=179
+DASC 2014 BOYS SILVER NL,U12,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=180
+Sting NE B14 Beckmann,U12,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=187
+GEA Academy Pre-ECNL 14B I,U12,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=228
+csc crew 2014 b,U12,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=231
+Blair FC Inferno,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=242
+Sting NE B14 Hodapp,U12,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=243
+WI Surf U11B Black 2014,U12,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=245
+Sting NE 14B Urwin,U12,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=249
+Lincoln Surf 14B Premier,U12,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=255
+Omaha Legends 2014 Boys,U12,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=256
+Sporting Nebr B Navy 2014,U12,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=272
+402 DA 2014B Blue,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=272
+HFC Dragons U11,U12,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=272
+DASC 2013 BOYS Black NL,U12,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=274
+Lex Boca JR's,U12,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=276
+CSC Wolves,U12,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=286
+402 DA 2014 Boys Black,U12,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=288
+UNITED FC GRAND ISLAND 14B,U12,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=293
+Omaha Surf 2014B White,U12,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=297
+Sporting Nebr B Gold 2014,U12,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=301
+Xtra Soccer Academy 15/16 Girls,U12,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=306
+Lincoln Surf 14B Black,U12,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=308
+KSC 2014 Boys Academy,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=308
+EVO-U11B-Orange-NM-2014,U12,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=309
+Sporting Nebraska FC 14B Gold,U12,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=310
+402 DA 2014 Boys Gold,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=311
+BENSC REVOLUCION 11B (S),U12,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=313
+402 DA 2014 Boys Premier,U12,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=314
+GEA Academy Pre-ECNL 14B II,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=315
+Omaha Surf 2014B Black,U12,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=315
+UAF 2014B Blue,U12,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=316
+ISC 2014,U12,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=317
+Xtra 2014B Gold I,U12,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=318
+PACE - 2014 Boys Blue,U12,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=323
+Sting NE B14 Dotson,U12,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=324
+Omaha-EVO-2014B-Orange,U12,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=329
+EAA NE ROOTS 2014B II,U12,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=330
+IFA 2014 PRIMERO,U12,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=331
+Blair FC Thunder,U12,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=335
+WI Surf U11B Blue 2014,U12,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=337
+Sting NE B14 Jeffers 24,U12,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=337
+INTER 2014B,U12,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=338
+UAF 2014B Gray,U12,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=346
+WNFC U12 Boys Select Black,U12,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=350
+Omaha Surf 2013B Black,U12,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=355
+EAA NE ROOTS 2014B I,U12,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=356
+DASC 2013 BOYS Silver NL,U12,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=368
+Sporting NE 2014B Elite,U12,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=368
+PACE - 2014 Boys Gold,U12,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=369
+Omaha Surf 2014B Black,U12,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=370
+LSC Tsunami 2014,U12,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=372
+LSC Blackpool,U12,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=374
+Omaha Surf 2014B White,U12,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=382
+KSC 2014 Boys Academy White,U12,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=385
+LSC Lightning,U12,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=389
+NTSC Bolts,U12,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=395
+Lex Amigos,U12,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=405
+Xtra 2014B,U12,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=415
+BENSC FORZA 11B (2014),U12,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=416
+LCFC 2014B Premier,U12,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420
+SL Kickers,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420
+NE Roots 2014B I,U12,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420
+Lincoln City FC 2014B Select,U12,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=420
+KSC 2014 Boys,U12,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=424
+EAA NE ROOTS 2014B III,U12,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=431
+KSC 2014 Boys White,U12,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=440
+Sting NE G14 Klem,U12,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=66
+GEA Pre-ECNL G14 II,U12,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=67
+Sporting NE FC G Academy SDL 2014,U12,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=76
+WNFC U12 Girls Select Black,U12,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=101
+WI Surf U12G Black,U12,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=104
+Omaha United SC 2014G Black,U12,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=107
+Omaha-EVO-2014 G Orange,U12,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=123
+Omaha-EVO-2014 G Orange,U12,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=124
+402 DA 2014 Girls Premier,U12,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=124
+Sporting Nebr G Gold 2014,U12,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=125
+EAA NE ROOTS 2014G I,U12,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=127
+Sporting Nebr G Elite 2014,U12,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=127
+SNFC G Dundee United 2014,U12,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=141
+BSC Honeybees,U12,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=144
+GEA Pre-ECNL G14 I,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=145
+Sporting Nebr G LNK Elite 2014,U12,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=156
+GEA Gold 14G,U12,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=156
+Xtra Soccer Academy Gold - G12U,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=157
+Sporting Nebr G Gold 2014,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=158
+Sting NE Pre ECNL G14,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160
+LCFC 2014G Elite,U12,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=162
+EAA NE ROOTS 2014G II,U12,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=163
+Omaha Surf 2014G Black,U12,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=172
+Kearney Soccer Club,U12,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=174
+Sporting Nebr G Navy 2014,U12,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=174
+WI Surf U12G Blue,U12,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=180
+BENSC Blazing Badgers,U12,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=183
+NFC 2014G,U12,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=183
+KSC 2014 Girls Academy,U12,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=187
+Rangers 2014G,U12,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=191
+UAF 2014G Blue,U12,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=192
+Omaha United SC 2014G Black II,U12,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=193
+Evolution SC 2014,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=194
+402 DA 2014G Blue,U12,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=195
+UAF 2014G Blue,U12,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=202
+Blair FC United,U12,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=205
+Omaha United SC 2014G White,U12,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=206
+Omaha Surf 2014G White,U12,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=208
+Omaha Surf 2014G,U12,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=225
+CSC Stars,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=230
+Sporting NE FC Aberdeen 14G,U12,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=236
+OUSC,U12,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=236
+NE Roots 2014G I,U12,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=237
+BSC Hawks,U12,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=238
+402DA 2014G Blue,U12,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=248
+Lincoln Surf 14G Premier,U12,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=252
+Omaha United 2014G White,U12,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=253
+402 DA 2014 Girls Gold,U12,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=254
+NE Roots 2014G II,U12,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=254
+Titans 2014G,U12,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=258
+Omaha United 2014 Girls Black ll,U12,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=262
+Sting NE B13 Homan 24,U13,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=125
+402 DA 2013 Boys Premier,U13,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=154
+SPORTING NE FC B PRE-ECNL 13,U13,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=156
+Sting NE 2013B MLS Next 2 Davis,U13,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=183
+INTER 13B,U13,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=189
+Sting NE B13 Waldoch,U13,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=194
+WNFC U13 Boys Select Black,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=211
+GEA Pre-ECNL 2013B I,U13,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=232
+Sporting Nebraska FC B 2013 Gold,U13,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=240
+LSC Barcelona,U13,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=247
+UNITED FC GRAND ISLAND 13B,U13,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=247
+UAF 2013B Blue,U13,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=250
+Sting NE B13 Ladd,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=256
+Nebraska Roots SC 2013B I,U13,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=260
+Sporting Nebr B Waverly Elite 2013,U13,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=260
+LSC Fire,U13,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=261
+Lincoln Surf 13B Premier,U13,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=266
+IFA 2013 PRIMERO I,U13,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=267
+Xtra Soccer Academy Gold - B12U (2013),U13,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=269
+GI United FC - B12U,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=270
+Sting NE B13 Dotson,U13,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=271
+PACE - 2013 Boys Blue,U13,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=274
+GEA 2013B Gold,U13,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=275
+Union Black,U13,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=279
+NFC 2013B,U13,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=282
+402 DA 2013 Boys Gold,U13,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=284
+LCFC 2013B Premier,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=286
+Sporting Nebr B Navy 2013,U13,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=287
+Sting NE B13 Jeffers 24,U13,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=292
+LCFC 2013B Elite,U13,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=293
+CSC Union Black 2013B,U13,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=296
+GEA Pre-ECNL II 2013B,U13,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=302
+CSC Crew 2014B,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=302
+402 DA 2013B Blue,U13,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=306
+WNFC 2013-2014 Boys Select Black,U13,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=308
+402 DA 2013B Premier,U13,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=311
+Inter - 2013B,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=314
+EVO-Orange-BK-2013,U13,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=314
+LSC Scorpions,U13,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=314
+CSC Union Blue 2013B,U13,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=316
+Omaha United SC 2013B Black,U13,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=322
+LSC Eagles,U13,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=322
+Sporting Nebr B LNK Elite 2013,U13,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=324
+Impact-Wolves 2013B Neon,U13,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=329
+Evolution Challenger,U13,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=331
+Nebraska Roots 2013B II,U13,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=332
+Diablos FC - B2013,U13,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=332
+Omaha United 2013B,U13,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=334
+EAA Excelsior,U13,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=339
+PACE - 2013 Boys Gold,U13,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=340
+Interstate 2013 Boys,U13,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=344
+2013 KSC Boys Academy,U13,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+EVO-U12B-Black-AC-2013,U13,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+WI Surf 2013B Black,U13,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=351
+HFC Union U12,U13,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=354
+BENSC Fire 2013B (S),U13,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=355
+LSC Chelsea FC 2012B,U13,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=362
+IFA 2013/14 SEGUNDO MONTELONGO,U13,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+Omaha United SC 2013B Black,U13,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+402 DA 2012/2013B Blue,U13,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364
+EAA NE ROOTS 2013B III,U13,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=370
+IFA 2013 PRIMERO II,U13,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=382
+Hawks FC 2013,U13,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=382
+WI Surf 2013B Blue,U13,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=382
+Eagles FC GOLD- B2013,U13,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=392
+Sporting Nebr B Gold 2013,U13,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=395
+THE CHOSEN ONES,U13,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=398
+Schuyler Unstoppables,U13,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=398
+KSC 2013 BOYS,U13,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=399
+IFA 2013/14 PRIMERO MONTELONGO,U13,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=401
+Sporting Nebraska FC Bulldogs 13,U13,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=402
+Crystal Prairie Eagles (CPFC),U13,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=418
+LSC Arsenal,U13,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=424
+WNFC 2013-2014 Boys Select White,U13,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=435
+GEA PREECNL II 2013B,U13,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=435
+Omaha United SC 2013G Black,U13,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=78
+LSC Rangers,U13,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=97
+Sting Nebraska G12 Elite Bennett,U13,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=106
+NE Roots 2013G II,U13,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=106
+Sporting Nebraska FC 2013G Elite,U13,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=121
+Omaha Evolution 2013 Orange,U13,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=123
+Sting NE ECNL RL G13,U13,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=127
+Sting NE G13 J Anderson,U13,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+LSC Pulse 2013G,U13,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=134
+402 DA 2013 Girls Premier,U13,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=135
+Xtra Soccer Academy 2013 Girls,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=136
+DASC 2012 GIRLS Silver NL,U13,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=136
+402 DA 2013 Girls Gold,U13,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=139
+Xtra Soccer Academy Moxie - G13U,U13,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=140
+LSC Phoenix 2013G,U13,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=142
+Sporting Nebraska Gold 13,U13,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=145
+GEA Pre-ECNL I 13G,U13,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=146
+Nebraska Roots 2013G I,U13,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=152
+DASC 2012 GIRLS White NL,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=159
+Blair FC Blaze,U13,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=161
+GEA Gold 13G,U13,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=163
+WI Surf U13B Black,U13,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=163
+LSC Pulse Red 2013G,U13,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=167
+CBSC Strikers (Jackson) U13G,U13,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=168
+Lady Warriors 2013/2014,U13,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=172
+KSC 2013 GIrls Academy,U13,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=172
+Omaha Surf 2013G White,U13,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=178
+WNFC 2013-2014 Girls Select,U13,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=183
+CSC Crusaders 2013G,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=184
+402 DA 2013 Girls Blue,U13,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=184
+HSC U13G,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=188
+Omaha United 2013G White,U13,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=188
+Xtra Soccer Academy Moxie White - G13U,U13,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=189
+LSC Barcelona,U13,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=189
+BENSC Fire,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=194
+LCFC 2013G Select,U13,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=196
+Lincoln Surf 13G Premier,U13,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197
+EAA NE ROOTS 2013G II,U13,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=197
+NCYSC Spark,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=198
+402 DA 2013G Black,U13,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=198
+402DA 2013G White,U13,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=198
+Omaha Evolution 2013G NL,U13,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+Lady Hawks 2011/2012,U13,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=200
+Norris Titan Thunder,U13,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=201
+Sting NE G13 Melendez 24 ARCHIVE,U13,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=201
+EAA Vitesse,U13,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=207
+Omaha Sting 2013G,U13,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=208
+Omaha Surf 2013G Black,U13,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=208
+Lincoln Surf 13G Premier,U13,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=211
+LSC Phoenix 2013,U13,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=217
+Nebraska Roots 2013G II,U13,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=217
+Sting NE G13 Coyle,U13,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=226
+PACE - 2013 Girls Gold,U13,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=233
+Sporting NE G Elite 13,U13,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=234
+Gretna Elite Academy PRE ECNL 2013G,U13,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=237
+Omaha United SC 2013G White,U13,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=243
+GEA NPL G13,U13,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=249
+LSC Pulse Black 2013G,U13,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=249
+Omaha Surf PSC U12/13G Stars,U13,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=251
+UAF 2013G Blue,U13,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=258
+WNFC 2013-2014 Girls Select White,U13,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=263
+LSC Ajax Lincoln,U13,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=265
+Sting Nebraska MLS NEXT AD B12 Davis,U14,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=67
+SPORTING NE FC B ECNL 12,U14,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=69
+Eagles FC 2012B Gold,U14,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=116
+GEA ECNL 12B,U14,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=127
+ISC U14 Boys,U14,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=133
+KSC 2012 Boys,U14,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=159
+CSC Crush 2012B,U14,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=160
+Sting NE 12B Elite Davis,U14,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=164
+LCFC 2012B Elite,U14,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=172
+Lincoln Surf 12B Premier,U14,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=185
+EVO-2012B-Orange,U14,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=187
+402 DA 2012 Boys Premier,U14,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=190
+Omaha Surf 2012B Black,U14,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=202
+FSC UNITED GOLD 2012/2013,U14,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=212
+PACE - 2012 Boys Blue,U14,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=220
+Hawks FC 2012,U14,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=223
+LSC Chelsea FC 2012B,U14,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=224
+PACE - 2012 Boys Gold,U14,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=225
+WI Surf 2012B Black,U14,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=231
+HSC 2012B,U14,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=233
+Lex Los Hermanos,U14,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=234
+Xtra Soccer Academy White - 2012B,U14,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=240
+Sting NE B12 Dotson,U14,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=241
+UAF 2012B Blue,U14,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=248
+DASC 2011 BOYS Silver NL,U14,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=249
+Omaha United SC 2012B Black,U14,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=254
+Sporting Nebr B Waverly 2012,U14,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=254
+Interstate SC B13U Blue,U14,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=254
+Sting NE B12 Hodapp 24,U14,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=255
+Lincoln Surf 12B Blue,U14,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=257
+Sporting Nebr B ECNL-RL 2012,U14,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=258
+EAA NE Roots II 2012B,U14,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=260
+FA 2012 PRIMERO CASTRO,U14,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=261
+Glenwood Rampage,U14,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262
+UAF 2012B Gray,U14,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=265
+FSC United Gold U14,U14,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=273
+KSC 2012 Boys,U14,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=273
+Xtra Soccer Academy -2012B Gold,U14,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=275
+Norfolk FC NFC 2012B,U14,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=279
+EAA NE Roots 2012B I,U14,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=280
+SNFC 2012B GOLD,U14,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=283
+HFC Thunder U14,U14,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=284
+WI Surf U14B Black,U14,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=284
+DASC 2012 BOYS SILVER NL,U14,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=291
+Sting NE B12 Hodapp,U14,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=294
+GEA ECNL-RL 12B,U14,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=295
+Syracuse Soccer Club - 2012B,U14,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=296
+NTSC Tornados,U14,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=296
+402 DA 2012 Boys Gold,U14,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=299
+EAA NE ROOTS 2012/2013B,U14,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=300
+Crew 12,U14,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=306
+ISC - B14U Blue,U14,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=306
+B12 EAGLES FC BLACK,U14,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=306
+Interstate SC B13U Black,U14,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=310
+LSC Arsenal 2012,U14,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=319
+Sting NE B12 Reed Davis,U14,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321
+Ralston 2012 Boys,U14,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321
+Stampede 2012B,U14,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=328
+LSC Stormtroopers,U14,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=329
+HSC Eagle Junior,U14,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=335
+Omaha Surf 2012B White,U14,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=336
+Anchors White,U14,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=342
+Lincoln City FC 2012B Premier,U14,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=344
+GEA ECNL RL 12B,U14,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=346
+SL KICKERS 2012B,U14,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=353
+WI Surf 2012B Blue,U14,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=357
+LSC Pulse 2012 Black,U14,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=95
+Sting NE G12 Klem,U14,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=96
+BENSC Badgers,U14,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=102
+402 DA 2012 Girls Gold,U14,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=104
+402 DA 2012 Girls Premier (NE),U14,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=109
+Norfolk Football Club 2012/2013G,U14,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=110
+GEA 2012G ECNL,U14,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=111
+Sporting Nebraska FC G Elite 2012,U14,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=122
+KSC 2012 Girls,U14,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=126
+Sporting Nebraska FC G Elite 2012 Gold,U14,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=127
+Sting Nebraska ECNL RL G12,U14,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=127
+WI Surf U14G Blue,U14,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=127
+Lady Hawks 2012,U14,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=129
+ISC 2012 Girls,U14,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=130
+Omaha Surf 2012G Black,U14,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=133
+WI Surf U14G Black,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=133
+Omaha Evolution 2012G E64RL,U14,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=133
+NTSC- Storm,U14,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=137
+Omaha Surf 2012G Black (NE),U14,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=138
+LSC Run Barcelona,U14,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=142
+Sting NE G12 Tresemer 24,U14,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=144
+Blair FC Lightning,U14,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=145
+KSC 2012-13G White,U14,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=147
+402 DA 2012 Girls Premier Team,U14,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=148
+Nebraska Roots 2012 1,U14,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=150
+Sting NE G12 Sutton,U14,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=151
+Sporting Nebr G Navy 2012,U14,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=154
+Omaha-EVO-2012G NL,U14,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=156
+Lincoln Surf 12G Premier,U14,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=156
+Omaha United SC 2012G Black,U14,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=157
+Omaha Surf 2012G White,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=159
+GEA NPL G12,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=163
+HSC U14G,U14,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=165
+SESC U14G Lady Lightning,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=168
+Sting NE G12 Klem 24,U14,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169
+Sporting Nebr G Waverly 2012,U14,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169
+LSC PULSE RED 2012,U14,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=169
+HFC Queen Bees,U14,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=170
+402DA 2012G Premier,U14,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=171
+2012G Nebraska Roots II,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=173
+GEA Gold 12G,U14,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=176
+LSC Porto,U14,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=177
+Sting Nebraska G11 Elite Bennett,U14,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=182
+WNFC U14 Girls Select Black,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=184
+2012G NFC OMAHA UNITED SC WHITE,U14,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=185
+LSC Chelsea 12UG,U14,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=185
+MOXIE 1 2012G,U14,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=194
+EAA NE ROOTS 2012G I,U14,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=196
+Eagles Football Club - U14G,U14,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=199
+PACE - 2012 Girls Gold,U14,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=199
+Omaha United SC 2012G White,U14,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204
+LSC Lincoln Crew,U14,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=204
+Xtra 2013 - Gold,U14,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=213
+Nebraska Roots 2012G II,U14,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+LCFC 2012G Premier,U14,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+2012 Evolution Orange Girls,U14,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=219
+Omaha-EVO-2012B-NL (NE),U15,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=41
+402 DA 2011 Boys Premier (NE),U15,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=45
+Omaha-EVO-2011B-NL,U15,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=75
+GEA ECNL 11B,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=127
+Sting Nebraska MLS NEXT 2 B11 AD,U15,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=129
+Lincoln Surf 11B Premier,U15,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=144
+GEA ECNL RL 11B,U15,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=154
+Omaha Surf 2011B Black,U15,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=173
+Lincoln Surf 11B Premier,U15,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=177
+FSC United Gold U15,U15,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=178
+2011B Sporting Nebraska FC ECNL,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=188
+BENSC 2011 B Attack,U15,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192
+INTER 11B,U15,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195
+Sporting Nebr B Spring NL,U15,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=197
+CSC Vipers 2011/2012B,U15,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=199
+EVO-U14B-Orange-VR-2011,U15,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=199
+PACE - 2011 Boys Blue,U15,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=200
+Sting NE B11 Beckmann,U15,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=201
+WNFC U15 Boys Select Black,U15,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=202
+2010B PACE - BOYS GOLD,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=202
+Hawks FC 2011,U15,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=209
+Lincoln Surf 11B White,U15,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=209
+EAA Nebraska Roots 2011B I,U15,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=214
+402 DA 2011B Premier,U15,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=216
+Omaha United SC 2011B White,U15,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=217
+INTER B2011,U15,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=217
+EVO-2011B-Orange,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=218
+Xtra Soccer Academy Gold - 2011B,U15,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=219
+NTSC Inferno,U15,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=220
+PACE - 2011 Boys Gold,U15,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=221
+EAA Nebraska Roots 2011B II,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=236
+ISC 2011B Blue,U15,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=240
+LSC Bolton 2011B,U15,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=242
+Lincoln Surf 11B Blue,U15,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=243
+CSC United 2011B,U15,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245
+UAF 2011B Blue,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245
+INTER U15 BLUE,U15,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=246
+402 DA 2011B Gold,U15,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=246
+Sporting NE FC B GOLD 2011,U15,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=254
+Glenwood FC,U15,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=254
+Sporting Nebraska FC Light Sabre 11,U15,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=254
+Schuyler Predators,U15,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=256
+Omaha United 2011B,U15,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=257
+ISC - B15U Blue,U15,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=260
+Lex Dreamers 2011,U15,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+GI United FC - B15U,U15,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=266
+Dynamo 2011B,U15,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=267
+402 DA 2011/2012 Boys,U15,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=270
+Omaha Surf 2011B Black,U15,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=270
+Omaha United SC 2011B Black,U15,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=276
+WNFC U15 Boys Select Black,U15,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=283
+Omaha Surf 2011B White,U15,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=287
+IFA 2011/12 SEGUNDO,U15,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=291
+Evolution Challenger -2011B Velez,U15,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=292
+PLA 2011B Blue Devils,U15,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302
+Sporting Nebr B ECNL-RL 2011,U15,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=302
+Lincoln City FC 2011B Premier,U15,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=306
+402 DA 2011 Boys Gold,U15,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=312
+Anchors Blue,U15,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=324
+WNFC U15 Boys Select White,U15,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=330
+Nebraska Select 2011 Girls,U15,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=48
+402 DA 2011 GIRLS Gold,U15,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=93
+402 DA 2011 Girls Premier,U15,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=96
+Sporting Nebraska FC 2011 G Elite (NE),U15,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=107
+Omaha Surf 2011G Black,U15,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=111
+2011G GEA ECNL,U15,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113
+Omaha United SC 2011G Black,U15,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=114
+Omaha Evolution 2011G E64RL,U15,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=126
+Omaha United SC 2011G White,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=130
+LSC Pulse 2011,U15,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=134
+Sporting Nebr G Navy 2011,U15,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=136
+Sting Nebraska ECNL RL G11,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=138
+Sporting Nebr G Gold 2011,U15,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=138
+EAA NE ROOTS 2011G I,U15,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=139
+WI Surf U15G Grey,U15,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=142
+2011G NL,U15,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=142
+Norfolk Express Rage,U15,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=143
+KSC 2011/12 White,U15,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=145
+Nebraska Roots 2011G 1,U15,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=145
+Nebraska Roots 2011G II,U15,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=147
+UAF 2011G Blue,U15,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=147
+Omaha Surf 2011G White,U15,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+BENSC BLAZE 15G (S),U15,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=149
+BASA,U15,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=151
+2011G CSC,U15,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=151
+KSC Girls 2011 White,U15,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=158
+Sporting Nebr G Spring Lincoln,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=161
+Omaha Surf 2011 White,U15,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=161
+Sporting Nebr G Waverly 2011,U15,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=161
+Lady Hawks 2011,U15,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=161
+Omaha-EVO-2011G NL,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=163
+ISC 2011 (Blue),U15,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=167
+Omaha United 2011 Black,U15,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=175
+Sporting Nebraska FC Blazers 11,U15,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=176
+SNFC 2011 G Elite LNK,U15,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=182
+2011G EAA ROOTS,U15,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=182
+Lady Hawks U14 Select,U15,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=184
+Interstate Soccer club 2011G Blue,U15,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=185
+WI Surf U15G Blue,U15,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=185
+Nebraska 2011G,U15,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=186
+LSC Pulse Red 2012,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=189
+2011G BSC TYPHOONS,U15,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=190
+Lincoln Surf 11G Premier,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=192
+BENSC Galaxy 2011G,U15,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=192
+GEA Gold 2011G,U15,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=192
+GEA NPL G11,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=193
+Missouri Valley,U15,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=194
+CSC Fusion,U15,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=197
+Evolution 2011 Orange,U15,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=197
+LSC Porto,U15,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=197
+LCFC 2011G Premier,U15,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=199
+Evolution SC 2011 Black,U15,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=199
+Sporting Nebr G Spring Omaha,U15,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=202
+DFC 2011G Black,U15,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=203
+Inter 2010,U16,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=52
+Sting NE B10 Coyle,U16,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=81
+402 DA 2010 Boys Premier,U16,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=129
+Sting NE B10 Ladd,U16,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=137
+GEA 10B Showcase,U16,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=139
+HSC 2010B,U16,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=141
+Lex Dreamers,U16,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=142
+Sporting Nebraska FC ECNL 2010,U16,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=147
+Omaha United SC 2010B Black,U16,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=148
+GEA Elite I 10B,U16,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=149
+Omaha Surf 2010B Black,U16,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=153
+GEA ECNL RL 10B,U16,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=156
+GEA ECNL 10B,U16,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=157
+WI Surf 2010B Black,U16,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=160
+Sporting Nebr B ECNL-RL 2010,U16,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=176
+NFC 2010B,U16,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=180
+UAF 2010B Blue,U16,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=181
+LCFC 2010B Elite,U16,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=184
+Omaha-EVO-2011B-Showcase,U16,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=185
+CSC Rocks 2010B,U16,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=185
+2010B LSC RANGERS,U16,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=186
+Hawks FC 2010,U16,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=186
+Sting Nebraska ECNL RL B10 ARCHIVE,U16,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=187
+Sporting NE FC B Gold 10,U16,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=205
+INTER U16 Blue,U16,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=206
+Diablos FC 2010B Black,U16,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=208
+2010B ISLANDER FUTB,U16,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=210
+402 DA 2010B Gold,U16,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=213
+Lincoln Surf 10B Premier,U16,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=221
+Omaha United SC 2010 WHITE,U16,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=223
+KSC 2010 Boys,U16,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=224
+Sporting Nebr B Waverly 10/11,U16,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=224
+Sting Nebraska MLS NEXT 2 B10 AD,U16,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=234
+Sting NE B10 Hodapp 24,U16,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=237
+Inter B15U (NE),U16,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=242
+SL Kickers 2010B,U16,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=250
+ISC 2010B,U16,Male,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=250
+Lincoln City FC 2010B Premier,U16,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=250
+Diablos FC 2010B,U16,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=253
+Lincoln Surf 10B Blue,U16,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=262
+Nebraska Roots 2010B I,U16,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=262
+EVO-U16B-NL-GL-2009,U16,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=263
+402 DA 2010 Girls Premier (NE),U16,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=18
+402 Development Academy 2010 Girls Premier,U16,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=69
+Omaha Surf 2010G Black,U16,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=89
+Omaha Surf 2010G White,U16,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=91
+2010 Girls Elkhorn Roots 1,U16,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=94
+IFA 2010/11 PRIMERA CAJAS,U16,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=94
+402 DA 2010G Gold,U16,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=103
+HFC Lightning,U16,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=107
+Omaha United SC 2010G Black,U16,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=111
+GEA NPL G10,U16,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=113
+GEA 10G Elite,U16,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=117
+Omaha Surf 2010G NL,U16,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=119
+LSC Pulse 2010,U16,Female,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=119
+Lincoln City FC 2010G Elite,U16,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=121
+Lincoln Surf 10G Premier,U16,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=123
+Bennington Blaze,U16,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=124
+UAF 2010G Blue,U16,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=125
+402 DA 2010 Girls Gold,U16,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=127
+Omaha Evolution 2010G E64RL,U16,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=128
+WI Surf U15G Black 2010,U16,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=128
+NE Roots 2010G I,U16,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=137
+GEA ECNL G10,U16,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=143
+2010G Hastings Soccer Club,U16,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=146
+Pulse 2010,U16,Female,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=149
+402 DA 2010G Premier,U16,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=151
+SNFC 2010 G Elite LNK,U16,Female,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=154
+EAA NE ROOTS 2010G I,U16,Female,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=156
+CSC Rocks 2010G,U16,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=156
+Sporting Nebraska 2010 Elite,U16,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=163
+Sting Nebraska ECNL RL G10 Brunt,U16,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=163
+Sting NE NPL G10,U16,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=168
+Omaha-EVO-2010G NL,U16,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=168
+WI Surf U16G Black,U16,Female,GotSport Rankings,0,NE,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=178
+WNFC U16 Girls Select Black,U16,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=178
+Sporting Nebraska FC ECNL 2009,U17,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=58
+ISC Blue,U17,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=69
+402 DA 2009B Premier (NE),U17,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=87
+Lex United 2009,U17,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=91
+LEX United,U17,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=104
+Sporting Nebr B ECNL-RL 2009,U17,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=113
+EAA NE ROOTS 09/10B,U17,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=118
+Sting NE B09/10 Urwin,U17,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=137
+Lincoln Surf 09B Premier,U17,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=137
+Sting NE B09 Elite Beckmann 24,U17,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=138
+Omaha United SC 2009B Black,U17,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=143
+Schuyler Warriors 2009,U17,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=144
+Omaha Surf 2009B NL,U17,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=152
+GEA ECNL 09B,U17,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=156
+2009B SPORTING NEBR B GOLD,U17,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=159
+NE Roots 09/10B 1,U17,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=160
+Omaha Surf 2009B Black,U17,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=161
+Sting Nebraska Garbin ECNL RL B09,U17,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=163
+Omaha United SC 2009B White,U17,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=164
+Sporting Nebraska FC ECNL-RL 09,U17,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=170
+402 DA 2009 Boys Gold,U17,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=171
+GEA ECNL RL 09B,U17,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=173
+Omaha-EVO-2009B-NL,U17,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=175
+2009B HAWKS FC,U17,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=179
+INTER- B17U,U17,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=183
+Lincoln Surf 09B Blue,U17,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=187
+EAA NE ROOTS 09/10B II,U17,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=198
+Inter U16B 2009B,U17,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199
+Sting Nebraska MLS AD 2009B Beckmann,U17,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=201
+SNFC 09 Boys Gold,U17,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=207
+Nebraska 2009B,U17,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=220
+LCFC 2009B Elite,U17,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=220
+Sting NE 09/10B Urwin,U17,Male,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=220
+Omaha Surf 2009B White,U17,Male,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=227
+402DA 2009G Premier (NE),U17,Female,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=3
+402 DA 2009 Girls Premier,U17,Female,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=15
+Sting Nebraska ECNL RL G09,U17,Female,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=34
+GEA NPL G09,U17,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=84
+Omaha Surf Black 09,U17,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=86
+Sporting Nebr G Elite 2009 (NE),U17,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=90
+Sporting Nebr G LNK NPL 09,U17,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=96
+LSC Pulse,U17,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=99
+KSC Nebraska 2009 Girls Select,U17,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=100
+GEA 09G SHOWCASE,U17,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=102
+Sting NE 09G Valenta,U17,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=102
+GEA ECNL G09,U17,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=104
+Omaha United SC 2009G Black,U17,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=106
+DFC 2009G Black,U17,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=107
+EAA NE ROOTS - 09/10G II,U17,Female,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=108
+INTER- G17U,U17,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=111
+Lady Hawks 2009/2010,U17,Female,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=116
+2009G SPORTING NEBR STORM II,U17,Female,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=133
+GEA ECNL RL 08B,U18,Male,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=41
+IFA U17 Primero (2008) LV,U18,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=43
+Sting NE B08 Elite Garbin 24,U18,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=49
+Nebraska Roots 2008/09B I,U18,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=56
+SNFC ECNL 07/08,U18,Male,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=59
+Sporting Nebraska LNK ELITE 2008B,U18,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=65
+Sting NE B 08 Elite (NE),U18,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=66
+Sporting NE FC B ECNL-RL 2008,U18,Male,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=66
+402 DA 2008B Premier,U18,Male,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=77
+INTER - U18/19,U18,Male,GotSport Rankings,0,NE,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=85
+IFC 08,U18,Male,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=90
+SPORTING NE FC B ECNL 08,U18,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=92
+GEA ECNL 2008B,U18,Male,GotSport Rankings,0,NE,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=94
+WI Surf 2008B Blue,U18,Male,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=95
+SPORTING NEBR B LNK ELITE 2008 II,U18,Male,GotSport Rankings,0,NE,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=95
+2007/2008B FSC UNITED GOLD,U18,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99
+2008B UAF Blue,U18,Male,GotSport Rankings,0,NE,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=100
+2008B SPORTING NEBR B GOLD,U18,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=105
+WI Surf 2008B Black,U18,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=110
+GEA 08/09B Showcase,U18,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=111
+2008B PACE - BOYS BLUE,U18,Male,GotSport Rankings,0,NE,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=115
+Lincoln Surf 08B Premier,U18,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=115
+2008/06B OMAHA UNITED SC WHITE,U18,Male,GotSport Rankings,0,NE,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=120
+Omaha Surf 2008B Black,U18,Male,GotSport Rankings,0,NE,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=120
+Lincoln Surf 08B Blue,U18,Male,GotSport Rankings,0,NE,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=121
+SNFC FC 08 B ECNL-RL,U18,Male,GotSport Rankings,0,NE,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=129
+2008B HAWKS FC,U18,Male,GotSport Rankings,0,NE,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=133
+SNFC Boys 07/08 Gold,U18,Male,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=138
+2008G 402 DA Girls Premier,U18,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=16
+402 DA 2008 Girls Premier (NE),U18,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=19
+Sting Nebraska ECNL RL G08/07,U18,Female,GotSport Rankings,0,NE,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=22
+Omaha Evolution 2008G E64RL,U18,Female,GotSport Rankings,0,NE,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=30
+Sting Nebraska ECNL RL G08/07 Brunt,U18,Female,GotSport Rankings,0,NE,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=47
+Sting NE G08/09 Klem,U18,Female,GotSport Rankings,0,NE,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=47
+Nebraska Roots 2009/8G I,U18,Female,GotSport Rankings,0,NE,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=51
+GEA 08G ECNL,U18,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=63
+Omaha United SC 2008G Black,U18,Female,GotSport Rankings,0,NE,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=63
+G17 HAWKS FC 2008G LADY HAWKS (NE),U18,Female,GotSport Rankings,0,NE,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=66
+2008G SPORTING NEBR G ELITE,U18,Female,GotSport Rankings,0,NE,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=68
+Nebraska Roots 08/09G 1,U18,Female,GotSport Rankings,0,NE,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=78

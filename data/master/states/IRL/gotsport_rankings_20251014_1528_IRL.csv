@@ -1,0 +1,2 @@
+team_name,age_group,gender,source,points,state,rank,url
+Bohemian FC,U14,Male,GotSport Rankings,0,IRL,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=308

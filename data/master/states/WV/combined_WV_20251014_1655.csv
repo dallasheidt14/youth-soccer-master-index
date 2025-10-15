@@ -1,0 +1,409 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url,provider
+WVFC 2016 Girls - Gray,676891.0,U10,Female,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=79,GotSport
+East River 16/17G,647253.0,U10,Female,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=29,GotSport
+WV Dream,,U10,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=17,GotSport
+WVFC 2016 Girls - Black,521241.0,U10,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=62,GotSport
+WV Dream,439906.0,U10,Female,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=17,GotSport
+Putnam United FC - 2016-17 Girls,,U10,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=15,GotSport
+WVFC 2016 Girls - Black,,U10,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=60,GotSport
+u10/2016 West Side Foxes (girls),,U10,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=69,GotSport
+FC Alliance Central 2016G Gold,,U10,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=31,GotSport
+WVFC 2016 Girls - Gray,,U10,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=80,GotSport
+Putnam United FC - 2016-17 Girls,511279.0,U10,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=15,GotSport
+SOS 2016-2017 Girls,,U10,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=39,GotSport
+FC Alliance South 2016G,,U10,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=58,GotSport
+FC Alliance South 2016G,569901.0,U10,Female,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=62,GotSport
+SOS 2016-2017 Girls,486569.0,U10,Female,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=40,GotSport
+FC Alliance Central 2016G Gold,572638.0,U10,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=31,GotSport
+u10/2016 West Side Foxes (girls),662365.0,U10,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=70,GotSport
+Great Teays Black 2016,569150.0,U10,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65,GotSport
+FC Alliance Central 2016B Gold,572637.0,U10,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=86,GotSport
+FC Alliance South 2016/17B Gold,,U10,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=64,GotSport
+Putnam United FC - 2016-17 Boys,,U10,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=169,GotSport
+FC Alliance South 2016/17B Gold,446671.0,U10,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=65,GotSport
+Putnam United FC - 2016 Boys,,U10,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=70,GotSport
+East River Boys U10 2016-2017,654839.0,U10,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=45,GotSport
+Legacy FC 16 Black,432830.0,U10,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=96,GotSport
+WVFC 2016 Boys - Black,,U10,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=32,GotSport
+Legacy FC 16/17 Red,,U10,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=61,GotSport
+MUSC 2016 Boys,,U10,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=100,GotSport
+FC Alliance Central 2016B Gold,,U10,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=96,GotSport
+Putnam United FC - 2016 Boys,511286.0,U10,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=71,GotSport
+WVFC 2016 Boys - Black,399736.0,U10,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=32,GotSport
+Legacy FC 16 Black,,U10,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=97,GotSport
+East River Boys U10 2016-2017,,U10,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=44,GotSport
+FC Alliance South 2016/17B Black,,U10,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=129,GotSport
+Great Teays Black 2016,,U10,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=63,GotSport
+Legacy FC 16/17 Red,548966.0,U10,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=61,GotSport
+MUSC 2016 Boys,465396.0,U10,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=105,GotSport
+FC Alliance South 2016/17B Black,413167.0,U10,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=123,GotSport
+Putnam United FC - 2016-17 Boys,589634.0,U10,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=157,GotSport
+WVFC 2016 Boys - Gray,478152.0,U10,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=152,GotSport
+WVFC 2016 Boys - Gray,,U10,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=156,GotSport
+West Side 2015 Lady Foxes,,U11,Female,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=230,GotSport
+FC Alliance South 2015G Gold,568863.0,U11,Female,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=48,GotSport
+SOS 2015-2016 Girls,,U11,Female,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=228,GotSport
+FC Alliance Central 2015G Gold,404726.0,U11,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=129,GotSport
+FC Alliance South 2015/2016G,347371.0,U11,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=104,GotSport
+EPIC SC 2015G Destroyers,,U11,Female,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=106,GotSport
+East River Raptors 2015/16,548360.0,U11,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=137,GotSport
+EPIC SC 2015G Destroyers,521999.0,U11,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=104,GotSport
+FC Alliance Central 2015G Gold,603268.0,U11,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=139,GotSport
+MUSC 2015 Girls,465393.0,U11,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=63,GotSport
+West Side 2015 Lady Foxes,599660.0,U11,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=229,GotSport
+FC Alliance Central 2015G Gold,,U11,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=140,GotSport
+FC Alliance South 2015G Gold,,U11,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=49,GotSport
+SSRA 2015G WOLF PACK,,U11,Female,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=221,GotSport
+East River Raptors 2015/16,,U11,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=138,GotSport
+MUSC 2015 Girls,,U11,Female,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=64,GotSport
+SOS 2015-2016 Girls,568859.0,U11,Female,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=237,GotSport
+WVFC 2015 Girls - Black,,U11,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=109,GotSport
+FC Alliance South 2015/2016G,347371.0,U11,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=103,GotSport
+SSRA 2015G WOLF PACK,531384.0,U11,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=233,GotSport
+FC Alliance 2015B,,U11,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=148,GotSport
+FC Alliance Central 2015B Gold,336238.0,U11,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=200,GotSport
+East River Soccer U10,,U11,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341,GotSport
+FC Alliance South 2015/2016B,445802.0,U11,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=317,GotSport
+WVFC 2015 Boys - Blue,584842.0,U11,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=315,GotSport
+FC Alliance Central 2015B Gold,,U11,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=202,GotSport
+Great Teays Black 2015/2014,673682.0,U11,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=346,GotSport
+RVSC Sting,,U11,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=86,GotSport
+WVFC 2015 Boys - Red,536123.0,U11,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=178,GotSport
+MUSC 2015 Boys,,U11,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=105,GotSport
+Legacy FC 15 Red,348766.0,U11,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=320,GotSport
+MUSC 2015 Boys,431905.0,U11,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=103,GotSport
+RVSC Sting,355021.0,U11,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=84,GotSport
+WVFC 2015 Boys - Blue,,U11,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=320,GotSport
+Putnam United FC - 2015 Boys,511281.0,U11,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=322,GotSport
+EPIC SC 2015B Ambush Black,440097.0,U11,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=263,GotSport
+FC Alliance South 2015B Gold,,U11,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=106,GotSport
+FCR 2015 Boys,,U11,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=170,GotSport
+MCSC Fall 24 U10B Langford,542301.0,U11,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=345,GotSport
+MUSC 2015 (2) Boys,532931.0,U11,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=176,GotSport
+FC Alliance South 2015B Gold,208004.0,U11,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=104,GotSport
+Great Teays Black 2015/2014,,U11,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=330,GotSport
+WVFC 2015 Boys - Gray,,U11,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=123,GotSport
+WVFC 2015 Boys - White,410392.0,U11,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=233,GotSport
+Putnam United FC - 2015 Boys (Black),,U11,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=378,GotSport
+SHSA Patriots,439983.0,U11,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=188,GotSport
+EPIC SC 2015B Ambush Black,,U11,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=265,GotSport
+East River Soccer U10,295924.0,U11,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=337,GotSport
+WVFC 2015 Boys - Gray,340211.0,U11,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=144,GotSport
+FC Alliance 2015B,446668.0,U11,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=144,GotSport
+Putnam United FC - 2015 Boys,,U11,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=322,GotSport
+WVFC 2015 Boys - Black,266226.0,U11,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=135,GotSport
+Legacy FC 15 Red,,U11,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=322,GotSport
+SHSA Patriots,,U11,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=190,GotSport
+SOS 2015-2016 Boys,,U11,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=242,GotSport
+MUSC 2015 (2) Boys,,U11,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=178,GotSport
+Putnam United FC - 2015 Boys (Black),511282.0,U11,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=412,GotSport
+FC Alliance Central 2015B Gold,336238.0,U11,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=199,GotSport
+FCR 2015 Boys,460954.0,U11,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=167,GotSport
+MCSC Fall 24 U10B Langford,,U11,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=341,GotSport
+SOS 2015-2016 Boys,568851.0,U11,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=240,GotSport
+WVFC 2015 Boys - Red,,U11,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=180,GotSport
+EPIC SC 2014G Storm,,U12,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=212,GotSport
+WVFC 2014 Girls - Red,536125.0,U12,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=123,GotSport
+Charleston Clash White,354785.0,U12,Female,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=109,GotSport
+FC Alliance South 2014/15G Black,,U12,Female,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=119,GotSport
+Legacy FC 14/15 White,,U12,Female,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=191,GotSport
+WVFC 2014 Girls - Black,223532.0,U12,Female,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=95,GotSport
+ERSA 14/15G,279861.0,U12,Female,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=97,GotSport
+Putnam United FC - 2014-15 Girls,,U12,Female,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=246,GotSport
+MUSC 2014 Girls,,U12,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=104,GotSport
+WVFC 2014 Girls - Black,,U12,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=96,GotSport
+FC Alliance South 2014/15G Black,567093.0,U12,Female,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=117,GotSport
+Putnam United FC - 2014-15 Girls,511287.0,U12,Female,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=259,GotSport
+EPIC SC 2014G Storm,428589.0,U12,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=212,GotSport
+Legacy FC 14/15 White,436902.0,U12,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=190,GotSport
+FC Alliance South 2014/2015G,484323.0,U12,Female,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=226,GotSport
+u12/2014-15 West Side Foxes (girls),,U12,Female,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=260,GotSport
+Cheetahs FC,,U12,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=160,GotSport
+Charleston Clash White,,U12,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=110,GotSport
+MUSC 2014 Girls,465394.0,U12,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=102,GotSport
+Quantum Cheetahs,,U12,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=190,GotSport
+WVFC 2014 Girls - Red,,U12,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=124,GotSport
+Charleston Clash,,U12,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=54,GotSport
+Charleston Clash,354788.0,U12,Female,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=53,GotSport
+Cheetahs FC,467211.0,U12,Female,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=158,GotSport
+Quantum Cheetahs,428560.0,U12,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=189,GotSport
+TS United u11 Girls,605336.0,U12,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=203,GotSport
+u12/2014-15 West Side Foxes (girls),662368.0,U12,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=237,GotSport
+TS United u11 Girls,,U12,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=201,GotSport
+FC Alliance South 2014B,,U12,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=217,GotSport
+WV Soccer 2014/2015 Boys Academy I,566235.0,U12,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=222,GotSport
+RVSC Rampage 2014B,550879.0,U12,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=323,GotSport
+WVFC 2014 Boys - Black,223531.0,U12,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=72,GotSport
+Putnam United FC - 2014-15 Boys,531312.0,U12,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=349,GotSport
+FC Wheeling U12 Boys,,U12,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=385,GotSport
+East River Boys 14-16,631392.0,U12,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=451,GotSport
+MUSC 2014 Boys,431903.0,U12,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=131,GotSport
+WV Soccer 2014 Boys Academy I,,U12,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=212,GotSport
+WVFC 2014 Boys - Black,,U12,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=52,GotSport
+WVFC 2014 Boys - Red,,U12,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=356,GotSport
+ER Boys 14-16,405187.0,U12,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=350,GotSport
+SOS 2014-2015 Boys,,U12,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=233,GotSport
+East River Boys 14-16,,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=441,GotSport
+FC Alliance South 2014B,534237.0,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=213,GotSport
+Putnam United FC - 2014-15 Boys,,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=350,GotSport
+RVSC Rampage 2014B,,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=325,GotSport
+Rampage,459894.0,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=370,GotSport
+SSRA 2014B,394281.0,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=409,GotSport
+West Side Foxes,436417.0,U12,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=390,GotSport
+MUSC 2014 Boys,,U12,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=133,GotSport
+Putnam United FC - 2014 Boys,,U12,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=429,GotSport
+West Side Foxes,,U12,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=391,GotSport
+EPIC SC 2014B Attack Black,313324.0,U12,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=65,GotSport
+WV Soccer 2014/2015 Boys Academy I,,U12,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=225,GotSport
+EPIC SC 2014B Attack Black,,U12,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=62,GotSport
+SSRA 2014B,,U12,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=432,GotSport
+Rampage,,U12,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=374,GotSport
+Charleston Clash 14 boys,,U12,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=172,GotSport
+EPIC SC 2014B Attack White,,U12,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=372,GotSport
+FC Alliance Central 2014B Gold,,U12,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=218,GotSport
+SOS 2014-2015 Boys,428934.0,U12,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=230,GotSport
+FC Wheeling U12 Boys,651764.0,U12,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=382,GotSport
+Charleston Clash 14 boys,324478.0,U12,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=170,GotSport
+EPIC SC 2014B Attack White,440096.0,U12,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=372,GotSport
+ER Boys 14-16,,U12,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=348,GotSport
+Putnam United FC - 2014 Boys,511289.0,U12,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=409,GotSport
+WVFC 2014 Boys - Red,642728.0,U12,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=353,GotSport
+FC Alliance 2013/2014G,589488.0,U13,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=59,GotSport
+Putnam United FC - 2013 Girls,511290.0,U13,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=72,GotSport
+WVFC 13 Girls - Black,607745.0,U13,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=256,GotSport
+PKSA U12 Girls,551158.0,U13,Female,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=207,GotSport
+MUSC WV 2013G,461068.0,U13,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=194,GotSport
+EPIC SC 2013G Lightning,211201.0,U13,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=28,GotSport
+FC Alliance South 2013G Black,404725.0,U13,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=97,GotSport
+Legacy FC 13 White,,U13,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=51,GotSport
+FC Alliance South 2013G Black,,U13,Female,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=99,GotSport
+WVFC 13 Girls - Black,,U13,Female,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=247,GotSport
+Putnam United FC - 2013 Girls,,U13,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=74,GotSport
+SOS 2013-2014 Girls,,U13,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=211,GotSport
+FC Wheeling,564526.0,U13,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=212,GotSport
+FC Alliance 2013/2014G,,U13,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=60,GotSport
+PKSA U12 Girls,,U13,Female,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=208,GotSport
+EPIC SC 2013G Lightning,,U13,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=28,GotSport
+FC Alliance Central 2013G Gold,,U13,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=150,GotSport
+FC Wheeling,,U13,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=211,GotSport
+SOS 2013-2014 Girls,423833.0,U13,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=213,GotSport
+FC Alliance South 2013G White,,U13,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=229,GotSport
+FC Alliance Central 2013G Gold,348002.0,U13,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=148,GotSport
+FC Alliance South 2013G White,335741.0,U13,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=224,GotSport
+WVFC 2013 Girls - Black,,U13,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=78,GotSport
+FC Alliance South 2013G,564594.0,U13,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=66,GotSport
+WVFC 2013 Girls - Black,223529.0,U13,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=101,GotSport
+FC Alliance South 2013G,,U13,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=68,GotSport
+FC Alliance South 2013/2014B,534236.0,U13,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=339,GotSport
+Ohio Valley Soccer,563725.0,U13,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=270,GotSport
+WVFC 2013 Boys - Gray,,U13,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277,GotSport
+West Side Foxes u12,566350.0,U13,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=369,GotSport
+FC Alliance Central 2013 Boys,394322.0,U13,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=258,GotSport
+FC Alliance South 2013B,233337.0,U13,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=358,GotSport
+PUFCRA - 2013-14 Co-Ed,,U13,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=436,GotSport
+WVFC 2013 Boys - Red,,U13,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=259,GotSport
+EPIC SC 2013B Thunder Black,361136.0,U13,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=56,GotSport
+Legacy FC 13 Red,430194.0,U13,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=334,GotSport
+WVFC 2013 Boys - Gray,571702.0,U13,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=275,GotSport
+SOS 2013 Boys,,U13,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=60,GotSport
+SOS 2013 Boys Silver,,U13,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=334,GotSport
+MUSC 2013 Boys,434583.0,U13,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=150,GotSport
+PUFCRA - 2013-14 Co-Ed,599696.0,U13,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=433,GotSport
+EPIC SC 2013B Thunder White,,U13,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=209,GotSport
+WVFC 2013 Boys - Black,,U13,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=352,GotSport
+FC Alliance Central 2013 Boys,,U13,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=260,GotSport
+RVSC 2013,,U13,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=68,GotSport
+SSRA 2013B,,U13,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=435,GotSport
+SOS 2013 Boys Silver,568853.0,U13,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=331,GotSport
+FC Alliance 2013/2014B,,U13,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=372,GotSport
+MUSC 2013 Boys,,U13,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=152,GotSport
+RVSC 2013,206312.0,U13,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=69,GotSport
+RYSC Dragons,599907.0,U13,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=368,GotSport
+EPIC SC 2013B Thunder Black,,U13,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=57,GotSport
+FC Alliance South 2013/2014B,,U13,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=343,GotSport
+PKSA U12 Boys,577993.0,U13,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=365,GotSport
+SSRA 2013B,386570.0,U13,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=415,GotSport
+FC Alliance South 2013B,,U13,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=364,GotSport
+SOS 2013 Boys,471860.0,U13,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=58,GotSport
+EPIC SC 2013B Thunder White,426613.0,U13,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=205,GotSport
+WVFC 2013 Boys - Black,223530.0,U13,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=346,GotSport
+Legacy FC 13 Red,,U13,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=337,GotSport
+PKSA U12 Boys,,U13,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=378,GotSport
+FC Alliance 2013/2014B,589485.0,U13,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=369,GotSport
+WVFC 2013 Boys - Red,536122.0,U13,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=256,GotSport
+RYSC Dragons,,U13,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=370,GotSport
+West Side Foxes u12,,U13,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=371,GotSport
+MUSC WV 2012G,211498.0,U14,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=46,GotSport
+WVFC 2012 Girls - Black,223526.0,U14,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=45,GotSport
+SBS U14 Girls Elite,569341.0,U14,Female,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=135,GotSport
+Putnam United FC - 2012-13 Girls,,U14,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=187,GotSport
+FC Alliance Central 2012G Gold,228138.0,U14,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=122,GotSport
+SBS U14 Girls Elite,,U14,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=137,GotSport
+MUSC WV 2012G,,U14,Female,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=48,GotSport
+WVFC 2012 Girls - Black,,U14,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=47,GotSport
+Putnam United FC - 2012-13 Girls,667756.0,U14,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=187,GotSport
+FC Alliance South 2012B Black,,U14,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=142,GotSport
+Legacy FC 12 Red,430193.0,U14,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=364,GotSport
+WV Soccer 2012 Boys Academy I,,U14,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=250,GotSport
+WVFC 2012 Boys - Black,223528.0,U14,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=51,GotSport
+FC Alliance 2012B,,U14,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=198,GotSport
+East River Raptors,,U14,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=313,GotSport
+FC Alliance Central 2012 Boys,336252.0,U14,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=305,GotSport
+Putnam United FC - 2012-13B,422011.0,U14,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=261,GotSport
+WVFC 2012 Boys - Black,,U14,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=32,GotSport
+WV Soccer 2012 Boys Academy I,244669.0,U14,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=289,GotSport
+Charleston Clash 12/13 Boys,273995.0,U14,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=184,GotSport
+Greenbrier United 2012/13 Boys Black,485907.0,U14,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=183,GotSport
+MUSC WV 2012B,,U14,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=321,GotSport
+Putnam United FC - 2012-13 Boys,564451.0,U14,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=215,GotSport
+Putnam United FC - 2012-13B,,U14,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=262,GotSport
+Greenbrier United 2012/13 Boys Black,,U14,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=185,GotSport
+Putnam United FC - 2012-13 Boys,,U14,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=217,GotSport
+FC Alliance South 2012B Black,441382.0,U14,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=139,GotSport
+FC Alliance 2012B,208002.0,U14,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=195,GotSport
+SBS U14 Boys Elite,610610.0,U14,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=222,GotSport
+Club Ohio United 12B,587560.0,U14,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=348,GotSport
+Legacy FC 12 Red,,U14,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=351,GotSport
+FC Alliance Central 2012 Boys,,U14,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=303,GotSport
+FC Alliance South 2012B Black,,U14,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=141,GotSport
+MUSC WV 2012B,211496.0,U14,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320,GotSport
+Charleston Clash 12/13 Boys,,U14,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=186,GotSport
+Club Ohio United 12B,,U14,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=362,GotSport
+East River Raptors,421110.0,U14,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=311,GotSport
+SCDU Mighty Girls,,U15,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=173,GotSport
+SSRA 2011 COURAGE,587404.0,U15,Female,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=129,GotSport
+WV Soccer 2011/2012 Girls Academy I,317558.0,U15,Female,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=139,GotSport
+FC Alliance 2011G,208001.0,U15,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=9,GotSport
+West Virginia Futbol Wvfc 2011 Girls,607746.0,U15,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=196,GotSport
+FC Thunder,367878.0,U15,Female,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=138,GotSport
+SOS 2011-2012 Girls,436173.0,U15,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=188,GotSport
+EPIC SC 2011G Elite,,U15,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=41,GotSport
+FC Alliance Central 2011G Gold,358890.0,U15,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=87,GotSport
+Legacy FC 11/12 White,574318.0,U15,Female,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=118,GotSport
+WV Soccer 2011/2012 Girls Academy I,,U15,Female,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=139,GotSport
+WVFC 2011 Girls - Black,223523.0,U15,Female,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=108,GotSport
+FC Alliance Central 2011G Gold,,U15,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=90,GotSport
+SSRA 2011G SPIRIT,587403.0,U15,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=187,GotSport
+WVFC 2011 Girls - Black,,U15,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=111,GotSport
+FC Alliance 2011 Girls,461716.0,U15,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=47,GotSport
+SCDU Mighty Girls,589805.0,U15,Female,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=171,GotSport
+EPIC SC 2011G Elite,125051.0,U15,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=38,GotSport
+SSRA 2011 COURAGE,,U15,Female,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=131,GotSport
+SSRA 2011G SPIRIT,,U15,Female,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=189,GotSport
+FC Alliance 2011G,,U15,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=9,GotSport
+ERSC Cobras,,U15,Female,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=123,GotSport
+ERSC Cobras,381268.0,U15,Female,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=120,GotSport
+FC Thunder,,U15,Female,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=140,GotSport
+SOS 2011-2012 Girls,,U15,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=188,GotSport
+MUSC WV 2011B,,U15,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=109,GotSport
+EPIC SC 2011B Zorros White,412618.0,U15,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=185,GotSport
+Legacy FC 11 Black,,U15,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=59,GotSport
+SSRA 2011B WHITE,,U15,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=250,GotSport
+United Athletics,,U15,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=279,GotSport
+MUSC WV 2011B,211493.0,U15,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=106,GotSport
+WV Soccer 2011 Boys MLS NEXT,383763.0,U15,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=317,GotSport
+FC Alliance South 2011B,338177.0,U15,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=190,GotSport
+PKSA U14 Coed,,U15,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=313,GotSport
+RVSC Predators 2011B,548179.0,U15,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=72,GotSport
+SSRA 2011 TRU,,U15,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=308,GotSport
+WVFC 2011 Boys - Black,,U15,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=36,GotSport
+Legacy FC 11 Black,251645.0,U15,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=57,GotSport
+EPIC SC 2011B Zorros Black,,U15,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=40,GotSport
+FC Alliance 2011B,311565.0,U15,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=210,GotSport
+FC Alliance Central 2011B Black,450248.0,U15,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=165,GotSport
+FC Alliance Central 2011B Gold,348016.0,U15,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=227,GotSport
+RVSC Predators 2011B,,U15,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=74,GotSport
+BVBIA WV 2011-12 Boys,,U15,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=245,GotSport
+FC Alliance 2011B,,U15,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=212,GotSport
+FC Alliance South 2011B,,U15,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=193,GotSport
+PKSA U14 Coed,577992.0,U15,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=305,GotSport
+WVFC 2011 Boys - Black,223525.0,U15,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=35,GotSport
+WVFC 2011 Boys - Gray,459474.0,U15,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=246,GotSport
+BVBIA WV 2011-12 Boys,275139.0,U15,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=244,GotSport
+EPIC SC 2011B Zorros Black,278221.0,U15,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=44,GotSport
+EPIC SC 2011B Zorros White,,U15,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=165,GotSport
+SOS 2011-2012 Boys,,U15,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=190,GotSport
+WVFC 2011 Boys - Red,,U15,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=327,GotSport
+FC Alliance Central 2011B Black,,U15,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=168,GotSport
+SSRA 2011B BLUE,,U15,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=195,GotSport
+SSRA 2011B WHITE,439813.0,U15,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=247,GotSport
+WVFC 2011 Boys - Gray,,U15,Male,GotSport Rankings,0,WV,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=247,GotSport
+SSRA 2011B BLUE,456323.0,U15,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=192,GotSport
+United Athletics,436091.0,U15,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=279,GotSport
+SOS 2011-2012 Boys,547023.0,U15,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=187,GotSport
+WV Soccer 2011 Boys MLS NEXT,,U15,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=315,GotSport
+WVFC 2011 Boys - Red,223846.0,U15,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=303,GotSport
+MUSC WV 2011B,,U15,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=108,GotSport
+FC Alliance Central 2011B Gold,,U15,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=228,GotSport
+SSRA 2011 TRU,587396.0,U15,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=323,GotSport
+FC Alliance Central 2010G Gold,252213.0,U16,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=155,GotSport
+Greenbrier United 2010/11 Girls,,U16,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=93,GotSport
+FC Alliance Central 2010G Gold,,U16,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=157,GotSport
+MUSC WV 2010G,211502.0,U16,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=47,GotSport
+WVFC 2010 Girls - Black,,U16,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=25,GotSport
+WVFC 09 Girls,,U16,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=164,GotSport
+WV Soccer 2010 Girls Academy I,393268.0,U16,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=61,GotSport
+WVFC 09 Girls,607747.0,U16,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=162,GotSport
+WVFC 2010 Girls - Black,178233.0,U16,Female,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=24,GotSport
+Greenbrier United 2010/11 Girls,595651.0,U16,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=90,GotSport
+WV Soccer 2010 Girls Academy I,,U16,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=63,GotSport
+RVSC Reds,568422.0,U16,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=263,GotSport
+WV Soccer 2010 Academy,,U16,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=214,GotSport
+FCR Matrix 2010B,,U16,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=220,GotSport
+SOS 2010-2011 Boys,,U16,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=66,GotSport
+RVSC Reds,,U16,Male,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=257,GotSport
+EPIC SC 2010B Steele,,U16,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=81,GotSport
+FCR Matrix 2010B,559769.0,U16,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=217,GotSport
+PKSA U15 Coed,,U16,Male,GotSport Rankings,0,WV,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=231,GotSport
+FC Alliance Central 2010B Gold,253829.0,U16,Male,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=168,GotSport
+SOS 2010-2011 Boys,339003.0,U16,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=65,GotSport
+WVFC 2010 Boys - Black,223843.0,U16,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=3,GotSport
+WV Soccer 2010 Academy,329775.0,U16,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=214,GotSport
+PKSA U15 Coed,571473.0,U16,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=233,GotSport
+WVFC 2010 Boys - Black,,U16,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=3,GotSport
+WVFC 2010 Boys - Gray,437624.0,U16,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=248,GotSport
+EPIC SC 2010B Steele,235382.0,U16,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=80,GotSport
+FC Alliance Central 2010B Gold,,U16,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=169,GotSport
+WVFC 2010 Boys - Gray,,U16,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=253,GotSport
+Club Ohio United WV 09G,,U17,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=48,GotSport
+SOS 2009 Girls,121375.0,U17,Female,GotSport Rankings,0,WV,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=60,GotSport
+EPIC SC 2009G Dash,107497.0,U17,Female,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=2,GotSport
+WVFC 2009 Girls - Black,83435.0,U17,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=16,GotSport
+EPIC SC 2009G Dash,,U17,Female,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=2,GotSport
+Club Ohio United WV 09G,587554.0,U17,Female,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=45,GotSport
+WVFC 2009 Girls - Black,,U17,Female,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=17,GotSport
+SOS 2009 Girls,,U17,Female,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=62,GotSport
+WVFC 2009 Boys - Black,83335.0,U17,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=47,GotSport
+FC Alliance Central 2009B Gold,,U17,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=22,GotSport
+Grazianos FC,,U17,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=145,GotSport
+Legacy FC 09 Black,330642.0,U17,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=65,GotSport
+Grazianos FC,343866.0,U17,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=145,GotSport
+FC ALLIANCE South 2009/2010B,,U17,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=172,GotSport
+WVFC 2009 Boys - Black,,U17,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=47,GotSport
+FC Alliance Central 2009B Gold,352988.0,U17,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=21,GotSport
+FC Alliance 2009B,,U17,Male,GotSport Rankings,0,WV,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=188,GotSport
+FC ALLIANCE South 2009/2010B,443424.0,U17,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=172,GotSport
+Legacy FC 09 Black,,U17,Male,GotSport Rankings,0,WV,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=65,GotSport
+FC Alliance 2009B,472180.0,U17,Male,GotSport Rankings,0,WV,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=187,GotSport
+WVFC 2009 Boys - Black,83335.0,U17,Male,GotSport Rankings,0,WV,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=46,GotSport
+EPIC SC 2008/09GTyphoon,126028.0,U18,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=49,GotSport
+EPIC SC 2008G Dash,571220.0,U18,Female,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=8,GotSport
+MUSC WV 2008G,,U18,Female,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=15,GotSport
+MUSC WV 2008G,83172.0,U18,Female,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=14,GotSport
+EPIC SC 2008G Dash,,U18,Female,GotSport Rankings,0,WV,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=8,GotSport
+EPIC SC 2008/09GTyphoon,,U18,Female,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=50,GotSport
+EPIC SC 2008B Tsunami,,U18,Male,GotSport Rankings,0,WV,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=58,GotSport
+WVFC 2008 Boys - Black,83337.0,U18,Male,GotSport Rankings,0,WV,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=47,GotSport
+FC Alliance Central 2008B Gold,,U18,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99,GotSport
+SOS 2008-2009 Boys,194529.0,U18,Male,GotSport Rankings,0,WV,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=113,GotSport
+WVFC 2008 Boys - Black,,U18,Male,GotSport Rankings,0,WV,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=46,GotSport
+FC Alliance 2008B,470789.0,U18,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=33,GotSport
+SOS 2008 Boys,437703.0,U18,Male,GotSport Rankings,0,WV,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=120,GotSport
+Legacy FC 08 Black,94073.0,U18,Male,GotSport Rankings,0,WV,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=14,GotSport
+SOS 2008 Boys,,U18,Male,GotSport Rankings,0,WV,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=120,GotSport
+FC Alliance 2008B,,U18,Male,GotSport Rankings,0,WV,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=32,GotSport
+Club Ohio United WV 08/09B White,584407.0,U18,Male,GotSport Rankings,0,WV,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=66,GotSport
+EPIC SC 2008B Tsunami,132229.0,U18,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=58,GotSport
+FC Alliance Central 2008B Gold,354576.0,U18,Male,GotSport Rankings,0,WV,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=99,GotSport
+Club Ohio United WV 08/09B White,,U18,Male,GotSport Rankings,0,WV,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=65,GotSport
+SOS 2008-2009 Boys,,U18,Male,GotSport Rankings,0,WV,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=113,GotSport

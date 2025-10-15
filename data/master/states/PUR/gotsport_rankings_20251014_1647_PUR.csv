@@ -1,0 +1,12 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+PR Surf 2015 White,609692,U11,Male,GotSport Rankings,0,PUR,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=310
+Coamo FC 2015 boys,602246,U11,Male,GotSport Rankings,0,PUR,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=411
+Mirabelli Soccer Academy 2014 N,592722,U12,Male,GotSport Rankings,0,PUR,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=401
+Coamo FC 2014 girls,600271,U12,Female,GotSport Rankings,0,PUR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=248
+Mirabelli Soccer Academy 2012 N,592721,U14,Male,GotSport Rankings,0,PUR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=20
+DS Academy PR 2012,605366,U14,Male,GotSport Rankings,0,PUR,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=265
+Union SA U13,591865,U14,Male,GotSport Rankings,0,PUR,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=342
+PR Surf 2012 Blue,304312,U14,Male,GotSport Rankings,0,PUR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=346
+Coamo FC U12Fem,462795,U14,Female,GotSport Rankings,0,PUR,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=203
+PR Surf 2010 White,613032,U16,Male,GotSport Rankings,0,PUR,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=242
+Coamo FC 2009 boys,602248,U17,Male,GotSport Rankings,0,PUR,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=204

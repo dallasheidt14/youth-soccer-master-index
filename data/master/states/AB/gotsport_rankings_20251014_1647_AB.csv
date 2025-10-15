@@ -1,0 +1,2 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+Foothills FC 2014,663374,U11,Male,GotSport Rankings,0,AB,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=267

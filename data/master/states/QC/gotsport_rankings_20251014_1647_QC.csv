@@ -1,0 +1,6 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+Brossard Black Team,584531,U11,Male,GotSport Rankings,0,QC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=148
+St Laurent Blue,580611,U12,Male,GotSport Rankings,0,QC,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=85
+AS Laval Noir U11 D1,570678,U12,Male,GotSport Rankings,0,QC,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=304
+AS Laval Rouge,581637,U13,Female,GotSport Rankings,0,QC,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=114
+CF Montreal 2010B MLS,595561,U15,Male,GotSport Rankings,0,QC,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=72

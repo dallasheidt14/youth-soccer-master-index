@@ -1,0 +1,198 @@
+team_name,team_id,age_group,gender,source,points,state,rank,url
+SC Storm 16/17 Boys Blue,211006,U10,Male,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=3
+SC Storm 16/17 Boys Yellow,29555,U10,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=4
+Blades 2016/17B Red,515285,U10,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=6
+U10 GSC Boys Purple,427853,U10,Male,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=7
+SC Storm 16/17 boys White,454119,U10,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=8
+Blades 2016/17B Black 1,515290,U10,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=9
+GR SPURS 10U*,525621,U10,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=10
+JHYS United Boys 2016 Black,486966,U10,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=13
+JCSA U10 Boys Black Fall 2025,628419,U10,Male,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=14
+Blades 2016/17B Black 2,515288,U10,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=30
+2016 Riverton Rampage Boys-,286076,U10,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=31
+LANDER STRIKERS U10 BOYS BLACK,650926,U10,Male,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=48
+Rock Springs Avengers U10 boys Rodriguez,557540,U10,Male,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=98
+JCSA U10 Boys White Fall 2025,628420,U10,Male,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=132
+Blades 2016/17B White,515300,U10,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=m&search[page]=159
+SC Storm 16/17 Girls Yellow,149861,U10,Female,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=2
+Blades 2016/17G Red,515269,U10,Female,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=7
+JHYS United Girls 2016 / 2017 Black,486968,U10,Female,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=9
+Rampage COED,410970,U10,Female,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=10
+JCSA U10 Girls Fall 2025,628418,U10,Female,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=13
+SC Storm 16/17 Girls Blue,149857,U10,Female,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=26
+U10 GSC Girls Purple,45622,U10,Female,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=26
+Blades 2016/17G Black,534819,U10,Female,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=37
+U10 GSC Girls White,229332,U10,Female,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=46
+Cheyenne PDP HORNETS G16,550114,U10,Female,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=52
+Douglas Thunder U10 Girls,656147,U10,Female,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=59
+KC CURRENT U10G,563810,U10,Female,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=82
+Cheyenne PDP G2016,523798,U10,Female,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=83
+Blades 2016/17G White,661867,U10,Female,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=10&search[gender]=f&search[page]=95
+WYO 307 2015 Boys,524461,U11,Male,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=18
+JHYS United Boys 2015 Black,363716,U11,Male,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=37
+Blades 2015B Red,515265,U11,Male,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=41
+Worland 10U Boys Bronze,589477,U11,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=48
+YFSA SP25: U9/U10 Boys *RED,335494,U11,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=59
+Worland 10U Boys Silver,585363,U11,Male,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=65
+JHYS United Boys 2015 Blue,363717,U11,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=88
+STRIKERS COED U10 BLACK,527780,U11,Male,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=90
+Rock Springs Avengers U10 Boys Kirkwood,408840,U11,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=96
+2015-2016 GSC Boys White,52104,U11,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=108
+JHYS United Boys 2015 White,585209,U11,Male,GotSport Rankings,0,WY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=148
+YFSA SP25: U9/U10 Boys *BLACK,333412,U11,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=186
+YFSA SP25: U9/U10 Boys *BLACK,333412,U11,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=187
+2015-2016 GSC Boys Black,449103,U11,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=230
+JCSA U10 Boys Black Spring 2025,581240,U11,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=246
+JCSA U10 Boys White Spring 2025,582729,U11,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=323
+Evanston Express,635294,U11,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=344
+U10 SVSC-Rich,584544,U11,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=m&search[page]=366
+Rock Springs Avengers U12 Girls ACross,27423,U11,Female,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=31
+JHYS United Girls 2015 Black,363719,U11,Female,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=37
+JHYS United Girls 2015 Blue,420842,U11,Female,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=51
+Rock Springs Avengers U10 Girls Fink,162268,U11,Female,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=108
+YFSA SP25: U10 Girls,333416,U11,Female,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=122
+WYO 307 2015 Girls,524460,U11,Female,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=125
+JCSA U10 Girls Spring 2025,581237,U11,Female,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=128
+Rawlins FC U10 Girls,32217,U11,Female,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=163
+LSC Girls 2015/16,501759,U11,Female,GotSport Rankings,0,WY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=11&search[gender]=f&search[page]=179
+2015 Riverton Rampage Boys,286062,U12,Male,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=49
+GR SPURS 12U*,163896,U12,Male,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=56
+Blades 2014/15B Red,25878,U12,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=62
+SC Storm 14/15 Boys Blue,209038,U12,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=100
+JCSA U12 Boys White Fall 2025,628425,U12,Male,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=126
+JHYS United Boys 2014 Black,279026,U12,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=144
+SC Storm 14/15 Boys Yellow,29570,U12,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=154
+2014 Riverton Rampage Boys,35884,U12,Male,GotSport Rankings,0,WY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=157
+Blades 2014/15B Black 1,528559,U12,Male,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=206
+Blades 2014/15B Black 1,528559,U12,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=207
+LANDER STRIKERS U12 BOYS BLACK,650929,U12,Male,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=208
+Blades 2014/15B II White,529305,U12,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=233
+Blades 2014/15B Black 2,139224,U12,Male,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=240
+Douglas Thunder U12 Gray,656149,U12,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=260
+Cheyenne Sting Gold B14,282943,U12,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=300
+Blades 2014/15B I White,529302,U12,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=312
+JHYS Impact Boys 2014/2015 Black,577538,U12,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=317
+Douglas Thunder U12 Blue,656148,U12,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=339
+WYO 307 2014 Boys,396116,U12,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=386
+Sublette United n/a,554366,U12,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=392
+Rock Springs Avengers U12 Boys Webb,642337,U12,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=393
+U12 GSC Boys Purple,327870,U12,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=394
+Sublette United 14/15,664363,U12,Male,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=407
+YFSA FA25 2014/2015 BOYS,525732,U12,Male,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=413
+JHYS United Boys 2014 Blue,363715,U12,Male,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=427
+U12 GSC Boys White,25406,U12,Male,GotSport Rankings,0,WY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=441
+BVSC BU11,360864,U12,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=m&search[page]=448
+U12 GSC Girls Monlux,356614,U12,Female,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=43
+2014/15 Riverton Rampage Girls,164218,U12,Female,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=47
+SC Storm 14/15 Girls Yellow,29529,U12,Female,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=50
+SC Storm 14/15 Girls Blue,414381,U12,Female,GotSport Rankings,0,WY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=68
+Blades 2014/15G Black,287727,U12,Female,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=68
+Blades 2014/15G Red,287591,U12,Female,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=87
+Blades 2014/15G Red,287591,U12,Female,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=88
+U12 GSC Girls Teppo,450339,U12,Female,GotSport Rankings,0,WY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=90
+Blades 2014/15G White,529331,U12,Female,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=95
+WYO 307 2014 Girls,524458,U12,Female,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=119
+Cheyenne Sting Gold G14,515004,U12,Female,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=133
+Rock Springs Avengers Girls U12 Benedict,408838,U12,Female,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=148
+JHYS Impact Girls 2014/2015 Black,427420,U12,Female,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=176
+JHYS United Girls 2014 Black,279028,U12,Female,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=178
+Cheyenne Sting Black G14,624350,U12,Female,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=204
+LANDER STRIKERS U12 GIRLS GREY,650928,U12,Female,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=220
+JCSA U12 Girls Fall 2025,628421,U12,Female,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=12&search[gender]=f&search[page]=246
+Matrix 2013-2014,126322,U13,Male,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=116
+JHYS United Boys 2013 Black,34678,U13,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=127
+JCSA U12 Boys Black Spring 2025,581241,U13,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=134
+JHYS United Boys 2013 Blue,142975,U13,Male,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=165
+YFSA SP25 : U12 Boys,333417,U13,Male,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=168
+JCSA U12 Boys White Spring 2025,582730,U13,Male,GotSport Rankings,0,WY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=180
+U12 GSC Boys White,578798,U13,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=201
+LSC 13/14 White,522402,U13,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=219
+Rock Springs Avengers U14 Boys Davis,162271,U13,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=230
+2013 SVSC - Morrison,584546,U13,Male,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=243
+Worland 12U Boys,585364,U13,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=265
+2013-2014 GSC Boys White 2,25401,U13,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=271
+2013-2014 GSC Boys Black,46777,U13,Male,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=277
+WYO 307 2013 Boys,298628,U13,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=284
+STRIKERS BOYS U12 BLACK,527782,U13,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=298
+Cheyenne Sting Gold B13,176376,U13,Male,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=339
+YFSA SP25: 12 Boys BLACK,466170,U13,Male,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=353
+LSC 13/14 Gold,318226,U13,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=354
+Douglas Thunder 12U Boys 2013/2014,541685,U13,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=m&search[page]=356
+WYO 307 2013 Girls,396118,U13,Female,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=28
+JHYS United Girls 2013 Black,29080,U13,Female,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=47
+Worland 12U Girls,585365,U13,Female,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=59
+JCSA U12 Girls Spring 2025,581238,U13,Female,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=117
+LSC 2013/2014 Girls,198733,U13,Female,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=150
+YFSA SP25 : 12U Girls *BLACK,333418,U13,Female,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=158
+BVSC GU12,360847,U13,Female,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=172
+WYO ELITE,431107,U13,Female,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=192
+Cheyenne Sting Gold G13,176377,U13,Female,GotSport Rankings,0,WY,20,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=13&search[gender]=f&search[page]=229
+U14 GSC Boys Purple,449096,U14,Male,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=47
+SC Storm 12/13 Boys Yellow,29571,U14,Male,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=76
+JHYS United Boys 2012 Black,279455,U14,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=87
+Blades 2012/13B Red-OLD,25880,U14,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=116
+U14 GSC Boys White,449097,U14,Male,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=141
+Blades 2012/13B Red,672564,U14,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=191
+U14 GSC Boys White 1,447904,U14,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=216
+Blades 2012/13B Black,435203,U14,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=248
+SC Storm 12/13 Boys Blue,478466,U14,Male,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=270
+Wyo 307 2012 Boys,298624,U14,Male,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=281
+U13 SVSC-Issacson,584547,U14,Male,GotSport Rankings,0,WY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=293
+Douglas Thunder U14,656150,U14,Male,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=298
+Cheyenne Sting Gold B12,23649,U14,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=303
+JCSA U14 COED Fall 2025,628426,U14,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=319
+JHYS Impact Boys 2012/2013 Black,577537,U14,Male,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=320
+BVSC Golden Goats,360857,U14,Male,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=m&search[page]=326
+Blades 2012/13G Red,25869,U14,Female,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=40
+Blades 2012/13G Black,25870,U14,Female,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=50
+JHYS United Girls 2012 Black,145492,U14,Female,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=93
+Cheyenne Sting Gold G12,23647,U14,Female,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=118
+YFSA FA25 2012/2013 GIRLS,528937,U14,Female,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=118
+WYO 307 2012 Girls,298750,U14,Female,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=124
+U14 GSC Girls 2,449105,U14,Female,GotSport Rankings,0,WY,8,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=126
+YFSA SP25: U12 Girls *RED,333419,U14,Female,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=136
+U14 GSC Girls 1,25403,U14,Female,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=159
+SC Storm 12/13 Girls,29525,U14,Female,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=164
+Rock Springs Avengers Girls RPauley,27570,U14,Female,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=14&search[gender]=f&search[page]=171
+Cheyenne Sting Gold B11,277635,U15,Male,GotSport Rankings,0,WY,7,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=66
+GR Spurs 14U*,183208,U15,Male,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=85
+WYO 307 2011 Boys,28128,U15,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=115
+JHYS United Boys 2011 Black,279462,U15,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=144
+SC Storm 11 Boys Yellow,411272,U15,Male,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=147
+SC Storm 11 Boys Yellow,411272,U15,Male,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=148
+YFSA SP25 : U14 Boys,360749,U15,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=148
+Heart Mountain U14 Boys,539862,U15,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=161
+2011 Riverton Rampage boys,29036,U15,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=172
+Blades 2011B Red,664955,U15,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=183
+YFSA FA25 2012/2013 BOYS,528938,U15,Male,GotSport Rankings,0,WY,15,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=188
+2011 SVSC - Pensyl,584548,U15,Male,GotSport Rankings,0,WY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=203
+Rock Springs Avengers Boys Cervantes,27055,U15,Male,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=247
+BVSC Warriors,360850,U15,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=260
+LANDER STRIKERS U15 BOYS BLACK,650930,U15,Male,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=264
+JHYS 2011 Boys,445663,U15,Male,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=298
+Evanston Express 12B,678313,U15,Male,GotSport Rankings,0,WY,9,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=325
+Evanston Express 10B (Ind),653942,U15,Male,GotSport Rankings,0,WY,12,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=329
+Cap East Boys U14 Blue,581723,U15,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=m&search[page]=329
+Rock Springs Avengers U14 Girls KCross,27168,U15,Female,GotSport Rankings,0,WY,3,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=49
+YFSA SP25: U14 Girls *RED,333422,U15,Female,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=51
+2011-2012 GSC Girls Purple,25885,U15,Female,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=71
+Heart Mountain U14 Girls,539865,U15,Female,GotSport Rankings,0,WY,10,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=77
+YFSA SP25: U15 Girls *WHITE,420255,U15,Female,GotSport Rankings,0,WY,6,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=113
+LANDER STRIKERS U15 GIRLS,669410,U15,Female,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=123
+Cheyenne Sting Gold G11,92458,U15,Female,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=132
+2011 SVSC - Finch,584535,U15,Female,GotSport Rankings,0,WY,5,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=152
+NA- Blades 2011/12G Black,401867,U15,Female,GotSport Rankings,0,WY,13,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=157
+WYO 307 2011 Girls,44404,U15,Female,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=177
+Evanston Express 2011G U14,142028,U15,Female,GotSport Rankings,0,WY,17,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=187
+SC Storm 11 Girls Yellow,345683,U15,Female,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=203
+Milton U17 Girls,471648,U15,Female,GotSport Rankings,0,WY,4,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=15&search[gender]=f&search[page]=206
+WYO 307 '10 Boys,25951,U16,Male,GotSport Rankings,0,WY,18,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=87
+Blades 2010/11B Red,25938,U16,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=164
+U16 GSC Boys Purple,25408,U16,Male,GotSport Rankings,0,WY,2,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=m&search[page]=256
+Blades 2010G Red,27152,U16,Female,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=16&search[gender]=f&search[page]=36
+WYO 307 2009 Boys,28133,U17,Male,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=199
+Devils FC,16178,U17,Male,GotSport Rankings,0,WY,14,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=m&search[page]=203
+WYO 307 2009 Girls,27805,U17,Female,GotSport Rankings,0,WY,11,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=39
+GSC U16 Girls Purple,25921,U17,Female,GotSport Rankings,0,WY,16,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=17&search[gender]=f&search[page]=79
+Blades United B Black,25937,U18,Male,GotSport Rankings,0,WY,19,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=m&search[page]=102
+Rock Springs Avengers HS Girls Davis,27058,U18,Female,GotSport Rankings,0,WY,1,https://system.gotsport.com/api/v1/team_ranking_data?search[team_country]=USA&search[age]=18&search[gender]=f&search[page]=54

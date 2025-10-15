@@ -9,7 +9,7 @@ Only captures teams that are not already present in the baseline.
 import pandas as pd
 import logging
 from pathlib import Path
-from typing import Optional, Tuple
+from typing import Optional, Tuple, Dict
 import sys
 import os
 from datetime import datetime
@@ -25,12 +25,73 @@ except ImportError as e:
     sys.exit(1)
 
 
-def load_baseline_master(data_dir: str = "data/master") -> pd.DataFrame:
+def load_baseline_master(data_dir: str = "data/master", sample_mode: bool = False, 
+                        logger: Optional[logging.Logger] = None) -> pd.DataFrame:
     """
-    Load the most recent normalized master CSV file.
+    Load the baseline master CSV using metadata registry lookup.
     
     Args:
         data_dir: Directory to search for master index files
+        sample_mode: If True, limit to first 5000 rows for testing
+        logger: Optional logger instance for output
+        
+    Returns:
+        DataFrame with baseline master data
+        
+    Raises:
+        FileNotFoundError: If no baseline master file found
+    """
+    try:
+        from src.registry.metadata_registry import load_registry, get_latest_entry
+    except ImportError:
+        # Fallback to old method if registry not available
+        return _load_baseline_master_fallback(data_dir, sample_mode, logger)
+    
+    if logger is None:
+        from src.scraper.utils.logger import get_logger
+        logger = get_logger(__name__)
+    
+    logger.info("📋 Loading baseline master from metadata registry...")
+    
+    # Load registry and get latest entry
+    registry = load_registry()
+    if not registry:
+        logger.warning("⚠️ No entries in metadata registry, falling back to file search")
+        return _load_baseline_master_fallback(data_dir, sample_mode, logger)
+    
+    latest_entry = get_latest_entry()
+    if not latest_entry or 'baseline_file' not in latest_entry:
+        logger.warning("⚠️ No baseline_file in latest registry entry, falling back to file search")
+        return _load_baseline_master_fallback(data_dir, sample_mode, logger)
+    
+    baseline_file = Path(latest_entry['baseline_file'])
+    if not baseline_file.exists():
+        logger.warning(f"⚠️ Baseline file not found: {baseline_file}, falling back to file search")
+        return _load_baseline_master_fallback(data_dir, sample_mode, logger)
+    
+    logger.info(f"📂 Loading baseline from registry: {baseline_file}")
+    
+    # Load the DataFrame
+    df = pd.read_csv(baseline_file)
+    
+    # Apply sample mode if requested
+    if sample_mode and len(df) > 5000:
+        logger.info(f"🔬 Sample mode: limiting to first 5000 rows")
+        df = df.head(5000)
+    
+    logger.info(f"✅ Baseline loaded: {len(df):,} teams from {baseline_file}")
+    return df
+
+
+def _load_baseline_master_fallback(data_dir: str = "data/master", sample_mode: bool = False,
+                                  logger: Optional[logging.Logger] = None) -> pd.DataFrame:
+    """
+    Fallback method to load baseline master using file globbing.
+    
+    Args:
+        data_dir: Directory to search for master index files
+        sample_mode: If True, limit to first 5000 rows for testing
+        logger: Optional logger instance for output
         
     Returns:
         DataFrame with baseline master data
@@ -38,6 +99,12 @@ def load_baseline_master(data_dir: str = "data/master") -> pd.DataFrame:
     Raises:
         FileNotFoundError: If no master index files found
     """
+    if logger is None:
+        from src.scraper.utils.logger import get_logger
+        logger = get_logger(__name__)
+    
+    logger.info("📋 Loading baseline master using fallback file search...")
+    
     data_path = Path(data_dir)
     
     if not data_path.exists():
@@ -55,10 +122,65 @@ def load_baseline_master(data_dir: str = "data/master") -> pd.DataFrame:
     # Sort by modification time (newest first)
     latest_file = max(master_files, key=lambda f: f.stat().st_mtime)
     
+    logger.info(f"📂 Loading baseline from file search: {latest_file}")
+    
     # Load the DataFrame
     df = pd.read_csv(latest_file)
     
+    # Apply sample mode if requested
+    if sample_mode and len(df) > 5000:
+        logger.info(f"🔬 Sample mode: limiting to first 5000 rows")
+        df = df.head(5000)
+    
+    logger.info(f"✅ Baseline loaded: {len(df):,} teams from {latest_file}")
     return df
+
+
+def detect_new_teams_by_provider(new_df: pd.DataFrame, baseline_df: pd.DataFrame, 
+                                logger: Optional[logging.Logger] = None) -> Dict[str, Dict[str, int]]:
+    """
+    Detect new teams grouped by provider.
+    
+    Args:
+        new_df: DataFrame with newly scraped data
+        baseline_df: DataFrame with baseline master data
+        logger: Optional logger instance for output
+        
+    Returns:
+        Dictionary with provider-specific delta counts
+        Format: {provider: {added: N, removed: M, renamed: K}}
+    """
+    if logger is None:
+        from src.scraper.utils.logger import get_logger
+        logger = get_logger(__name__)
+    
+    logger.info("🔍 Detecting new teams by provider...")
+    
+    # Get unique providers in new data
+    providers = new_df['provider'].unique() if 'provider' in new_df.columns else ['unknown']
+    
+    provider_deltas = {}
+    
+    for provider in providers:
+        logger.info(f"📊 Processing provider: {provider}")
+        
+        # Filter data for this provider
+        provider_new_df = new_df[new_df['provider'] == provider] if 'provider' in new_df.columns else new_df
+        provider_baseline_df = baseline_df[baseline_df['provider'] == provider] if 'provider' in baseline_df.columns else pd.DataFrame()
+        
+        # Detect new teams for this provider
+        new_teams = detect_new_teams(provider_new_df, provider_baseline_df, logger)
+        
+        provider_deltas[provider] = {
+            'added': len(new_teams),
+            'removed': 0,  # Not implemented yet
+            'renamed': 0   # Not implemented yet
+        }
+        
+        logger.info(f"   {provider}: {len(new_teams)} new teams")
+    
+    logger.info(f"📈 Provider delta summary: {provider_deltas}")
+    return provider_deltas
 
 
 def detect_new_teams(new_df: pd.DataFrame, baseline_df: pd.DataFrame, logger: Optional[logging.Logger] = None) -> pd.DataFrame:
