@@ -10,6 +10,7 @@ Includes support for CSV and Parquet formats.
 import hashlib
 import os
 import tempfile
+import uuid
 from pathlib import Path
 from typing import Dict, Union, Optional
 import pandas as pd
@@ -60,8 +61,19 @@ def safe_write_csv(df: pd.DataFrame, path: Union[str, Path],
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     
-    # Create temporary file in same directory
-    temp_path = path.with_suffix('.tmp')
+    # Create unique temporary file in same directory
+    temp_suffix = f".tmp.{uuid.uuid4().hex[:8]}"
+    temp_path = path.with_suffix(temp_suffix)
+    
+    # Ensure temp file doesn't already exist with max retry counter
+    MAX_TEMP_RETRIES = 10
+    retry_count = 0
+    while temp_path.exists():
+        retry_count += 1
+        if retry_count > MAX_TEMP_RETRIES:
+            raise RuntimeError(f"Temp file collision after {MAX_TEMP_RETRIES} attempts, attempted temp_path: {temp_path}")
+        temp_suffix = f".tmp.{uuid.uuid4().hex[:8]}"
+        temp_path = path.with_suffix(temp_suffix)
     
     try:
         logger.info(f"Writing CSV to temporary file: {temp_path}")
@@ -74,7 +86,7 @@ def safe_write_csv(df: pd.DataFrame, path: Union[str, Path],
         size_bytes = temp_path.stat().st_size
         
         # Atomically rename to final destination
-        temp_path.rename(path)
+        temp_path.replace(path)
         
         logger.info(f"Successfully wrote CSV: {path} ({size_bytes:,} bytes, MD5: {checksum})")
         
@@ -115,8 +127,19 @@ def safe_write_parquet(df: pd.DataFrame, path: Union[str, Path],
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     
-    # Create temporary file in same directory
-    temp_path = path.with_suffix('.tmp')
+    # Create unique temporary file in same directory
+    temp_suffix = f".tmp.{uuid.uuid4().hex[:8]}"
+    temp_path = path.with_suffix(temp_suffix)
+    
+    # Ensure temp file doesn't already exist with max retry counter
+    MAX_TEMP_RETRIES = 10
+    retry_count = 0
+    while temp_path.exists():
+        retry_count += 1
+        if retry_count > MAX_TEMP_RETRIES:
+            raise RuntimeError(f"Temp file collision after {MAX_TEMP_RETRIES} attempts, attempted temp_path: {temp_path}")
+        temp_suffix = f".tmp.{uuid.uuid4().hex[:8]}"
+        temp_path = path.with_suffix(temp_suffix)
     
     try:
         logger.info(f"Writing Parquet to temporary file: {temp_path}")
@@ -129,7 +152,7 @@ def safe_write_parquet(df: pd.DataFrame, path: Union[str, Path],
         size_bytes = temp_path.stat().st_size
         
         # Atomically rename to final destination
-        temp_path.rename(path)
+        temp_path.replace(path)
         
         logger.info(f"Successfully wrote Parquet: {path} ({size_bytes:,} bytes, MD5: {checksum})")
         
@@ -172,8 +195,19 @@ def safe_write_json(data: Union[dict, list], path: Union[str, Path],
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     
-    # Create temporary file in same directory
-    temp_path = path.with_suffix('.tmp')
+    # Create unique temporary file in same directory
+    temp_suffix = f".tmp.{uuid.uuid4().hex[:8]}"
+    temp_path = path.with_suffix(temp_suffix)
+    
+    # Ensure temp file doesn't already exist with max retry counter
+    MAX_TEMP_RETRIES = 10
+    retry_count = 0
+    while temp_path.exists():
+        retry_count += 1
+        if retry_count > MAX_TEMP_RETRIES:
+            raise RuntimeError(f"Temp file collision after {MAX_TEMP_RETRIES} attempts, attempted temp_path: {temp_path}")
+        temp_suffix = f".tmp.{uuid.uuid4().hex[:8]}"
+        temp_path = path.with_suffix(temp_suffix)
     
     try:
         logger.info(f"Writing JSON to temporary file: {temp_path}")
@@ -187,7 +221,7 @@ def safe_write_json(data: Union[dict, list], path: Union[str, Path],
         size_bytes = temp_path.stat().st_size
         
         # Atomically rename to final destination
-        temp_path.rename(path)
+        temp_path.replace(path)
         
         logger.info(f"Successfully wrote JSON: {path} ({size_bytes:,} bytes, MD5: {checksum})")
         

@@ -19,7 +19,6 @@ from pathlib import Path
 import json
 
 from .game_provider_base import GameHistoryProvider, GameProviderAPIError, GameProviderDataError
-from src.scraper.utils.zenrows_client import fetch_with_zenrows
 
 
 class GotSportGameProvider(GameHistoryProvider):
@@ -131,7 +130,7 @@ class GotSportGameProvider(GameHistoryProvider):
         try:
             normalized_team_id = int(float(str(raw_team_id)))
         except (ValueError, TypeError):
-            self.logger.error(f"Invalid team_id_source for team {team_name}: {raw_team_id}")
+            self.logger.exception(f"Invalid team_id_source for team {team_name}: {raw_team_id}")
             return
         
         # Apply 12-month filter baseline
@@ -389,7 +388,7 @@ class GotSportGameProvider(GameHistoryProvider):
                 return None
             
             # Parse date
-            day_name, month_name, day_num, year = date_match.groups()
+            _, month_name, day_num, year = date_match.groups()
             month_map = {
                 'January': 1, 'February': 2, 'March': 3, 'April': 4, 'May': 5, 'June': 6,
                 'July': 7, 'August': 8, 'September': 9, 'October': 10, 'November': 11, 'December': 12
@@ -517,7 +516,6 @@ class GotSportGameProvider(GameHistoryProvider):
         elif text_norm.startswith('D'):
             result_code = 'D'
         
-        # Extract score like 2-1
         import re
         m = re.search(r'(\d+)\s*[-:]\s*(\d+)', text_norm)
         if m:
