@@ -36,10 +36,9 @@ from src.scraper.utils.file_utils import (
     safe_write_csv,
     list_csvs,
 )
-from src.registry.metadata_registry import MetadataRegistry, create_build_entry
+from src.registry.registry import get_registry, create_build_entry
 from src.scraper.utils.state_normalizer import normalize_states
 from src.scraper.utils.delta_tracker import compare_builds, save_deltas_to_csv
-from src.registry.history_registry import update_history_registry
 from src.validators.verify_master_index import validate_master_index_with_schema, ValidationError
 from src.utils.metrics_snapshot import write_metrics_snapshot
 from src.utils.state_summary_builder import build_state_summaries
@@ -447,7 +446,8 @@ def main(incremental_only: bool = False):
                         "renamed": len(deltas["renamed"])
                     }
                     
-                    update_history_registry(build_info, delta_counts, logger)
+                    registry = get_registry()
+                    registry.add_history_entry(build_info, delta_counts)
                     
                     # Log delta summary
                     logger.info("📈 Delta Summary")
@@ -597,7 +597,7 @@ def main(incremental_only: bool = False):
         
         # Register build metadata
         try:
-            registry = MetadataRegistry()
+            registry = get_registry()
             build_entry = create_build_entry(
                 teams_total=len(df_all),
                 states_total=len(df_all['state'].unique()) if not df_all.empty else 0,
@@ -610,7 +610,7 @@ def main(incremental_only: bool = False):
                 genders=sorted(df_all['gender'].unique()) if not df_all.empty else [],
                 notes="Comprehensive nationwide build with pagination"
             )
-            registry.append_entry(build_entry)
+            registry.add_metadata_entry(build_entry)
             logger.info("🧾 Build metadata registered successfully")
         except Exception as e:
             logger.warning(f"⚠️ Could not register build metadata: {e}")

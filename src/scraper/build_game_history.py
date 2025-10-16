@@ -25,7 +25,7 @@ from scraper.utils.game_state import GameStateManager
 from scraper.utils.activity_filter import filter_inactive_teams, apply_game_filters, calculate_team_activity_metrics
 from scraper.utils.game_writers import write_games_csv, write_club_lookup_csv, write_slice_summary, get_output_paths, cleanup_failed_writes, extract_clubs_from_games
 from src.utils.metrics_snapshot import MetricsSnapshot
-from src.registry.history_registry import add_games_build_to_registry
+from src.registry.registry import get_registry
 
 
 def setup_logging():
@@ -136,6 +136,14 @@ def process_slice(provider_name: str, state: str, gender: str, age_group: str,
     slice_key = f"{provider_name}_{state}_{gender}_{age_group}"
     
     logger.info(f"Processing slice: {slice_key}")
+    logger.info(f"Build ID: {build_id}")
+    
+    # Validate build_id format
+    if not build_id.startswith("build_"):
+        logger.warning(f"Build ID '{build_id}' does not follow expected format 'build_YYYYMMDD_HHMM'")
+    
+    # Assert build_id consistency before any file operations
+    logger.debug(f"Build ID validation: {build_id}")
     
     # Initialize state manager
     state_manager = GameStateManager(provider_name)
@@ -375,11 +383,18 @@ def process_slice(provider_name: str, state: str, gender: str, age_group: str,
             )
             
             logger.info(f"Wrote outputs for {slice_key}: {len(games_df)} games, {teams_processed} teams")
+            
+            # Update build registry after successful slice completion
+            registry = get_registry()
+            # Use state-based key format (e.g., 'AK_M_U10') instead of full slice key
+            registry_key = f"{state}_{gender}_{age_group}"
+            registry.update_build_registry(registry_key, build_id)
+            logger.info(f"Updated build registry for {registry_key}: {build_id}")
         else:
             logger.info(f"No games found for {slice_key}")
         
         # Final identity sync summary
-        logger.info(f"🔗 Identity sync complete: {sync_stats['checked']} teams checked, "
+        logger.info(f"Identity sync complete: {sync_stats['checked']} teams checked, "
                    f"{sync_stats['new']} new entries added, {sync_stats['updated']} updated")
         
         return {
@@ -427,11 +442,41 @@ def main():
                        help='Maximum number of teams to process per slice (for testing)')
     parser.add_argument('--build-id', 
                        help='Custom build ID (default: auto-generated)')
+    parser.add_argument('--auto', 
+                       action='store_true',
+                       help='Automatically discover and resume from registry (requires --incremental)')
+    parser.add_argument('--refresh-registry', 
+                       action='store_true',
+                       help='Force rebuild of registry by scanning existing build folders')
+    parser.add_argument('--show-registry', 
+                       action='store_true',
+                       help='Print current registry summary and exit')
     parser.add_argument('--incremental', 
                        action='store_true',
                        help='Run in incremental mode (append to existing files)')
     
     args = parser.parse_args()
+    
+    # Handle --show-registry before processing
+    if args.show_registry:
+        registry = get_registry()
+        registry_data = registry.list_all_builds()
+        print(f"\nBuild Registry ({len(registry_data)} slices):")
+        for slice_key, info in sorted(registry_data.items()):
+            print(f"  {slice_key}: {info['latest_build']} (updated: {info['last_updated']})")
+        return
+    
+    # Handle --refresh-registry before processing
+    if args.refresh_registry:
+        registry = get_registry()
+        registry.refresh_build_registry()
+        print("Registry refreshed successfully")
+        return
+    
+    # Validate --auto requires --incremental
+    if args.auto and not args.incremental:
+        print("Error: --auto flag requires --incremental mode")
+        sys.exit(1)
     
     # Setup logging
     logger = setup_logging()
@@ -477,14 +522,38 @@ def main():
                 existing_games_file = None
                 existing_clubs_file = None
                 if args.incremental:
-                    # Look for the most recent build directory
-                    games_dir = Path("data/games")
-                    if games_dir.exists():
-                        build_dirs = [d for d in games_dir.iterdir() if d.is_dir() and d.name.startswith("build_")]
-                        if build_dirs:
-                            latest_build = max(build_dirs, key=lambda x: x.name)
-                            existing_games_file = latest_build / f"games_{provider_name}_{state}_{gender}_{age_group}.csv"
-                            existing_clubs_file = latest_build / f"club_lookup_{provider_name}_{state}_{gender}_{age_group}.csv"
+                    # Use registry for auto-discovery if --auto flag is set
+                    if args.auto:
+                        registry = get_registry()
+                        slice_key = f"{state}_{gender}_{age_group}"
+                        latest_build = registry.get_latest_build(slice_key)
+                        if latest_build:
+                            logger.info(f"Auto-discovered latest build for {slice_key}: {latest_build}")
+                            # Use the latest build directory
+                            games_dir = Path("data/games")
+                            latest_build_dir = games_dir / latest_build
+                            existing_games_file = latest_build_dir / f"games_{provider_name}_{state}_{gender}_{age_group}.csv"
+                            existing_clubs_file = latest_build_dir / f"club_lookup_{provider_name}_{state}_{gender}_{age_group}.csv"
+                        else:
+                            logger.info(f"No existing build found for {slice_key}. Starting new baseline scrape.")
+                    else:
+                        # Original logic for manual incremental mode
+                        games_dir = Path("data/games")
+                        if games_dir.exists():
+                            build_dirs = [d for d in games_dir.iterdir() if d.is_dir() and d.name.startswith("build_")]
+                            if build_dirs:
+                                latest_build = max(build_dirs, key=lambda x: x.name)
+                                existing_games_file = latest_build / f"games_{provider_name}_{state}_{gender}_{age_group}.csv"
+                                existing_clubs_file = latest_build / f"club_lookup_{provider_name}_{state}_{gender}_{age_group}.csv"
+                                
+                                # Log the build directory being used for incremental mode
+                                logger.info(f"Incremental mode: using existing files from {latest_build.name}")
+                                logger.info(f"Current build_id: {build_id}")
+                                
+                                # Validate that we're not mixing build directories
+                                if latest_build.name != build_id:
+                                    logger.warning(f"Build ID mismatch: using files from {latest_build.name} but current build is {build_id}")
+                                    logger.warning("This could cause data inconsistency - consider using consistent build IDs")
                 
                 result = process_slice(
                     provider_name,
@@ -571,7 +640,8 @@ def main():
     
     # Update history registry
     try:
-        add_games_build_to_registry(build_id, providers, slice_combinations, all_results)
+        registry = get_registry()
+        registry.add_games_build_entry(build_id, providers, slice_combinations, all_results)
         logger.info("Updated history registry")
     except Exception as e:
         logger.exception("Error updating history registry")

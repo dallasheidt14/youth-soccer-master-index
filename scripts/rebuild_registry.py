@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 # Add project root to path for imports
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from src.registry.build_registry import list_all_builds, refresh_registry
+from src.registry.registry import get_registry
 
 
 def main():
@@ -26,15 +26,16 @@ def main():
     print("Rebuilding build registry from existing folders...")
     
     try:
-        refresh_registry()
+        registry = get_registry()
+        registry.refresh_build_registry()
         
         # Load and display the rebuilt registry
-        registry = list_all_builds()
+        registry_data = registry.list_all_builds()
         
         print(f"\nRegistry rebuilt successfully!")
-        print(f"Found {len(registry)} slices:")
+        print(f"Found {len(registry_data)} slices:")
         
-        for slice_key, info in sorted(registry.items()):
+        for slice_key, info in sorted(registry_data.items()):
             print(f"  {slice_key}: {info['latest_build']} (updated: {info['last_updated']})")
             
     except Exception as e:

@@ -42,7 +42,7 @@ def load_baseline_master(data_dir: str = "data/master", sample_mode: bool = Fals
         FileNotFoundError: If no baseline master file found
     """
     try:
-        from src.registry.metadata_registry import load_registry, get_latest_entry
+        from src.registry.registry import get_registry
     except ImportError:
         # Fallback to old method if registry not available
         return _load_baseline_master_fallback(data_dir, sample_mode, logger)
@@ -54,17 +54,18 @@ def load_baseline_master(data_dir: str = "data/master", sample_mode: bool = Fals
     logger.info("📋 Loading baseline master from metadata registry...")
     
     # Load registry and get latest entry
-    registry = load_registry()
-    if not registry:
+    registry = get_registry()
+    registry_data = registry.get_metadata_summary()
+    if not registry_data or registry_data['total_builds'] == 0:
         logger.warning("⚠️ No entries in metadata registry, falling back to file search")
         return _load_baseline_master_fallback(data_dir, sample_mode, logger)
     
-    latest_entry = get_latest_entry()
-    if not latest_entry or 'baseline_file' not in latest_entry:
-        logger.warning("⚠️ No baseline_file in latest registry entry, falling back to file search")
+    latest_entry = registry.get_latest_metadata()
+    if not latest_entry or 'master_file' not in latest_entry:
+        logger.warning("⚠️ No master_file in latest registry entry, falling back to file search")
         return _load_baseline_master_fallback(data_dir, sample_mode, logger)
     
-    baseline_file = Path(latest_entry['baseline_file'])
+    baseline_file = Path(latest_entry['master_file'])
     if not baseline_file.exists():
         logger.warning(f"⚠️ Baseline file not found: {baseline_file}, falling back to file search")
         return _load_baseline_master_fallback(data_dir, sample_mode, logger)
