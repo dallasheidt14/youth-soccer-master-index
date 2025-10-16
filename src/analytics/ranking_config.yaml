@@ -1,0 +1,49 @@
+# v53E Ranking Engine Configuration
+# This file contains all the parameters for the ranking methodology
+
+# Time window and game limits
+WINDOW_DAYS: 365                    # Look back window in days
+MAX_GAMES_FOR_RANK: 30              # Maximum games per team for ranking
+INACTIVE_HIDE_DAYS: 180             # Days since last game to mark as inactive
+
+# Goal difference capping
+GOAL_DIFF_CAP: 6                    # Cap goal difference to ±6
+
+# Recency weighting
+RECENT_K: 10                        # Number of recent games to emphasize
+RECENT_SHARE: 0.70                 # Fraction of weight for recent games
+
+# Tail dampening (for games beyond recent_k)
+DAMPEN_TAIL_START: 26               # Start index for tail dampening
+DAMPEN_TAIL_END: 30                 # End index for tail dampening
+DAMPEN_TAIL_START_WEIGHT: 0.8       # Weight at tail start
+DAMPEN_TAIL_END_WEIGHT: 0.4        # Weight at tail end
+
+# Performance layer
+PERFORMANCE_K: 0.15                 # Performance multiplier strength
+PERFORMANCE_DECAY_RATE: 0.08       # Decay rate for performance effects
+
+# Adaptive K-factor
+ADAPTIVE_K_ALPHA: 0.5               # Alpha parameter for gap scaling
+ADAPTIVE_K_BETA: 0.6               # Beta parameter for sample scaling
+
+# Outlier protection
+OUTLIER_GUARD_ZSCORE: 2.5          # Z-score threshold for outlier clipping
+
+# Bayesian shrinkage
+SHRINK_TAU: 8                      # Shrinkage parameter (higher = more shrinkage)
+
+# Provisional status
+PROVISIONAL_ALPHA: 1.5             # Exponent for game count penalty
+MIN_GAMES_PROVISIONAL: 6          # Minimum games to avoid provisional status
+
+# SOS (Strength of Schedule)
+SOS_STRETCH_EXPONENT: 1.5         # Exponent for SOS stretching
+
+# Final scoring weights
+OFF_WEIGHT: 0.20                   # Weight for offensive component
+DEF_WEIGHT: 0.20                   # Weight for defensive component  
+SOS_WEIGHT: 0.60                   # Weight for SOS component
+
+# Data source preference
+PRIMARY_INPUT: "normalized"        # Preferred input: "normalized", "raw", or "legacy"

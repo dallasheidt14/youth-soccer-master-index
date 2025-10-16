@@ -1,0 +1,106 @@
+# v53E Ranking Engine Tuning Scenarios
+# This file defines baseline and sweep scenarios for parameter tuning
+
+baseline:
+  WINDOW_DAYS: 365
+  MAX_GAMES_FOR_RANK: 30
+  INACTIVE_HIDE_DAYS: 180
+  GOAL_DIFF_CAP: 6
+  RECENT_K: 10
+  RECENT_SHARE: 0.70
+  DAMPEN_TAIL_START: 26
+  DAMPEN_TAIL_END: 30
+  DAMPEN_TAIL_START_WEIGHT: 0.8
+  DAMPEN_TAIL_END_WEIGHT: 0.4
+  PERFORMANCE_K: 0.15
+  PERFORMANCE_DECAY_RATE: 0.08
+  ADAPTIVE_K_ALPHA: 0.5
+  ADAPTIVE_K_BETA: 0.6
+  OUTLIER_GUARD_ZSCORE: 2.5
+  SHRINK_TAU: 8
+  PROVISIONAL_ALPHA: 1.5
+  SOS_STRETCH_EXPONENT: 1.5
+  OFF_WEIGHT: 0.20
+  DEF_WEIGHT: 0.20
+  SOS_WEIGHT: 0.60
+  MIN_GAMES_PROVISIONAL: 6
+
+sweep_window_days:
+  WINDOW_DAYS: 180  # Shorter window
+  # All other parameters inherit from baseline
+
+sweep_max_games:
+  MAX_GAMES_FOR_RANK: 20  # Fewer games per team
+  # All other parameters inherit from baseline
+
+sweep_recent_emphasis:
+  RECENT_K: 15  # More recent games
+  RECENT_SHARE: 0.80  # Higher weight for recent games
+  # All other parameters inherit from baseline
+
+sweep_performance_sensitivity:
+  PERFORMANCE_K: 0.25  # Higher performance sensitivity
+  PERFORMANCE_DECAY_RATE: 0.12  # Faster decay
+  # All other parameters inherit from baseline
+
+sweep_adaptive_k:
+  ADAPTIVE_K_ALPHA: 0.7  # Higher gap sensitivity
+  ADAPTIVE_K_BETA: 0.8   # Higher sample sensitivity
+  # All other parameters inherit from baseline
+
+sweep_outlier_protection:
+  OUTLIER_GUARD_ZSCORE: 2.0  # Stricter outlier protection
+  # All other parameters inherit from baseline
+
+sweep_bayesian_shrinkage:
+  SHRINK_TAU: 12  # More shrinkage toward prior
+  # All other parameters inherit from baseline
+
+sweep_provisional_threshold:
+  MIN_GAMES_PROVISIONAL: 8  # Higher threshold for active status
+  PROVISIONAL_ALPHA: 2.0    # Stronger penalty for few games
+  # All other parameters inherit from baseline
+
+sweep_sos_stretch:
+  SOS_STRETCH_EXPONENT: 2.0  # Stronger SOS stretching
+  # All other parameters inherit from baseline
+
+sweep_scoring_weights:
+  OFF_WEIGHT: 0.30  # Higher offensive weight
+  DEF_WEIGHT: 0.30  # Higher defensive weight
+  SOS_WEIGHT: 0.40  # Lower SOS weight
+  # All other parameters inherit from baseline
+
+sweep_conservative:
+  WINDOW_DAYS: 180
+  MAX_GAMES_FOR_RANK: 20
+  RECENT_K: 8
+  RECENT_SHARE: 0.60
+  PERFORMANCE_K: 0.10
+  ADAPTIVE_K_ALPHA: 0.3
+  ADAPTIVE_K_BETA: 0.4
+  OUTLIER_GUARD_ZSCORE: 2.0
+  SHRINK_TAU: 12
+  MIN_GAMES_PROVISIONAL: 8
+  PROVISIONAL_ALPHA: 2.0
+  SOS_STRETCH_EXPONENT: 1.2
+  OFF_WEIGHT: 0.25
+  DEF_WEIGHT: 0.25
+  SOS_WEIGHT: 0.50
+
+sweep_aggressive:
+  WINDOW_DAYS: 540
+  MAX_GAMES_FOR_RANK: 40
+  RECENT_K: 15
+  RECENT_SHARE: 0.80
+  PERFORMANCE_K: 0.25
+  ADAPTIVE_K_ALPHA: 0.7
+  ADAPTIVE_K_BETA: 0.8
+  OUTLIER_GUARD_ZSCORE: 3.0
+  SHRINK_TAU: 4
+  MIN_GAMES_PROVISIONAL: 4
+  PROVISIONAL_ALPHA: 1.0
+  SOS_STRETCH_EXPONENT: 2.0
+  OFF_WEIGHT: 0.15
+  DEF_WEIGHT: 0.15
+  SOS_WEIGHT: 0.70

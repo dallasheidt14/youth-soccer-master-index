@@ -63,15 +63,16 @@ def fetch_with_zenrows(
         query_params = {
             "url": url,
             "apikey": api_key,
-            "js_render": "true" if js_render else "false"
+            "js_render": "true" if js_render else "false",
+            "wait": "5000" if js_render else "0"  # Wait 5 seconds for JS to load
         }
         
         # Add any additional parameters
         if params:
             query_params.update(params)
         
-        logger.info(f"🌐 Fetching URL with ZenRows: {url}")
-        logger.info(f"🔧 JavaScript rendering: {'enabled' if js_render else 'disabled'}")
+        logger.info(f"Fetching URL with ZenRows: {url}")
+        logger.info(f"JavaScript rendering: {'enabled' if js_render else 'disabled'}")
         
         # Make request to ZenRows API
         response = requests.get(
@@ -86,28 +87,25 @@ def fetch_with_zenrows(
         # Check for successful response
         response.raise_for_status()
         
-        logger.info(f"✅ Successfully fetched content via ZenRows (status: {response.status_code})")
-        logger.info(f"📊 Response size: {len(response.text)} characters")
+        logger.info(f"Successfully fetched content via ZenRows (status: {response.status_code})")
+        logger.info(f"Response size: {len(response.text)} characters")
         
         return response.text
         
     except requests.exceptions.Timeout:
-        logger.error(f"⏰ ZenRows request timed out for URL: {url}")
+        logger.exception(f"ZenRows request timed out for URL: {url}")
         return ""
     except requests.exceptions.ConnectionError:
-        logger.error(f"🔌 Connection error with ZenRows API for URL: {url}")
+        logger.exception(f"Connection error with ZenRows API for URL: {url}")
         return ""
     except requests.exceptions.HTTPError as e:
-        logger.error(f"🌐 HTTP error from ZenRows API: {e.response.status_code} - {e}")
+        logger.exception(f"HTTP error from ZenRows API: {e.response.status_code}")
         return ""
     except requests.exceptions.RequestException as e:
-        logger.error(f"❌ Request error with ZenRows API: {e}")
+        logger.exception(f"Request error with ZenRows API")
         return ""
     except ValueError as e:
-        logger.error(f"🔑 Configuration error: {e}")
-        return ""
-    except Exception as e:
-        logger.error(f"❌ Unexpected error with ZenRows API: {e}")
+        logger.exception(f"Configuration error")
         return ""
 
 

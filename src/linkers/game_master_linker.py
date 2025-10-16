@@ -46,7 +46,8 @@ def load_identity_map() -> dict:
 def link_games_to_master(
     games_path: str,
     master_path: str,
-    output_path: Optional[str] = None
+    output_path: Optional[str] = None,
+    provider: Optional[str] = None
 ) -> None:
     """
     Link games CSV to master team index, enriching with canonical metadata.
@@ -55,8 +56,15 @@ def link_games_to_master(
         games_path: Path to games CSV file
         master_path: Path to master team index CSV
         output_path: Optional custom output path (auto-generated if None)
+        provider: Provider name (e.g., 'gotsport'). 
+                  TODO: Use for provider-specific matching logic when supporting
+                  multiple providers (GotSport, USClub, PlayMetrics)
     """
     logger = logging.getLogger(__name__)
+    
+    if provider:
+        logger.info(f"Linking games for provider: {provider}")
+        # TODO: Implement provider-specific matching logic here
     
     # Load data
     try:
@@ -197,38 +205,102 @@ def link_games_to_master(
     
     # Save linked file
     merged.to_csv(output_path, index=False)
-    logger.info(f"✅ Linked file saved → {output_path}")
+    logger.info(f"Linked file saved -> {output_path}")
     
     # Summary statistics
     total = len(merged)
     linked = total - len(missing)
     percentage = (linked / total * 100) if total > 0 else 0
-    logger.info(f"📊 Linking complete: {linked}/{total} games linked ({percentage:.1f}%).")
+    logger.info(f"Linking complete: {linked}/{total} games linked ({percentage:.1f}%).")
 
 
 if __name__ == "__main__":
+    import sys
     import argparse
     
     parser = argparse.ArgumentParser(description="Link games CSV to master team index")
-    parser.add_argument("--games", required=True, help="Path to games CSV file")
-    parser.add_argument("--master", default=None, help="Path to master CSV file (auto-detected if not provided)")
-    parser.add_argument("--output", default=None, help="Output path (auto-generated if not provided)")
+    parser.add_argument("--relink-latest", action="store_true",
+                   help="Auto-link games from the latest build directory")
+    parser.add_argument("--relink-all", action="store_true",
+                   help="Auto-link games from all build directories")
+    parser.add_argument("--games", type=str,
+                   help="Path to games CSV file for single-file linking")
+    parser.add_argument("--master", type=str,
+                   help="Path to master team index CSV")
     
     args = parser.parse_args()
     
     # Setup logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     
-    # Auto-detect master path if not provided
-    master_path = args.master if args.master else str(latest_master_index())
+    # Handle relink modes
+    if args.relink_latest:
+        # Find latest build directory
+        build_dirs = sorted(Path("data/games").glob("build_*"))
+        if not build_dirs:
+            print("No build directories found")
+            sys.exit(1)
+        latest_build = build_dirs[-1]
+        print(f"Re-linking games from latest build: {latest_build.name}")
+        
+        # Get master index path
+        master_path = str(latest_master_index())
+        
+        # Link all games CSV files in latest build
+        for games_csv in latest_build.glob("games_gotsport_*.csv"):
+            print(f"Linking {games_csv.name}...")
+            try:
+                link_games_to_master(
+                    games_path=str(games_csv),
+                    master_path=master_path
+                )
+            except Exception as e:
+                print(f"Error linking {games_csv.name}: {e}")
+                sys.exit(1)
+        
+        print(f"Successfully re-linked all games from {latest_build.name}")
+        sys.exit(0)
     
-    try:
-        link_games_to_master(
-            games_path=args.games,
-            master_path=master_path,
-            output_path=args.output
-        )
-        print("Linking completed successfully!")
-    except Exception as e:
-        print(f"Linking failed: {e}")
-        exit(1)
+    elif args.relink_all:
+        # Find all build directories
+        build_dirs = sorted(Path("data/games").glob("build_*"))
+        if not build_dirs:
+            print("No build directories found")
+            sys.exit(1)
+        
+        print(f"Re-linking games from {len(build_dirs)} build directories...")
+        
+        # Get master index path
+        master_path = str(latest_master_index())
+        
+        total_linked = 0
+        for build_dir in build_dirs:
+            print(f"\nProcessing {build_dir.name}...")
+            for games_csv in build_dir.glob("games_gotsport_*.csv"):
+                print(f"  Linking {games_csv.name}...")
+                try:
+                    link_games_to_master(
+                        games_path=str(games_csv),
+                        master_path=master_path
+                    )
+                    total_linked += 1
+                except Exception as e:
+                    print(f"  Error linking {games_csv.name}: {e}")
+                    sys.exit(1)
+        
+        print(f"\nSuccessfully re-linked {total_linked} game files from {len(build_dirs)} builds")
+        sys.exit(0)
+    
+    # Original single-file linking mode
+    if not args.games:
+        print("Error: --games argument is required for single-file linking mode")
+        sys.exit(1)
+    
+    if not args.master:
+        print("Error: --master argument is required for single-file linking mode")
+        sys.exit(1)
+    
+    link_games_to_master(
+        games_path=args.games,
+        master_path=args.master
+    )
