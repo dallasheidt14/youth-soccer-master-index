@@ -3,6 +3,38 @@
 
 This repository is the foundation for a scalable scraping system that builds a unified **master team index** across GotSport, Modular11, and AthleteOne.
 
+## 🚀 Running Scripts
+
+This project uses proper Python package structure. Scripts should be run as modules to ensure correct import resolution:
+
+### Running Registry Scripts
+```bash
+# Rebuild the build registry
+python -m src.registry.build_registry --refresh
+
+# Show current registry
+python -m src.registry.build_registry --show
+
+# Test specific slice
+python -m src.registry.build_registry --test-slice AZ_M_U10
+```
+
+### Running Utility Scripts
+```bash
+# Rebuild registry from existing folders
+python -m scripts.rebuild_registry
+
+# Verify master index
+python -m src.validators.verify_master_index
+```
+
+### Alternative: Install in Development Mode
+```bash
+pip install -e .
+```
+
+This allows running scripts directly without the `-m` flag.
+
 ## 📁 Project Structure
 
 ```

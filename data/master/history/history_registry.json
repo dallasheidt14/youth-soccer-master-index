@@ -1,47 +1,232 @@
 [
   {
-    "timestamp": "20251014_1132",
-    "build_file": "data/master/master_team_index_USAonly_incremental_20251014_1132.csv",
-    "teams_total": 90265,
-    "added": 1,
-    "removed": 0,
-    "renamed": 192,
-    "notes": "Incremental + delta tracked build",
-    "build_type": "incremental",
-    "duration_seconds": 5,
+    "build_id": "build_20251016_1325",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T20:29:38.132069+00:00",
     "providers": [
-      "GotSport"
+      "gotsport"
     ],
-    "states_covered": 51
+    "slices": [
+      {
+        "state": "ND",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "ND",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "NC",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "NC",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "DE",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "DE",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 6,
+    "successful_slices": 6,
+    "total_teams_processed": 32,
+    "total_games_scraped": 394,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_ND_M_U10",
+        "teams_processed": 5,
+        "games_scraped": 28,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_ND_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_ND_F_U10",
+        "teams_processed": 7,
+        "games_scraped": 49,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_ND_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NC_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 15,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_NC_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NC_F_U10",
+        "teams_processed": 5,
+        "games_scraped": 6,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_NC_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_DE_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 260,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_DE_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_DE_F_U10",
+        "teams_processed": 1,
+        "games_scraped": 36,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_DE_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
   },
   {
-    "timestamp": "20251014_1135",
-    "build_file": "data/master/master_team_index_USAonly_incremental_20251014_1135.csv",
-    "teams_total": 90265,
-    "added": 1,
-    "removed": 90072,
-    "renamed": 2,
-    "notes": "Incremental + delta tracked build",
-    "build_type": "incremental",
-    "duration_seconds": 4,
+    "build_id": "build_20251016_1315",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T20:17:13.160664+00:00",
     "providers": [
-      "GotSport"
+      "gotsport"
     ],
-    "states_covered": 51
+    "slices": [
+      {
+        "state": "AK",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AK",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "AL",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AL",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "AR",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AR",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 6,
+    "successful_slices": 5,
+    "total_teams_processed": 19,
+    "total_games_scraped": 162,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_AK_M_U10",
+        "teams_processed": 1,
+        "games_scraped": 28,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data\\games\\build_20251016_1315\\games_gotsport_AK_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AK_F_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Master slice not found: data\\master\\slices\\AK_F_U10_master.csv"
+      },
+      {
+        "slice_key": "gotsport_AL_M_U10",
+        "teams_processed": 5,
+        "games_scraped": 31,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data\\games\\build_20251016_1315\\games_gotsport_AL_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AL_F_U10",
+        "teams_processed": 6,
+        "games_scraped": 4,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data\\games\\build_20251016_1315\\games_gotsport_AL_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AR_M_U10",
+        "teams_processed": 4,
+        "games_scraped": 64,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data\\games\\build_20251016_1315\\games_gotsport_AR_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AR_F_U10",
+        "teams_processed": 3,
+        "games_scraped": 35,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data\\games\\build_20251016_1315\\games_gotsport_AR_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
   },
   {
-    "timestamp": "20251014_1237",
-    "build_file": "data/master/master_team_index_USAonly_incremental_20251014_1237.csv",
-    "teams_total": 90265,
-    "added": 1,
-    "removed": 90072,
-    "renamed": 2,
-    "notes": "Incremental + delta tracked build",
-    "build_type": "incremental",
-    "duration_seconds": 4,
+    "build_id": "build_20251016_1254",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T19:54:52.615689+00:00",
     "providers": [
-      "GotSport"
+      "gotsport"
     ],
-    "states_covered": 51
+    "slices": [
+      {
+        "state": "AZ",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 0,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AZ_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Missing required columns in data\\master\\slices\\AZ_M_U10_master.csv: ['provider']"
+      }
+    ]
   }
 ]
