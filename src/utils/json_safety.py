@@ -14,15 +14,19 @@ from typing import Any
 def serialize_paths(obj: Any) -> Any:
     """
     Recursively convert Path objects to strings for JSON serialization.
+    Normalizes all path separators to forward slashes for cross-platform compatibility.
     
     Args:
         obj: Any Python object that may contain Path objects
         
     Returns:
-        Object with all Path instances converted to strings
+        Object with all Path instances converted to normalized strings
     """
     if isinstance(obj, Path):
-        return str(obj)
+        return obj.as_posix()
+    elif isinstance(obj, str) and ('\\' in obj or '/' in obj):
+        # Normalize string paths to use forward slashes
+        return obj.replace('\\', '/')
     elif isinstance(obj, dict):
         return {k: serialize_paths(v) for k, v in obj.items()}
     elif isinstance(obj, list):

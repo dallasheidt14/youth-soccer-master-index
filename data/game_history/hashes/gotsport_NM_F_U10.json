@@ -1,0 +1,12 @@
+{
+  "slice_key": "gotsport_NM_F_U10",
+  "build_id": "build_20251016_1623",
+  "last_updated": "2025-10-17T01:16:40.504660+00:00",
+  "total_games": 4,
+  "games": {
+    "game_570371.0_2024-12-08": "c68179c23192720937c9bcdc370ebf2bf8213f40f96d85c410b043e11af4e3c1",
+    "game_570371.0_2024-12-07": "78765ac38c87bb44abe280cab9226731458ca5f39e068f82f77e86a029baa466",
+    "game_670226.0_2025-08-31": "d225d4607f77c80b1c0bbb2ed0a4774adf42ad26f55242663ac69d08f10f9681",
+    "game_670226.0_2025-08-30": "34964da4cc1ee585b70b769058a9aff14c2787b465efd974d90d7c7b5ff5bb5c"
+  }
+}

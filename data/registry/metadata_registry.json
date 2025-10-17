@@ -1,0 +1,289 @@
+[
+  {
+    "timestamp": "2025-10-14_0929",
+    "teams_total": 90355,
+    "states_total": 71,
+    "data_quality": 96.7,
+    "source_file": "data/master/sources/gotsport_rankings_20251013_1840.csv",
+    "master_file": "data/master/master_team_index_20251013_1840.csv",
+    "build_duration_seconds": null,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18"
+    ],
+    "genders": [
+      "Male",
+      "Female"
+    ],
+    "notes": "First comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1121",
+    "teams_total": 90242,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\master_team_index_USAonly_20251101_fake_new.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1121.csv",
+    "build_duration_seconds": 1,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1122",
+    "teams_total": 90242,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\master_team_index_USAonly_20251101_fake_new.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1122.csv",
+    "build_duration_seconds": 4,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1125",
+    "teams_total": 90265,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\master_team_index_USAonly_20251101_fake_new.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1125.csv",
+    "build_duration_seconds": 4,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1126",
+    "teams_total": 90265,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\incremental\\test_teams.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1126.csv",
+    "build_duration_seconds": 2,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1132",
+    "teams_total": 90265,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\incremental\\test_teams.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1132.csv",
+    "build_duration_seconds": 6,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1135",
+    "teams_total": 90265,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\incremental\\test_teams.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1135.csv",
+    "build_duration_seconds": 4,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1237",
+    "teams_total": 90265,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\incremental\\test_teams.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1237.csv",
+    "build_duration_seconds": 4,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18",
+      "U9"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1528",
+    "teams_total": 120650,
+    "states_total": 52,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\incremental\\new_teams_20251014_1528.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_incremental_20251014_1528.csv",
+    "build_duration_seconds": 15386,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  },
+  {
+    "timestamp": "2025-10-14_1655",
+    "teams_total": 175416,
+    "states_total": 51,
+    "data_quality": 96.7,
+    "source_file": "data\\master\\sources\\gotsport_rankings_20251014_1655.csv",
+    "master_file": "data\\master\\master_team_index_USAonly_20251014_1655.csv",
+    "build_duration_seconds": 15029,
+    "providers": [
+      "GotSport"
+    ],
+    "age_groups": [
+      "U10",
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "U18"
+    ],
+    "genders": [
+      "Female",
+      "Male"
+    ],
+    "notes": "Comprehensive nationwide build with pagination"
+  }
+]

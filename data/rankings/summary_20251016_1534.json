@@ -1,0 +1,39 @@
+{
+  "timestamp": "20251016_1534",
+  "state": "CO",
+  "genders": [
+    "M"
+  ],
+  "ages": [
+    "U10"
+  ],
+  "provider": "gotsport",
+  "total_teams": 1,
+  "active_teams": 0,
+  "provisional_teams": 1,
+  "config": {
+    "WINDOW_DAYS": 365,
+    "MAX_GAMES_FOR_RANK": 30,
+    "INACTIVE_HIDE_DAYS": 180,
+    "GOAL_DIFF_CAP": 6,
+    "RECENT_K": 10,
+    "RECENT_SHARE": 0.7,
+    "DAMPEN_TAIL_START": 26,
+    "DAMPEN_TAIL_END": 30,
+    "DAMPEN_TAIL_START_WEIGHT": 0.8,
+    "DAMPEN_TAIL_END_WEIGHT": 0.4,
+    "PERFORMANCE_K": 0.15,
+    "PERFORMANCE_DECAY_RATE": 0.08,
+    "ADAPTIVE_K_ALPHA": 0.5,
+    "ADAPTIVE_K_BETA": 0.6,
+    "OUTLIER_GUARD_ZSCORE": 2.5,
+    "SHRINK_TAU": 8,
+    "PROVISIONAL_ALPHA": 1.5,
+    "MIN_GAMES_PROVISIONAL": 6,
+    "SOS_STRETCH_EXPONENT": 1.5,
+    "OFF_WEIGHT": 0.2,
+    "DEF_WEIGHT": 0.2,
+    "SOS_WEIGHT": 0.6,
+    "PRIMARY_INPUT": "raw"
+  }
+}

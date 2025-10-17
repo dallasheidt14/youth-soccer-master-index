@@ -1,0 +1,24 @@
+[
+  {
+    "total_slices": 32,
+    "total_builds": 3,
+    "total_metadata_entries": 10,
+    "last_updated": "2025-10-16T21:20:01.922497+00:00",
+    "stale_slices": [],
+    "stale_count": 0,
+    "registry_health": 100.0,
+    "registry_version": "v2.0.0",
+    "timestamp": "2025-10-16T14:55:13.485006"
+  },
+  {
+    "total_slices": 32,
+    "total_builds": 3,
+    "total_metadata_entries": 10,
+    "last_updated": "2025-10-16T21:20:01.922497+00:00",
+    "stale_slices": [],
+    "stale_count": 0,
+    "registry_health": 100.0,
+    "registry_version": "v2.0.0",
+    "timestamp": "2025-10-16T14:56:10.787841"
+  }
+]

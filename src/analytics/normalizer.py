@@ -16,28 +16,17 @@ import argparse
 logger = logging.getLogger(__name__)
 
 
-def normalize_build_games(build_dir: Path) -> pd.DataFrame:
+def _normalize_dataframe(df: pd.DataFrame, source_identifier: str) -> pd.DataFrame:
     """
-    Normalize games CSV from a single build directory.
+    Normalize a DataFrame with consistent schema and validation.
     
     Args:
-        build_dir: Path to build directory containing games CSV
+        df: DataFrame to normalize
+        source_identifier: Identifier for logging (e.g., build_name or slice_key)
         
     Returns:
         Normalized DataFrame with consistent schema
     """
-    # Find games CSV in build directory
-    games_files = list(build_dir.glob("games_*.csv"))
-    if not games_files:
-        raise FileNotFoundError(f"No games CSV found in {build_dir}")
-    
-    # Use the first games file found
-    games_file = games_files[0]
-    logger.info(f"Loading games from {games_file}")
-    
-    # Load games data
-    df = pd.read_csv(games_file)
-    
     # Map schema columns to normalized names
     column_mapping = {
         'team_name': 'team',
@@ -69,7 +58,7 @@ def normalize_build_games(build_dir: Path) -> pd.DataFrame:
     initial_count = len(df)
     df = df.dropna(subset=['date'])
     if len(df) < initial_count:
-        logger.warning(f"Dropped {initial_count - len(df)} rows with invalid dates")
+        logger.warning(f"Dropped {initial_count - len(df)} rows with invalid dates from {source_identifier}")
     
     # Ensure numeric columns are properly typed
     df['gf'] = pd.to_numeric(df['gf'], errors='coerce')
@@ -79,10 +68,36 @@ def normalize_build_games(build_dir: Path) -> pd.DataFrame:
     initial_count = len(df)
     df = df.dropna(subset=['gf', 'ga'])
     if len(df) < initial_count:
-        logger.warning(f"Dropped {initial_count - len(df)} rows with invalid goal data")
+        logger.warning(f"Dropped {initial_count - len(df)} rows with invalid goal data from {source_identifier}")
     
-    logger.info(f"Normalized {len(df)} games from {games_file}")
+    logger.info(f"Normalized {len(df)} games from {source_identifier}")
     return df
+
+
+def normalize_build_games(build_dir: Path) -> pd.DataFrame:
+    """
+    Normalize games CSV from a single build directory.
+    
+    Args:
+        build_dir: Path to build directory containing games CSV
+        
+    Returns:
+        Normalized DataFrame with consistent schema
+    """
+    # Find games CSV in build directory
+    games_files = list(build_dir.glob("games_*.csv"))
+    if not games_files:
+        raise FileNotFoundError(f"No games CSV found in {build_dir}")
+    
+    # Use the first games file found
+    games_file = games_files[0]
+    logger.info(f"Loading games from {games_file}")
+    
+    # Load games data
+    df = pd.read_csv(games_file)
+    
+    # Use the shared normalization helper
+    return _normalize_dataframe(df, str(games_file))
 
 
 def consolidate_builds(input_root: Path, states: List[str], genders: List[str], 
@@ -143,50 +158,8 @@ def consolidate_builds(input_root: Path, states: List[str], genders: List[str],
                         # Load and normalize games from the specific file
                         df = pd.read_csv(games_file)
                         
-                        # Map schema columns to normalized names
-                        column_mapping = {
-                            'team_name': 'team',
-                            'goals_for': 'gf', 
-                            'goals_against': 'ga',
-                            'game_date': 'date',
-                            'opponent_name': 'opponent',
-                            'opponent_id': 'opponent_id_master',
-                            'club_name': 'club'
-                        }
-                        
-                        # Rename columns if they exist
-                        for old_col, new_col in column_mapping.items():
-                            if old_col in df.columns:
-                                df = df.rename(columns={old_col: new_col})
-                        
-                        # Validate required columns exist
-                        required_cols = ['team_id_master', 'opponent_id_master', 'team', 'opponent', 
-                                         'club', 'state', 'gender', 'age_group', 'date', 'gf', 'ga']
-                        
-                        missing_cols = [col for col in required_cols if col not in df.columns]
-                        if missing_cols:
-                            raise ValueError(f"Missing required columns: {missing_cols}")
-                        
-                        # Convert date to datetime
-                        df['date'] = pd.to_datetime(df['date'], errors='coerce')
-                        
-                        # Drop rows with invalid dates
-                        initial_count = len(df)
-                        df = df.dropna(subset=['date'])
-                        if len(df) < initial_count:
-                            logger.warning(f"Dropped {initial_count - len(df)} rows with invalid dates")
-                        
-                        # Ensure numeric columns are properly typed
-                        df['gf'] = pd.to_numeric(df['gf'], errors='coerce')
-                        df['ga'] = pd.to_numeric(df['ga'], errors='coerce')
-                        
-                        # Drop rows with invalid goal data
-                        initial_count = len(df)
-                        df = df.dropna(subset=['gf', 'ga'])
-                        if len(df) < initial_count:
-                            logger.warning(f"Dropped {initial_count - len(df)} rows with invalid goal data")
-                        
-                        logger.info(f"Normalized {len(df)} games from {games_file}")
+                        # Use the shared normalization helper
+                        df = _normalize_dataframe(df, f"{state}_{gender}_{age}")
                         
                         if not df.empty:
                             all_games.append(df)

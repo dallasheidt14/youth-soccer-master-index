@@ -1,0 +1,1412 @@
+[
+  {
+    "build_id": "build_20251017_0932",
+    "build_type": "games_build",
+    "timestamp": "2025-10-17T16:43:14.885276+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CT",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "CT",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "AK",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AK",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "CO",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "CO",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 6,
+    "successful_slices": 5,
+    "total_teams_processed": 87,
+    "total_games_scraped": 1205,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_CT_M_U10",
+        "teams_processed": 44,
+        "games_scraped": 652,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251017_0932/games_gotsport_CT_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_CT_F_U10",
+        "teams_processed": 27,
+        "games_scraped": 356,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251017_0932/games_gotsport_CT_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AK_M_U10",
+        "teams_processed": 1,
+        "games_scraped": 28,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251017_0932/games_gotsport_AK_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AK_F_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "❌ No team list found for AK_F_U10 in master index or slices folder."
+      },
+      {
+        "slice_key": "gotsport_CO_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 60,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251017_0932/games_gotsport_CO_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_CO_F_U10",
+        "teams_processed": 8,
+        "games_scraped": 109,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251017_0932/games_gotsport_CO_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1623",
+    "build_type": "games_build",
+    "timestamp": "2025-10-17T01:25:59.232115+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "HI",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "HI",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "ID",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "ID",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "IN",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "IN",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "KS",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "KS",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "KY",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "KY",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "LA",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "LA",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MA",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MA",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MD",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MD",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "ME",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "ME",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MI",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MI",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MN",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MN",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MO",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MO",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MS",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MS",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "MT",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "MT",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "NE",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "NE",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "NH",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "NH",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "NJ",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "NJ",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "NM",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "NM",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "OK",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "OK",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "OR",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "OR",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 40,
+    "successful_slices": 40,
+    "total_teams_processed": 1386,
+    "total_games_scraped": 25068,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_HI_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 50,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_HI_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_HI_F_U10",
+        "teams_processed": 3,
+        "games_scraped": 13,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_HI_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_ID_M_U10",
+        "teams_processed": 43,
+        "games_scraped": 872,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_ID_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_ID_F_U10",
+        "teams_processed": 35,
+        "games_scraped": 613,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_ID_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_IN_M_U10",
+        "teams_processed": 58,
+        "games_scraped": 1157,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_IN_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_IN_F_U10",
+        "teams_processed": 42,
+        "games_scraped": 880,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_IN_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_KS_M_U10",
+        "teams_processed": 40,
+        "games_scraped": 519,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_KS_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_KS_F_U10",
+        "teams_processed": 22,
+        "games_scraped": 271,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_KS_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_KY_M_U10",
+        "teams_processed": 58,
+        "games_scraped": 1004,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_KY_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_KY_F_U10",
+        "teams_processed": 35,
+        "games_scraped": 523,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_KY_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_LA_M_U10",
+        "teams_processed": 8,
+        "games_scraped": 19,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_LA_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_LA_F_U10",
+        "teams_processed": 3,
+        "games_scraped": 3,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_LA_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MA_M_U10",
+        "teams_processed": 85,
+        "games_scraped": 1762,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MA_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MA_F_U10",
+        "teams_processed": 56,
+        "games_scraped": 1276,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MA_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MD_M_U10",
+        "teams_processed": 87,
+        "games_scraped": 1870,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MD_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MD_F_U10",
+        "teams_processed": 46,
+        "games_scraped": 869,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MD_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_ME_M_U10",
+        "teams_processed": 4,
+        "games_scraped": 46,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_ME_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_ME_F_U10",
+        "teams_processed": 5,
+        "games_scraped": 37,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_ME_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MI_M_U10",
+        "teams_processed": 110,
+        "games_scraped": 1544,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MI_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MI_F_U10",
+        "teams_processed": 72,
+        "games_scraped": 1024,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MI_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MN_M_U10",
+        "teams_processed": 9,
+        "games_scraped": 121,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MN_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MN_F_U10",
+        "teams_processed": 4,
+        "games_scraped": 85,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MN_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MO_M_U10",
+        "teams_processed": 68,
+        "games_scraped": 1695,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MO_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MO_F_U10",
+        "teams_processed": 37,
+        "games_scraped": 954,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MO_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MS_M_U10",
+        "teams_processed": 12,
+        "games_scraped": 109,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MS_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MS_F_U10",
+        "teams_processed": 7,
+        "games_scraped": 55,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MS_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MT_M_U10",
+        "teams_processed": 15,
+        "games_scraped": 280,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MT_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_MT_F_U10",
+        "teams_processed": 18,
+        "games_scraped": 276,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_MT_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NE_M_U10",
+        "teams_processed": 14,
+        "games_scraped": 67,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NE_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NE_F_U10",
+        "teams_processed": 5,
+        "games_scraped": 18,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NE_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NH_M_U10",
+        "teams_processed": 11,
+        "games_scraped": 227,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NH_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NH_F_U10",
+        "teams_processed": 8,
+        "games_scraped": 169,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NH_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NJ_M_U10",
+        "teams_processed": 124,
+        "games_scraped": 2822,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NJ_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NJ_F_U10",
+        "teams_processed": 95,
+        "games_scraped": 2099,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NJ_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NM_M_U10",
+        "teams_processed": 15,
+        "games_scraped": 208,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NM_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NM_F_U10",
+        "teams_processed": 2,
+        "games_scraped": 7,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_NM_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_OK_M_U10",
+        "teams_processed": 23,
+        "games_scraped": 446,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_OK_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_OK_F_U10",
+        "teams_processed": 18,
+        "games_scraped": 283,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_OK_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_OR_M_U10",
+        "teams_processed": 50,
+        "games_scraped": 522,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_OR_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_OR_F_U10",
+        "teams_processed": 32,
+        "games_scraped": 273,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1623/games_gotsport_OR_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1617",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T23:20:49.829296+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "DC",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "DC",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "GA",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "GA",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "IA",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "IA",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 6,
+    "successful_slices": 4,
+    "total_teams_processed": 54,
+    "total_games_scraped": 684,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_DC_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "❌ No team list found for DC_M_U10 in master index or slices folder."
+      },
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_DC_F_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "❌ No team list found for DC_F_U10 in master index or slices folder."
+      },
+      {
+        "slice_key": "gotsport_GA_M_U10",
+        "teams_processed": 13,
+        "games_scraped": 109,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1617/games_gotsport_GA_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_GA_F_U10",
+        "teams_processed": 9,
+        "games_scraped": 34,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1617/games_gotsport_GA_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_IA_M_U10",
+        "teams_processed": 19,
+        "games_scraped": 294,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1617/games_gotsport_IA_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_IA_F_U10",
+        "teams_processed": 13,
+        "games_scraped": 247,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1617/games_gotsport_IA_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1610",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T23:15:07.261420+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "WA",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "WA",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 2,
+    "successful_slices": 2,
+    "total_teams_processed": 81,
+    "total_games_scraped": 563,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_WA_M_U10",
+        "teams_processed": 49,
+        "games_scraped": 322,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1610/games_gotsport_WA_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_WA_F_U10",
+        "teams_processed": 32,
+        "games_scraped": 241,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1610/games_gotsport_WA_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1545",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:45:49.076290+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "AK",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AK",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 2,
+    "successful_slices": 1,
+    "total_teams_processed": 1,
+    "total_games_scraped": 28,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_AK_M_U10",
+        "teams_processed": 1,
+        "games_scraped": 28,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1545/games_gotsport_AK_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AK_F_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Master slice not found: data/master/slices/AK_F_U10_master.csv"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1545",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:45:35.252905+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CO",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "CO",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 2,
+    "successful_slices": 1,
+    "total_teams_processed": 20,
+    "total_games_scraped": 9,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_CO_M_U10",
+        "teams_processed": 10,
+        "games_scraped": 9,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1545/games_gotsport_CO_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_CO_F_U10",
+        "teams_processed": 10,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "cannot access local variable 'games_path' where it is not associated with a value",
+        "games_csv_path": null,
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1536",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:36:41.217030+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CO",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 1,
+    "total_teams_processed": 10,
+    "total_games_scraped": 9,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_CO_M_U10",
+        "teams_processed": 10,
+        "games_scraped": 9,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1536/games_gotsport_CO_M_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1533",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:34:07.070868+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CO",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 10,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_CO_F_U10",
+        "teams_processed": 10,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "cannot access local variable 'games_path' where it is not associated with a value",
+        "games_csv_path": null,
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1533",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:33:41.010454+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CO",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 1,
+    "total_teams_processed": 10,
+    "total_games_scraped": 9,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_CO_M_U10",
+        "teams_processed": 10,
+        "games_scraped": 9,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1533/games_gotsport_CO_M_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1533",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:33:04.199030+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CO",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 0,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_CO_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Missing required columns in data/master/slices/CO_M_U10_master.csv: ['provider']"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1532",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:32:41.312874+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "CO",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 0,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_CO_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Master slice not found: data/master/slices/CO_M_U10_master.csv"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1530",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:30:51.737860+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "NC",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 1,
+    "total_teams_processed": 7,
+    "total_games_scraped": 15,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_NC_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 15,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1530/games_gotsport_NC_M_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1511",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:11:23.160304+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "NC",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 1,
+    "total_teams_processed": 7,
+    "total_games_scraped": 15,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_NC_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 15,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1511/games_gotsport_NC_M_U10_incremental.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1501",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T22:01:30.305215+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "AZ",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 0,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AZ_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Missing required columns in data/master/slices/AZ_M_U10_master.csv: ['provider']"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1459",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T21:59:56.891588+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "AZ",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 0,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AZ_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Missing required columns in data/master/slices/AZ_M_U10_master.csv: ['provider']"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1325",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T20:29:38.132069+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "ND",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "ND",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "NC",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "NC",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "DE",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "DE",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 6,
+    "successful_slices": 6,
+    "total_teams_processed": 32,
+    "total_games_scraped": 394,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_ND_M_U10",
+        "teams_processed": 5,
+        "games_scraped": 28,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_ND_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_ND_F_U10",
+        "teams_processed": 7,
+        "games_scraped": 49,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_ND_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NC_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 15,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_NC_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_NC_F_U10",
+        "teams_processed": 5,
+        "games_scraped": 6,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_NC_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_DE_M_U10",
+        "teams_processed": 7,
+        "games_scraped": 260,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_DE_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_DE_F_U10",
+        "teams_processed": 1,
+        "games_scraped": 36,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1325/games_gotsport_DE_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1315",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T20:17:13.160664+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "AK",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AK",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "AL",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AL",
+        "gender": "F",
+        "age_group": "U10"
+      },
+      {
+        "state": "AR",
+        "gender": "M",
+        "age_group": "U10"
+      },
+      {
+        "state": "AR",
+        "gender": "F",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 6,
+    "successful_slices": 5,
+    "total_teams_processed": 19,
+    "total_games_scraped": 162,
+    "per_slice_results": [
+      {
+        "slice_key": "gotsport_AK_M_U10",
+        "teams_processed": 1,
+        "games_scraped": 28,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1315/games_gotsport_AK_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AK_F_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Master slice not found: data/master/slices/AK_F_U10_master.csv"
+      },
+      {
+        "slice_key": "gotsport_AL_M_U10",
+        "teams_processed": 5,
+        "games_scraped": 31,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1315/games_gotsport_AL_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AL_F_U10",
+        "teams_processed": 6,
+        "games_scraped": 4,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1315/games_gotsport_AL_F_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AR_M_U10",
+        "teams_processed": 4,
+        "games_scraped": 64,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1315/games_gotsport_AR_M_U10.csv",
+        "provider": "gotsport"
+      },
+      {
+        "slice_key": "gotsport_AR_F_U10",
+        "teams_processed": 3,
+        "games_scraped": 35,
+        "skipped_inactive": 0,
+        "success": true,
+        "games_csv_path": "data/games/build_20251016_1315/games_gotsport_AR_F_U10.csv",
+        "provider": "gotsport"
+      }
+    ]
+  },
+  {
+    "build_id": "build_20251016_1254",
+    "build_type": "games_build",
+    "timestamp": "2025-10-16T19:54:52.615689+00:00",
+    "providers": [
+      "gotsport"
+    ],
+    "slices": [
+      {
+        "state": "AZ",
+        "gender": "M",
+        "age_group": "U10"
+      }
+    ],
+    "total_slices": 1,
+    "successful_slices": 0,
+    "total_teams_processed": 0,
+    "total_games_scraped": 0,
+    "per_slice_results": [
+      {
+        "provider": "gotsport",
+        "slice_key": "gotsport_AZ_M_U10",
+        "teams_processed": 0,
+        "games_scraped": 0,
+        "skipped_inactive": 0,
+        "success": false,
+        "error": "Missing required columns in data/master/slices/AZ_M_U10_master.csv: ['provider']"
+      }
+    ]
+  }
+]

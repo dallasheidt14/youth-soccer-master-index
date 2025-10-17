@@ -1,0 +1,2 @@
+rank,team_id_master,team,club,state,gender,age_group,powerscore_adj,powerscore,sao_norm,sad_norm,sos_norm,gp_used,is_active,status,last_game_date,component_id,component_size,degree
+1,co_m_u10_001,Colorado Rapids 16B Rapids,Atlético Clube Goianiense,CO,M,U10,0.1509345884812358,0.5,0.5,0.5,0.5,9,False,Provisional,2024-12-08,0,1,0
