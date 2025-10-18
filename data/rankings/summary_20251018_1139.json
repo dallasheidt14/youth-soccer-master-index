@@ -1,0 +1,62 @@
+{
+  "timestamp": "20251018_1139",
+  "state": "ALL",
+  "genders": [
+    "M"
+  ],
+  "ages": [
+    "U11"
+  ],
+  "provider": "gotsport",
+  "total_teams": 7372,
+  "active_teams": 5934,
+  "provisional_teams": 1438,
+  "config": {
+    "WINDOW_DAYS": 365,
+    "MAX_GAMES_FOR_RANK": 30,
+    "INACTIVE_HIDE_DAYS": 180,
+    "GOAL_DIFF_CAP": 6,
+    "RECENT_K": 10,
+    "RECENT_SHARE": 0.7,
+    "DAMPEN_TAIL_START": 26,
+    "DAMPEN_TAIL_END": 30,
+    "DAMPEN_TAIL_START_WEIGHT": 0.8,
+    "DAMPEN_TAIL_END_WEIGHT": 0.4,
+    "PERFORMANCE_K": 0.15,
+    "PERFORMANCE_DECAY_RATE": 0.08,
+    "PERFORMANCE_THRESHOLD": 1.0,
+    "ADAPTIVE_K_ALPHA": 0.5,
+    "ADAPTIVE_K_BETA": 0.6,
+    "OUTLIER_GUARD_ZSCORE": 2.5,
+    "SHRINK_TAU": 8,
+    "PROVISIONAL_ALPHA": 1.5,
+    "MIN_GAMES_PROVISIONAL": 6,
+    "SOS_STRETCH_EXPONENT": 1.5,
+    "UNRANKED_SOS_BASE": 0.35,
+    "SOS_REPEAT_CAP": 2,
+    "CROSS_AGE_SOS_ENABLED": true,
+    "CROSS_AGE_STRENGTH_BOOST": 0.15,
+    "OLDER_AGE_GROUPS": [
+      "U11",
+      "U12",
+      "U13",
+      "U14",
+      "U15"
+    ],
+    "USE_ALIAS_MAP": true,
+    "OFF_WEIGHT": 0.2,
+    "DEF_WEIGHT": 0.2,
+    "SOS_WEIGHT": 0.6,
+    "PRIMARY_INPUT": "normalized",
+    "NATIONAL_MODE": true,
+    "DEBUG_CONNECTIVITY": false,
+    "SOS_CACHE_TTL_DAYS": 7,
+    "AUTO_SUMMARIZE": true,
+    "LINKER_FAIL_ON_LOW_COVERAGE": true,
+    "LINKER_COVERAGE_THRESHOLD": 0.9,
+    "LINKER_FUZZY_THRESHOLD": 90,
+    "LINKER_LOG_FUZZY": true,
+    "CONNECTIVITY_THRESHOLD": 25,
+    "RIDGE_GA": 0.25
+  }
+}
